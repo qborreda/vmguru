@@ -1,4 +1,6 @@
-__mats/
 node_modules/
+.sass-cache/
+DS-store/
 
+__mats/
 css/

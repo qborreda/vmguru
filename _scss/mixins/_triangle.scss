@@ -1,14 +1,8 @@
 /// Triangle
 ///
 /// example scss - Usage 
-///   @include arrow(10, #CCCCCC, 'left');
+///   @include triangle(10, #CCCCCC, 'left');
 ///
-/// example css - Usage
-///   .element {
-///     width: 10px;
-///     background-color: #CCCCCC;
-///     direction: left;
-///   }
 
 @mixin triangle($size, $color, $direction) {
   $width: nth($size, 1);
