@@ -1,0 +1,64 @@
+/// Generates grid columns according to base parameters
+///
+/// @param {Columns} $cols  [number]
+///    Number of columns out of the total columns for our element
+///
+/// @param {Total columns} $total-cols [12]
+///    Total number of colums for our container. Defaults to framework global $NUMBER-OF-COLUMNS
+///
+/// @param {Padding} $padding [10px]
+///    Specifies padding inside our element. Defaults to framework global $gutter-BASE
+///
+/// @param {Float} $float [left]
+///    Specifies float value. Defaults to 'left'
+///
+/// @param {Push} $push [number]
+///    Specifies how many columns to push the content
+///
+/// @param {Pull} $pull [number]
+///    Specifies how many columns to pull the content
+///
+/// @example scss - Usage
+///    .element {
+///			@include grid-column(2,8,10px);
+///		}
+///
+/// @example css - Output
+///		.element {
+///			float: left;
+///			width: 25%;
+///			padding: 10px;
+///		}
+///
+
+@mixin grid-column($cols:1, $total-cols:12, $padding:10px, $float:left, $pull:false, $push:false) {
+	float: $float;
+	width: percentage($cols / $total-cols);
+	padding: $padding;
+
+	@if $cols > $total-cols {
+		@error "Number of cols excedes total number of columns";
+	}
+
+	@if $push and $pull {
+		@if $cols+$pull+$push > $total-cols {
+			@warn "Number of cols + pull + push excedes total number of columns";
+		}
+	}
+
+	@if $push {
+		@if ($cols+$push) <= $total-cols {
+			margin-left: percentage($push / $total-cols);
+		} @else {
+			@warn "Number of cols + push excedes total number of columns";
+		}
+	}
+
+	@if $pull {
+		@if ($cols+$pull) <= $total-cols {
+			margin-right: percentage($pull / $total-cols);
+		} @else {
+			@warn "Number of cols + pull excedes total number of columns";
+		}
+	}
+}

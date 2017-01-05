@@ -1,0 +1,36 @@
+/// Add keyframes to any element and it will include all the prefixes.
+///
+/// example scss - Usage
+///   @include keyframes(slide-down) {0%{ opacity:1; } 90%{ opacity:0; }}
+///
+/// @example css - Usage
+///   .element {
+///         -webkit-keyframes slide-down {
+///           0% {opacity: 0;} 
+///           90% {opacity: 0;}
+///           }
+///         -moz-keyframes slide {
+///           0% {opacity: 0;} 
+///           90% {opacity: 0;}
+///         }
+///         ...
+///   }
+
+
+@mixin keyframes($animation-name) {
+  @-webkit-keyframes #{$animation-name} {
+    @content;
+  }
+  @-moz-keyframes #{$animation-name} {
+    @content;
+  }
+  @-ms-keyframes #{$animation-name} {
+    @content;
+  }
+  @-o-keyframes #{$animation-name} {
+    @content;
+  }
+  @keyframes #{$animation-name} {
+    @content;
+  }
+}

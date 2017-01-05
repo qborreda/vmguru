@@ -1,0 +1,13 @@
+/**
+ * Returns a z-index depending on the identificator
+ * @param  {string} $key Depth identificator
+ * @return {num}      Apropiate depth from the map
+ */
+@function z($key) {
+  @if map-has-key($Z-LAYERS, $key) {
+    @return map-get($Z-LAYERS, $key);
+  }
+
+  @warn "Unknown `#{$key}` in $Z-LAYERS.";
+  @return null;
+}

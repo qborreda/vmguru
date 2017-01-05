@@ -1,0 +1,36 @@
+html {
+  -webkit-font-smoothing: antialiased;
+}
+
+body {
+  font-family: $BASE-FONT;
+  font-size: $BASE-FONT-SIZE;
+  line-height: $BASE-LINE-HEIGHT;
+  color: $PRIMARY-TEXT-COLOR;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-family: $BASE-FONT;
+  color: $PRIMARY-TEXT-COLOR;
+  margin: 1rem 0;
+}
+
+h1 {
+  font-size: $H1-SIZE;
+}
+h2 {
+  font-size: $H2-SIZE;
+}
+h3 {
+  font-size: $H3-SIZE;
+}
+h4 {
+  font-size: $H4-SIZE;
+}
+h5 {
+  font-size: $H5-SIZE;
+}

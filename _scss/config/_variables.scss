@@ -1,0 +1,53 @@
+/**
+ * Overwrite _variables.scss with your own values.
+ * All settings are marked as !default, which only sets the value if it's not already
+ */
+
+// scss-lint:disable NameFormat
+
+// LAYOUT
+
+$BASE-COLUMNS: 12 !default;
+$BASE-GUTTER: 20px !default;
+
+// COLOR
+
+$WHITE: #fff !default;
+$BLACK: #000 !default;
+
+$PRIMARY-TEXT-COLOR: #4a4a4a;
+
+
+// TYPOGRAPHY
+
+$BASE-FONT: 'Roboto', Helvetica, sans-serif !default;
+$BASE-FONT-SIZE: 16px !default;
+$BASE-LINE-HEIGHT: .85rem !default;
+
+$H1-SIZE: 24px !default;
+$H2-SIZE: 18px !default;
+$H3-SIZE: 16px !default;
+$H4-SIZE: 14px !default;
+$H5-SIZE: 14px !default;
+
+$ICON-SIZE: 24px;
+
+// FLEXBOX
+$set-rtl: false;
+
+// BREAKPOINTS
+$mq-breakpoints: (
+    mobile:  320px,
+    tablet:  740px,
+    desktop: 980px,
+    wide:    1300px
+) !default;
+
+// Z-INDEX
+$Z-LAYERS: (
+  bottomless-pit: -9999,
+  default: 1,
+  dropdown: 3000,
+  overlay: 4000,
+  modal: 4001
+) !default;

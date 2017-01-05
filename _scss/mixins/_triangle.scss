@@ -1,0 +1,100 @@
+/// Triangle
+///
+/// example scss - Usage 
+///   @include arrow(10, #CCCCCC, 'left');
+///
+/// example css - Usage
+///   .element {
+///     width: 10px;
+///     background-color: #CCCCCC;
+///     direction: left;
+///   }
+
+@mixin triangle($size, $color, $direction) {
+  $width: nth($size, 1);
+  $height: nth($size, length($size));
+  $foreground-color: nth($color, 1);
+  $background-color: if(length($color) == 2, nth($color, 2), transparent);
+  height: 0;
+  width: 0;
+
+  @if ($direction == up) or ($direction == down) or ($direction == right) or ($direction == left) {
+    $width: $width / 2;
+    $height: if(length($size) > 1, $height, $height/2);
+
+    @if $direction == up {
+      border-bottom: $height solid $foreground-color;
+      border-left: $width solid $background-color;
+      border-right: $width solid $background-color;
+    } @else if $direction == right {
+      border-bottom: $width solid $background-color;
+      border-left: $height solid $foreground-color;
+      border-top: $width solid $background-color;
+    } @else if $direction == down {
+      border-left: $width solid $background-color;
+      border-right: $width solid $background-color;
+      border-top: $height solid $foreground-color;
+    } @else if $direction == left {
+      border-bottom: $width solid $background-color;
+      border-right: $height solid $foreground-color;
+      border-top: $width solid $background-color;
+    }
+  } @else if ($direction == up-right) or ($direction == up-left) {
+    border-top: $height solid $foreground-color;
+
+    @if $direction == up-right {
+      border-left:  $width solid $background-color;
+    } @else if $direction == up-left {
+      border-right: $width solid $background-color;
+    }
+  } @else if ($direction == down-right) or ($direction == down-left) {
+    border-bottom: $height solid $foreground-color;
+
+    @if $direction == down-right {
+      border-left:  $width solid $background-color;
+    } @else if $direction == down-left {
+      border-right: $width solid $background-color;
+    }
+  } @else if ($direction == inset-up) {
+    border-color: $background-color $background-color $foreground-color;
+    border-style: solid;
+    border-width: $height $width;
+  } @else if ($direction == inset-down) {
+    border-color: $foreground-color $background-color $background-color;
+    border-style: solid;
+    border-width: $height $width;
+  } @else if ($direction == inset-right) {
+    border-color: $background-color $background-color $background-color $foreground-color;
+    border-style: solid;
+    border-width: $width $height;
+  } @else if ($direction == inset-left) {
+    border-color: $background-color $foreground-color $background-color $background-color;
+    border-style: solid;
+    border-width: $width $height;
+  }
+}
+
+//==== Simple SCSS mixin to create CSS triangles
+//==== Example: @include css-triangle ("up", 10px, #fff);
+@mixin css-triangle ($direction: "down", $size: 20px, $color: #000) {
+  width: 0; 
+  height: 0;
+  border-left: $size solid #{setTriangleColor($direction, "left", $color)};
+  border-right: $size solid #{setTriangleColor($direction, "right", $color)};
+  border-bottom: $size solid #{setTriangleColor($direction, "bottom", $color)};
+  border-top: $size solid #{setTriangleColor($direction, "top", $color)};
+}
+
+//Utility function to return the relevant colour depending on what type of arrow it is
+@function setTriangleColor($direction, $side, $color) {
+
+  @if $direction == "left" and $side == "right" 
+  or  $direction == "right" and $side == "left" 
+  or $direction == "down" and $side == "top" 
+  or $direction == "up" and $side == "bottom" {
+    @return $color
+  } @else {
+    @return "transparent";
+  }
+
+}

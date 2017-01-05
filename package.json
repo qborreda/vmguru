@@ -1,0 +1,19 @@
+{
+  "name": "vmguru.ru",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "scss": "sass _scss/styles.scss css/styles.css",
+    "scss:watch": "sass --watch _scss/styles.scss:css/styles.css",
+    "build-css": "node-sass --include-path scss _scss/styles.scss css/styles.css",
+    "watch-css": "nodemon -e _scss -x \"npm run build-css\""
+  },
+  "keywords": [],
+  "author": "Anna Balandina & Enrique Borredá",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.1.1",
+    "nodemon": "^1.11.0"
+  }
+}
