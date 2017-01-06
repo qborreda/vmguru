@@ -49,19 +49,45 @@
   }
 
   &-footer-text {
+    display: table;
     min-width: 455px;
     text-align: center;
     text-transform: uppercase;
-    font-size: 46px;
+    font-size: 36px;
+    font-weight: 300;
+    white-space: nowrap;
     line-height: 120%;
     color: $DETAIL-CYAN;
 
-    @include mq($until: tablet) {
-      font-size: 36px;
+    @include mq($from: tablet) {
+      font-size: 40px;
+
+      &:before, 
+      &:after {
+        content: '';
+        display: table-cell;
+        position: relative;
+        top: 70px;
+        width: 45%;
+        border-top: 1px solid $DETAIL-CYAN;
+      }
+      &:before { right: 1.5%; }
+      &:after { left: 1.5%; }
     }
 
-    @include mq($from: tablet, $until: desktop) {
-      font-size: 40px;
+    @include mq($from: desktop) {
+      font-size: 46px;
+
+      &:before, &:after {
+        border-top: 1px solid $DETAIL-CYAN;
+        content: '';
+        display: table-cell;
+        position: relative;
+        top: 85px;
+        width: 45%;
+      }
+      &:before { right: 1.5%; }
+      &:after { left: 1.5%; }
     }
   }
 }
