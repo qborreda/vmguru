@@ -78,7 +78,8 @@
     @include mq($from: desktop) {
       font-size: 46px;
 
-      &:before, &:after {
+      &:before,
+      &:after {
         border-top: 1px solid $DETAIL-CYAN;
         content: '';
         display: table-cell;
