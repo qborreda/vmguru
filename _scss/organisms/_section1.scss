@@ -26,24 +26,24 @@
     height: 200px;
     background-color: $BKGR-GREY;
 
-    &:before {
+    &::before,
+    &::after {
       content: '';
       position: absolute;
-      right: 100%;
-      transform: translateX(0.9px);
+      top: 0;
       width: 0;
       border-top: 100px solid transparent;
       border-bottom: 100px solid transparent;
+    }
+
+    &:before {
+      right: 100%;
+      transform: translateX(0.9px);
       border-right: 50px solid $BKGR-GREY;
     }
     &:after {
-      content: '';
-      position: absolute;
       left: 100%;
       transform: translateX(-0.9px);
-      width: 0;
-      border-top: 100px solid transparent;
-      border-bottom: 100px solid transparent;
       border-left: 50px solid $BKGR-GREY;
     }
   }
@@ -62,8 +62,8 @@
     @include mq($from: tablet) {
       font-size: 40px;
 
-      &:before, 
-      &:after {
+      &::before, 
+      &::after {
         content: '';
         display: table-cell;
         position: relative;
@@ -71,8 +71,8 @@
         width: 45%;
         border-top: 1px solid $DETAIL-CYAN;
       }
-      &:before { right: 1.5%; }
-      &:after { left: 1.5%; }
+      &::before { right: 1.5%; }
+      &::after { left: 1.5%; }
     }
 
     @include mq($from: desktop) {
