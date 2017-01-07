@@ -28,8 +28,9 @@
       margin: 0 20px;
 
       a {
-        color: #4a4a4a;
+        color: $BLACK;
         padding-bottom: 3px;
+        font-weight: 100;
         border-bottom: 1px solid $DETAIL-GREY;
       }
     }
@@ -39,7 +40,8 @@
 
     li {
       margin: 0 5px;
-      color: $DETAIL-GREY;
+      font-weight: 100;
+      color: $PRIMARY-TEXT-COLOR;
     }
   }
 }
