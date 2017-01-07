@@ -1,19 +1,22 @@
 .section2 {
-  @include display_flex();
-  @include flex_flex-wrap(wrap);
-  @include flex_flex-direction(row);
-  @include flex_justify-content(space-between);
   margin: 0 auto;
   padding: 50px;
   line-height: 1.8rem;
 
-  &-left,
-  &-right {
-    @include flex_flex(1 1 100%);
-    margin: 1rem;
+  .section2-texts {
+    @include display_flex();
+    @include flex_flex-wrap(wrap);
+    @include flex_flex-direction(row);
+    @include flex_justify-content(space-between);
 
-    @include mq($from: tablet) {
-      @include flex_flex(0 1 40%);
+    .left,
+    .right {
+      @include flex_flex(1 1 100%);
+      margin: 1rem;
+
+      @include mq($from: tablet) {
+        @include flex_flex(0 1 40%);
+      }
     }
   }
 
@@ -22,13 +25,19 @@
     display: table;
     white-space: nowrap;
     margin: 50px auto 0;
-    min-width: 460px;
-    @include flex_flex(1 0 60%);
-    width: 60%;
     padding: 35px 20px;
+    // min-width: 460px;
+    width: 60%;
     font-size: $H1-SIZE + 10px;
     text-align: center;
     border: 1px solid $DETAIL-GREY;
+
+    @include mq($until: tablet) {
+      padding: 25px 20px;
+      min-width: 300px;
+      width: 50%;
+      font-size: $H2-SIZE;
+    }
 
     &:before,
     &:after {
@@ -45,7 +54,7 @@
       border-right: 1px solid $DETAIL-GREY;
     }
     &:after {
-      top: 80%;
+      top: 75%;
       right: 50%;
       border-left: 1px solid $DETAIL-GREY;
     }
