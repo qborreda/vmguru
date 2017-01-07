@@ -3,22 +3,17 @@
   @include flex_flex-wrap(wrap);
   @include flex_flex-direction(row);
   @include flex_justify-content(space-between);
-  margin: 50px auto;
-  padding: 0 70px;
+  margin: 0 auto;
+  padding: 50px;
   line-height: 1.8rem;
 
-  &-left {
-    margin-bottom: 1rem;
-  }
+  &-left,
+  &-right {
+    @include flex_flex(1 1 100%);
+    margin: 1rem;
 
-  @include mq($from: tablet) {
-    &-left {
-      @include flex-flex(0 1 45%);
-      margin: 10px;
-    }
-    &-right {
-      @include flex-flex(0 1 45%);
-      margin: 10px;
+    @include mq($from: tablet) {
+      @include flex_flex(0 1 40%);
     }
   }
 
@@ -28,6 +23,7 @@
     white-space: nowrap;
     margin: 50px auto 0;
     min-width: 460px;
+    @include flex_flex(1 0 60%);
     width: 60%;
     padding: 35px 20px;
     font-size: $H1-SIZE + 10px;
