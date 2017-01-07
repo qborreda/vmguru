@@ -5,11 +5,14 @@
   @include mq($from: tablet) {
     padding: 50px;
   }
-  
 
-  h1 {
+  h2 {
+    height: 100px;
     font-size: $H1-SIZE + 10px;
-  }
+    line-height: $H1-SIZE;
+    background-color: $DETAIL-CYAN;
+    @include angled-edge($location:'inside top',$hypotenuse:'upper left', $fill: #F00, $width: calc(100%), $height: 40);
+    @include angled-edge($location:'inside bottom',$hypotenuse:'lower right', $fill: #F00, $width: calc(100%), $height: 40);  }
 
   .articles {
     @include display_flex();
