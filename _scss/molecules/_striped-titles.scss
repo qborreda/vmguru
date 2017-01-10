@@ -1,0 +1,32 @@
+.stripped-title {
+  @include display_flex();
+  @include flex_justify-content(center);
+  @include flex_align-items(center);
+  position: relative;
+  max-width: 1300px;
+  width: 100%;
+  min-height: 50px;
+  height: auto;
+  text-align: center;
+  overflow: hidden;
+  
+  span {
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 120%;
+    min-height: 50px;
+    height: 100%;
+    z-index: -1;
+    background: linear-gradient(to right bottom, $WHITE 45%, $DETAIL-CYAN 46%, $DETAIL-CYAN 54%, $WHITE 55%);
+  }
+
+  p {
+    font-size: $H1-SIZE + 10px;
+    font-weight: 300;
+    line-height: 120%;
+    padding: 3% 2%;
+  }
+}

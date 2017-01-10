@@ -1,18 +1,9 @@
 .section4 {
-
-  padding: 50px 20px;
+  padding: 25px 10px;
+  line-height: 1.8rem;
 
   @include mq($from: tablet) {
-    padding: 50px;
-  }
-
-  h2 {
-    height: 100px;
-    font-size: $H1-SIZE + 10px;
-    line-height: $H1-SIZE;
-    background-color: $DETAIL-CYAN;
-    @include angled-edge($location:'inside top',$hypotenuse:'upper left', $fill: #F00, $width: calc(100%), $height: 40);
-    @include angled-edge($location:'inside bottom',$hypotenuse:'lower right', $fill: #F00, $width: calc(100%), $height: 40);
+    padding: 50px 20px;
   }
 
   .project {

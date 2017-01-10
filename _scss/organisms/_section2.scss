@@ -1,7 +1,10 @@
 .section2 {
-  margin: 0 auto;
-  padding: 50px;
+  padding: 25px 10px;
   line-height: 1.8rem;
+
+  @include mq($from: tablet) {
+    padding: 50px 20px;
+  }
 
   .section2-texts {
     @include display_flex();
