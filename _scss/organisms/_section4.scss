@@ -7,16 +7,23 @@
   }
 
   .project {
-    margin-bottom: 20px;
 
     .project-img {}
     .project-box {
+      @include display_flex();
+      @include flex_justify-content(center);
+      @include flex_align-items(center);
+      @include flex_flex(1 1 auto);
       position: relative;
       margin: 0 auto;
+      padding: 0 100px;
       min-width: 460px;
       width: 60%;
       height: 200px;
-      background-color: $BKGR-GREY;
+      text-align: center;
+      border-bottom: 1px solid rgba($DETAIL-GREY, .4);
+      background-color: $PRIMARY-TEXT-COLOR;
+      color: $WHITE;
 
       .hexa {
         position: absolute;
@@ -41,26 +48,28 @@
       &:before {
         right: 100%;
         transform: translateX(0.9px);
-        border-right: 50px solid $BKGR-GREY;
+        border-right: 50px solid $PRIMARY-TEXT-COLOR;
       }
       &:after {
         left: 100%;
         transform: translateX(-0.9px);
-        border-left: 50px solid $BKGR-GREY;
+        border-left: 50px solid $PRIMARY-TEXT-COLOR;
       }
     }
 
     &.is-special { 
-      .project-box { background-color: $DETAIL-CYAN; }
+      .project-box { background-color: $DETAIL-CYAN; color: $BKGR-GREY; }
       .project-box:before { border-right: 50px solid $DETAIL-CYAN; }
       .project-box:after { border-left: 50px solid $DETAIL-CYAN; }
     }
 
     &-left {
+      .project-box { padding-left: 230px; }
       .project-box:before { border: none; }
       .hexa { left: -55px; }
     }
     &-right {
+      .project-box { padding-right: 230px; }
       .project-box:after { border: none; }
       .hexa { left: null; right: -55px;}
     }
