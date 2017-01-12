@@ -75,7 +75,7 @@
     .hex-description {
       width:100%;
       padding:0 5%;
-      background-color: rgba(shade($DETAIL-CYAN, 80%), 0.6);
+      background-color: rgba(shade($DETAIL-CYAN, 80%), 0.8);
       line-height: 130%;
       -webkit-transition: top .2s ease-out, bottom .2s ease-out, .2s padding .2s ease-out;
       -ms-transition: top .2s ease-out, bottom .2s ease-out, .2s padding .2s ease-out;
@@ -98,6 +98,7 @@
   }
 
   .hex-item {
+    font-weight: 300;
 
     .hex-title {
       bottom:110%;
@@ -115,7 +116,7 @@
         width:10%;
         text-align:center;
         z-index:1;
-        border-bottom:2px solid #fff;
+        border-bottom:2px solid $WHITE;
       }
 
     }
