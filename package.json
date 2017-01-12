@@ -6,8 +6,6 @@
   "scripts": {
     "scss": "sass _scss/styles.scss css/styles.css",
     "scss:watch": "sass --watch _scss/styles.scss:css/styles.css",
-    "build-css": "node-sass --include-path scss _scss/styles.scss css/styles.css",
-    "watch-css": "nodemon -e _scss -x \"npm run build-css\""
   },
   "keywords": [],
   "author": "Anna Balandina & Enrique Borredá",
