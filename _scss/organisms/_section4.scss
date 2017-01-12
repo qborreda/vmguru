@@ -48,12 +48,12 @@
       &:before {
         right: 100%;
         transform: translateX(0.9px);
-        border-right: 50px solid $PRIMARY-TEXT-COLOR;
+        border-right: 58px solid $PRIMARY-TEXT-COLOR;
       }
       &:after {
         left: 100%;
         transform: translateX(-0.9px);
-        border-left: 50px solid $PRIMARY-TEXT-COLOR;
+        border-left: 58px solid $PRIMARY-TEXT-COLOR;
       }
     }
 
