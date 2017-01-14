@@ -70,14 +70,35 @@
     }
   }
 
-  .sub-tags {
+  .secondary {
+    position: relative;
+    display: block;
+    width: 100%;
+    margin: 0 auto;
+    max-width: 1300px;
 
-    li {
-      margin: 0 5px;
-      font-weight: 100;
-      color: $PRIMARY-TEXT-COLOR;
+    .sub-tags {
+      @include display_flex();
+      @include flex_align-content(space-around);
+      @include flex_justify-content(center);
+
+      li {
+        display: inline-block;
+        margin: 0 5px;
+        font-weight: 100;
+        color: $PRIMARY-TEXT-COLOR;
+      }
+    }
+
+    .social-links {
+      display: inline-block;
+      position: absolute;
+      top: -8px;
+      right: 0;
     }
   }
+
+  
 
   &.floated {
     background-color: rgba(255,255,255,0.9);
@@ -88,8 +109,7 @@
 
     .main-nav { margin-bottom: 0; }
     .logo img { width: 70px; }
-    .sub-tags {
-      display: none;
-    }
+    .sub-tags { display: none; }
+    .social-links { display: none; }
   }
 }
