@@ -1,0 +1,13 @@
+.training-section1 {
+  position: relative;
+  padding-bottom: 100px;
+
+  &-image {
+    display: block;
+    width: 100%;
+    min-height: 577px;
+    background: transparent url('../imgs/hero-section3.jpg') center center no-repeat;
+    background-size: cover;
+  }
+
+}
