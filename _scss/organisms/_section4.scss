@@ -6,6 +6,14 @@
     padding: 50px 20px;
   }
 
+  .hex-grid {
+    width: 95%;
+
+    @include mq($from: tablet) {
+      width: 80%;
+    }
+  }
+
   .project {
 
     .project-img {}
