@@ -21,11 +21,12 @@
     padding-bottom: 3px;
     text-decoration: none;
     border-bottom: 1px solid $DETAIL-GREY;
+    
+    &:hover {
+      border-bottom: 1px solid $DETAIL-CYAN;
+    }
   }
 
-  a:hover {
-    border-bottom: 1px solid $DETAIL-CYAN;
-  }
 
   &-copyright {
     @include flex_flex(0 1 250px);
