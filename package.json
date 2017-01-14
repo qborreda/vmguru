@@ -4,13 +4,15 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "browser-sync start --server --files 'css/*.css'",
     "scss": "sass _scss/styles.scss css/styles.css",
-    "scss:watch": "sass --watch _scss/styles.scss:css/styles.css",
+    "scss:watch": "sass --watch _scss/styles.scss:css/styles.css"
   },
   "keywords": [],
   "author": "Anna Balandina & Enrique Borredá",
   "license": "ISC",
   "devDependencies": {
+    "browser-sync": "^2.18.6",
     "node-sass": "^4.1.1",
     "nodemon": "^1.11.0"
   }
