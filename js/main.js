@@ -2,7 +2,7 @@ $( document ).ready(function() {
 
   var headerDistanceTrigger = 60;
 
-  $(window).on('scroll', function(event) {
+  function floatedHeader() {
     var distanceY = $(window).scrollTop(),
         shrinkOn = headerDistanceTrigger,
         header = $('.main-header');
@@ -10,6 +10,9 @@ $( document ).ready(function() {
     distanceY > shrinkOn 
       ? header.addClass( 'floated' )
       : header.removeClass( 'floated' );
-  });
+  }
+
+  $(window).on('scroll', floatedHeader);
+  floatedHeader();
 
 });

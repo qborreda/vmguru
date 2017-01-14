@@ -29,6 +29,15 @@
 
   &-copyright {
     @include flex_flex(0 1 250px);
+
+    .social-links {
+      display: block;
+      margin: .5rem 0;
+      padding: 0;
+
+      .social-icon { margin-right: -1px; }
+      a { padding: 0; border-bottom: 0; }
+    }
   }
   &-menu {
     @include flex_flex(1 1 auto);
