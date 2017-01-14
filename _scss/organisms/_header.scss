@@ -14,7 +14,7 @@
 
   & > * {
     @include display_flex();
-    @include flex_align-content(space-between);
+    @include flex_align-content(space-around);
     @include flex_justify-content(center);
     @include flex_align-items(center);
     @include flex_flex-direction(row);
