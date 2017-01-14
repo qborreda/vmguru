@@ -1,7 +1,15 @@
+// HEADER Common
 @import "_header.scss";
 
-@import "_section1.scss";
-@import "_section2.scss";
-@import "_section3.scss";
-@import "_section4.scss";
+
+// HOME Sections
+@import "_home-section1.scss";
+@import "_home-section2.scss";
+@import "_home-section3.scss";
+@import "_home-section4.scss";
+
+// CONTACT Sections
+@import "_contact-section1.scss";
+
+// FOOTER Common
 @import "_footer.scss";

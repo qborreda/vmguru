@@ -1,4 +1,4 @@
-.section2 {
+.home-section2 {
   padding: 25px 10px;
   line-height: 1.8rem;
 
@@ -6,7 +6,7 @@
     padding: 50px 20px;
   }
 
-  .section2-texts {
+  &-texts {
     @include display_flex();
     @include flex_flex-wrap(wrap);
     @include flex_flex-direction(row);

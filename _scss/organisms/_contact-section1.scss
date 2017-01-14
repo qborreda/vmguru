@@ -1,0 +1,46 @@
+.contact-section1 {
+
+  @include display_flex();
+  @include flex_flex-wrap(wrap);
+  @include flex_flex-direction(row);
+  @include flex_justify-content(space-between);
+  padding: 25px 10px;
+  line-height: 1.8rem;
+
+  @include mq($from: tablet) {
+    padding: 50px 20px;
+  }
+
+  a {
+    color: $BLACK;
+    padding-bottom: 3px;
+    text-decoration: none;
+    border-bottom: 1px solid $DETAIL-GREY;
+  }
+
+  .contact-text {
+    @include flex_flex(1 0 auto);
+    font-size: $H4-SIZE;
+    font-weight: 300;
+    order: 2;
+  }
+
+  .contact-map {
+    @include flex_flex(1 1 auto);
+    order: 1;
+
+    img {
+      width: 100%;
+    }
+  }
+
+  @include mq($from: tablet, $until: desktop) {
+    .contact-text { order: 1;}
+  }
+
+  @include mq($from: desktop) {
+    @include flex_justify-content(center);
+    .contact-text { order: 1;}
+    .contact-map { order: 2; }
+  }
+}

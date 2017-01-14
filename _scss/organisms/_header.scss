@@ -103,9 +103,7 @@
   &.floated {
     background-color: rgba(255,255,255,0.9);
     padding: 10px 20px;
-    -webkit-box-shadow: 0px 5px 10px 0px rgba(199,199,199,0.5);
-    -moz-box-shadow: 0px 5px 10px 0px rgba(199,199,199,0.5);
-    box-shadow: 0px 5px 10px 0px rgba(199,199,199,0.5);
+    @include box-shadow(0px 5px 10px 0px rgba(199,199,199,0.5));
 
     .main-nav { margin-bottom: 0; }
     .logo img { width: 70px; }
