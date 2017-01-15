@@ -1,0 +1,29 @@
+.about-section1 {
+  @include display_flex();
+  @include flex_flex-wrap(wrap);
+  @include flex_flex-direction(column);
+  @include flex_justify-content(center);
+  padding: 25px 10px;
+  line-height: 1.8rem;
+
+  @include mq($from: tablet) {
+    padding: 30px 50px;
+  }
+
+  &--text {
+    @include flex_align-self(center);
+    margin: 20px 0;
+    min-width: 320px;
+    max-width: 1024px;
+    width: 80%;
+
+    @include mq($from: tablet) {
+      width: 60%;
+    }
+  }
+
+  &--icon {
+    display: block;
+    @include flex_align-self(center);
+  }
+}

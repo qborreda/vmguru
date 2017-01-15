@@ -1,0 +1,59 @@
+.about-section2 {
+  @include display_flex();
+  @include flex_flex-wrap(wrap);
+  @include flex_flex-direction(column);
+  @include flex_justify-content(center);
+  padding: 25px 10px;
+  line-height: 1.8rem;
+
+  @include mq($from: tablet) {
+    padding: 30px 50px;
+  }
+
+  .ceo {
+    position: relative;
+    @include display_flex();
+    @include flex_flex-direction(row);
+    @include flex_justify-content(space-between);
+
+    &-picture {
+      // margin-right: 50px;
+    }
+
+    &-resume {
+      position: relative;
+      @include flex_flex(1 1 auto);
+      margin-left: 80px;
+      padding-top: 100px;
+
+      p {
+        margin: 30px 0;
+        font-size: 16px;
+        font-weight: 300;
+      }
+    }
+
+    &-name {
+      position: absolute;
+      top: 20px;
+      left: -120px;
+      z-index: map-get($Z-LAYERS, default);
+
+      h2,
+      h5 {
+        margin: 0; 
+        padding: 0;
+      }
+      h2 { 
+        font-size: 28px;
+        font-weight: 700; 
+      }
+      h5 { 
+        font-size: 13px;
+        font-weight: 100; 
+      }
+    }
+  }
+
+  .bio {}
+}
