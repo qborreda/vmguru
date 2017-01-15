@@ -1,0 +1,52 @@
+.about-section3 {
+  @include display_flex();
+  @include flex_flex-wrap(wrap);
+  @include flex_flex-direction(row);
+  @include flex_justify-content(center);
+  padding: 25px 10px;
+  line-height: 1.8rem;
+
+  @include mq($from: tablet) {
+    padding: 30px 50px;
+  }
+
+  .person {
+    position: relative;
+    @include flex_flex(0 0 45%);
+    margin: 30px 20px;
+    min-width: 300px;
+    font-size: $H3-SIZE;
+
+    &-text-layout {
+      position: absolute;
+      bottom: -15px;
+      left: 120px;
+    }
+
+    &-name {
+      margin: 0;
+      padding: 0;
+      font-size: 20px;
+      font-weight: 700;
+    }
+    &-position {
+      font-size: 17px;
+      font-weight: 300;
+    }
+    &-email {
+      display: inline-block;
+      color: $BLACK;
+      padding-bottom: 3px;
+      font-size: 14px;
+      font-weight: 300;
+      text-decoration: none;
+      line-height: 14px;
+      border-bottom: 1px solid $DETAIL-GREY;
+      
+      &:hover {
+        border-bottom: 1px solid $DETAIL-CYAN;
+      }
+    }
+  }
+
+}
