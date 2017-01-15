@@ -1,0 +1,19 @@
+/// Applies background highlighting to text elements
+
+.bkgr-hi {
+  padding: .2rem .5rem;
+  color: $BLACK;
+  background-color: $DETAIL-CYAN;
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
+
+  &::before,
+  &::after {
+    box-sizing: border-box;
+  }
+
+  &.no-border {
+    background-color: none;
+    border: 1px solid $DETAIL-CYAN;
+  }
+}
