@@ -1,6 +1,7 @@
 /// Applies background highlighting to text elements
 
 .bkgr-hi {
+  display: inline;
   padding: .2rem .5rem;
   color: $BLACK;
   background-color: $DETAIL-CYAN;
