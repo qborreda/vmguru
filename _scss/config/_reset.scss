@@ -6,10 +6,16 @@ html {
   box-sizing: inherit;
 }
 
+/* Force antialiasing on texts for Webkit and Mozilla based browsers */
 html,
 body {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
+}
+
+/* Force MS based browsers to respect a width=device-width meta tags */
+@-ms-viewport{
+  width: device-width;
 }
 
 /*html5doctor.com Reset Stylesheet
