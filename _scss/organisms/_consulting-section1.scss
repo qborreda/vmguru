@@ -3,7 +3,7 @@
   @include flex_flex-wrap(wrap);
   @include flex_flex-direction(column);
   @include flex_justify-content(center);
-  padding: 25px 10px;
+  padding: 20px 10px;
   line-height: 1.8rem;
 
   @include mq($from: tablet) {
@@ -12,27 +12,78 @@
 
   .category {
     position: relative;
+    margin-bottom: 20px;
+
+    .category-image {
+      min-width: 300px;
+      max-width: 330px;
+      width: 100%;
+      margin: 0 auto;
+
+      img {
+        width: 100%;
+      }
+      @include mq($from:tablet) {
+        float: left;
+        margin: null;
+        margin-right: 60px;
+      }
+    }
 
     .category-name {
+      display: inline-block;
       position: absolute;
-      top: 20px;
-      left: 290px;
+      top: 0;
+      left: 0;
       margin: 0;
       padding: 0;
-      font-size: 29px;
+      font-size: 22px;
       font-weight: 600;
       text-transform: uppercase;
+      line-height: 120%;
+      background-color: rgba($WHITE, .6);
+      vertical-align: bottom;
+      z-index: 10;
+
+      @include mq($from: tablet) {
+        position: absolute;
+        top: 30px;
+        left: 280px;
+        font-size: 24px;
+      }
+      @include mq($from: desktop) {
+        font-size: 30px;
+      }
     }
-    .category-image {
-      float: left;
-      margin-right: 60px;
-    }
+
     .category-description {
-      padding-top: 160px;
+      padding: 0;
       font-weight: 300;
+      font-size: 12px;
+
+      @include mq($from: tablet) {
+        margin-top: 160px;
+        font-size: 14px;
+      }
+      @include mq($from: desktop) {
+        font-size: 16px;
+      }
+
+      & + .category-description {
+        margin-top: 15px;
+      }
     }
+
     .category-list {
       font-weight: 300;
+      font-size: 12px;
+
+      @include mq($from: tablet) {
+        font-size: 14px;
+      }
+      @include mq($from: desktop) {
+        font-size: 16px;
+      }
       
       li {
         margin-left: 20px;
