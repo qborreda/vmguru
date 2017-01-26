@@ -1,9 +1,10 @@
 /// Applies background highlighting to text elements
+/// Play with line-height on the element for better results
 
 .bkgr-hi {
   display: inline;
   padding: .2rem .5rem;
-  color: $BLACK;
+  color: $PRIMARY-TEXT-COLOR;
   background-color: $DETAIL-CYAN;
   -webkit-box-decoration-break: clone;
   box-decoration-break: clone;
