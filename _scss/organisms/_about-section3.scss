@@ -3,11 +3,11 @@
   @include flex_flex-wrap(wrap);
   @include flex_flex-direction(row);
   @include flex_justify-content(center);
-  padding: 25px 10px;
+  padding: 0 10px 20px;
   line-height: 1.8rem;
 
   @include mq($from: tablet) {
-    padding: 30px 50px;
+    padding: 0 50px 30px;
   }
 
   .person {
@@ -28,6 +28,7 @@
       padding: 0;
       font-size: 20px;
       font-weight: 700;
+      // text-shadow: 1px 1px 1px $DETAIL-CYAN;
     }
     &-position {
       font-size: 17px;
