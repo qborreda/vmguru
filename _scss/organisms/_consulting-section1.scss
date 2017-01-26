@@ -35,11 +35,9 @@
 
       .category-left {
         @include flex_flex(0 1 360px);
-        border: 1px dotted green;
       }
       .category-right {
         @include flex_flex(1 1 auto);
-        border: 1px dotted green;
       }
     }
 
