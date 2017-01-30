@@ -13,8 +13,28 @@
     padding: 30px 50px;
   }
 
+  &-title {
+    margin: 20px auto;
+    font-size: 29px;
+    font-weight: 300;
+    text-align: center;
+  }
+  &-lists {
+    @include display_flex();
+    @include flex_flex-wrap(wrap);
+    @include flex_flex-direction(row);
+    @include flex_justify-content(center);
+
+    .left,
+    .right {
+      @include flex_flex(0 0 45%);
+      padding: 10px;
+      list-style: none;
+    }
+  }
+
   .crossed-box {
-    margin: 30px auto 50px;
+    margin: 30px auto 80px;
   }
 }
 
