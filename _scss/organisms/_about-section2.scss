@@ -32,9 +32,10 @@
       }
 
       p {
-        margin: 30px 0;
+        margin: 1.5rem 0;
         font-size: 16px;
         font-weight: 300;
+        line-height: 1.5rem;
       }
     }
 
@@ -45,7 +46,7 @@
       z-index: map-get($Z-LAYERS, default);
 
       h2,
-      h5 {
+      span {
         margin: 0; 
         padding: 0;
       }
@@ -53,10 +54,15 @@
         font-size: 28px;
         font-weight: 700; 
       }
-      h5 { 
-        font-size: 13px;
-        font-weight: 100; 
+      span { 
+        font-size: 17px;
+        font-weight: 300;
       }
+    }
+
+    &-education {
+      display: block;
+      width: 100%;
     }
   }
 
@@ -75,12 +81,13 @@
 
     > div {
       @include flex_flex(0 0 100%);
-      margin: 0 20px;
+      margin: 20px 0;
       min-width: 300px;
       text-align: left;
 
       @include mq($from: tablet) {
-        @include flex_flex(1 1 33%);
+        @include flex_flex(1 1 30%);
+        margin: 0 20px;
       }
     }
 

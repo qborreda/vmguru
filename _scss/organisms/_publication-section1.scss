@@ -13,12 +13,12 @@
   .publication {
     position: relative;
     @include flex_flex(1 0 auto);
-    margin: 30px 20px;
+    margin: 10px 20px 0;
     min-width: 300px;
 
     &-text-layout {
       position: absolute;
-      bottom: -15px;
+      top: 15px;
       left: 120px;
     }
 
@@ -26,13 +26,13 @@
       display: inline;
       margin: 0;
       font-size: 23px;
-      line-height: 36px;
+      line-height: 40px;
       font-weight: 100;
     }
 
     &-article-list {
       display: table;
-      margin: 20px;
+      margin: 0 20px 20px;
       font-weight: 300;
       list-style: none;
 
@@ -41,7 +41,8 @@
         font-style: italic;
         font-size: 13px;
         font-weight: 100;
-        color: rgb(128,129,132);
+        // color: rgb(128,129,132);
+        color: #333;
       }
 
       li > .month {
