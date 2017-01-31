@@ -1,14 +1,14 @@
 .contact-section1 {
 
   @include display_flex();
-  @include flex_flex-wrap(wrap);
+  // @include flex_flex-wrap(wrap);
   @include flex_flex-direction(row);
   @include flex_justify-content(space-between);
   padding: 25px 10px;
   line-height: 1.8rem;
 
   @include mq($from: tablet) {
-    padding: 50px 50px;
+    padding: 30px 50px;
   }
 
   a {
@@ -19,9 +19,12 @@
   }
 
   .contact-text {
-    @include flex_flex(1 1 auto);
+    @include flex_flex(1 0 200px);
+    margin-left: 1rem;
+    margin-right: 0;
     font-size: $H4-SIZE;
     font-weight: 300;
+    line-height: 1.5rem;
     order: 2;
   }
 
@@ -34,16 +37,14 @@
     }
   }
 
-  @include mq($from: tablet, $until: desktop) {
+  @include mq($from: tablet) {
+    @include flex_justify-content(center);
     .contact-text { 
+      margin-left: 0;
+      margin-right: 1rem;
       order: 1;
       z-index: map-get($Z-LAYERS, default);
     }
-  }
-
-  @include mq($from: desktop) {
-    @include flex_justify-content(center);
-    .contact-text { order: 1;}
     .contact-map { order: 2; }
   }
 }
