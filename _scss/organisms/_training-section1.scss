@@ -62,13 +62,13 @@
   @include flex_flex-wrap(wrap);
   @include flex_flex-direction(column);
   @include flex_justify-content(center);
-  padding: 0 10px;
+  padding: 20px 10px;
   line-height: 1.8rem;
 
   @include mq($from: tablet) {
-    padding: 0 30px;
+    padding: 30px;
   }
   @include mq($from: desktop) {
-    padding: 0 50px;
+    padding: 30px 50px;
   }
 }
