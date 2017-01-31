@@ -10,12 +10,16 @@
     display: inline-block;
     max-width: 560px;
     width: 100%;
-    margin-bottom: 50px;
+    margin-bottom: 0;
 
     @include mq($from: tablet) {
       max-width: 560px;
-      // min-width: 450px;
+      margin-bottom: 20px;
       width: 50%;
+    }
+
+    @include mq($from: desktop) {
+      margin-bottom: 30px;
     }
 
     img {
@@ -38,9 +42,10 @@
       p {
         @include flex_align-self(flex-start);
         color: $WHITE;
-        padding: 3rem 1rem;
+        padding: 3rem 4rem 0 1rem;
         text-align: left;
-        font-size: $H2-SIZE;
+        font-size: 19px;
+        font-weight: 300;
         line-height: 1.8rem;
       }
     }
