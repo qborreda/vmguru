@@ -23,7 +23,7 @@
     &-resume {
       position: relative;
       @include flex_flex(1 1 auto);
-      margin-left: 80px;
+      margin-left: 60px;
       padding-top: 100px;
 
       li {
@@ -64,15 +64,24 @@
     position: relative;
     @include display_flex();
     // @include flex_flex-wrap(wrap);
-    @include flex_flex-direction(row);
+    @include flex_flex-direction(column);
     @include flex_justify-content(space-between);
     margin-top: 30px;
 
+    @include mq($from: tablet) {
+      @include flex_flex-direction(row);
+      @include flex_justify-content(space-between);
+    }
+
     > div {
-      @include flex_flex(1 1 33%);
+      @include flex_flex(0 0 100%);
       margin: 0 20px;
       min-width: 300px;
       text-align: left;
+
+      @include mq($from: tablet) {
+        @include flex_flex(1 1 33%);
+      }
     }
 
     h3 {
