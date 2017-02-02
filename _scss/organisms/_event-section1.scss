@@ -1,0 +1,99 @@
+.event-section1 {
+  position: relative;
+  margin-bottom: 30px;
+  padding-bottom: 100px;
+  line-height: 1.8rem;
+
+  &-image {
+    display: block;
+    width: 100%;
+    min-height: 577px;
+    background: transparent url('../imgs/hero-index.jpg') center center no-repeat;
+    background-size: cover;
+
+    &.event1 {
+      background: transparent url('../imgs/hero-image1.jpg') center center no-repeat;
+    }    
+    &.event2 {
+      background: transparent url('../imgs/hero-image2.jpg') center center no-repeat;
+    }    
+    &.event3 {
+      background: transparent url('../imgs/hero-image3.jpg') center center no-repeat;
+    }    
+    &.event4 {
+      background: transparent url('../imgs/hero-image4.jpg') center center no-repeat;
+    }
+  }
+
+  .boxed-title {
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translate(-50%,0);
+    @include display_flex();
+    @include flex_justify-content(strech);
+    @include flex_align-items(center);
+    margin: 0 auto;
+    min-width: 320px;
+    max-width: 970px;
+    width: 100%;
+    height: 320px;
+
+    .box-skewy {
+      display: block;
+      position: absolute;
+      top: 0; left: 0;
+      z-index: -1;
+      width: 100%;
+      height: 100%;
+      transform: skewY(-4deg);
+      background-color: rgba(black, 0.6);
+    }
+
+    .box-texts {
+      width: 100%;
+      // height: 90%;
+      text-align: center;
+      padding: 0 50px;
+
+      .box-texts-date {
+        @include display_flex();
+        @include flex_flex-direction(row);
+        @include flex_justify-content(center);
+        @include flex_align-items(baseline);
+        // @include flex_align-content(flex-end);
+        margin-bottom: 20px;
+        padding-top: 5px;
+        color: $DETAIL-CYAN;
+
+        .month {
+          margin: 0 5px;
+          font-size: 26px;
+          font-weight: 600;
+          text-transform: uppercase;
+        }
+        .day {
+          margin: 0 5px;
+          font-size: 50px;
+          font-weight: 600;
+        }
+      }
+      .box-texts-title {
+        margin-bottom: 20px;
+        font-size: 30px;
+        font-weight: 600;
+        text-align: center;
+        line-height: 110%;
+        color: $WHITE;
+      }
+      .box-texts-detail {
+        font-size: 22px;
+        font-weight: 300;
+        color: $DETAIL-CYAN;
+      }
+
+    }
+
+  }
+
+}

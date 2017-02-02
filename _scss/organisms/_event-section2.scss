@@ -1,0 +1,77 @@
+.event-section2 {
+  @include display_flex();
+  @include flex_flex-direction(column);
+  @include flex_justify-content(start);
+  padding: 25px 10px;
+  line-height: 1.8rem;
+
+  @include mq($from: tablet) {
+    padding: 30px 50px;
+  }
+
+  .resume-list {
+    display: inline-block;
+    min-width: 320px;
+    max-width: 980px;
+    width: 70%;
+    list-style: none;
+    list-style-image: url('/imgs/ico-hex-nav.png');
+    margin: 0 auto;
+
+    li {
+      font-size: 17px;
+      font-weight: 300;
+
+    }
+  }
+
+  .more-info {
+    @include display_flex();
+    @include flex_flex-direction(row);
+    @include flex_justify-content(center);
+    @include flex_align-items(start);
+    margin: 20px 0;
+    font-size: 17px;
+    font-weight: 300;
+
+    h3 {
+      position: relative;
+      display: inline-block;
+      padding-right: 30px;
+      font-size: 38px;
+      font-weight: 100;
+      font-style: italic;
+      line-height: 45px;
+      overflow: hidden;
+
+      span {
+        display: block;
+        position: absolute;
+        top: 25%;
+        left: 0;
+        width: 130%;
+        height: 50%;
+        background-color: $DETAIL-CYAN;
+        transform: skewY(-5deg);
+        z-index: -1;
+      }
+
+    }
+
+    > div {
+      margin: 0 60px;
+
+      ul {
+        padding: 0 1rem;
+        line-height: 1.5rem;
+      }
+    }
+
+    &-left {
+      @include flex_flex(1 1 auto);
+    }
+    &-right {
+      @include flex_flex(1 1 auto);
+    }
+  }
+}

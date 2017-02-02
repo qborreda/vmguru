@@ -1,0 +1,12 @@
+.event-section5 {
+  @include display_flex();
+  @include flex_flex-direction(column);
+  @include flex_justify-content(start);
+  padding: 25px 10px;
+  line-height: 1.8rem;
+
+  @include mq($from: tablet) {
+    padding: 30px 50px;
+  }
+  
+}

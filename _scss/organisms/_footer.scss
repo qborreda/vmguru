@@ -2,7 +2,7 @@
   @include display_flex();
   @include flex_justify-content(space-around);
   @include flex_align-items(flex-start);
-  padding: 20px 10px;
+  padding: 20px 10px 30px;
   font-size: $H4-SIZE;
   font-weight: 300;
   line-height: 150%;
@@ -15,18 +15,6 @@
   @include mq($from: tablet) {
     padding: 30px 20px;
   }
-
-  a {
-    color: $BLACK;
-    padding-bottom: 3px;
-    text-decoration: none;
-    border-bottom: 1px solid $DETAIL-GREY;
-    
-    &:hover {
-      border-bottom: 1px solid $DETAIL-CYAN;
-    }
-  }
-
 
   &-copyright {
     @include flex_flex(0 1 250px);
@@ -46,6 +34,8 @@
     .footer-menu__nav {
       list-style: none;
       font-size: $H4-SIZE;
+
+      li { margin-bottom: 2px;}
     }
   }
   &-contact {
