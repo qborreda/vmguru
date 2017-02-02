@@ -60,14 +60,7 @@
         a:link,
         a:active,
         a:visited {
-          color: $BLACK;
           padding-bottom: 2px;
-          text-decoration: none;
-          border-bottom: 1px solid $DETAIL-GREY;
-          
-          &:hover {
-            border-bottom: 1px solid $DETAIL-CYAN;
-          }
         }
       }
 
