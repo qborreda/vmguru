@@ -8,5 +8,28 @@
   @include mq($from: tablet) {
     padding: 30px 50px;
   }
+
+  .event-journey {
+    margin-bottom: 20px;
+    font-size: 28px;
+    font-weight: 300;
+    text-align: center;
+  }
+  .event-journey-description {
+    margin-bottom: 20px;
+    font-size: 16px;
+    font-weight: 600;
+
+    p {
+      padding: 0 1.2rem;
+      margin-bottom: 1.2rem;
+      font-weight: 300;
+    }
+  }
+  .event-journey-bullets {
+    font-size: 16px;
+    font-weight: 300;
+    margin-left: 1.2rem;
+  }
   
 }
