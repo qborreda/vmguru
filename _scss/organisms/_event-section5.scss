@@ -6,7 +6,167 @@
   line-height: 1.8rem;
 
   @include mq($from: tablet) {
-    padding: 30px 50px;
+    padding: 20px 50px;
+  }
+
+  form.event-info {
+    margin: 0 auto;
+    min-width: 320px;
+    max-width: 980px;
+    width: 100%;
+
+    .form-title {
+      text-align: center;
+      font-size: 22px;
+      font-weight: 600;
+    }
+
+    .form-inputs {
+      width: 100%;
+
+      input[type=text],
+      input[type=email],
+      input[type=phone] {
+        margin: 10px auto;
+        padding: 10px;
+        width: 100%;
+        border: 1px solid $DETAIL-GREY;
+        font-size: 21px;
+        font-weight: 100;
+        font-style: italic;
+        color: $PRIMARY-TEXT-COLOR;
+
+        &::-webkit-input-placeholder,
+        &::-ms-input-placeholder,
+        &::-moz-placeholder,
+        &::placeholder {
+          font-style: italic;
+          color: $DETAIL-GREY;
+        }
+      }
+
+      .double {
+        @include display_flex();
+        @include flex_flex-direction(row);
+        @include flex_justify-content(space-between);
+        @include flex_align-items(center);
+        margin: 0 auto 10px;
+        padding: 0;
+        width: 100%;
+
+        input {
+          margin: 0 auto;
+          @include flex_flex(0 1 50%);
+        }
+
+        input + input {
+          margin-left: 10px;
+        }
+      }
+    }
+    .form-checkboxes {
+      @include display_flex();
+      @include flex_flex-wrap(wrap);
+      @include flex_flex-direction(column);
+      @include flex_justify-content(center);
+      @include flex_align-items(center);
+      // @include flex_align-content(center);
+      margin-bottom: 10px;
+      width: 100%;
+
+      @include mq($from: tablet) {
+        @include display_flex();
+        @include flex_flex-wrap(wrap);
+        @include flex_flex-direction(row);
+        @include flex_justify-content(space-around);
+        @include flex_align-items(flex-start);
+        @include flex_align-content(center);
+        margin-bottom: 20px;
+        width: 100%;
+      }
+
+      .checkbox-group {
+        @include flex_flex(1 1 33%);
+        margin: 20px 0 0;
+        min-width: 300px;
+
+        p {
+          @include flex_flex(1 1 30%);
+          margin-bottom: 10px;
+          min-width: 300px;
+          font-size: 22px;
+          font-weight: 300;
+          font-style: italic;
+          text-transform: uppercase;
+        }
+
+        ul {
+          list-style: none;
+
+          input[type=checkbox] {
+            margin-right: 8px;
+          }
+          li {
+            font-size: 16px;
+            font-weight: 300;
+          }
+        }
+      }
+    }
+
+    .form-buttons {
+      display: block;
+      margin: 20px auto;
+      text-align: center;
+    }
+
+    .form-submit {
+      display: inline-block;
+      position: relative;
+      padding: 10px 50px;
+      height: 47px;
+      border: none;
+      font-size: 21px;
+      font-weight: 100;
+      font-style: italic;
+      cursor: pointer;
+      background-color: $BKGR-GREY;
+      color: $WHITE;
+
+      &::before,
+      &::after {
+        content: '';
+        position: absolute;
+        top: 0;
+        width: 0;
+        border-top: 24px solid transparent;
+        border-bottom: 24px solid transparent;
+      }
+
+      &:before {
+        right: 100%;
+        // transform: translateX(0.9px);
+        border-right: 12px solid $BKGR-GREY;
+      }
+      &:after {
+        left: 100%;
+        // transform: translateX(-0.9px);
+        border-left: 12px solid $BKGR-GREY;
+      }
+
+      &:hover {
+        background-color: $DETAIL-CYAN;
+
+        &:before {
+          border-right: 12px solid $DETAIL-CYAN;
+        }
+        &:after {
+          border-left: 12px solid $DETAIL-CYAN;
+        }
+      }
+    }
+
+
   }
   
 }
