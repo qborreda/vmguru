@@ -65,6 +65,15 @@
         padding: 0 1rem;
         line-height: 1.5rem;
       }
+
+      p:not(last-child),
+      ul:not(last-child) {
+        margin-bottom: 10px;
+      }
+
+      p + ul {
+        margin-left: 20px;
+      }
     }
 
     &-left {
