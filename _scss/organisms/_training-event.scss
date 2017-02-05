@@ -4,6 +4,11 @@
   @include flex_align-items(center);
   @include flex_flex-direction(row);
   @include flex_flex-wrap(wrap);
+
+  a {
+    text-decoration: none;
+    border-bottom: none;
+  }
   
   .event-article {
     position: relative;
