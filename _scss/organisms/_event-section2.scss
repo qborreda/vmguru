@@ -77,10 +77,10 @@
     }
 
     &-left {
-      @include flex_flex(1 1 auto);
+      @include flex_flex(1 1 50%);
     }
     &-right {
-      @include flex_flex(1 1 auto);
+      @include flex_flex(1 1 50%);
     }
   }
 }
