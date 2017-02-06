@@ -1,0 +1,20 @@
+.client-grid {
+  @include display_flex();
+  @include flex_flex-wrap(wrap);
+  @include flex_flex-direction(row);
+  @include flex_justify-content(space-around);
+  @include flex_align-items(center);
+
+  .client-grid-logo {
+    margin: 5px auto;
+    text-align: center;
+    @include flex_flex(0 0 160px);
+
+    @include mq($from: tablet) {
+      @include flex_flex(0 0 230px);
+    }
+    @include mq($from: desktop) {
+      @include flex_flex(0 0 280px);
+    }
+  }
+}
