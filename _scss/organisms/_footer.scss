@@ -1,6 +1,7 @@
 .footer {
   @include display_flex();
-  @include flex_justify-content(space-around);
+  @flex_flex-wrap(wrap);
+  @include flex_justify-content(space-between);
   @include flex_align-items(flex-start);
   padding: 20px 10px 30px;
   font-size: $H4-SIZE;
@@ -18,6 +19,7 @@
 
   &-copyright {
     @include flex_flex(0 1 250px);
+    min-width: 250px;
 
     .social-links {
       display: block;
@@ -29,7 +31,9 @@
     }
   }
   &-menu {
-    @include flex_flex(1 1 auto);
+    @include flex_flex(0 1 200px);
+    min-width: 200px;
+    margin-right: auto;
 
     .footer-menu__nav {
       list-style: none;
@@ -38,7 +42,25 @@
       li { margin-bottom: 2px;}
     }
   }
+  &-logos {
+    @include flex_flex(1 0 auto);
+    max-width: 230px;
+    width: auto;
+
+    .logo-row {
+      @include display_flex();
+      @include flex_flex_direction(row);
+      @flex_flex-wrap(wrap);
+      @include flex_justify-content(flex-start);
+      @include flex_align-items(center);
+
+      img:not(:last-of-type) {
+        margin-right: 25px;
+      }
+    }
+  }
   &-contact {
+    // display: none;
     @include flex_flex(0 0 auto);
   }
 
