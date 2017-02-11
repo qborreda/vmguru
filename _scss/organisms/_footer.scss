@@ -18,8 +18,8 @@
   }
 
   &-copyright {
-    @include flex_flex(0 1 250px);
-    min-width: 250px;
+    @include flex_flex(0 1 180px);
+    min-width: 180px;
 
     .social-links {
       display: block;
@@ -31,9 +31,8 @@
     }
   }
   &-menu {
-    @include flex_flex(0 1 200px);
-    min-width: 200px;
-    margin-right: auto;
+    @include flex_flex(0 1 180);
+    min-width: 180;
 
     .footer-menu__nav {
       list-style: none;
@@ -43,19 +42,21 @@
     }
   }
   &-logos {
-    @include flex_flex(1 0 auto);
-    max-width: 230px;
+    @include flex_flex(0 1 450px);
+    margin-left: 50px;
+    margin-right: 50px;
     width: auto;
+    text-align: center;
 
     .logo-row {
       @include display_flex();
+      @include flex_flex-wrap(wrap);
       @include flex_flex_direction(row);
-      @flex_flex-wrap(wrap);
-      @include flex_justify-content(flex-start);
+      @include flex_justify-content(center);
       @include flex_align-items(center);
 
       img:not(:last-of-type) {
-        margin-right: 25px;
+        margin: 10px 20px 0 0;
       }
     }
   }
