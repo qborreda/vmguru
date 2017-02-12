@@ -1,9 +1,10 @@
 .hex-grid {
   overflow:hidden;
-  width:90%;
+  width:100%;
   max-width: 1200px;
   margin:0 auto;
   padding: 0;
+  text-align: center;
 
   * {
     margin:0;
@@ -55,6 +56,16 @@
       text-align:center;
       color: $WHITE;
       overflow:hidden;
+
+      &::after {
+        content: '';
+        position: absolute;
+        width: 100px;
+        height: 43px;
+        background: transparent url(/imgs/icon-eye-projects.png) 0 0 no-repeat;
+        background-size: cover;
+        z-index: 100;
+      }
       
       -webkit-transform: skewY(-30deg) rotate(60deg);
       -ms-transform: skewY(-30deg) rotate(60deg);
@@ -64,7 +75,7 @@
     }
 
     /* HEX CONTENT */
-    img {
+    .hex-content {
       left:-100%; right:-100%;
       width: auto; height:100%;
       margin:0 auto;   
@@ -75,13 +86,42 @@
     .hex-title,
     .hex-description {
       width:100%;
+      height: 140px;
+      min-height: 140px;
       padding:0 5%;
-      background-color: rgba(shade($DETAIL-CYAN, 80%), 0.8);
+      // background-color: rgba(tint($DETAIL-CYAN, 80%), 0.8);
+      font-size: 12px;
+      font-weight: 400;  // 100 / 300 / 400 / 600 
+      text-transform: uppercase;
       line-height: 130%;
+      color: $BLACK;
+
       will-change: top, bottom, padding;
       -webkit-transition: top .2s ease-out, bottom .2s ease-out, .2s padding .2s ease-out;
       -ms-transition: top .2s ease-out, bottom .2s ease-out, .2s padding .2s ease-out;
       transition: top .2s ease-out, bottom .2s ease-out, .2s padding .2s ease-out;
+    
+      &.is-white { background-color: rgba(tint($WHITE, 80%), 0.2); }
+      &.is-blue { background-color: rgba(tint($DETAIL-CYAN, 80%), 0.2); }
+      &.is-pink { background-color: rgba(tint(red, 80%), 0.2); }
+
+      &.white-text { color: $WHITE; }
+      &.dark-text { color: $PRIMARY-TEXT-COLOR; }
+
+      &.is-little-text { font-size: 14px; }
+      &.is-long-text { font-size: 8px; }
+
+      @include mq($from: tablet) {
+        font-size: 14px;
+        &.is-little-text { font-size: 16px; }
+        &.is-long-text { font-size: 10px; }
+      }
+
+      @include mq($from: desktop) {
+        font-size: 17px;
+        &.is-little-text { font-size: 20px; }
+        &.is-long-text { font-size: 12px; }
+      }
     }
 
     /* HOVER EFFECT  */
@@ -93,8 +133,8 @@
       }
 
       .hex-description {
-        top:50%;
-        padding-top:5%;
+        top:55%;
+        padding-top:0;
       }
     }
   }
