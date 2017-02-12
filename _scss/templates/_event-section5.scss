@@ -132,6 +132,7 @@
       cursor: pointer;
       background-color: $BKGR-GREY;
       color: $WHITE;
+      outline: none;
 
       &::before,
       &::after {

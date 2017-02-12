@@ -3,6 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -223,16 +224,18 @@
                 </li>
             </ul>
         </section>
+
+        <!-- FORM SECTION -->
         <div class="stripped-title">
             <span></span>
             <p>ОСТАВИТЬ ЗАЯВКУ</p>
         </div>
         <section class="event-section5">
-            <form class="event-info" action="mailto:hello@vmguru.ru" method="post" enctype="text/plain" accept-charset="ISO-8859-1">
+            <form id="event-form" class="event-info" action="mailto:qborreda@gmail.com?subject=Trainings+contact" target="_blank" method="post" enctype="text/plain" lang="ru" accept-charset="UTF-8">
                 <div class="form-inputs">
                     <input type="text" name="name" placeholder="ИМЯ, ФАМИЛИЯ">
                     <div class="double">
-                        <input type="text" name="" placeholder="ДОЛЖНОСТЬ">
+                        <input type="text" name="position" placeholder="ДОЛЖНОСТЬ">
                         <input type="text" name="company" placeholder="КОМПАНИЯ">
                     </div>
                     <div class="double">
@@ -246,47 +249,43 @@
                         <p>Одежда</p>
                         <ul>
                             <li>
-                                <input type="checkbox" name="column1" value="Мужская">Мужская</li>
+                                <label><input type="checkbox" name="odezda" value="men">Мужская</label></li>
                             <li>
-                                <input type="checkbox" name="column1" value="Женская">Женская</li>
+                                <label><input type="checkbox" name="odezda" value="women">Женская</label></li>
                             <li>
-                                <input type="checkbox" name="column1" value="Детская">Детская</li>
+                                <label><input type="checkbox" name="odezda" value="kids">Детская</label></li>
                             <li>
-                                <input type="checkbox" name="column1" value="Верхняя">Верхняя</li>
+                                <label><input type="checkbox" name="odezda" value="lingerie">Верхняя</label></li>
                             <li>
-                                <input type="checkbox" name="column1" value="Белье">Белье</li>
+                                <label><input type="checkbox" name="odezda" value="pregnant">Белье</label></li>
                             <li>
-                                <input type="checkbox" name="column1" value="Для беременных">Для беременных</li>
+                                <label><input type="checkbox" name="odezda" value="big-sizes">Для беременных</label></li>
                             <li>
-                                <input type="checkbox" name="column1" value="Больших размеров">Больших размеров</li>
+                                <label><input type="checkbox" name="odezda" value="Больших размеров">Больших размеров</label></li>
                         </ul>
                     </div>
                     <div class="checkbox-group">
                         <p>обувь</p>
                         <ul>
                             <li>
-                                <input type="checkbox" name="column2" value="Мужская">Мужская</li>
+                                <label><input type="checkbox" name="shoes" value="men">Мужская</label></li>
                             <li>
-                                <input type="checkbox" name="column2" value="Женская">Женская</li>
+                                <label><input type="checkbox" name="shoes" value="women">Женская</label></li>
                             <li>
-                                <input type="checkbox" name="column2" value="Детская">Детская</li>
-                            <li>
-                                <input type="checkbox" name="column2" value="Больших размеров мужская">Больших размеров мужская</li>
-                            <li>
-                                <input type="checkbox" name="column2" value="Больших размеров женская">Больших размеров женская</li>
+                                <label><input type="checkbox" name="shoes" value="kids">Детская</label></li>
                         </ul>
                     </div>
                     <div class="checkbox-group">
                         <p>аксессуары</p>
                         <ul>
                             <li>
-                                <input type="checkbox" name="column3" value="Кожгалантерея">Кожгалантерея</li>
+                                <label><input type="checkbox" name="accesories" value="leather">Кожгалантерея</label></li>
                             <li>
-                                <input type="checkbox" name="column3" value="Бижутерия">Бижутерия</li>
+                                <label><input type="checkbox" name="accesories" value="jewelry">Бижутерия</label></li>
                             <li>
-                                <input type="checkbox" name="column3" value="Головные уборы">Головные уборы</li>
+                                <label><input type="checkbox" name="accesories" value="hats">Головные уборы</label></li>
                             <li>
-                                <input type="checkbox" name="column3" value="Ювелирная продукция, часы">Ювелирная продукция, часы</li>
+                                <label><input type="checkbox" name="accesories" value="watches">Ювелирная продукция, часы</label></li>
                         </ul>
                     </div>
                 </div>
