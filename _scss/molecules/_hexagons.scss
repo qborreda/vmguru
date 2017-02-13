@@ -60,11 +60,14 @@
       &::after {
         content: '';
         position: absolute;
-        width: 100px;
-        height: 43px;
-        background: transparent url(/imgs/icon-eye-projects.png) 0 0 no-repeat;
+        bottom: 4%;
+        left: 50%;
+        width: 30px;
+        height: 12px;
+        transform: translateX(-50%);
+        background: transparent url('../imgs/ico-eye-projects.png') 0 0 no-repeat;
         background-size: cover;
-        z-index: 100;
+        z-index: 10;
       }
       
       -webkit-transform: skewY(-30deg) rotate(60deg);
