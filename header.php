@@ -19,7 +19,7 @@
         </ul>
         <div class="social-links">
             <a href=""><span class="social-icon instagram"></span></a>
-            <a href=""><span class="social-icon facebook"></span></a>
+            <a href="https://www.facebook.com/VMGURU.Russia/" target="_blank"><span class="social-icon facebook"></span></a>
             <a href=""><span class="social-icon wk"></span></a>
         </div>
     </div>
