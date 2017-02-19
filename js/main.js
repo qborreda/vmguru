@@ -1,5 +1,6 @@
 $( document ).ready(function() {
 
+  // Header slide hiding
   var headerDistanceTrigger = 60;
 
   function floatedHeader() {
