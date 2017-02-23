@@ -10,9 +10,9 @@ if(isset($_POST['email'])) {
   $phone = filter_input(INPUT_POST, "phone", FILTER_SANITIZE_STRING);
   $email = filter_input(INPUT_POST, "email", FILTER_VALIDATE_EMAIL);
 
-  isset($_POST['odezda']) ? $odezda = $_POST['odezda'] :  $odezda  = "";
-  isset($_POST['shoes']) ? $shoes = $_POST['shoes'] :  $shoes = "";
-  isset($_POST['accesories']) ? $accesories = $_POST['accesories'] :  $accesories = "";
+  isset($_POST['odezda']) ? $odezda = $_POST['odezda'] :  $odezda  = [];
+  isset($_POST['shoes']) ? $shoes = $_POST['shoes'] :  $shoes = [];
+  isset($_POST['accesories']) ? $accesories = $_POST['accesories'] :  $accesories = [];
 
   $mess_odezda = "";
   $mess_shoes = "";
