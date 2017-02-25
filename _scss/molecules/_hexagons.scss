@@ -146,17 +146,19 @@
     clear:both;
   }
 
-  @media (min-width:741px) {
+  @include mq($from: tablet) {
     .hex-item{
       width:32.666%; /* = (100-2) / 3 */
       padding-bottom: 37.721%; /* =  width /0.866 */
     }
-    .hex-item:nth-child(5n+4), .hex-item:nth-child(5n+5) {
+    .hex-item:nth-child(5n+4), 
+    .hex-item:nth-child(5n+5) {
       margin-top: -8.622%;
       margin-bottom: -8.622%;
       transform: translateX(50%) rotate(-60deg) skewY(30deg);
     }
-    .hex-item:nth-child(5n+4):last-child, .hex-item:nth-child(5n+5):last-child{
+    .hex-item:nth-child(5n+4):last-child, 
+    .hex-item:nth-child(5n+5):last-child{
       margin-bottom:0;
     }
     .hex-item:nth-child(5n+4){
@@ -170,9 +172,9 @@
     .hex-item:nth-child(5n+6) {
       clear:left;
     }
-    
   }
-  @media (max-width: 740px) {
+
+  @include mq($until: tablet) {
     .hex-item{
       width:49.5%; /* = (100-1) / 2 */
       padding-bottom: 57.16%; /* =  width /0.866 */
