@@ -1,61 +1,60 @@
-$( document ).ready(function() {
-
+$(document).ready(function() {
   // Header slide hiding
   var headerDistanceTrigger = 60;
 
   function floatedHeader() {
     var distanceY = $(window).scrollTop(),
-        shrinkOn = headerDistanceTrigger,
-        header = $('.main-header');
+      shrinkOn = headerDistanceTrigger,
+      header = $(".main-header");
 
-    distanceY > shrinkOn 
-      ? header.addClass( 'floated' )
-      : header.removeClass( 'floated' );
+    distanceY > shrinkOn
+      ? header.addClass("floated")
+      : header.removeClass("floated");
   }
 
-  $(window).on('scroll', floatedHeader);
+  $(window).on("scroll", floatedHeader);
   floatedHeader();
 
   // Project Carrousel
-  $('.js-carrusel').slick({
+  $(".js-carrusel").slick({
     infinite: false,
     slidesToShow: 3,
     slidesToScroll: 3,
-    prevArrow: $('.btn-arrows-left'),
-    nextArrow: $('.btn-arrows-right'),
+    prevArrow: $(".btn-arrows-left"),
+    nextArrow: $(".btn-arrows-right"),
     responsive: [
-    {
-      breakpoint: 1024,
-      settings: {
-        slidesToShow: 3,
-        slidesToScroll: 3,
+      {
+        breakpoint: 1024,
+        settings: {
+          slidesToShow: 3,
+          slidesToScroll: 3
+        }
+      },
+      {
+        breakpoint: 980,
+        settings: {
+          slidesToShow: 2,
+          slidesToScroll: 2
+        }
+      },
+      {
+        breakpoint: 400,
+        settings: {
+          slidesToShow: 1,
+          slidesToScroll: 1
+        }
       }
-    },
-    {
-      breakpoint: 980,
-      settings: {
-        slidesToShow: 2,
-        slidesToScroll: 2
-      }
-    },
-    {
-      breakpoint: 400,
-      settings: {
-        slidesToShow: 1,
-        slidesToScroll: 1
-      }
-    }]
+    ]
   });
 
   // Project Carrousel
-  $('.js-main-carrusel').slick({
+  $(".js-main-carrusel").slick({
     infinite: true,
     slidesToShow: 1,
     slidesToScroll: 1,
     variableWidth: true,
     centerMode: true,
-    prevArrow: $('.btn-arrows-left'),
-    nextArrow: $('.btn-arrows-right')
+    prevArrow: $(".btn-arrows-left"),
+    nextArrow: $(".btn-arrows-right")
   });
-
 });
