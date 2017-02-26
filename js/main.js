@@ -47,4 +47,15 @@ $( document ).ready(function() {
     }]
   });
 
+  // Project Carrousel
+  $('.js-main-carrusel').slick({
+    infinite: true,
+    slidesToShow: 1,
+    slidesToScroll: 1,
+    variableWidth: true,
+    centerMode: true,
+    prevArrow: $('.btn-arrows-left'),
+    nextArrow: $('.btn-arrows-right')
+  });
+
 });

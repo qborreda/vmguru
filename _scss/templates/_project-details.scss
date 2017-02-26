@@ -21,6 +21,10 @@
     width: 96%;
     margin: 0 auto;
 
+    &-main {
+      max-width: 600px;
+    }
+
     .btn-arrows {
       position: absolute;
       top: 50%;
@@ -44,8 +48,6 @@
         height: auto;
       }
     }
-
-    .carr-item {}
   }
 
   .carrusel-legend {
