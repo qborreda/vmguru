@@ -50,8 +50,12 @@
     }
   }
 
-  .carrusel-legend {
+  .carrusel-legend,
+  .carrusel-main-legend {
     margin: 20px 35px;
     color: $DETAIL-GREY;
+  }
+  .carrusel-main-legend {
+    text-align: center;
   }
 }
