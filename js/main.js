@@ -16,12 +16,43 @@ $(document).ready(function() {
   floatedHeader();
 
   // Project Carrousel
-  $(".js-carrusel").slick({
+  $(".js-carrusel-1").slick({
     infinite: false,
     slidesToShow: 3,
     slidesToScroll: 3,
-    prevArrow: $(".btn-arrows-left"),
-    nextArrow: $(".btn-arrows-right"),
+    prevArrow: $(".js-carrusel-1 ~ .btn-arrows-left"),
+    nextArrow: $(".js-carrusel-1 ~ .btn-arrows-right"),
+    responsive: [
+      {
+        breakpoint: 1024,
+        settings: {
+          slidesToShow: 3,
+          slidesToScroll: 3
+        }
+      },
+      {
+        breakpoint: 980,
+        settings: {
+          slidesToShow: 2,
+          slidesToScroll: 2
+        }
+      },
+      {
+        breakpoint: 400,
+        settings: {
+          slidesToShow: 1,
+          slidesToScroll: 1
+        }
+      }
+    ]
+  });
+
+  $(".js-carrusel-2").slick({
+    infinite: false,
+    slidesToShow: 3,
+    slidesToScroll: 3,
+    prevArrow: $(".js-carrusel-2 ~ .btn-arrows-left"),
+    nextArrow: $(".js-carrusel-2 ~ .btn-arrows-right"),
     responsive: [
       {
         breakpoint: 1024,
@@ -54,7 +85,7 @@ $(document).ready(function() {
     slidesToScroll: 1,
     variableWidth: true,
     centerMode: true,
-    prevArrow: $(".btn-arrows-left"),
-    nextArrow: $(".btn-arrows-right")
+    prevArrow: $(".project-carrusel-main .btn-arrows-left"),
+    nextArrow: $(".project-carrusel-main .btn-arrows-right")
   });
 });
