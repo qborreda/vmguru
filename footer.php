@@ -12,12 +12,12 @@
     </div>
     <div class="footer-menu">
         <ul class="footer-menu__nav">
-            <li><a href="about-us.html">о нас</a></li>
-            <li><a href="consulting.html">консалтинг</a></li>
-            <li><a href="training.html">обучение</a></li>
-            <li><a href="projects.html">проекты</a></li>
-            <li><a href="publications.html">публикации</a></li>
-            <li><a href="contact.html">контакты</a></li>
+            <li><a href="/about-us.html">о нас</a></li>
+            <li><a href="/consulting.html">консалтинг</a></li>
+            <li><a href="/training.html">обучение</a></li>
+            <li><a href="/projects.html">проекты</a></li>
+            <li><a href="/publications.html">публикации</a></li>
+            <li><a href="/contact.html">контакты</a></li>
         </ul>
     </div>
     <div class="footer-logos">
