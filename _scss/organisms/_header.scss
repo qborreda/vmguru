@@ -5,8 +5,9 @@
   left: 0;
   right: 0;
   width: 100%;
-  padding: 20px;
-  overflow: hidden;
+  padding: 20px 0 0;
+  // overflow: hidden;
+  background-color: rgba(255,255,255,0.9);
   z-index: map-get($Z-LAYERS, floated-menu);
   transition: all 0.3s;
 
@@ -44,10 +45,6 @@
       text-align: right;
     }
 
-    li:hover {
-      // border-bottom: 1px solid $DETAIL-CYAN;
-    }
-
     .logo {
       text-align: center;
       border: none;
@@ -70,7 +67,6 @@
 
   .secondary {
     display: none;
-    visibility: none;
     position: relative;
     width: 100%;
     margin: 15px auto 0;
@@ -111,5 +107,86 @@
     .secondary { display: none; }
     .sub-tags { display: none; }
     .social-links { display: none; }
+  }
+
+  .mobile-menu {
+    display: inline-block;
+    position: absolute;
+    top: 15px;
+    left: 15px;
+    cursor: pointer;
+    z-index: map-get($Z-LAYERS, floated-menu) + 12;
+
+    .line {
+      width: 40px;
+      height: 5px;
+      background-color: $DETAIL-GREY;
+      display: block;
+      margin: 6px auto;
+      -webkit-transition: all 0.3s ease-in-out;
+      -o-transition: all 0.3s ease-in-out;
+      transition: all 0.3s ease-in-out;
+    }
+
+    &.is-active {
+      .line:nth-child(2){
+        opacity: 0;
+      }
+
+      .line:nth-child(1){
+        -webkit-transform: translateY(11px) rotate(45deg);
+        -ms-transform: translateY(11px) rotate(45deg);
+        -o-transform: translateY(11px) rotate(45deg);
+        transform: translateY(11px) rotate(45deg);
+      }
+
+      .line:nth-child(3){
+        -webkit-transform: translateY(-11px) rotate(-45deg);
+        -ms-transform: translateY(-11px) rotate(-45deg);
+        -o-transform: translateY(-11px) rotate(-45deg);
+        transform: translateY(-11px) rotate(-45deg);
+      }
+    }
+
+    @include mq($from: tablet) {
+      display: none;
+    }
+  }
+
+  .mobile-header {
+    @include display_flex();
+    @include flex_flex-direction(column);
+    @include flex_justify-content(center);
+    @include flex_align-items(center);
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: -100vw;
+    min-width: 100vw;
+    min-height: 100vh;
+    background-color: rgba(255,255,255,0.9);
+    z-index: map-get($Z-LAYERS, floated-menu) + 10;
+    transition: left 0.5s;
+
+    @include mq($from: tablet) {
+      display: none;
+    }
+
+    &.is-open {
+      left: 0;
+    }
+
+    .main-nav {
+
+      .main-nav-item {
+        font-size: 32px;
+        margin-bottom: 1rem;
+      }
+
+      li {
+        text-align: center;
+      }
+    }
+
   }
 }

@@ -1,9 +1,18 @@
 $(document).ready(function() {
-  // Header slide hiding
-  var headerDistanceTrigger = 60;
+
+  function isMobile() {
+    if( /Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent) ) {
+      return true;
+    }
+    else {
+      return false;
+    }
+  }
 
   function floatedHeader() {
-    var distanceY = $(window).scrollTop(),
+    // Header slide hiding
+    var headerDistanceTrigger = 60,
+      distanceY = $(window).scrollTop(),
       shrinkOn = headerDistanceTrigger,
       header = $(".main-header");
 
@@ -12,8 +21,33 @@ $(document).ready(function() {
       : header.removeClass("floated");
   }
 
-  $(window).on("scroll", floatedHeader);
-  floatedHeader();
+  // Mobile menu by cloning
+  var isMobile = isMobile();
+
+  if (isMobile) {
+
+    var $mainMenu = $('.main-nav');
+    var $mobileHeader = $('.mobile-header');
+    var $newMenu = $('.main-nav').clone();
+    var $newLogo = $('.main-nav .logo').clone();
+    var $menuIcon = $('.js-hamburger');
+
+    $newMenu.find('.logo').remove();
+    $mainMenu.find('.main-nav-item').not('.logo').hide();
+    $newMenu.prepend($newLogo);
+
+    $mobileHeader.empty().append($newMenu);
+
+    $('.js-hamburger').on('click', function(){
+      $(this).toggleClass('is-active');
+      $mobileHeader.toggleClass('is-open');
+    });
+
+  } else {
+
+    $(window).on("scroll", floatedHeader);
+    floatedHeader();
+  }
 
   // Project Carrousel
   $('.js-carrusel-1').length > 0 &&
