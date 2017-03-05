@@ -16,7 +16,8 @@ $(document).ready(function() {
   floatedHeader();
 
   // Project Carrousel
-  $(".js-carrusel-1").slick({
+  $('.js-carrusel-1').length > 0 &&
+  $('.js-carrusel-1').slick({
     infinite: false,
     slidesToShow: 3,
     slidesToScroll: 3,
@@ -47,6 +48,7 @@ $(document).ready(function() {
     ]
   });
 
+  $('.js-carrusel-2').length > 0 &&
   $(".js-carrusel-2").slick({
     infinite: false,
     slidesToShow: 3,
@@ -79,6 +81,7 @@ $(document).ready(function() {
   });
 
   // Project Carrousel
+  $('.js-main-carrusel').length > 0 &&
   $(".js-main-carrusel").slick({
     infinite: true,
     slidesToShow: 1,
