@@ -20,6 +20,17 @@
   &-copyright {
     @include flex_flex(0 1 180px);
     min-width: 180px;
+    order: 1;
+
+    .contact {
+      display: block;
+      margin: .5rem 0;
+      padding: 0;
+
+      @include mq($from: tablet) {
+        display: none;
+      }
+    }
 
     .social-links {
       display: block;
@@ -31,8 +42,14 @@
     }
   }
   &-menu {
-    @include flex_flex(0 1 180);
-    min-width: 180;
+    @include flex_flex(0 1 140px);
+    min-width: 140px;
+    order: 2;
+
+    @include mq($from: tablet) {
+      @include flex_flex(0 1 180px);
+      min-width: 180px;
+    }
 
     .footer-menu__nav {
       list-style: none;
@@ -43,10 +60,16 @@
   }
   &-logos {
     @include flex_flex(0 1 450px);
+    display: none;
+    order: 3;
     margin-left: 50px;
     margin-right: 50px;
     width: auto;
     text-align: center;
+
+    @include mq($from: tablet) {
+      display: block;
+    }
 
     .logo-row {
       @include display_flex();
@@ -61,8 +84,13 @@
     }
   }
   &-contact {
-    // display: none;
     @include flex_flex(0 0 auto);
+    display: none;
+    order: 4;
+
+    @include mq($from: tablet) {
+      display: block;
+    }
   }
 
 }

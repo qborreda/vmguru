@@ -3,6 +3,11 @@
     <div class="footer-copyright">
         &copy; агентство VM GURU 2017
         <br/>
+        <div class="contact">
+            +7 495 741 1784
+            <br/>
+            <a href="mailto:hello@vmguru.ru">hello@vmguru.ru</a>
+        </div>
         <br/> следите за нами:
         <div class="social-links inverse">
             <a href="https://www.instagram.com/anna_balandina_vmguru/" target="_blank"><span class="social-icon instagram"></span></a>
@@ -37,6 +42,5 @@
         +7 495 741 1784
         <br/>
         <a href="mailto:hello@vmguru.ru">hello@vmguru.ru</a>
-        
     </div>
 </footer>
