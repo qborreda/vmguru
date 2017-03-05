@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "start": "browser-sync start --server --files 'css/*.css' 'js/*.js'",
-    "scss": "sass _scss/styles.scss css/styles.css",
-    "scss:watch": "sass --watch _scss/styles.scss:css/styles.css"
+    "scss": "node-sass _scss/styles.scss css/styles.css --source-map true --output-style compressed",
+    "scss:watch": "node-sass -w _scss/styles.scss css/styles.css --source-map true --output-style compressed"
   },
   "keywords": [],
   "author": "Anna Balandina & Enrique Borredá",
