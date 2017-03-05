@@ -1,20 +1,15 @@
 .footer {
   @include display_flex();
-  @flex_flex-wrap(wrap);
   @include flex_justify-content(space-between);
   @include flex_align-items(flex-start);
-  padding: 20px 10px 30px;
+  padding: 20px 10px;
   font-size: $H4-SIZE;
   font-weight: 300;
   line-height: 150%;
   border-top: 1px solid $DETAIL-GREY;
 
-  > * {
-    margin: 0 1rem;
-  }
-
   @include mq($from: tablet) {
-    padding: 30px 20px;
+    padding: 30px 20px 30px;
   }
 
   &-copyright {
@@ -42,13 +37,16 @@
     }
   }
   &-menu {
-    @include flex_flex(0 1 140px);
-    min-width: 140px;
+    @include flex_flex(0 1 auto);
+    // min-width: 140px;
+    margin-left: 1rem;
+    text-align: right;
     order: 2;
 
     @include mq($from: tablet) {
       @include flex_flex(0 1 180px);
       min-width: 180px;
+      text-align: left;
     }
 
     .footer-menu__nav {
@@ -59,16 +57,19 @@
     }
   }
   &-logos {
-    @include flex_flex(0 1 450px);
+    @include flex_flex(1 1 450px);
     display: none;
     order: 3;
-    margin-left: 50px;
-    margin-right: 50px;
+    margin: 0 30px;
+    max-width: 425px;
     width: auto;
     text-align: center;
 
     @include mq($from: tablet) {
       display: block;
+    }
+    @include mq($from: desktop) {
+      margin: 0 50px;
     }
 
     .logo-row {
@@ -78,7 +79,7 @@
       @include flex_justify-content(center);
       @include flex_align-items(center);
 
-      img:not(:last-of-type) {
+      img {
         margin: 10px 20px 0 0;
       }
     }

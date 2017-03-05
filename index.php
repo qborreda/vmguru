@@ -25,7 +25,7 @@
 
     <!-- WRAPPER -->
     <div class="wrapper">
-        <section class="home-section1 clr">
+        <section class="home-section1">
             <div class="home-section1-image"></div>
             <div class="home-section1-arrow"></div>
             <div class="home-section1-footer">

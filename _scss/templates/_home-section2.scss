@@ -1,4 +1,5 @@
 .home-section2 {
+  @include clearfix();
   @include display_flex();
   @include flex_flex-wrap(wrap);
   @include flex_flex-direction(column);
@@ -13,12 +14,12 @@
   &-texts {
     @include display_flex();
     @include flex_flex-wrap(wrap);
-    @include flex_flex-direction(row);
+    @include flex_flex-direction(column);
     @include flex_align-items(center);
     @include flex_justify-content(center);
 
-    @include mq($until: tablet) {
-      @include flex_flex-direction(column);
+    @include mq($from: tablet) {
+      @include flex_flex-direction(row);
     }
 
     .wand-detail {
