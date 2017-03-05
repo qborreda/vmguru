@@ -17,9 +17,11 @@
     @include flex_flex-direction(column);
     @include flex_align-items(center);
     @include flex_justify-content(center);
+    margin: 50px 0;
 
     @include mq($from: tablet) {
       @include flex_flex-direction(row);
+      margin: 20px 0;
     }
 
     .wand-detail {
