@@ -12,24 +12,24 @@
     </div>
     <div class="footer-menu">
         <ul class="footer-menu__nav">
-            <li><a href="/about-us.html">о нас</a></li>
-            <li><a href="/consulting.html">консалтинг</a></li>
-            <li><a href="/training.html">обучение</a></li>
-            <li><a href="/projects.html">проекты</a></li>
-            <li><a href="/publications.html">публикации</a></li>
-            <li><a href="/contact.html">контакты</a></li>
+            <li><a href="/about-us.php">о нас</a></li>
+            <li><a href="/consulting.php">консалтинг</a></li>
+            <li><a href="/training.php">обучение</a></li>
+            <li><a href="/projects.php">проекты</a></li>
+            <li><a href="/publications.php">публикации</a></li>
+            <li><a href="/contact.php">контакты</a></li>
         </ul>
     </div>
     <div class="footer-logos">
         партнеры агентства:
         <div class="logo-row">
-            <img src="imgs/footer-logo-shoesreport.png" alt="">
-            <img src="imgs/footer-logo-euroshoes.png" alt="">
-            <img src="imgs/footer-logo-lingerie.png" alt="">
-            <img src="imgs/footer-logo-mosshoes.png" alt="">
-            <img src="imgs/footer-logo-mospel.png" alt="">
-            <img src="imgs/footer-logo-sberbank.png" alt="">
-            <img src="imgs/footer-logo-shoesandleather.png" alt="">
+            <img src="/imgs/footer-logo-shoesreport.png" alt="">
+            <img src="/imgs/footer-logo-euroshoes.png" alt="">
+            <img src="/imgs/footer-logo-lingerie.png" alt="">
+            <img src="/imgs/footer-logo-mosshoes.png" alt="">
+            <img src="/imgs/footer-logo-mospel.png" alt="">
+            <img src="/imgs/footer-logo-sberbank.png" alt="">
+            <img src="/imgs/footer-logo-shoesandleather.png" alt="">
             <img src="imgs/footer-logo-cjf.png" alt="">
         </div>
     </div>

@@ -1,20 +1,20 @@
 <!-- MAIN HEADER -->
 <header class="main-header">
     <ul class="main-nav">
-        <li><a href="/about-us.html">о нас</a></li>
-        <li><a href="/consulting.html">консалтинг</a></li>
-        <li><a href="/training.html">обучение</a></li>
-        <li class="logo"><a href="/index.html" class="no-border"><img src="imgs/vmguru_logo_hex.png" alt="VM Guru" /></a></li>
-        <li><a href="/projects.html">проекты</a></li>
-        <li><a href="/publications.html">публикации</a></li>
-        <li><a href="/contact.html">контакты</a></li>
+        <li><a href="/about-us.php">о нас</a></li>
+        <li><a href="/consulting.php">консалтинг</a></li>
+        <li><a href="/training.php">обучение</a></li>
+        <li class="logo"><a href="/index.php" class="no-border"><img src="/imgs/vmguru_logo_hex.png" alt="VM Guru" /></a></li>
+        <li><a href="/projects.php">проекты</a></li>
+        <li><a href="/publications.php">публикации</a></li>
+        <li><a href="/contact.php">контакты</a></li>
     </ul>
     <div class="secondary">
         <ul class="sub-tags">
             <li>визуальный мерчандайзинг</li>
-            <li><img src="imgs/ico-hex-nav.png" alt=""></li>
+            <li><img src="/imgs/ico-hex-nav.png" alt=""></li>
             <li>дизайн магазинов</li>
-            <li><img src="imgs/ico-hex-nav.png" alt=""></li>
+            <li><img src="/imgs/ico-hex-nav.png" alt=""></li>
             <li>вм-обучение</li>
         </ul>
         <div class="social-links">
