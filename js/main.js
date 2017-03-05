@@ -30,11 +30,11 @@ $(document).ready(function() {
     var $mobileHeader = $('.mobile-header');
     var $newMenu = $('.main-nav').clone();
     var $newLogo = $('.main-nav .logo').clone();
-    var $menuIcon = $('.js-hamburger');
+    var $menuIcon = $('.js-hamburger').show();
 
     $newMenu.find('.logo').remove();
-    $mainMenu.find('.main-nav-item').not('.logo').hide();
     $newMenu.prepend($newLogo);
+    $mainMenu.find('.main-nav-item').not('.logo').hide();
 
     $mobileHeader.empty().append($newMenu);
 
