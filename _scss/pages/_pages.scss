@@ -9,10 +9,12 @@ body {
   display: block;
   margin: 0 auto;
   max-width: 1300px;
-  padding-top: 230px;
+  padding-top: 170px;
   width: 100%;
-
-  // border: 1px dotted grey;
+  
+  @include mq($from: tablet) {
+    padding-top: 230px;
+  }
 }
 
 // Pages

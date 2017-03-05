@@ -1,13 +1,13 @@
 <!-- MAIN HEADER -->
 <header class="main-header">
     <ul class="main-nav">
-        <li><a href="/about-us.php">о нас</a></li>
-        <li><a href="/consulting.php">консалтинг</a></li>
-        <li><a href="/training.php">обучение</a></li>
-        <li class="logo"><a href="/index.php" class="no-border"><img src="/imgs/vmguru_logo_hex.png" alt="VM Guru" /></a></li>
-        <li><a href="/projects.php">проекты</a></li>
-        <li><a href="/publications.php">публикации</a></li>
-        <li><a href="/contact.php">контакты</a></li>
+        <li class="main-nav-item"><a class="main-nav-item__link" href="/about-us.php">о нас</a></li>
+        <li class="main-nav-item"><a class="main-nav-item__link" href="/consulting.php">консалтинг</a></li>
+        <li class="main-nav-item"><a class="main-nav-item__link" href="/training.php">обучение</a></li>
+        <li class="main-nav-item logo"><a class="main-nav-item__link no-border" href="/index.php"><img src="/imgs/vmguru_logo_hex.png" alt="VM Guru" /></a></li>
+        <li class="main-nav-item"><a class="main-nav-item__link" href="/projects.php">проекты</a></li>
+        <li class="main-nav-item"><a class="main-nav-item__link" href="/publications.php">публикации</a></li>
+        <li class="main-nav-item"><a class="main-nav-item__link" href="/contact.php">контакты</a></li>
     </ul>
     <div class="secondary">
         <ul class="sub-tags">
