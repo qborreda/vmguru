@@ -32,8 +32,8 @@
                 <div class="box-skewy"></div>
                 <div class="box-texts">
                     <div class="box-texts-date">
-                        <span class="day">13—14</span>
-                        <span class="month">марта</span>
+                        <span class="day">6—7</span>
+                        <span class="month">апреля</span>
                     </div>
                     <div class="box-texts-title">
                         ВИТPИНИСТИКА: СОЗДАНИЕ ЭФФЕКТИВНЫХ КОММЕРЧЕСКИХ ВИТРИH
