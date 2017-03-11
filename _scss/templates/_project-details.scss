@@ -59,3 +59,43 @@
     text-align: center;
   }
 }
+
+.project-testimonials {
+  @include display_flex();
+  @include flex_flex-direction(column);
+  @include flex_justify-content(stretch);
+  @include flex_align-items(flex-start);
+  padding: 0 10px;
+  margin-bottom: 15px;
+  line-height: 1.8rem;
+
+  @include mq($from: tablet) {
+    padding: 0 30px;
+    margin-bottom: 20px;
+    @include flex_flex-direction(row);
+    @include flex_justify-content(space-between);
+    @include flex_align-items(flex-start);
+  }
+  @include mq($from: desktop) {
+    padding: 0 50px;
+    margin-bottom: 30px;
+  }
+
+  .person {
+    @include flex_flex(0 0 350px);
+    margin: 30px 0 30px 20px;
+
+  }
+  .testimonial-text {
+    position: relative;
+    @include flex_flex(1 1 auto);
+    margin: 30px 20px;
+    line-height: 1.5rem;
+
+    p {
+      margin-bottom: 1rem;
+      font-size: 14px;
+    }
+  }
+
+}
