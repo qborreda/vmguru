@@ -31,30 +31,30 @@
         </div> -->
         <!-- <section class="projects-section2">
             <div class="client-grid">
-                <span class="client-grid-logo"><img src="imgs/client-modis.jpg" alt="Modis"></span>
-                <span class="client-grid-logo"><img src="imgs/client-marccain.jpg" alt="Marccain"></span>
-                <span class="client-grid-logo"><img src="imgs/client-mexx.jpg" alt="Mexx"></span>
-                <span class="client-grid-logo"><img src="imgs/client-gloriajeans.jpg" alt="Gloria Jeans"></span>
-                <span class="client-grid-logo"><img src="imgs/client-butikru.jpg" alt="Butik.ru"></span>
-                <span class="client-grid-logo"><img src="imgs/client-tomfarr.jpg" alt="Tom Farr"></span>
-                <span class="client-grid-logo"><img src="imgs/client-unicel.jpg" alt="Unicel"></span>
-                <span class="client-grid-logo"><img src="imgs/client-baon.jpg" alt="Baon"></span>
-                <span class="client-grid-logo"><img src="imgs/client-sela.jpg" alt="Sela"></span>
-                <span class="client-grid-logo"><img src="imgs/client-steilmann.jpg" alt="Steilmann"></span>
-                <span class="client-grid-logo"><img src="imgs/client-univermag.jpg" alt="Univermag"></span>
-                <span class="client-grid-logo"><img src="imgs/client-ekonoaic.jpg" alt="Ekopoaic"></span>
-                <span class="client-grid-logo"><img src="imgs/client-ikunuka.jpg" alt="Ikunika"></span>
-                <span class="client-grid-logo"><img src="imgs/client-koroneva.jpg" alt="Koroneva"></span>
-                <span class="client-grid-logo"><img src="imgs/client-converse.jpg" alt="Converse"></span>
-                <span class="client-grid-logo"><img src="imgs/client-orteka.jpg" alt="Orteka"></span>
-                <span class="client-grid-logo"><img src="imgs/client-eleganzza.jpg" alt="Eleganzza"></span>
-                <span class="client-grid-logo"><img src="imgs/client-calvinklein.jpg" alt="Calvin Klein Jeans"></span>
-                <span class="client-grid-logo"><img src="imgs/client-qxt.jpg" alt="QXT"></span>
-                <span class="client-grid-logo"><img src="imgs/client-incanto.jpg" alt="Incanto"></span>
-                <span class="client-grid-logo"><img src="imgs/client-axara.jpg" alt="Axara"></span>
-                <span class="client-grid-logo"><img src="imgs/client-normann.jpg" alt="Normann"></span>
-                <span class="client-grid-logo"><img src="imgs/client-ilquattro.jpg" alt="il Quattro"></span>
-                <span class="client-grid-logo"><img src="imgs/client-sintagamma.jpg" alt="Sinta Gamma"></span>
+                <span class="client-grid-logo"><img src="/imgs/client-modis.jpg" alt="Modis"></span>
+                <span class="client-grid-logo"><img src="/imgs/client-marccain.jpg" alt="Marccain"></span>
+                <span class="client-grid-logo"><img src="/imgs/client-mexx.jpg" alt="Mexx"></span>
+                <span class="client-grid-logo"><img src="/imgs/client-gloriajeans.jpg" alt="Gloria Jeans"></span>
+                <span class="client-grid-logo"><img src="/imgs/client-butikru.jpg" alt="Butik.ru"></span>
+                <span class="client-grid-logo"><img src="/imgs/client-tomfarr.jpg" alt="Tom Farr"></span>
+                <span class="client-grid-logo"><img src="/imgs/client-unicel.jpg" alt="Unicel"></span>
+                <span class="client-grid-logo"><img src="/imgs/client-baon.jpg" alt="Baon"></span>
+                <span class="client-grid-logo"><img src="/imgs/client-sela.jpg" alt="Sela"></span>
+                <span class="client-grid-logo"><img src="/imgs/client-steilmann.jpg" alt="Steilmann"></span>
+                <span class="client-grid-logo"><img src="/imgs/client-univermag.jpg" alt="Univermag"></span>
+                <span class="client-grid-logo"><img src="/imgs/client-ekonoaic.jpg" alt="Ekopoaic"></span>
+                <span class="client-grid-logo"><img src="/imgs/client-ikunuka.jpg" alt="Ikunika"></span>
+                <span class="client-grid-logo"><img src="/imgs/client-koroneva.jpg" alt="Koroneva"></span>
+                <span class="client-grid-logo"><img src="/imgs/client-converse.jpg" alt="Converse"></span>
+                <span class="client-grid-logo"><img src="/imgs/client-orteka.jpg" alt="Orteka"></span>
+                <span class="client-grid-logo"><img src="/imgs/client-eleganzza.jpg" alt="Eleganzza"></span>
+                <span class="client-grid-logo"><img src="/imgs/client-calvinklein.jpg" alt="Calvin Klein Jeans"></span>
+                <span class="client-grid-logo"><img src="/imgs/client-qxt.jpg" alt="QXT"></span>
+                <span class="client-grid-logo"><img src="/imgs/client-incanto.jpg" alt="Incanto"></span>
+                <span class="client-grid-logo"><img src="/imgs/client-axara.jpg" alt="Axara"></span>
+                <span class="client-grid-logo"><img src="/imgs/client-normann.jpg" alt="Normann"></span>
+                <span class="client-grid-logo"><img src="/imgs/client-ilquattro.jpg" alt="il Quattro"></span>
+                <span class="client-grid-logo"><img src="/imgs/client-sintagamma.jpg" alt="Sinta Gamma"></span>
             </div>
         </section> -->
         
@@ -69,23 +69,22 @@
             <br/>под руководством и при участии А. Баландиной</div>
 
             <ul class="hex-grid clr">
-                <li class="hex-item">
+                <li class="hex-item" data-link="/projects/project-incanto.php">
                     <div>
-                        <img class="hex-content" src="imgs/bkgr_hex_project1.jpg" alt="" />
-                        <!-- <div class="hex-title">INCANTO 1</div> -->
-                        <p class="hex-description is-little-text">мерчандайзинг бук для концепта vanilla sky</p>
+                        <img class="hex-content" src="/imgs/bkgr_hex_project1.jpg" alt="" />
+                        <!-- <div class="hex-title">INCANTO 1</div> --><p class="hex-description is-little-text">мерчандайзинг бук для концепта vanilla sky</p>
                     </div>
                 </li>
-                <li class="hex-item">
+                <li class="hex-item" data-link="/projects/project-incanto.php">
                     <div>
-                        <img class="hex-content" src="imgs/bkgr_hex_project2.jpg" alt="" />
+                        <img class="hex-content" src="/imgs/bkgr_hex_project2.jpg" alt="" />
                         <!-- <div class="hex-title">INCANTO 2</div> -->
                         <p class="hex-description is-little-text">аудит торговых концептов бренда</p>
                     </div>
                 </li>
                 <li class="hex-item">
                     <div class="white-icon">
-                        <img class="hex-content" src="imgs/bkgr_hex_project3.jpg" alt="" />
+                        <img class="hex-content" src="/imgs/bkgr_hex_project3.jpg" alt="" />
                         <!-- <div class="hex-title white-text">Yunichel</div> -->
                         <p class="hex-description is-little-text">
                             разработка вм стандартов;
@@ -95,7 +94,7 @@
                 </li>
                 <li class="hex-item">
                     <div class="white-icon">
-                        <img class="hex-content" src="imgs/bkgr_hex_project5.jpg" alt="" />
+                        <img class="hex-content" src="/imgs/bkgr_hex_project5.jpg" alt="" />
                         <!-- <div class="hex-title">Yunichel</div> -->
                         <p class="hex-description is-little-text">
                             разработка и внедрение системы дистанционного ВМ
@@ -104,7 +103,7 @@
                 </li>
                 <li class="hex-item">
                     <div class="white-icon">
-                        <img class="hex-content" src="imgs/bkgr_hex_project3.jpg" alt="" />
+                        <img class="hex-content" src="/imgs/bkgr_hex_project3.jpg" alt="" />
                         <!-- <div class="hex-title white-text">Yunichel</div> -->
                         <p class="hex-description is-little-text">
                             сезонная поддержка и обучение
@@ -113,7 +112,7 @@
                 </li>
                 <li class="hex-item">
                     <div class="white-icon">
-                        <img class="hex-content" src="imgs/bkgr_hex_project6.jpg" alt="" />
+                        <img class="hex-content" src="/imgs/bkgr_hex_project6.jpg" alt="" />
                         <!-- <div class="hex-title">Modis 1</div> -->
                         <p class="hex-description white-text">
                             АУДИТ СТАНДАРТОВ ВМ;
@@ -126,7 +125,7 @@
                 </li>
                 <li class="hex-item">
                     <div>
-                        <img class="hex-content" src="imgs/bkgr_hex_project7.jpg" alt="" />
+                        <img class="hex-content" src="/imgs/bkgr_hex_project7.jpg" alt="" />
                         <!-- <div class="hex-title">Modis 2</div> -->
                         <p class="hex-description">
                             РАЗРАБОТКА И ВНЕДРЕНИЕ
@@ -137,7 +136,7 @@
                 </li>
                 <li class="hex-item">
                     <div>
-                        <img class="hex-content" src="imgs/bkgr_hex_project17.jpg" alt="" />
+                        <img class="hex-content" src="/imgs/bkgr_hex_project17.jpg" alt="" />
                         <!-- <div class="hex-title">Moda HSE</div> -->
                         <p class="hex-description">
                             КУРС НИУ ВШЭ «ВИЗУАЛЬНЫЙ МЕРЧАНДАЙЗИНГ
@@ -149,7 +148,7 @@
                 </li>
                 <li class="hex-item">
                     <div>
-                        <img class="hex-content" src="imgs/bkgr_hex_project9.jpg" alt="" />
+                        <img class="hex-content" src="/imgs/bkgr_hex_project9.jpg" alt="" />
                         <!-- <div class="hex-title">Sieznnaya 1</div> -->
                         <p class="hex-description">
                             РАЗРАБОТКА СТАНДАРТОВ ПРЕЗЕНТАЦИИ
@@ -160,7 +159,7 @@
                 </li>
                 <li class="hex-item">
                     <div>
-                        <img class="hex-content" src="imgs/bkgr_hex_project10.jpg" alt="" />
+                        <img class="hex-content" src="/imgs/bkgr_hex_project10.jpg" alt="" />
                         <!-- <div class="hex-title">Sieznnaya 2</div> -->
                         <p class="hex-description">
                             РАЗРАБОТКА И ВНЕДРЕНИЕ
@@ -171,7 +170,7 @@
                 </li>
                 <li class="hex-item">
                     <div>
-                        <img class="hex-content" src="imgs/bkgr_hex_project11.jpg" alt="" />
+                        <img class="hex-content" src="/imgs/bkgr_hex_project11.jpg" alt="" />
                         <!-- <div class="hex-title">Mexx 1</div> -->
                         <p class="hex-description">
                             АДАПТАЦИЯ, СУПЕРВАЙЗИНГ И ВНЕДРЕНИЕ
@@ -182,7 +181,7 @@
                 </li>
                 <li class="hex-item">
                     <div class="white-icon">
-                        <img class="hex-content" src="imgs/bkgr_hex_project12.jpg" alt="" />
+                        <img class="hex-content" src="/imgs/bkgr_hex_project12.jpg" alt="" />
                         <!-- <div class="hex-title">Mexx 2</div> -->
                         <p class="hex-description white-text">
                             РАЗРАБОТКА И РЕАЛИЗАЦИЯ
@@ -194,7 +193,7 @@
                 </li>
                 <li class="hex-item">
                     <div>
-                        <img class="hex-content" src="imgs/bkgr_hex_project13.jpg" alt="" />
+                        <img class="hex-content" src="/imgs/bkgr_hex_project13.jpg" alt="" />
                         <!-- <div class="hex-title">Mexx 3</div> -->
                         <p class="hex-description">
                             МЕРЧАНДАЙЗИНГ БУК;
@@ -205,7 +204,7 @@
                 </li>
                 <li class="hex-item">
                     <div>
-                        <img class="hex-content" src="imgs/bkgr_hex_project14.jpg" alt="" />
+                        <img class="hex-content" src="/imgs/bkgr_hex_project14.jpg" alt="" />
                         <!-- <div class="hex-title">Fest 1</div> -->
                         <p class="hex-description">
                             АУДИТ ВМ СТАНДАРТОВ КОНКУРЕНТОВ
@@ -216,7 +215,7 @@
                 </li>
                 <li class="hex-item">
                     <div class="white-icon">
-                        <img class="hex-content" src="imgs/bkgr_hex_project15.jpg" alt="" />
+                        <img class="hex-content" src="/imgs/bkgr_hex_project15.jpg" alt="" />
                         <!-- <div class="hex-title">Fest 2</div> -->
                         <p class="hex-description">
                             РАЗРАБОТКА И ПРОВЕДЕНИЕ
@@ -228,7 +227,7 @@
                 </li>
                 <li class="hex-item">
                     <div>
-                        <img class="hex-content" src="imgs/bkgr_hex_project4.jpg" alt="" />
+                        <img class="hex-content" src="/imgs/bkgr_hex_project4.jpg" alt="" />
                         <!-- <div class="hex-title">Eleganzza</div> -->
                         <p class="hex-description is-little-text">
                             Разработка витринной концепции;
@@ -238,7 +237,7 @@
                 </li>
                 <li class="hex-item">
                     <div class="white-icon">
-                        <img class="hex-content" src="imgs/bkgr_hex_project16.jpg" alt="" />
+                        <img class="hex-content" src="/imgs/bkgr_hex_project16.jpg" alt="" />
                         <!-- <div class="hex-title">Baon</div> -->
                         <p class="hex-description white-text is-little-text">
                             АУДИТ ВМ СТАНДАРТОВ ВМ;
@@ -248,7 +247,7 @@
                 </li>
                 <li class="hex-item">
                     <div>
-                        <img class="hex-content" src="imgs/bkgr_hex_project8.jpg" alt="" />
+                        <img class="hex-content" src="/imgs/bkgr_hex_project8.jpg" alt="" />
                         <!-- <div class="hex-title">XNT Zona</div> -->
                         <p class="hex-description is-little-text">
                             РАЗРАБОТКА ВИТРИННЫХ КОНЦЕПЦИЙ;
@@ -258,7 +257,7 @@
                 </li>
                 <li class="hex-item">
                     <div>
-                        <img class="hex-content" src="imgs/bkgr_hex_project18.jpg" alt="" />
+                        <img class="hex-content" src="/imgs/bkgr_hex_project18.jpg" alt="" />
                         <!-- <div class="hex-title">Ikonica</div> -->
                         <p class="hex-description is-little-text">
                             РАЗРАБОТКА ВИТРИННОЙ КОНЦЕПЦИИ;
@@ -268,7 +267,7 @@
                 </li>
                 <li class="hex-item">
                     <div class="white-icon">
-                        <img class="hex-content" src="imgs/bkgr_hex_project20.jpg" alt="" />
+                        <img class="hex-content" src="/imgs/bkgr_hex_project20.jpg" alt="" />
                         <!-- <div class="hex-title">Sela</div> -->
                         <p class="hex-description white-text">
                             РЕДРЕССИНГ ТИПОВОГО МАГАЗИНА C
@@ -280,7 +279,7 @@
                 </li>
                 <li class="hex-item">
                     <div>
-                        <img class="hex-content" src="imgs/bkgr_hex_project21.jpg" alt="" />
+                        <img class="hex-content" src="/imgs/bkgr_hex_project21.jpg" alt="" />
                         <!-- <div class="hex-title">Marccain</div> -->
                         <p class="hex-description">
                             СТАНДАРТЫ ПРЕЗЕНТАЦИИ ПРЕМИУМ КОЛЛЕКЦИЙ - 
@@ -290,7 +289,7 @@
                 </li>
                 <li class="hex-item">
                     <div>
-                        <img class="hex-content" src="imgs/bkgr_hex_project19.jpg" alt="" />
+                        <img class="hex-content" src="/imgs/bkgr_hex_project19.jpg" alt="" />
                         <!-- <div class="hex-title">Ikopolis</div> -->
                         <p class="hex-description is-little-text">
                             ПРОГРАММА КОРПОРАТИВНОГО ОБУЧЕНИЯ
@@ -300,7 +299,7 @@
                 </li>
                 <li class="hex-item">
                     <div class="white-icon">
-                        <img class="hex-content" src="imgs/bkgr_hex_project22.jpg" alt="" />
+                        <img class="hex-content" src="/imgs/bkgr_hex_project22.jpg" alt="" />
                         <!-- <div class="hex-title">Tom Farr</div> -->
                         <p class="hex-description">
                             АУДИТ СТАНДАРТОВ ВМ;
@@ -311,7 +310,7 @@
                 </li>
                 <li class="hex-item">
                     <div>
-                        <img class="hex-content" src="imgs/bkgr_hex_project23.jpg" alt="" />
+                        <img class="hex-content" src="/imgs/bkgr_hex_project23.jpg" alt="" />
                         <!-- <div class="hex-title">Di Jeans</div> -->
                         <p class="hex-description">
                             КОРПОРАТИВНОЕ ВМ ОБУЧЕНИЕ С
@@ -322,7 +321,7 @@
                 </li>
                 <li class="hex-item">
                     <div>
-                        <img class="hex-content" src="imgs/bkgr_hex_project24.jpg" alt="" />
+                        <img class="hex-content" src="/imgs/bkgr_hex_project24.jpg" alt="" />
                         <!-- <div class="hex-title">Orteka</div> -->
                         <p class="hex-description">
                             СТАНДАРТЫ ПРЕЗЕНТАЦИИ

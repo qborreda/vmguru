@@ -35,7 +35,7 @@
             <img src="/imgs/footer-logo-mospel.png" alt="">
             <img src="/imgs/footer-logo-sberbank.png" alt="">
             <img src="/imgs/footer-logo-shoesandleather.png" alt="">
-            <img src="imgs/footer-logo-cjf.png" alt="">
+            <img src="/imgs/footer-logo-cjf.png" alt="">
         </div>
     </div>
     <div class="footer-contact">

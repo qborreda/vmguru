@@ -35,7 +35,7 @@
                     <p class="hex-content-name">СОЗДАНИЕ МЕРЧАНДАЙЗИНГ-БУК INCANTO 
                     <br/>ДЛЯ МАГАЗИНОВ КОНЦЕПТА VANILLA SKY</p>
                     <div class="hex-content-image">
-                        <img src="/imgs/bkgr_hex_project_incanto_1.jpg" height="374" width="324" alt="" />
+                        <img src="/imgs/bkgr_hex_project_incanto_1.jpg" alt="" />
                     </div>
                 </div>
                 <div class="hex-content-right">
@@ -82,7 +82,7 @@
                 <div class="hex-content-left">
                     <p class="hex-content-name">АУДИТ ТЕКУЩИХ ТОРГОВЫХ КОНЦЕПТОВ (ТК) INCANTO, РЕКОМЕНДАЦИИ ПО ДОРАБОТКЕ НОВОГО ТК INCANTO - VANILLA SKY</p>
                     <div class="hex-content-image">
-                        <img src="/imgs/bkgr_hex_project_incanto_2.jpg" height="374" width="324" alt="" />
+                        <img src="/imgs/bkgr_hex_project_incanto_2.jpg" alt="" />
                     </div>
                 </div>
                 <div class="hex-content-right">

@@ -49,6 +49,12 @@ $(document).ready(function() {
     floatedHeader();
   }
 
+  // Link on project hexagons
+  $(document).on('click', '[data-link]', function(event) {
+    var url = window.location.origin + $(this).data('link');
+    window.location.href = url;
+  });
+
   // Project Carrousel
   $('.js-carrusel-1').length > 0 &&
   $('.js-carrusel-1').slick({
