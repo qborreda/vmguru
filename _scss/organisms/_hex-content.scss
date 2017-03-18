@@ -69,6 +69,28 @@
       }
     }
 
+    .hex-content-client-description {
+      display: none;
+      position: absolute;
+      left: 0;
+      margin: 0;
+      padding: 0;
+      z-index: 10;
+
+      text-transform: uppercase;
+      font-size: 14px;
+      line-height: 120%;
+      font-style: italic;
+      color: rgba($PRIMARY-TEXT-COLOR, .6);
+
+      @include mq($from: tablet) {
+        display: block;
+        position: absolute;
+        bottom: 10px;
+        left: -60px;
+      }
+    }
+
     // trick: there are two copies of the .hex-content-name
     @include mq($until: tablet) {
       .hex-content-left .hex-content-name { display: block; }
