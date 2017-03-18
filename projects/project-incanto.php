@@ -74,7 +74,7 @@
                 <img class="btn-arrows btn-arrows-right" src="/imgs/btn_arrow_right.png" />
             </div>
 
-            <div class="carrusel-legend">проект реализован: декабрь 2016</div>
+            <div class="carrusel-legend">/ проект реализован: декабрь 2016 / выборочные страницы отчетных документов /</div>
 
         </section>
 
