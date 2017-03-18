@@ -56,6 +56,30 @@ $(document).ready(function() {
   });
 
   // Project Carrousel
+  var carruselResponsiveOptions = [
+    {
+      breakpoint: 1024,
+      settings: {
+        slidesToShow: 3,
+        slidesToScroll: 3
+      }
+    },
+    {
+      breakpoint: 980,
+      settings: {
+        slidesToShow: 2,
+        slidesToScroll: 2
+      }
+    },
+    {
+      breakpoint: 400,
+      settings: {
+        slidesToShow: 1,
+        slidesToScroll: 1
+      }
+    }
+  ];
+
   $('.js-carrusel-1').length > 0 &&
   $('.js-carrusel-1').slick({
     infinite: false,
@@ -63,29 +87,7 @@ $(document).ready(function() {
     slidesToScroll: 3,
     prevArrow: $(".js-carrusel-1 ~ .btn-arrows-left"),
     nextArrow: $(".js-carrusel-1 ~ .btn-arrows-right"),
-    responsive: [
-      {
-        breakpoint: 1024,
-        settings: {
-          slidesToShow: 3,
-          slidesToScroll: 3
-        }
-      },
-      {
-        breakpoint: 980,
-        settings: {
-          slidesToShow: 2,
-          slidesToScroll: 2
-        }
-      },
-      {
-        breakpoint: 400,
-        settings: {
-          slidesToShow: 1,
-          slidesToScroll: 1
-        }
-      }
-    ]
+    responsive: carruselResponsiveOptions
   });
 
   $('.js-carrusel-2').length > 0 &&
@@ -95,29 +97,17 @@ $(document).ready(function() {
     slidesToScroll: 3,
     prevArrow: $(".js-carrusel-2 ~ .btn-arrows-left"),
     nextArrow: $(".js-carrusel-2 ~ .btn-arrows-right"),
-    responsive: [
-      {
-        breakpoint: 1024,
-        settings: {
-          slidesToShow: 3,
-          slidesToScroll: 3
-        }
-      },
-      {
-        breakpoint: 980,
-        settings: {
-          slidesToShow: 2,
-          slidesToScroll: 2
-        }
-      },
-      {
-        breakpoint: 400,
-        settings: {
-          slidesToShow: 1,
-          slidesToScroll: 1
-        }
-      }
-    ]
+    responsive: carruselResponsiveOptions
+  });
+
+  $('.js-carrusel-3').length > 0 &&
+  $(".js-carrusel-3").slick({
+    infinite: false,
+    slidesToShow: 3,
+    slidesToScroll: 3,
+    prevArrow: $(".js-carrusel-3 ~ .btn-arrows-left"),
+    nextArrow: $(".js-carrusel-3 ~ .btn-arrows-right"),
+    responsive: carruselResponsiveOptions
   });
 
   // Project Carrousel
