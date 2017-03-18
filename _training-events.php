@@ -5,8 +5,8 @@
         <img src="imgs/bkgr_event1.jpg">
         <div class="article-stripe">
             <div class="article-dates">
-                <span class="month">марта</span>
-                <span class="date">20</span>
+                <span class="month">апреля</span>
+                <span class="date">10</span>
             </div>
             <p>Создание магазина fashion-сегмента: планировки, зонирование, оптимальная вместимость, ВМ-дизайн</p>
         </div>
@@ -17,8 +17,8 @@
         <img src="imgs/bkgr_event3.jpg">
         <div class="article-stripe">
             <div class="article-dates">
-                <span class="month">марта</span>
-                <span class="date">21—22</span>
+                <span class="month">апреля</span>
+                <span class="date">11—12</span>
             </div>
             <p>Визуальный мерчандайзинг для магазинов обуви и аксессуаров</p>
         </div>

@@ -32,8 +32,8 @@
                 <div class="box-skewy"></div>
                 <div class="box-texts">
                     <div class="box-texts-date">
-                        <span class="day">20</span>
-                        <span class="month">марта</span>
+                        <span class="day">10</span>
+                        <span class="month">апреля</span>
                     </div>
                     <div class="box-texts-title">
                         СОЗДАНИЕ МАГАЗИНА ФЭШН СЕГМЕНТА:
