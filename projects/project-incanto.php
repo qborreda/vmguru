@@ -116,6 +116,8 @@
                 <img class="btn-arrows btn-arrows-right" src="/imgs/btn_arrow_right.png" />
             </div>
 
+            <div class="carrusel-legend">/ проект реализован: ноябрь 2014 / выборочные страницы отчетных документов /</div>
+
         </section>
 
         <div class="stripped-title">
