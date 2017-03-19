@@ -110,7 +110,7 @@
                         </p>
                     </div>
                 </li>
-                <li class="hex-item">
+                <li class="hex-item"  data-link="/projects/project-modis.php">
                     <div class="white-icon">
                         <img class="hex-content" src="/imgs/bkgr_hex_project6.jpg" alt="" />
                         <!-- <div class="hex-title">Modis 1</div> -->
@@ -123,7 +123,7 @@
                         </p>
                     </div>
                 </li>
-                <li class="hex-item">
+                <li class="hex-item"  data-link="/projects/project-modis.php">
                     <div>
                         <img class="hex-content" src="/imgs/bkgr_hex_project7.jpg" alt="" />
                         <!-- <div class="hex-title">Modis 2</div> -->
