@@ -85,40 +85,40 @@ $(document).ready(function() {
     infinite: false,
     slidesToShow: 3,
     slidesToScroll: 3,
-    prevArrow: $(".js-carrusel-1 ~ .btn-arrows-left"),
-    nextArrow: $(".js-carrusel-1 ~ .btn-arrows-right"),
+    prevArrow: $('.js-carrusel-1 ~ .btn-arrows-left'),
+    nextArrow: $('.js-carrusel-1 ~ .btn-arrows-right'),
     responsive: carruselResponsiveOptions
   });
 
   $('.js-carrusel-2').length > 0 &&
-  $(".js-carrusel-2").slick({
+  $('.js-carrusel-2').slick({
     infinite: false,
     slidesToShow: 3,
     slidesToScroll: 3,
-    prevArrow: $(".js-carrusel-2 ~ .btn-arrows-left"),
-    nextArrow: $(".js-carrusel-2 ~ .btn-arrows-right"),
+    prevArrow: $('.js-carrusel-2 ~ .btn-arrows-left'),
+    nextArrow: $('.js-carrusel-2 ~ .btn-arrows-right'),
     responsive: carruselResponsiveOptions
   });
 
   $('.js-carrusel-3').length > 0 &&
-  $(".js-carrusel-3").slick({
+  $('.js-carrusel-3').slick({
     infinite: false,
     slidesToShow: 3,
     slidesToScroll: 3,
-    prevArrow: $(".js-carrusel-3 ~ .btn-arrows-left"),
-    nextArrow: $(".js-carrusel-3 ~ .btn-arrows-right"),
+    prevArrow: $('.js-carrusel-3 ~ .btn-arrows-left'),
+    nextArrow: $('.js-carrusel-3 ~ .btn-arrows-right'),
     responsive: carruselResponsiveOptions
   });
 
   // Project Carrousel
   $('.js-main-carrusel').length > 0 &&
-  $(".js-main-carrusel").slick({
+  $('.js-main-carrusel').slick({
     infinite: true,
     slidesToShow: 1,
     slidesToScroll: 1,
     variableWidth: true,
     centerMode: true,
-    prevArrow: $(".project-carrusel-main .btn-arrows-left"),
-    nextArrow: $(".project-carrusel-main .btn-arrows-right")
+    prevArrow: $('.project-carrusel-main .btn-arrows-left'),
+    nextArrow: $('.project-carrusel-main .btn-arrows-right')
   });
 });
