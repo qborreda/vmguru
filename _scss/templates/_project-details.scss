@@ -19,7 +19,7 @@
   .project-carrusel {
     position: relative;
     width: 96%;
-    margin: 0 auto;
+    margin: 20px auto 0;
 
     &-main {
       max-width: 600px;
@@ -53,6 +53,7 @@
   .carrusel-legend,
   .carrusel-main-legend {
     margin: 5px 35px;
+    line-height: 1.2;
     color: $DETAIL-GREY;
   }
   .carrusel-main-legend {
