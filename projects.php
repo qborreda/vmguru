@@ -82,7 +82,7 @@
                         <p class="hex-description is-little-text">аудит торговых концептов бренда</p>
                     </div>
                 </li>
-                <li class="hex-item">
+                <li class="hex-item" data-link="/projects/project-unichel.php">
                     <div class="white-icon">
                         <img class="hex-content" src="/imgs/bkgr_hex_project3.jpg" alt="" />
                         <!-- <div class="hex-title white-text">Yunichel</div> -->
@@ -92,7 +92,7 @@
                         </p>
                     </div>
                 </li>
-                <li class="hex-item">
+                <li class="hex-item" data-link="/projects/project-unichel.php">
                     <div class="white-icon">
                         <img class="hex-content" src="/imgs/bkgr_hex_project5.jpg" alt="" />
                         <!-- <div class="hex-title">Yunichel</div> -->
@@ -101,7 +101,7 @@
                         </p>
                     </div>
                 </li>
-                <li class="hex-item">
+                <li class="hex-item" data-link="/projects/project-unichel.php">
                     <div class="white-icon">
                         <img class="hex-content" src="/imgs/bkgr_hex_project3.jpg" alt="" />
                         <!-- <div class="hex-title white-text">Yunichel</div> -->

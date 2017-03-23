@@ -36,7 +36,7 @@
                     <br/>И СОЗДАНИЕ МЕРЧАНДАЙЗИНГ
                     <br/>БУК «ЮНИЧЕЛ»</p>
                     <div class="hex-content-image">
-                        <img src="/imgs/bkgr_hex_project_modis1.jpg" alt="" />
+                        <img src="/imgs/bkgr_hex_project_unichel1.jpg" alt="" />
                     </div>
                 </div>
                 <div class="hex-content-right">
@@ -97,7 +97,7 @@
                     <br/>ВИЗУАЛЬНОГО МЕРЧАНДАЙЗИНГА<sup>*</sup>
                     <br/>СЕТИ «ЮНИЧЕЛ»</p>
                     <div class="hex-content-image">
-                        <img src="/imgs/bkgr_hex_project_modis2.jpg" alt="" />
+                        <img src="/imgs/bkgr_hex_project_unichel2.jpg" alt="" />
                     </div>
                 </div>
                 <div class="hex-content-right">
