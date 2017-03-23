@@ -117,6 +117,12 @@
       & + .hex-content-description {
         margin-top: 10px;
       }
+
+      &.small {
+        font-size: 12px;
+        line-height: 1;
+        color: rgba($PRIMARY-TEXT-COLOR, .6);
+      }
     }
 
     .hex-content-list {
@@ -132,6 +138,13 @@
       
       li {
         margin-left: 20px;
+        line-height: 1.5;
+      }
+    }
+
+    .hex-content-list + .hex-content-description {
+      @include mq($from: tablet) {
+        margin-top: 0;
       }
     }
 
