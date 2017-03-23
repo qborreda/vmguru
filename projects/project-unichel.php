@@ -116,17 +116,21 @@
             <div class="project-carrusel">
 
                 <div class="js-carrusel-2">
-                    <div class="carr-item"><img src="/imgs/projects/modis-2-01.jpg" alt=""></div>
-                    <div class="carr-item"><img src="/imgs/projects/modis-2-02.jpg" alt=""></div>
-                    <div class="carr-item"><img src="/imgs/projects/modis-2-03.jpg" alt=""></div>
-                    <div class="carr-item"><img src="/imgs/projects/modis-2-04.jpg" alt=""></div>
-                    <div class="carr-item"><img src="/imgs/projects/modis-2-05.jpg" alt=""></div>
-                    <div class="carr-item"><img src="/imgs/projects/modis-2-06.jpg" alt=""></div>
-                    <div class="carr-item"><img src="/imgs/projects/modis-2-07.jpg" alt=""></div>
-                    <div class="carr-item"><img src="/imgs/projects/modis-2-08.jpg" alt=""></div>
-                    <div class="carr-item"><img src="/imgs/projects/modis-2-09.jpg" alt=""></div>
-                    <div class="carr-item"><img src="/imgs/projects/modis-2-10.jpg" alt=""></div>
-                    <div class="carr-item"><img src="/imgs/projects/modis-2-11.jpg" alt=""></div>
+                    <div class="carr-item"><img src="/imgs/projects/unichel-2-01.jpg" alt=""></div>
+                    <div class="carr-item"><img src="/imgs/projects/unichel-2-02.jpg" alt=""></div>
+                    <div class="carr-item"><img src="/imgs/projects/unichel-2-03.jpg" alt=""></div>
+                    <div class="carr-item"><img src="/imgs/projects/unichel-2-04.jpg" alt=""></div>
+                    <div class="carr-item"><img src="/imgs/projects/unichel-2-05.jpg" alt=""></div>
+                    <div class="carr-item"><img src="/imgs/projects/unichel-2-06.jpg" alt=""></div>
+                    <div class="carr-item"><img src="/imgs/projects/unichel-2-07.jpg" alt=""></div>
+                    <div class="carr-item"><img src="/imgs/projects/unichel-2-08.jpg" alt=""></div>
+                    <div class="carr-item"><img src="/imgs/projects/unichel-2-09.jpg" alt=""></div>
+                    <div class="carr-item"><img src="/imgs/projects/unichel-2-10.jpg" alt=""></div>
+                    <div class="carr-item"><img src="/imgs/projects/unichel-2-11.jpg" alt=""></div>
+                    <div class="carr-item"><img src="/imgs/projects/unichel-2-12.jpg" alt=""></div>
+                    <div class="carr-item"><img src="/imgs/projects/unichel-2-13.jpg" alt=""></div>
+                    <div class="carr-item"><img src="/imgs/projects/unichel-2-14.jpg" alt=""></div>
+                    <div class="carr-item"><img src="/imgs/projects/unichel-2-15.jpg" alt=""></div>
                 </div>
 
                 <img class="btn-arrows btn-arrows-left" src="/imgs/btn_arrow_left.png" />
