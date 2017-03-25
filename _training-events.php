@@ -6,7 +6,7 @@
         <div class="article-stripe">
             <div class="article-dates">
                 <span class="month">апреля</span>
-                <span class="date">10</span>
+                <span class="date">17</span>
             </div>
             <p>Создание магазина fashion-сегмента: планировки, зонирование, оптимальная вместимость, ВМ-дизайн</p>
         </div>
@@ -30,7 +30,7 @@
         <div class="article-stripe">
             <div class="article-dates">
                 <span class="month">апреля</span>
-                <span class="date">6—7</span>
+                <span class="date">18—19</span>
             </div>
             <p>Витринистика: создание эффективных витрин. Большой эффект без больших расходов.</p>
         </div>
@@ -42,7 +42,7 @@
         <div class="article-stripe">
             <div class="article-dates">
                 <span class="month">апреля</span>
-                <span class="date">13—14</span>
+                <span class="date">20—21</span>
             </div>
             <p>Коммерческий визуальный мерчандайзинг; прикладные техники «от А до Я»</p>
         </div></a>
