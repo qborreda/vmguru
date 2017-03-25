@@ -157,22 +157,9 @@
             <p>АВТОР И ТРЕНЕР</p>
         </div>
         <section class="event-section4">
-            <div class="trainer">
-                <div class="trainer-picture">
-                    <img src="imgs/about-picture-annab.jpg" alt="Анна Баландина">
-                </div>
-                <div class="trainer-resume">
-                    <div class="trainer-name">
-                        <h2>Анна Баландина</h2>
-                    </div>
-                    <ul class="trainer-education">
-                        <li>Основатель и руководитель агенства VM Guru</li>
-                        <li>Ведущий эксперт-практик российского рынка по коммерческому визуальному мерчандайзингу и витринистике</li>
-                        <li>Куратор курса повышения квалификации «Визуальный мерчандайзинг в индустрии моды» НИУ ВШЭ</li>
-                        <li>Магистр университета HKA, Arnhem, специализация «Маркетинг и визуальные коммуникации в индустрии моды»</li>
-                    </ul>
-                </div>
-            </div>
+
+            <?php include "_trainer-anna.php"; ?>
+
             <ul class="event-data">
                 <li><span class="title">продолжительность</span><span class="item">8 ак. часов</span>
                 </li>
