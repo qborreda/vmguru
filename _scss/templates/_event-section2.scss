@@ -10,13 +10,17 @@
   }
 
   .resume-list {
-    display: inline-block;
+    display: none;
     min-width: 300px;
     max-width: 980px;
     width: 70%;
     list-style: none;
     list-style-image: url('/imgs/ico-hex-nav.png');
     margin: 0 auto;
+
+    @include mq($from: tablet) {
+      display: block;
+    }
 
     li {
       font-size: 17px;
@@ -30,13 +34,14 @@
     @include flex_flex-direction(column);
     @include flex_justify-content(center);
     @include flex_align-items(center);
-    margin: 20px 0;
+    margin: 0;
     font-size: 17px;
     font-weight: 300;
 
     @include mq($from: tablet) {
       @include flex_flex-direction(row);
       @include flex_align-items(start);
+      margin: 20px 0;
     }
 
     &-left,
