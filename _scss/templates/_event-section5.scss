@@ -16,9 +16,14 @@
     width: 100%;
 
     .form-title {
+      display: none;
       text-align: center;
       font-size: 22px;
       font-weight: 600;
+
+      @include mq($from: tablet) {
+        display: block;
+      }
     }
 
     .form-inputs {
@@ -64,13 +69,9 @@
         }
       }
     }
+
     .form-checkboxes {
-      @include display_flex();
-      @include flex_flex-wrap(wrap);
-      @include flex_flex-direction(column);
-      @include flex_justify-content(center);
-      @include flex_align-items(center);
-      // @include flex_align-content(center);
+      display: none;
       margin-bottom: 10px;
       width: 100%;
 
