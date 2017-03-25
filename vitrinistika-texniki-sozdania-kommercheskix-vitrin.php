@@ -157,10 +157,17 @@
             <span></span>
             <p>АВТОР И ТРЕНЕР</p>
         </div>
-        <section class="event-section4">
 
+        <section class="event-section4">
             <?php include "_trainer-anna.php"; ?>
-            
+        </section>
+
+        <div class="stripped-title">
+            <span></span>
+            <p>СТОИМОСТЬ</p>
+        </div>
+        
+        <section class="event-section4">
             <ul class="event-data">
                 <li><span class="title">продолжительность</span><span class="item">2 дня (16 академических часов)</span>
                 </li>
