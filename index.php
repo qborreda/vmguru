@@ -30,9 +30,9 @@
             <div class="home-section1-arrow"></div>
             <div class="home-section1-footer">
                 <div class="home-section1-footer-text">
-                    <span>BM способен<br/>
-                    увеличить продажи<br/>
-                    до 80%</span>
+                    <span>ВИЗУАЛЬНЫЙ МЕРЧАНДАЙЗИНГ 
+                    <br/>способен увеличить
+                    <br/>продажи до 80%</span>
                 </div>
             </div>
         </section>
