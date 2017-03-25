@@ -12,18 +12,25 @@
   .trainer {
     position: relative;
     @include display_flex();
-    @include flex_flex-direction(row);
-    @include flex_justify-content(space-between);
+    @include flex_flex-direction(column);
+    @include flex_justify-content(center);
+    @include flex_align-items(center);
 
-    &-picture {
-      // margin-right: 50px;
+    @include mq($from: tablet) {
+      @include flex_flex-direction(row);
+      @include flex_justify-content(space-between);
+      @include flex_align-items(start);
     }
 
     &-resume {
       position: relative;
       @include flex_flex(1 1 auto);
-      margin-left: 60px;
+      margin-left: 20px;
       padding-top: 30px;
+
+      @include mq($from: tablet) {
+        margin-left: 60px;
+      }
 
       li {
         margin-bottom: .5rem;
@@ -70,21 +77,36 @@
       width: 100%;
       padding: 8px 0;
       border-bottom: 1px solid rgba($DETAIL-GREY, .3);
+
+      .title {
+        display: block;
+        font-size: 14px;
+        font-weight: 300;
+        color: rgb(80,81,84);
+      }
+
+      .item {
+        font-size: 17px;
+        font-weight: 400;
+      }
+
+      @include mq($from: tablet) {
+        .title,
+        .item {
+          display: table-cell;
+        }
+
+        .title {
+          width: 360px;
+          margin-right: 60px;
+        }
+        .item {
+
+        }
+      }
     }
 
-    li > .title {
-      display: table-cell;
-      width: 360px;
-      margin-right: 60px;
-      font-size: 14px;
-      font-weight: 300;
-      color: rgb(80,81,84);
-    }
-    li > .item {
-      display: table-cell;
-      font-size: 17px;
-      font-weight: 400;
-    }
+
 
   }
 
