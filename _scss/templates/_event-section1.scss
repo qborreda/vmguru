@@ -58,13 +58,23 @@
 
       .box-texts-date {
         @include display_flex();
-        @include flex_flex-direction(row);
+        @include flex_flex-direction(column);
         @include flex_justify-content(center);
-        @include flex_align-items(baseline);
-        // @include flex_align-content(flex-end);
+        @include flex_align-items(center);
         margin-bottom: 20px;
         padding-top: 5px;
         color: $DETAIL-CYAN;
+
+        @include mq($until: tablet) {
+          .month { 
+            margin-top: .5rem;
+          }
+        }
+
+        @include mq($from: tablet) {
+          @include flex_flex-direction(row);
+          @include flex_align-items(baseline);
+        }
 
         .month {
           margin: 0 5px;
@@ -78,13 +88,18 @@
           font-weight: 600;
         }
       }
+
       .box-texts-title {
         margin-bottom: 20px;
-        font-size: 30px;
+        font-size: 26px;
         font-weight: 600;
         text-align: center;
         line-height: 110%;
         color: $WHITE;
+
+        @include mq($from: tablet) {
+          font-size: 30px;
+        }
       }
       .box-texts-detail {
         font-size: 22px;
