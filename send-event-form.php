@@ -9,6 +9,9 @@ if(isset($_POST['email'])) {
   $company = filter_input(INPUT_POST, "company", FILTER_SANITIZE_STRING);
   $phone = filter_input(INPUT_POST, "phone", FILTER_SANITIZE_STRING);
   $email = filter_input(INPUT_POST, "email", FILTER_VALIDATE_EMAIL);
+  $interest = filter_input(INPUT_POST, "interest", FILTER_SANITIZE_STRING);
+
+  $referer = $_SERVER["HTTP_REFERER"];
 
   isset($_POST['odezda']) ? $odezda = $_POST['odezda'] :  $odezda  = [];
   isset($_POST['shoes']) ? $shoes = $_POST['shoes'] :  $shoes = [];
@@ -38,6 +41,10 @@ if(isset($_POST['email'])) {
   $message .= "Компания: " . $company . $br;
   $message .= "Телефон: " . $phone . $br;
   $message .= "Email: " . $email . $br;
+
+  $message .= "The user is interested in: " . $br;
+  $message .= $interest . $br;
+  $message .= "at " . $referer . $br;
 
   $message .= $br;
   $message .= "And the user selected: " . $br; 

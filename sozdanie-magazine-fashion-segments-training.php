@@ -192,63 +192,11 @@
         </div>
         <section class="event-section5">
             <form id="event-form" class="event-info" action="send-event-form.php" method="post" lang="ru" accept-charset="UTF-8">
-                <div class="form-inputs">
-                    <input type="text" name="name" placeholder="ИМЯ, ФАМИЛИЯ"/>
-                    <div class="double">
-                        <input type="text" name="position" placeholder="ДОЛЖНОСТЬ"/>
-                        <input type="text" name="company" placeholder="КОМПАНИЯ"/>
-                    </div>
-                    <div class="double">
-                        <input type="phone" name="phone" placeholder="ТЕЛЕФОН"/>
-                        <input type="email" name="email" placeholder="EMAIL"/>
-                    </div>
-                </div>
-                <h3 class="form-title">Сфера деятельности компании</h3>
-                <div class="form-checkboxes">
-                    <div class="checkbox-group">
-                        <p>Одежда</p>
-                        <ul>
-                            <li>
-                                <label><input type="checkbox" name="odezda[]" value="men">Мужская</label></li>
-                            <li>
-                                <label><input type="checkbox" name="odezda[]" value="women">Женская</label></li>
-                            <li>
-                                <label><input type="checkbox" name="odezda[]" value="kids">Детская</label></li>
-                            <li>
-                                <label><input type="checkbox" name="odezda[]" value="lingerie">Верхняя</label></li>
-                            <li>
-                                <label><input type="checkbox" name="odezda[]" value="pregnant">Белье</label></li>
-                            <li>
-                                <label><input type="checkbox" name="odezda[]" value="big-sizes">Для беременных</label></li>
-                            <li>
-                                <label><input type="checkbox" name="odezda[]" value="Больших размеров">Больших размеров</label></li>
-                        </ul>
-                    </div>
-                    <div class="checkbox-group">
-                        <p>обувь</p>
-                        <ul>
-                            <li>
-                                <label><input type="checkbox" name="shoes[]" value="men">Мужская</label></li>
-                            <li>
-                                <label><input type="checkbox" name="shoes[]" value="women">Женская</label></li>
-                            <li>
-                                <label><input type="checkbox" name="shoes[]" value="kids">Детская</label></li>
-                        </ul>
-                    </div>
-                    <div class="checkbox-group">
-                        <p>аксессуары</p>
-                        <ul>
-                            <li>
-                                <label><input type="checkbox" name="accesories[]" value="leather">Кожгалантерея</label></li>
-                            <li>
-                                <label><input type="checkbox" name="accesories[]" value="jewelry">Бижутерия</label></li>
-                            <li>
-                                <label><input type="checkbox" name="accesories[]" value="hats">Головные уборы</label></li>
-                            <li>
-                                <label><input type="checkbox" name="accesories[]" value="watches">Ювелирная продукция, часы</label></li>
-                        </ul>
-                    </div>
-                </div>
+
+            <?php include "_training-form.php"; ?>
+
+            <input type="hidden" name="interest" value="СОЗДАНИЕ МАГАЗИНА ФЭШН СЕГМЕНТА: ПЛАНИРОВКИ, ЗОНИРОВАНИЕ, ОПТИМАЛЬНАЯ ВМЕСТИМОСТЬ, ВМ ДИЗАЙН">
+
                 <div class="form-buttons">
                     <button class="form-submit js-event-submit" type="submit">ОТПРАВИТЬ ЗАЯВКУ</button>
                 </div>
