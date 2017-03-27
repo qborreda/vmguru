@@ -40,22 +40,25 @@
                 </div>
             </div>
             <ul class="publication-article-list">
-                <li><span class="month">январь 2017</span><span class="title"><a href="http://www.shoes-report.ru/articles/merchandayzing/tonkosti_zamorskoy_rasprodazhi_kak_oformlyayut_i_zoniruyut_obuvnye_magaziny_nyu_yorka_v_period_bolsh/" target="_blank">«Тонкости заморской распродажи. Как оформляют и зонируют обувные магазины Нью-Йорка в период больших скидок»</a> — <span class="media">Shoes report</span></span>
+                <li><span class="month">февраль 2017</span><span class="title"><a href="pdfs/kommercheski-pazl-dlia-sborki-ShoesReport-02-17.pdf" target="_blank">Коммерческий пазл для сборки. Как создать эффективный магазин обуви.</a> — <span class="media">Shoes Report</span></span>
                 </li>
 
-                <li><span class="month">март 2016</span><span class="title"><a href="pdfs/Standarti-visual-merchandasing-balandina03.16.pdf" target="_blank">«Визуальная стандартизация.Что такое стандарты ВМ и как их создать?»</a> — <span class="media">Shoes report</span></span>
+                <li><span class="month">январь 2017</span><span class="title"><a href="http://www.shoes-report.ru/articles/merchandayzing/tonkosti_zamorskoy_rasprodazhi_kak_oformlyayut_i_zoniruyut_obuvnye_magaziny_nyu_yorka_v_period_bolsh/" target="_blank">«Тонкости заморской распродажи. Как оформляют и зонируют обувные магазины Нью-Йорка в период больших скидок»</a> — <span class="media">Shoes Report</span></span>
                 </li>
 
-                <li><span class="month">октябрь 2016</span><span class="title"><a href="pdfs/velikolepnaia-piaterka-piat-interierov-obuvnix-brendov.pdf" target="_blank">«Великолепная пятерка; интересные дизайны обувной розницы»</a> — <span class="media">Shoes report</span></span>
+                <li><span class="month">март 2016</span><span class="title"><a href="pdfs/Standarti-visual-merchandasing-balandina03.16.pdf" target="_blank">«Визуальная стандартизация.Что такое стандарты ВМ и как их создать?»</a> — <span class="media">Shoes Report</span></span>
                 </li>
 
-                <li><span class="month">август 2016</span><span class="title"><a href="pdfs/Emotsionalnii-effect-torgovii-consept-obuvnogo-brenda.pdf" target="_blank">«Эмоциональный эффект; каким должен быть эффективный торговый концепт обувного бренда»</a> — <span class="media">Shoes report</span></span>
+                <li><span class="month">октябрь 2016</span><span class="title"><a href="pdfs/velikolepnaia-piaterka-piat-interierov-obuvnix-brendov.pdf" target="_blank">«Великолепная пятерка; интересные дизайны обувной розницы»</a> — <span class="media">Shoes Report</span></span>
+                </li>
+
+                <li><span class="month">август 2016</span><span class="title"><a href="pdfs/Emotsionalnii-effect-torgovii-consept-obuvnogo-brenda.pdf" target="_blank">«Эмоциональный эффект; каким должен быть эффективный торговый концепт обувного бренда»</a> — <span class="media">Shoes Report</span></span>
                 </li>
 
                 <li><span class="month">ноябрь 2016</span><span class="title"><a href="pdfs/emotionalnii shopping.pdf" target="_blank">«Эмоциональный шопинг и новогодняя витринистика»</a> — <span class="media">Shoes Report</span></span>
                 </li>
 
-                <li><span class="month">сентябрь 2015</span><span class="title"><a href="pdfs/visual-merchandasing-podnimaem-prodazi.pdf" target="_blank">«Поднимаем продажи. Как увеличить трафик покупателей и объем продаж в магазине с помощью инструментов ВМ»</a> — <span class="media">Shoes report</span></span>
+                <li><span class="month">сентябрь 2015</span><span class="title"><a href="pdfs/visual-merchandasing-podnimaem-prodazi.pdf" target="_blank">«Поднимаем продажи. Как увеличить трафик покупателей и объем продаж в магазине с помощью инструментов ВМ»</a> — <span class="media">Shoes Report</span></span>
                 </li>
 
                 <li><span class="month">декабрь 2012</span><span class="title"><a href="pdfs/Jazz_Econika.pdf" target="_blank">«Джаз и прямо сейчас!» — новогодние витрины «Эконики»</a> — <span class="media">Shoes Report</span></span>
@@ -74,13 +77,13 @@
                 <li><span class="month">сентябрь 2016</span><span class="title"><a href="pdfs/instrument-bistrogo-reagirovania-profashion.pdf" target="_blank">«Инструмент быстрого реагирования»</a> — <span class="media">profashion</span></span>
                 </li>
 
-                <li><span class="month">март 2016</span><span class="title"><a href="pdfs/Standarti-visual-merchandasing-balandina03.16.pdf" target="_blank">«ВИЗУАЛЬНАЯ СТАНДАРТИЗАЦИЯ Что такое стандарты ВМ и как их создать?»</a> — <span class="media">Shoes report</span></span>
+                <li><span class="month">март 2016</span><span class="title"><a href="pdfs/Standarti-visual-merchandasing-balandina03.16.pdf" target="_blank">«ВИЗУАЛЬНАЯ СТАНДАРТИЗАЦИЯ Что такое стандарты ВМ и как их создать?»</a> — <span class="media">Shoes Report</span></span>
                 </li>
 
                 <li><span class="month">март 2015</span><span class="title"><a href="http://wz-o-r.ru/anna-balandina-vizualnyiy-merchenday/" target="_blank">«Bизуальный мерчандайзинг- это нечто среднее между математикой и чистым креативом»</a> — <span class="media">WZOR</span></span>
                 </li>
 
-                <li><span class="month">сентябрь 2015</span><span class="title"><a href="pdfs/visual-merchandasing-podnimaem-prodazi.pdf" target="_blank">«Поднимаем продажи. Как увеличить трафик покупателей и объем продаж в магазине с помощью инструментов ВМ»</a> — <span class="media">Shoes report</span></span>
+                <li><span class="month">сентябрь 2015</span><span class="title"><a href="pdfs/visual-merchandasing-podnimaem-prodazi.pdf" target="_blank">«Поднимаем продажи. Как увеличить трафик покупателей и объем продаж в магазине с помощью инструментов ВМ»</a> — <span class="media">Shoes Report</span></span>
                 </li>
 
                 <li><span class="month">январь 2016</span><span class="title"><a href="http://profashion.ru/analytics/154623/" target="_blank">«КУРС НА ВЫЖИВАНИЕ; Стратегии лидеров на падающем рынке»</a> — <span class="media">profashion</span></span>
@@ -105,14 +108,18 @@
                 </div>
             </div>
             <ul class="publication-article-list">
-                <li><span class="month">август 2016</span><span class="title"><a href="pdfs/Emotsionalnii-effect-torgovii-consept-obuvnogo-brenda.pdf" target="_blank">«Эмоциональный эффект; каким должен быть эффективный торговый концепт обувного бренда»</a> — <span class="media">Shoes report</span></span>
+
+                <li><span class="month">февраль 2017</span><span class="title"><a href="pdfs/kommercheski-pazl-dlia-sborki-ShoesReport-02-17.pdf" target="_blank">Коммерческий пазл для сборки. Как создать эффективный магазин обуви.</a> — <span class="media">Shoes Report</span></span>
+                </li>
+                
+                <li><span class="month">август 2016</span><span class="title"><a href="pdfs/Emotsionalnii-effect-torgovii-consept-obuvnogo-brenda.pdf" target="_blank">«Эмоциональный эффект; каким должен быть эффективный торговый концепт обувного бренда»</a> — <span class="media">Shoes Report</span></span>
                 </li>
 
-                <li><span class="month">октябрь 2016</span><span class="title"><a href="pdfs/velikolepnaia-piaterka-piat-interierov-obuvnix-brendov.pdf" target="_blank">«Великолепная пятерка; интересные дизайны обувной розницы»</a> — <span class="media">Shoes report</span></span>
+                <li><span class="month">октябрь 2016</span><span class="title"><a href="pdfs/velikolepnaia-piaterka-piat-interierov-obuvnix-brendov.pdf" target="_blank">«Великолепная пятерка; интересные дизайны обувной розницы»</a> — <span class="media">Shoes Report</span></span>
                 </li>
 
                 <li><span class="month">сентябрь 2013</span><span class="title"><a href="http://trademaster.ua/articles/1130" target="_blank">Качественный мерчандайзинг и оформление детского магазина</a> — <span class="media">TradeMaster</span>
-                <br/><a href="http://www.shoes-report.ru/articles/merchandayzing/dlinnyy-i-uzkiy-magazin-kak-organizovat-torgovoe-prostranstvo/" target="_blank">Длинный узкий магазин, как организовать торговое пространство?</a> — <span class="media">Shoes report</span></span>
+                <br/><a href="http://www.shoes-report.ru/articles/merchandayzing/dlinnyy-i-uzkiy-magazin-kak-organizovat-torgovoe-prostranstvo/" target="_blank">Длинный узкий магазин, как организовать торговое пространство?</a> — <span class="media">Shoes Report</span></span>
                 </li>
             </ul>
 
