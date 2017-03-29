@@ -13,18 +13,26 @@
   .ceo {
     position: relative;
     @include display_flex();
-    @include flex_flex-direction(row);
-    @include flex_justify-content(space-between);
+    @include flex_flex-direction(column);
+    @include flex_justify-content(center);
+    @include flex_align-items(center);
 
-    &-picture {
-      // margin-right: 50px;
+    @include mq($from: tablet) {
+      @include flex_flex-direction(row);
+      @include flex_justify-content(space-between);
+      @include flex_align-items(start);
     }
 
     &-resume {
       position: relative;
       @include flex_flex(1 1 auto);
-      margin-left: 60px;
-      padding-top: 100px;
+      margin-left: 20px;
+      padding-top: 30px;
+
+      @include mq($from: tablet) {
+        margin-left: 60px;
+        padding-top: 100px;
+      }
 
       li {
         margin-bottom: .5rem;
@@ -40,10 +48,14 @@
     }
 
     &-name {
-      position: absolute;
-      top: 20px;
-      left: -120px;
+      position: relative;
       z-index: map-get($Z-LAYERS, default);
+
+      @include mq($from: tablet) {
+        position: absolute;
+        top: 20px;
+        left: -120px;
+      }
 
       h2,
       span {
