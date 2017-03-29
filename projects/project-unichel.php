@@ -69,7 +69,7 @@
                     <!-- <div class="carr-item"><img src="/imgs/projects/unichel-1-06.jpg" alt=""></div> -->
                     <!-- <div class="carr-item"><img src="/imgs/projects/unichel-1-07.jpg" alt=""></div> -->
                     <!-- <div class="carr-item"><img src="/imgs/projects/unichel-1-08.jpg" alt=""></div> -->
-                    <div class="carr-item"><img src="/imgs/projects/unichel-1-09.jpg" alt=""></div>
+                    <!-- <div class="carr-item"><img src="/imgs/projects/unichel-1-09.jpg" alt=""></div> -->
                     <div class="carr-item"><img src="/imgs/projects/unichel-1-10.jpg" alt=""></div>
                     <div class="carr-item"><img src="/imgs/projects/unichel-1-11.jpg" alt=""></div>
                     <div class="carr-item"><img src="/imgs/projects/unichel-1-12.jpg" alt=""></div>
