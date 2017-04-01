@@ -157,9 +157,6 @@
 
                 <li><span class="month">осень 2014</span><span class="title"><a href="pdfs/vitrini-creativ-tochnii-paschet-2.pdf" target="_blank">Витрины: креатив и точный расчет часть 2</a> — <span class="media">Индустрия моды</span></span>
                 </li>
-
-                <li><span class="month">август 2016</span><span class="title"><a href="http://fashionconsulting.ru/pyat-voprosov-o-vitrinakh-anne-balandi/" target="_blank">FCG–интервью А.Б 5 главных вопросов о ВМ</a></span>
-                </li>
             </ul>
 
         </section>
