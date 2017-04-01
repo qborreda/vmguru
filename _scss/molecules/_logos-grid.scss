@@ -8,13 +8,18 @@
   .client-grid-logo {
     margin: 5px auto;
     text-align: center;
-    @include flex_flex(0 0 160px);
+    @include flex_flex(0 1 100px);
 
     @include mq($from: tablet) {
-      @include flex_flex(0 0 230px);
+      @include flex_flex(0 1 160px);
     }
     @include mq($from: desktop) {
-      @include flex_flex(0 0 280px);
+      @include flex_flex(0 1 160px);
+    }
+
+    img {
+      width: 100%;
+      height: auto;
     }
   }
 }
