@@ -43,7 +43,7 @@
                 <li><span class="month">февраль 2017</span><span class="title"><a href="pdfs/kommercheski-pazl-dlia-sborki-ShoesReport-02-17.pdf" target="_blank">Коммерческий пазл для сборки. Как создать эффективный магазин обуви.</a> — <span class="media">Shoes Report</span></span>
                 </li>
 
-                <li><span class="month">январь 2017</span><span class="title"><a href="http://www.shoes-report.ru/articles/merchandayzing/tonkosti_zamorskoy_rasprodazhi_kak_oformlyayut_i_zoniruyut_obuvnye_magaziny_nyu_yorka_v_period_bolsh/" target="_blank">«Тонкости заморской распродажи. Как оформляют и зонируют обувные магазины Нью-Йорка в период больших скидок»</a> — <span class="media">Shoes Report</span></span>
+                <li><span class="month">январь 2017</span><span class="title"><a href="pdfs/tonkosti_zamorskoi_rasprodazi_sale_balandina.pdf" target="_blank">«Тонкости заморской распродажи. Как оформляют и зонируют обувные магазины Нью-Йорка в период больших скидок»</a> — <span class="media">Shoes Report</span></span>
                 </li>
 
                 <li><span class="month">март 2016</span><span class="title"><a href="pdfs/Standarti-visual-merchandasing-balandina03.16.pdf" target="_blank">«Визуальная стандартизация.Что такое стандарты ВМ и как их создать?»</a> — <span class="media">Shoes Report</span></span>
