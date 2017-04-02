@@ -34,16 +34,26 @@
         padding-top: 100px;
       }
 
-      li {
-        margin-bottom: .5rem;
-        font-style: italic;
+      .ceo-education {
+        display: block;
+        width: 100%;
+
+        li {
+          margin-bottom: .5rem;
+          font-style: italic;
+        }
       }
 
-      p {
+      .ceo-full-details {
+        display: none;
         margin: 1.5rem 0;
         font-size: 16px;
         font-weight: 300;
         line-height: 1.5rem;
+
+        @include mq($from: tablet) {
+          display: block;
+        }
       }
     }
 
@@ -71,11 +81,6 @@
         font-weight: 300;
       }
     }
-
-    &-education {
-      display: block;
-      width: 100%;
-    }
   }
 
   .bio {
@@ -100,6 +105,12 @@
       @include mq($from: tablet) {
         @include flex_flex(1 1 30%);
         margin: 0 20px;
+      }
+
+      &.not-show-phones {
+        @include mq($until: tablet) {
+          display: none;
+        }
       }
     }
 
