@@ -92,7 +92,7 @@
                 <li><span class="month">октябрь 2012</span><span class="title"><a href="http://fashion-report.ru/articles/tekhnologii-prodazh/kakova-optimalnaya-vmestimost-magazina/" target="_blank">КАК РАСЧИТАТЬ ОПТИМАЛЬНУЮ ВМЕСТИМОСТЬ МАГАЗИНА?</a> — <span class="media">fashion report</span></span>
                 </li>
 
-                <li><span class="month">декабрь 2015</span><span class="title"><a href="http://profashion.ru/analytics/149726" target="_blank">«ОКНО В ПРОДАЖИ»</a> — <span class="media">profashion</span></span>
+                <li><span class="month">декабрь 2015</span><span class="title"><a href="/pdfs/onko_v_prodazi_balandina.pdf" target="_blank">«ОКНО В ПРОДАЖИ»</a> — <span class="media">profashion</span></span>
                 </li>
 
                 <li><span class="month">май 2016</span><span class="title"><a href="https://fashionunited.ru/novostee/moda/anna-balandina-vizualnyi-merchandai-zing-mozhno-postich-tolko-na-praktike/2015092413431" target="_blank">«Визуальный мерчандайзинг возможно постичь только на практике!»</a> — <span class="media">портал FashionUnited</span></span>
@@ -140,7 +140,7 @@
                 <li><span class="month">август 2015</span><span class="title"><a href="https://fashionunited.ru/novostee/reetyeil/kolonka-fashion-consulting-group-nizkobyudzhetnaya-vitrina-ne-znachit-plokhaya/2015081213097" target="_blank">Низкобюджетная витрина не значит плохая</a> — <span class="media">портал FashionUnited</span></span>
                 </li>
 
-                <li><span class="month">декабрь 2015</span><span class="title"><a href="http://profashion.ru/analytics/149726/" target="_blank">«Окно в продажи»</a> — <span class="media">profashion</span></span>
+                <li><span class="month">декабрь 2015</span><span class="title"><a href="/pdfs/onko_v_prodazi_balandina.pdf/" target="_blank">«Окно в продажи»</a> — <span class="media">profashion</span></span>
                 </li>
 
                 <li><span class="month">апрель 2015</span><span class="title"><a href="https://new-retail.ru/magaziny/dizayn/za_steklom_mirovye_trendy_vitrinistiki6275/" target="_blank">За стеклом: мировые тренды витринистики</a> — <span class="media">New-retail.ru</span></span>
