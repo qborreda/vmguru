@@ -113,10 +113,10 @@
                         </p>
                     </div>
                 </li>
-                <li class="hex-item">
+                <li class="hex-item" data-link="/projects/project-sneznaia-koroleva.php">
                     <div>
                         <img class="hex-content" src="/imgs/bkgr_hex_project9.jpg" alt="" />
-                        <!-- <div class="hex-title">Sieznnaya 1</div> -->
+                        <!-- <div class="hex-title">Sneznaia 1</div> -->
                         <p class="hex-description">
                             РАЗРАБОТКА СТАНДАРТОВ ПРЕЗЕНТАЦИИ
                             <br/>АКСЕССУАРОВ;
@@ -124,10 +124,10 @@
                         </p>
                     </div>
                 </li>
-                <li class="hex-item">
+                <li class="hex-item" data-link="/projects/project-sneznaia-koroleva.php">
                     <div>
                         <img class="hex-content" src="/imgs/bkgr_hex_project10.jpg" alt="" />
-                        <!-- <div class="hex-title">Sieznnaya 2</div> -->
+                        <!-- <div class="hex-title">Sneznaia 2</div> -->
                         <p class="hex-description">
                             РАЗРАБОТКА И ВНЕДРЕНИЕ
                             <br/>ПРОЕКТА MODEL STORE – ВИТРИНЫ;
