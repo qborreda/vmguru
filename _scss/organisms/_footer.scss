@@ -10,6 +10,7 @@
 
   @include mq($from: tablet) {
     padding: 30px 20px 30px;
+    margin-top: 10px;
   }
 
   &-copyright {

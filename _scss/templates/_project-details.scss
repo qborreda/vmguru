@@ -4,16 +4,16 @@
   @include flex_flex-direction(column);
   @include flex_justify-content(center);
   padding: 0 10px;
-  margin-bottom: 15px;
+  margin-bottom: 20px;
   line-height: 1.8rem;
 
   @include mq($from: tablet) {
     padding: 0 30px;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
   }
   @include mq($from: desktop) {
     padding: 0 50px;
-    margin-bottom: 30px;
+    margin-bottom: 40px;
   }
 
   .project-carrusel {
