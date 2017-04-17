@@ -152,7 +152,7 @@
                 <img src="/imgs/projects/unichel-testimonial.jpg" alt="Екатерина Железнякова">
                 <div class="person-text-layout">
                     <h4 class="person-name">ЕКАТЕРИНА ЖЕЛЕЗНЯКОВА</h4>
-                    <span class="person-position bkgr-hi">Pуководитель отдела по развитию бренда обувной
+                    <span class="person-position bkgr-hi">Pуководитель отдела по развитию бренда
                     <br/>«Юничел»</span>
                 </div>
             </div>
