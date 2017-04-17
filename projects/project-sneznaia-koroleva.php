@@ -34,7 +34,7 @@
                 <div class="hex-content-left">
                     <p class="hex-content-name">РАЗРАБОТКА СТАНДАРТОВ 
                     <br/>ПРЕЗЕНТАЦИИ АКСЕССУАРОВ
-                    <br/>В МАГАЗИНАХ «СНЕЖНАЯ КОРОЛЕВА» 
+                    <br/>В МАГАЗИНАХ «СНЕЖНАЯ КОРОЛЕВА»; 
                     <br/>КОРПОРАТИВНОЕ ВМ ОБУЧЕНИЕ</p>
                     <div class="hex-content-image">
                         <img src="/imgs/bkgr_hex_project_sneznaia1.jpg" alt="" />
@@ -43,7 +43,7 @@
                 <div class="hex-content-right">
                     <p class="hex-content-name">РАЗРАБОТКА СТАНДАРТОВ 
                     <br/>ПРЕЗЕНТАЦИИ АКСЕССУАРОВ 
-                    <br/>В МАГАЗИНАХ «СНЕЖНАЯ КОРОЛЕВА» 
+                    <br/>В МАГАЗИНАХ «СНЕЖНАЯ КОРОЛЕВА»; 
                     <br/>КОРПОРАТИВНОЕ ВМ ОБУЧЕНИЕ</p>
                     <p class="hex-content-description">проект включает:</p>
                     <ul class="hex-content-list">
@@ -83,7 +83,7 @@
             <article class="hex-content clearfix">
                 <div class="hex-content-left">
                     <p class="hex-content-name">СЕЗОННЫЙ МОДЕЛ СТОР ПРОЕКТ 
-                    <br/>«ОФОРМЛЕНИЕ ВИТРИН И ВХОДНЫХ ЗОН»
+                    <br/>«ОФОРМЛЕНИЕ ВИТРИН И ВХОДНЫХ ЗОН»;
                     <br/>КОРПОРАТИВНОЕ ВМ ОБУЧЕНИЕ</p>
                     <div class="hex-content-image">
                         <img src="/imgs/bkgr_hex_project_sneznaia2.jpg" alt="" />
@@ -91,7 +91,7 @@
                 </div>
                 <div class="hex-content-right">
                     <p class="hex-content-name">СЕЗОННЫЙ МОДЕЛ СТОР ПРОЕКТ 
-                    <br/>«ОФОРМЛЕНИЕ ВИТРИН И ВХОДНЫХ ЗОН»
+                    <br/>«ОФОРМЛЕНИЕ ВИТРИН И ВХОДНЫХ ЗОН»;
                     <br/>КОРПОРАТИВНОЕ ВМ ОБУЧЕНИЕ</p>
                     <p class="hex-content-description">проект включает:</p>
                     <ul class="hex-content-list">
