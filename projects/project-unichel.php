@@ -54,7 +54,7 @@
                         </li>
                     </ul>
                     <p class="hex-content-description">РАЗРАБОТКА КОМПЛЕКТА POS МАТЕРИАЛОВ SALE ДЛЯ МАГАЗИНОВ РОЗНИЧНОЙ СЕТИ «ЮНИЧЕЛ»</p>
-                    <div class="hex-content-client-description">Производитель обуви с 1932г. Торговая сеть включает более 500 фирменных магазинов. <a href="http://www.unichel.ru/" target="_blank">www.unichel.ru</a></div>
+                    <div class="hex-content-client-description">Производитель обуви с 1932г. Торговая сеть включает более 500 фирменных магазинов.</div>
                 </div>
             </article>
 

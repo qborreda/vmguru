@@ -46,7 +46,7 @@
                         <li>Разработка и формализация стандартов визуального мерчандайзинга бренда.</li>
                     </ul>
                     <div class="hex-content-client-description">Сеть фирменных магазинов нижнего белья, аксессуаров и одежды INCANTO.
-                    <br/>Более 200 магазинов в 85 городах мира. <a href="http://www.incanto.eu/" target="_blank">www.incanto.eu</a></div>
+                    <br/>Более 200 магазинов в 85 городах мира.</div>
                 </div>
             </article>
 
