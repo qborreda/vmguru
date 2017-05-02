@@ -101,15 +101,13 @@
                         </p>
                     </div>
                 </li>
-                <li class="hex-item">
+                <li class="hex-item" data-link="/projects/project-xitzona.php">
                     <div>
-                        <img class="hex-content" src="/imgs/bkgr_hex_project17.jpg" alt="" />
-                        <!-- <div class="hex-title">Moda HSE</div> -->
-                        <p class="hex-description">
-                            КУРС НИУ ВШЭ «ВИЗУАЛЬНЫЙ МЕРЧАНДАЙЗИНГ
-                            <br/>В ИНДУСТРИИ МОДЫ»  
-                            <br/>СОАВТОР И КУРАТОР КУРСА, ВЕДУЩИЙ
-                            <br/>ПРЕПОДАВАТЕЛЬ- ПРАКТИК
+                        <img class="hex-content" src="/imgs/bkgr_hex_project8.jpg" alt="" />
+                        <!-- <div class="hex-title">XNT Zona</div> -->
+                        <p class="hex-description is-little-text">
+                            РАЗРАБОТКА ВИТРИННЫХ КОНЦЕПЦИЙ;
+                            <br/>ОФОРМЛЕНИЕ ВИТРИН
                         </p>
                     </div>
                 </li>
@@ -214,11 +212,13 @@
                 </li>
                 <li class="hex-item">
                     <div>
-                        <img class="hex-content" src="/imgs/bkgr_hex_project8.jpg" alt="" />
-                        <!-- <div class="hex-title">XNT Zona</div> -->
-                        <p class="hex-description is-little-text">
-                            РАЗРАБОТКА ВИТРИННЫХ КОНЦЕПЦИЙ;
-                            <br/>ОФОРМЛЕНИЕ ВИТРИН
+                        <img class="hex-content" src="/imgs/bkgr_hex_project17.jpg" alt="" />
+                        <!-- <div class="hex-title">Moda HSE</div> -->
+                        <p class="hex-description">
+                            КУРС НИУ ВШЭ «ВИЗУАЛЬНЫЙ МЕРЧАНДАЙЗИНГ
+                            <br/>В ИНДУСТРИИ МОДЫ»  
+                            <br/>СОАВТОР И КУРАТОР КУРСА, ВЕДУЩИЙ
+                            <br/>ПРЕПОДАВАТЕЛЬ- ПРАКТИК
                         </p>
                     </div>
                 </li>

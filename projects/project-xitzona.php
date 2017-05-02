@@ -36,7 +36,7 @@
                     <br/>КОНЦЕПЦИЙ И ОФОРМЛЕНИЕ ПИЛОТНЫХ ВИТРИН
                     <br/>ДЛЯ МАГАЗИНОВ СЕТИ «ХИТ ЗОНА»</p>
                     <div class="hex-content-image">
-                        <img src="/imgs/bkgr_hex_project_incanto_1.jpg" alt="" />
+                        <img src="/imgs/bkgr_hex_project_xitzona.jpg" alt="" />
                     </div>
                 </div>
                 <div class="hex-content-right">
