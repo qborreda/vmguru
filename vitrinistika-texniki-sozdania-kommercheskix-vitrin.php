@@ -216,4 +216,6 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js" type="text/javascript" charset="utf-8"></script>
 <script src="/js/main.js" type="text/javascript" charset="utf-8"></script>
 
+<script type="text/javascript" async="async" defer="defer" charset="UTF-8" src="https://timepad.ru/js/tpwf/loader/min/loader.js" data-timepad-customized="27802" data-timepad-apidomain="timepad.ru" data-timepad-widget-v2="event_list3"></script>
+
 </html>
