@@ -18,7 +18,7 @@
     <div class="footer-menu">
         <ul class="footer-menu__nav">
             <li><a href="/about-us.php">о нас</a></li>
-            <li><a href="/consulting.php">консалтинг</a></li>
+            <li><a href="/consulting.php">услуги</a></li>
             <li><a href="/training.php">обучение</a></li>
             <li><a href="/projects.php">проекты</a></li>
             <li><a href="/publications.php">публикации</a></li>

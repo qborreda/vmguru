@@ -2,7 +2,7 @@
 <header class="main-header">
     <ul class="main-nav">
         <li class="main-nav-item"><a class="main-nav-item__link" href="/about-us.php">о нас</a></li>
-        <li class="main-nav-item"><a class="main-nav-item__link" href="/consulting.php">консалтинг</a></li>
+        <li class="main-nav-item"><a class="main-nav-item__link" href="/consulting.php">услуги</a></li>
         <li class="main-nav-item"><a class="main-nav-item__link" href="/training.php">обучение</a></li>
 
         <li class="main-nav-item logo"><a class="main-nav-item__link no-border" href="/index.php"><img src="/imgs/vmguru_logo_hex.png" alt="VM Guru" /></a></li>
