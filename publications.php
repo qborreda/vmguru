@@ -80,13 +80,13 @@
                 <li><span class="month">март 2016</span><span class="title"><a href="pdfs/Standarti-visual-merchandasing-balandina03.16.pdf" target="_blank">«ВИЗУАЛЬНАЯ СТАНДАРТИЗАЦИЯ Что такое стандарты ВМ и как их создать?»</a> — <span class="media">Shoes Report</span></span>
                 </li>
 
-                <li><span class="month">март 2015</span><span class="title"><a href="http://wz-o-r.ru/anna-balandina-vizualnyiy-merchenday/" target="_blank">«Bизуальный мерчандайзинг- это нечто среднее между математикой и чистым креативом»</a> — <span class="media">WZOR</span></span>
+                <li><span class="month">март 2015</span><span class="title"><a href="pdfs/anna-balandina-vizualnyiy-merchenday.pdf" target="_blank">«Bизуальный мерчандайзинг- это нечто среднее между математикой и чистым креативом»</a> — <span class="media">WZOR</span></span>
                 </li>
 
                 <li><span class="month">сентябрь 2015</span><span class="title"><a href="pdfs/visual-merchandasing-podnimaem-prodazi.pdf" target="_blank">«Поднимаем продажи. Как увеличить трафик покупателей и объем продаж в магазине с помощью инструментов ВМ»</a> — <span class="media">Shoes Report</span></span>
                 </li>
 
-                <li><span class="month">январь 2016</span><span class="title"><a href="http://profashion.ru/analytics/154623/" target="_blank">«КУРС НА ВЫЖИВАНИЕ; Стратегии лидеров на падающем рынке»</a> — <span class="media">profashion</span></span>
+                <li><span class="month">январь 2016</span><span class="title"><a href="pdfs/profashion_ru-analytics-154623.pdf" target="_blank">«КУРС НА ВЫЖИВАНИЕ; Стратегии лидеров на падающем рынке»</a> — <span class="media">profashion</span></span>
                 </li>
 
                 <li><span class="month">октябрь 2012</span><span class="title"><a href="http://fashion-report.ru/articles/tekhnologii-prodazh/kakova-optimalnaya-vmestimost-magazina/" target="_blank">КАК РАСЧИТАТЬ ОПТИМАЛЬНУЮ ВМЕСТИМОСТЬ МАГАЗИНА?</a> — <span class="media">fashion report</span></span>
@@ -95,7 +95,7 @@
                 <li><span class="month">декабрь 2015</span><span class="title"><a href="/pdfs/onko_v_prodazi_balandina.pdf" target="_blank">«ОКНО В ПРОДАЖИ»</a> — <span class="media">profashion</span></span>
                 </li>
 
-                <li><span class="month">май 2016</span><span class="title"><a href="https://fashionunited.ru/novostee/moda/anna-balandina-vizualnyi-merchandai-zing-mozhno-postich-tolko-na-praktike/2015092413431" target="_blank">«Визуальный мерчандайзинг возможно постичь только на практике!»</a> — <span class="media">портал FashionUnited</span></span>
+                <li><span class="month">май 2016</span><span class="title"><a href="pdfs/anna-balandina-vizualnyi-merchandai-zing-mozhno-postich-tolko-na-praktike.pdf" target="_blank">«Визуальный мерчандайзинг возможно постичь только на практике!»</a> — <span class="media">портал FashionUnited</span></span>
                 </li>
             </ul>
 
@@ -111,14 +111,14 @@
 
                 <li><span class="month">февраль 2017</span><span class="title"><a href="pdfs/kommercheski-pazl-dlia-sborki-ShoesReport-02-17.pdf" target="_blank">Коммерческий пазл для сборки. Как создать эффективный магазин обуви.</a> — <span class="media">Shoes Report</span></span>
                 </li>
-                
+
                 <li><span class="month">август 2016</span><span class="title"><a href="pdfs/Emotsionalnii-effect-torgovii-consept-obuvnogo-brenda.pdf" target="_blank">«Эмоциональный эффект; каким должен быть эффективный торговый концепт обувного бренда»</a> — <span class="media">Shoes Report</span></span>
                 </li>
 
                 <li><span class="month">октябрь 2016</span><span class="title"><a href="pdfs/velikolepnaia-piaterka-piat-interierov-obuvnix-brendov.pdf" target="_blank">«Великолепная пятерка; интересные дизайны обувной розницы»</a> — <span class="media">Shoes Report</span></span>
                 </li>
 
-                <li><span class="month">сентябрь 2013</span><span class="title"><a href="http://trademaster.ua/articles/1130" target="_blank">Качественный мерчандайзинг и оформление детского магазина</a> — <span class="media">TradeMaster</span>
+                <li><span class="month">сентябрь 2013</span><span class="title"><a href="pdfs/trademaster_ua-articles-1130.pdf" target="_blank">Качественный мерчандайзинг и оформление детского магазина</a> — <span class="media">TradeMaster</span>
                 <br/><a href="http://www.shoes-report.ru/articles/merchandayzing/dlinnyy-i-uzkiy-magazin-kak-organizovat-torgovoe-prostranstvo/" target="_blank">Длинный узкий магазин, как организовать торговое пространство?</a> — <span class="media">Shoes Report</span></span>
                 </li>
             </ul>
@@ -137,7 +137,7 @@
                 <li><span class="month">ноябрь 2016</span><span class="title"><a href="pdfs/emotionalnii shopping.pdf" target="_blank">«Эмоциональный шопинг и новогодняя витринистика»</a> — <span class="media">Shoes Report</span></span>
                 </li>
 
-                <li><span class="month">август 2015</span><span class="title"><a href="https://fashionunited.ru/novostee/reetyeil/kolonka-fashion-consulting-group-nizkobyudzhetnaya-vitrina-ne-znachit-plokhaya/2015081213097" target="_blank">Низкобюджетная витрина не значит плохая</a> — <span class="media">портал FashionUnited</span></span>
+                <li><span class="month">август 2015</span><span class="title"><a href="pdfs/kolonka-fashion-consulting-group-nizkobyudzhetnaya-vitrina-ne-znachit-plokhaya.pdf" target="_blank">Низкобюджетная витрина не значит плохая</a> — <span class="media">портал FashionUnited</span></span>
                 </li>
 
                 <li><span class="month">декабрь 2015</span><span class="title"><a href="/pdfs/onko_v_prodazi_balandina.pdf" target="_blank">«Окно в продажи»</a> — <span class="media">profashion</span></span>
@@ -146,10 +146,10 @@
                 <li><span class="month">апрель 2015</span><span class="title"><a href="https://new-retail.ru/magaziny/dizayn/za_steklom_mirovye_trendy_vitrinistiki6275/" target="_blank">За стеклом: мировые тренды витринистики</a> — <span class="media">New-retail.ru</span></span>
                 </li>
 
-                <li><span class="month">декабрь 2014</span><span class="title"><a href="http://www.vedomosti.ru/lifestyle/articles/2014/12/30/vitriny-magazinov-stanovyatsya-vse-pragmatichnee-i" target="_blank">Витрины магазинов становятся все прагматичнее и информативнее</a> — <span class="media">Газета Ведомости</span></span>
+                <li><span class="month">декабрь 2014</span><span class="title"><a href="pdfs/vitriny-magazinov-stanovyatsya-vse-pragmatichnee.pdf" target="_blank">Витрины магазинов становятся все прагматичнее и информативнее</a> — <span class="media">Газета Ведомости</span></span>
                 </li>
 
-                <li><span class="month">декабрь 2015</span><span class="title"><a href="http://www.shoes-report.ru/articles/merchandayzing/emotsionalnye_prodayushchie_vitriny_kak_zastavit_prokhozhego_zayti_v_vash_magazin_i_stat_ego_pokupat/" target="_blank">Эмоциональные продающие витрины. Как заставить покупателя зайти в ваш магазин и статьего покупателем</a> — <span class="media">Shoes Report</span></span>
+                <li><span class="month">декабрь 2015</span><span class="title"><a href="pdfs/emotsionalnye_prodayushchie_vitriny_kak_zastavit_prokhozhego_zayti_v_vash_magazin_i_stat_ego_pokupat.pdf" target="_blank">Эмоциональные продающие витрины. Как заставить покупателя зайти в ваш магазин и статьего покупателем</a> — <span class="media">Shoes Report</span></span>
                 </li>
 
                 <li><span class="month">лето 2014</span><span class="title"><a href="pdfs/vitrini-creativ-tochnii-paschet-1.pdf" target="_blank">Витрины: креатив и точный расчет часть 1</a> — <span class="media">Индустрия моды</span></span>
@@ -163,7 +163,7 @@
 
         <!-- FOOTER -->
         <?php include "footer.php"; ?>
-        
+
     </div>
 </body>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js" type="text/javascript" charset="utf-8"></script>
