@@ -32,8 +32,8 @@
 
             <article class="hex-content clearfix">
                 <div class="hex-content-left">
-                    <p class="hex-content-name">Разработка стандартов 
-                    <br/>визуального мерчандайзинга (ВМ) бренда. 
+                    <p class="hex-content-name">Разработка стандартов
+                    <br/>визуального мерчандайзинга (ВМ) бренда.
                     <br/>Создание мерчандайзинг-бук
                     </p>
                     <div class="hex-content-image">
@@ -41,8 +41,8 @@
                     </div>
                 </div>
                 <div class="hex-content-right">
-                    <p class="hex-content-name">Разработка стандартов 
-                    <br/>визуального мерчандайзинга (ВМ) бренда. 
+                    <p class="hex-content-name">Разработка стандартов
+                    <br/>визуального мерчандайзинга (ВМ) бренда.
                     <br/>Создание мерчандайзинг-бук
                     </p>
                     <p class="hex-content-description">Книга стандартов ВМ.</p>
@@ -94,14 +94,14 @@
 
             <article class="hex-content clearfix">
                 <div class="hex-content-left">
-                    <p class="hex-content-name">Коммерческий редрессинг торгового зала; 
+                    <p class="hex-content-name">Коммерческий редрессинг торгового зала;
                     <br/>Мерчандайзинг при открытии магазина</p>
                     <div class="hex-content-image">
                         <img src="imgs/bkgr_consulting4.jpg" alt="" />
                     </div>
                 </div>
                 <div class="hex-content-right">
-                    <p class="hex-content-name">Коммерческий редрессинг торгового зала; 
+                    <p class="hex-content-name">Коммерческий редрессинг торгового зала;
                     <br/>Мерчандайзинг при открытии магазина</p>
                     <p class="hex-content-description">Полный редрессинг коллекций торгового зала на основе сводных данных аналитики продаж коллекций.</p>
                     <ul class="hex-content-list">
@@ -144,14 +144,14 @@
 
             <article class="hex-content clearfix">
                 <div class="hex-content-left">
-                    <p class="hex-content-name">Разработка сезонных витринных концепций 
+                    <p class="hex-content-name">Разработка сезонных витринных концепций
                     <br/>и оформление витрин</p>
                     <div class="hex-content-image">
                         <img src="imgs/bkgr_consulting6.jpg" alt="" />
                     </div>
                 </div>
                 <div class="hex-content-right">
-                    <p class="hex-content-name">Разработка сезонных витринных концепций 
+                    <p class="hex-content-name">Разработка сезонных витринных концепций
                     <br/>и оформление витрин</p>
                     <p class="hex-content-description">(данная услуга предоставляется только сетевым брендам)</p>
                     <ul class="hex-content-list">
@@ -189,6 +189,7 @@
                </div>
             </article>
         </section>
+
         <div class="stripped-title">
             <span></span>
             <p>КЛИЕНТЫ</p>
@@ -225,7 +226,7 @@
 
         <!-- FOOTER -->
         <?php include "footer.php"; ?>
-        
+
     </div>
 </body>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js" type="text/javascript" charset="utf-8"></script>

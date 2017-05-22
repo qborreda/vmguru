@@ -1,10 +1,10 @@
 $(document).ready(function() {
-
   function isMobile() {
-    if( /Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent) ) {
+    if (
+      /Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent)
+    ) {
       return true;
-    }
-    else {
+    } else {
       return false;
     }
   }
@@ -25,33 +25,30 @@ $(document).ready(function() {
   var isMobile = isMobile();
 
   if (isMobile) {
+    var $mainMenu = $(".main-nav");
+    var $mobileHeader = $(".mobile-header");
+    var $newMenu = $(".main-nav").clone();
+    var $newLogo = $(".main-nav .logo").clone();
+    var $menuIcon = $(".js-hamburger").show();
 
-    var $mainMenu = $('.main-nav');
-    var $mobileHeader = $('.mobile-header');
-    var $newMenu = $('.main-nav').clone();
-    var $newLogo = $('.main-nav .logo').clone();
-    var $menuIcon = $('.js-hamburger').show();
-
-    $newMenu.find('.logo').remove();
+    $newMenu.find(".logo").remove();
     $newMenu.prepend($newLogo);
-    $mainMenu.find('.main-nav-item').not('.logo').hide();
+    $mainMenu.find(".main-nav-item").not(".logo").hide();
 
     $mobileHeader.empty().append($newMenu);
 
-    $('.js-hamburger').on('click', function(){
-      $(this).toggleClass('is-active');
-      $mobileHeader.toggleClass('is-open');
+    $(".js-hamburger").on("click", function() {
+      $(this).toggleClass("is-active");
+      $mobileHeader.toggleClass("is-open");
     });
-
   } else {
-
     $(window).on("scroll", floatedHeader);
     floatedHeader();
   }
 
   // Link on project hexagons
-  $(document).on('click', '[data-link]', function(event) {
-    var url = window.location.origin + $(this).data('link');
+  $(document).on("click", "[data-link]", function(event) {
+    var url = window.location.origin + $(this).data("link");
     window.location.href = url;
   });
 
@@ -80,45 +77,45 @@ $(document).ready(function() {
     }
   ];
 
-  $('.js-carrusel-1').length > 0 &&
-  $('.js-carrusel-1').slick({
-    infinite: false,
-    slidesToShow: 3,
-    slidesToScroll: 3,
-    prevArrow: $('.js-carrusel-1 ~ .btn-arrows-left'),
-    nextArrow: $('.js-carrusel-1 ~ .btn-arrows-right'),
-    responsive: carruselResponsiveOptions
-  });
+  $(".js-carrusel-1").length > 0 &&
+    $(".js-carrusel-1").slick({
+      infinite: false,
+      slidesToShow: 3,
+      slidesToScroll: 3,
+      prevArrow: $(".js-carrusel-1 ~ .btn-arrows-left"),
+      nextArrow: $(".js-carrusel-1 ~ .btn-arrows-right"),
+      responsive: carruselResponsiveOptions
+    });
 
-  $('.js-carrusel-2').length > 0 &&
-  $('.js-carrusel-2').slick({
-    infinite: false,
-    slidesToShow: 3,
-    slidesToScroll: 3,
-    prevArrow: $('.js-carrusel-2 ~ .btn-arrows-left'),
-    nextArrow: $('.js-carrusel-2 ~ .btn-arrows-right'),
-    responsive: carruselResponsiveOptions
-  });
+  $(".js-carrusel-2").length > 0 &&
+    $(".js-carrusel-2").slick({
+      infinite: false,
+      slidesToShow: 3,
+      slidesToScroll: 3,
+      prevArrow: $(".js-carrusel-2 ~ .btn-arrows-left"),
+      nextArrow: $(".js-carrusel-2 ~ .btn-arrows-right"),
+      responsive: carruselResponsiveOptions
+    });
 
-  $('.js-carrusel-3').length > 0 &&
-  $('.js-carrusel-3').slick({
-    infinite: false,
-    slidesToShow: 3,
-    slidesToScroll: 3,
-    prevArrow: $('.js-carrusel-3 ~ .btn-arrows-left'),
-    nextArrow: $('.js-carrusel-3 ~ .btn-arrows-right'),
-    responsive: carruselResponsiveOptions
-  });
+  $(".js-carrusel-3").length > 0 &&
+    $(".js-carrusel-3").slick({
+      infinite: false,
+      slidesToShow: 3,
+      slidesToScroll: 3,
+      prevArrow: $(".js-carrusel-3 ~ .btn-arrows-left"),
+      nextArrow: $(".js-carrusel-3 ~ .btn-arrows-right"),
+      responsive: carruselResponsiveOptions
+    });
 
   // Project Carrousel
-  $('.js-main-carrusel').length > 0 &&
-  $('.js-main-carrusel').slick({
-    infinite: true,
-    slidesToShow: 1,
-    slidesToScroll: 1,
-    variableWidth: true,
-    centerMode: true,
-    prevArrow: $('.project-carrusel-main .btn-arrows-left'),
-    nextArrow: $('.project-carrusel-main .btn-arrows-right')
-  });
+  $(".js-main-carrusel").length > 0 &&
+    $(".js-main-carrusel").slick({
+      infinite: true,
+      slidesToShow: 1,
+      slidesToScroll: 1,
+      variableWidth: true,
+      centerMode: true,
+      prevArrow: $(".project-carrusel-main .btn-arrows-left"),
+      nextArrow: $(".project-carrusel-main .btn-arrows-right")
+    });
 });

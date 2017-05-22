@@ -55,6 +55,22 @@
   @include mq($from: desktop) {
     padding: 0 50px;
   }
+
+  .trainings-intro {
+    margin: 0 auto;
+    margin-bottom: 30px;
+    font-size: 18px;
+    font-weight: 300;
+    text-align: center;
+    max-width: 750px;
+
+    @include mq($from: tablet) {
+      font-size: 20px;
+    }
+    @include mq($from: desktop) {
+      font-size: 24px;
+    }
+  }
 }
 
 .trainings-section3 {
