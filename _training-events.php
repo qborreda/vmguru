@@ -5,7 +5,7 @@
         <img src="imgs/bkgr_event2.jpg">
         <div class="article-stripe">
             <div class="article-dates">
-                <span class="month">апреля</span>
+                <span class="month">августа</span>
                 <span class="date">20—21</span>
             </div>
             <p>Коммерческий визуальный мерчандайзинг; прикладные техники «от А до Я»</p>
@@ -16,8 +16,8 @@
         <img src="imgs/bkgr_event4.jpg">
         <div class="article-stripe">
             <div class="article-dates">
-                <span class="month">мая</span>
-                <span class="date">16—17</span>
+                <span class="month">августа</span>
+                <span class="date">15—16</span>
             </div>
             <p>Витринистика: создание эффективных витрин. Большой эффект без больших расходов.</p>
         </div>
@@ -28,8 +28,8 @@
         <img src="imgs/bkgr_event1.jpg">
         <div class="article-stripe">
             <div class="article-dates">
-                <span class="month">мая</span>
-                <span class="date">18</span>
+                <span class="month">августа</span>
+                <span class="date">22</span>
             </div>
             <p>Cоздание эффективного магазина фэшн сегмента: планировки, зонирование, оптимальная вместимость, ВМ-дизайн</p>
         </div>
@@ -40,8 +40,8 @@
         <img src="imgs/bkgr_event3.jpg">
         <div class="article-stripe">
             <div class="article-dates">
-                <span class="month">июня</span>
-                <span class="date">5—6</span>
+                <span class="month">августа</span>
+                <span class="date">17—18</span>
             </div>
             <p>Визуальный мерчандайзинг для магазинов обуви и аксессуаров</p>
         </div>

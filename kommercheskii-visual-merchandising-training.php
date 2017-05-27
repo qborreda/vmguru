@@ -15,7 +15,7 @@
     <meta name="description" content="VM Guru — консалтинговое агентство визуальных коммуникаций в фэшн ритейле, специализирующееся на коммерческом визуальном мерчандайзинге, оформлении витрин, дизайне магазинов, а также обучении в данных сегментах.">
     <meta name="keywords" content="vmguru, visual merchandising, визуальный мерчандайзинг, витринистика, визуальный мерчандайзинг обучение, консалтинг по визуальному мерчандайзингу, обучение мерчендайзингу, курсы для мерчендайзеров, мерчандайзинг образование">
     <title>Визуальный мерчандайзинг , Витринистика, Дизайн магазинов - консалтинг и курсы в VM Guru</title>
-    
+
     <link rel="stylesheet" href="css/styles.css">
 </head>
 
@@ -32,7 +32,7 @@
                 <div class="box-texts">
                     <div class="box-texts-date">
                         <span class="day">20—21</span>
-                        <span class="month">апреля</span>
+                        <span class="month">августа</span>
                     </div>
                     <div class="box-texts-title">
                         КОММЕРЧЕСКИЙ ВИЗУАЛЬНЫЙ МЕРЧАНДАЙЗИНГ; ПРИКЛАДНЫЕ ТЕХНИКИ «ОТ А ДО Я»
@@ -207,10 +207,10 @@
                 </div>
             </form>
         </section>
-        
+
         <!-- FOOTER -->
         <?php include "footer.php"; ?>
-        
+
     </div>
 </body>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js" type="text/javascript" charset="utf-8"></script>

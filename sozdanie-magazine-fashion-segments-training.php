@@ -32,8 +32,8 @@
                 <div class="box-skewy"></div>
                 <div class="box-texts">
                     <div class="box-texts-date">
-                        <span class="day">18</span>
-                        <span class="month">мая</span>
+                        <span class="day">22</span>
+                        <span class="month">августа</span>
                     </div>
                     <div class="box-texts-title">
                         СОЗДАНИЕ ЭФФЕКТИВНОГО МАГАЗИНА ФЭШН СЕГМЕНТА:
@@ -45,7 +45,7 @@
         </section>
 
         <section class="event-section2">
-            
+
             <ul class="resume-list">
                 <li>Узнаете как грамотно спланировать торговое пространство, используя ассортиментную структуру бренда</li>
                 <li>Как использовать аналитику продаж коллекций для оптимизации зонирования</li>
@@ -125,7 +125,7 @@
                 </ul>
             </div>
 
-            <div class="event-journey">ЧАСТЬ 2. 
+            <div class="event-journey">ЧАСТЬ 2.
             <br/><strong>БЛИЦ КОНСАЛТИНГ</strong></div>
 
             <div class="event-journey-description">
@@ -153,7 +153,7 @@
             <span></span>
             <p>СТОИМОСТЬ</p>
         </div>
-        
+
         <section class="event-section4">
             <ul class="event-data">
                 <li><span class="title">продолжительность</span><span class="item">8 ак. часов</span>
@@ -187,7 +187,7 @@
 
         <!-- FOOTER -->
         <?php include "footer.php"; ?>
-        
+
     </div>
 </body>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js" type="text/javascript" charset="utf-8"></script>

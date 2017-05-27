@@ -32,8 +32,8 @@
                 <div class="box-skewy"></div>
                 <div class="box-texts">
                     <div class="box-texts-date">
-                        <span class="day">16—17</span>
-                        <span class="month">мая</span>
+                        <span class="day">15—16</span>
+                        <span class="month">августа</span>
                     </div>
                     <div class="box-texts-title">
                         ВИТРИНИСТИКА: СОЗДАНИЕ ЭФФЕКТИВНЫХ ВИТРИН. БОЛЬШОЙ ЭФФЕКТ БЕЗ БОЛЬШИХ РАСХОДОВ.
@@ -44,7 +44,7 @@
         </section>
 
         <section class="event-section2">
-            
+
             <ul class="resume-list">
             <li>Научитесь техникам создания эффективных витрин под задачи бренда</li>
             <li>Узнаете о всех тонкостях коммерческой презентации товара в витрине и закрепите их на практике</li>
@@ -148,7 +148,7 @@
                 7. Мировые тенденции коммерческой витринистики /по материалам тренд-бюро TrendUnion/
             </div>
 
-            <div class="event-journey">ДЕНЬ 2. 
+            <div class="event-journey">ДЕНЬ 2.
             <br/><strong>ПРАКТИКА В МАГАЗИНЕ</strong></div>
 
             <div class="event-journey-description">
@@ -174,7 +174,7 @@
             <span></span>
             <p>СТОИМОСТЬ</p>
         </div>
-        
+
         <section class="event-section4">
             <ul class="event-data">
                 <li><span class="title">продолжительность</span><span class="item">2 дня (16 академических часов)</span>
@@ -210,7 +210,7 @@
 
         <!-- FOOTER -->
         <?php include "footer.php"; ?>
-        
+
     </div>
 </body>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js" type="text/javascript" charset="utf-8"></script>

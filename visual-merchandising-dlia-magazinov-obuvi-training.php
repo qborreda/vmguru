@@ -32,8 +32,8 @@
                 <div class="box-skewy"></div>
                 <div class="box-texts">
                     <div class="box-texts-date">
-                        <span class="day">5—6</span>
-                        <span class="month">июня</span>
+                        <span class="day">17—18</span>
+                        <span class="month">августа</span>
                     </div>
                     <div class="box-texts-title">
                         ВИЗУАЛЬНЫЙ МЕРЧАНДАЙЗИНГ ДЛЯ МАГАЗИНОВ ОБУВИ И АКСЕССУАРОВ
@@ -44,7 +44,7 @@
         </section>
 
         <section class="event-section2">
-            
+
             <ul class="resume-list">
             <li>Узнаете правила ВМ для магазинов обуви и аксессуаров</li>
             <li>Как создать систему ВМ торговой марки используя индивидуальные параметры бренда</li>
@@ -84,7 +84,7 @@
         <section class="event-section3">
 
             <div class="event-journey">
-                ДЕНЬ 1, ЧАСТЬ 1. 
+                ДЕНЬ 1, ЧАСТЬ 1.
                 <br/><strong>ТЕОРЕТИЧЕСКАЯ ПОДГОТОВКА</strong>
             </div>
 
@@ -126,7 +126,7 @@
                 <p>как создавать коммерческие презентации коллекций и управлять выкладкой не имея мерчандайзеров в магазине</p>
             </div>
 
-            <div class="event-journey">ДЕНЬ 1, ЧАСТЬ 2. 
+            <div class="event-journey">ДЕНЬ 1, ЧАСТЬ 2.
             <br/><strong>БЛИЦ КОНСАЛТИНГ</strong></div>
 
             <div class="event-journey-description">
@@ -200,7 +200,7 @@
 
         <!-- FOOTER -->
         <?php include "footer.php"; ?>
-        
+
     </div>
 </body>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js" type="text/javascript" charset="utf-8"></script>
