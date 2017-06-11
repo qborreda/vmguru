@@ -177,7 +177,7 @@
 
         <section class="event-section4">
             <ul class="event-data">
-                <li><span class="title">продолжительность</span><span class="item">2 дня (16 академических часов)</span>
+                <li><span class="title">продолжительность</span><span class="item">2 дня (14 академических часов)</span>
                 </li>
                 <li><span class="title">стоимость</span><span class="item">19 000 руб.</span>
                 </li>
