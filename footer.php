@@ -12,7 +12,7 @@
         <div class="social-links inverse">
             <a href="https://www.instagram.com/anna_balandina_vmguru/" target="_blank"><span class="social-icon instagram"></span></a>
             <a href="https://www.facebook.com/VMGURU.Russia/" target="_blank"><span class="social-icon facebook"></span></a>
-            <a href=""><span class="social-icon wk"></span></a>
+            <a href="https://www.youtube.com/channel/UC3wAc98I2O_bcAK8OD3koQQ/featured" target="_blank"><span class="social-icon youtube"></span></a>
         </div>
     </div>
     <div class="footer-menu">
