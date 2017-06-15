@@ -4,7 +4,7 @@
           <div class="hex-content-left">
               <p class="hex-content-name">FASHION INDUSTRY - МЕЖДУНАРОДНАЯ ВЫСТАВКА ЛЕГКОЙ И ТЕКСТИЛЬНОЙ ПРОМЫШЛЕННОСТИ
               <br/>28.09 – 01.10 2017, САНКТ-ПЕТЕРБУРГ
-              <br/>28 СЕНТЯБРЯ 15:00 – 18:00
+              <br/>30 СЕНТЯБРЯ 15:00 – 18:00
               </p>
               <div class="hex-content-image">
                   <img src="imgs/hex-pill-trainings6.jpg" alt="" />
@@ -13,7 +13,7 @@
           <div class="hex-content-right">
               <p class="hex-content-name">FASHION INDUSTRY - МЕЖДУНАРОДНАЯ ВЫСТАВКА ЛЕГКОЙ И ТЕКСТИЛЬНОЙ ПРОМЫШЛЕННОСТИ
               <br/>28.09 – 01.10 2017, САНКТ-ПЕТЕРБУРГ
-              <br/>28 СЕНТЯБРЯ 15:00 – 18:00
+              <br/>30 СЕНТЯБРЯ 15:00 – 18:00
               </p>
               <p class="hex-content-description">
                   <strong>Семинар Анны Баландиной на Экономическом форуме</strong>
