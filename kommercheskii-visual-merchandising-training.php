@@ -31,7 +31,7 @@
                 <div class="box-skewy"></div>
                 <div class="box-texts">
                     <div class="box-texts-date">
-                        <span class="day">20—21</span>
+                        <span class="day">21—22</span>
                         <span class="month">августа</span>
                     </div>
                     <div class="box-texts-title">

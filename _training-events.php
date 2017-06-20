@@ -6,7 +6,7 @@
         <div class="article-stripe">
             <div class="article-dates">
                 <span class="month">августа</span>
-                <span class="date">20—21</span>
+                <span class="date">21—22</span>
             </div>
             <p>Коммерческий визуальный мерчандайзинг; прикладные техники «от А до Я»</p>
         </div></a>
@@ -17,7 +17,7 @@
         <div class="article-stripe">
             <div class="article-dates">
                 <span class="month">августа</span>
-                <span class="date">15—16</span>
+                <span class="date">17—18</span>
             </div>
             <p>Витринистика: создание эффективных витрин. Большой эффект без больших расходов.</p>
         </div>
@@ -29,7 +29,7 @@
         <div class="article-stripe">
             <div class="article-dates">
                 <span class="month">августа</span>
-                <span class="date">22</span>
+                <span class="date">23</span>
             </div>
             <p>Cоздание эффективного магазина фэшн сегмента: планировки, зонирование, оптимальная вместимость, ВМ-дизайн</p>
         </div>
@@ -41,7 +41,7 @@
         <div class="article-stripe">
             <div class="article-dates">
                 <span class="month">августа</span>
-                <span class="date">17—18</span>
+                <span class="date">28—29</span>
             </div>
             <p>Визуальный мерчандайзинг для магазинов обуви и аксессуаров</p>
         </div>
