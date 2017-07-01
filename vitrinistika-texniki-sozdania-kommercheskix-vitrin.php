@@ -202,9 +202,12 @@
 
             <input type="hidden" name="interest" value="ВИТРИНИСТИКА: СОЗДАНИЕ ЭФФЕКТИВНЫХ ВИТРИН. БОЛЬШОЙ ЭФФЕКТ БЕЗ БОЛЬШИХ РАСХОДОВ.">
 
-                <div class="form-buttons">
-                    <button class="form-submit js-event-submit" type="submit">ОТПРАВИТЬ ЗАЯВКУ</button>
-                </div>
+            <div class="form-buttons">
+                <button class="form-submit js-event-submit" type="submit">ОТПРАВИТЬ ЗАЯВКУ</button>
+            </div>
+            <div class="form-disclaimer">
+              Отправляя заявку, вы соглашаетесь на обработку <a href="/pdfs/agreement.pdf" target="_blank">персональных данных</a>
+            </div>
             </form>
         </section>
 

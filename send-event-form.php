@@ -33,6 +33,7 @@ if(isset($_POST['email'])) {
   }
 
   $to = "hello@vmguru.ru";
+    // $to = "qborreda@yahoo.com";
   $subject = "Contact from Training Event";
   $message = "A user has sent this data:". $br.$br;
 
@@ -47,7 +48,7 @@ if(isset($_POST['email'])) {
   $message .= "at " . $referer . $br;
 
   $message .= $br;
-  $message .= "And the user selected: " . $br; 
+  $message .= "And the user selected: " . $br;
 
   $message .= "Одежда: " . $mess_odezda . $br;
   $message .= "Oбувь: " . $mess_shoes . $br;
@@ -62,6 +63,35 @@ if(isset($_POST['email'])) {
   } else {
     header("Location: " . $_SERVER['HTTP_REFERER'],TRUE,301);
   }
+
+  // Message to the sender
+  // $to = $email;
+  //   // $to = "qborreda@yahoo.com";
+  // $subject = "Something coming from vmguru.ru";
+  //
+  // $message = "Здравствуйте!" . $br.$br;
+  // $message .= "Благодарим Вас!" . $br;
+  // $message .= "Ваша заявка принята. Мы ответим Вам в ближайшее время." . $br.$br;
+  //
+  // $message .= "С уважением," . $br;
+  // $message .= "Команда VM GURU" . $br.$br;
+  //
+  // $message .= "Phone: +7 (495) 741 17 84" . $br;
+  // $message .= "<a href='http://www.vmguru.ru' target='_blank'>www.vmguru.ru</a>" . $br.$br;
+  //
+  // $message .= "Присоединяйтесь к нам в соц сетях:" . $br;
+  // $message .= "<a href='http://www.facebook.com/VMGURU.Russia' target='_blank'>www.facebook.com/VMGURU.Russia</a>" . $br;
+  // $message .= "<a href='http://www.instagram.com/anna_balandina_vmguru' target='_blank'>www.instagram.com/anna_balandina_vmguru</a>" . $br.$br;
+  //
+  // $header .= "MIME-Version: 1.0" . $br;
+  // $header .= "From: VMGuru <hello@vmguru.ru>" . $br;
+  // $header .= "Content-Type: text/plain; charset=utf-8" . $br;
+  //
+  // if(mail($to, $subject, $message, $header, "-fhello@vmguru.ru")) {
+  //   header("Location: " . $_SERVER['HTTP_REFERER'],TRUE,301);
+  // } else {
+  //   header("Location: " . $_SERVER['HTTP_REFERER'],TRUE,301);
+  // }
 
 }
 

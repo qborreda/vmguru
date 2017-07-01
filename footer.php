@@ -7,6 +7,8 @@
             +7 495 741 1784
             <br/>
             <a href="mailto:hello@vmguru.ru">hello@vmguru.ru</a>
+            <br/><br/>
+            <a href="/pdfs/confidential.pdf" target="_blank">политика конфиденциальности</a>
         </div>
         <br/> следите за нами:
         <div class="social-links inverse">
@@ -42,5 +44,8 @@
         +7 495 741 1784
         <br/>
         <a href="mailto:hello@vmguru.ru">hello@vmguru.ru</a>
+        <br/><br/>
+        <a href="/pdfs/confidential.pdf" target="_blank">политика конфиденциальности</a>
+      </br/>
     </div>
 </footer>

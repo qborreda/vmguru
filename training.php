@@ -146,9 +146,12 @@
             <?php include "_education-form.php"; ?>
             <input type="hidden" name="interest" value="ФОРМАТЫ КОРПОРАТИВНОГО ОБУЧЕНИЯ">
 
-                <div class="form-buttons">
-                    <button class="form-submit js-education-submit" type="submit">ОТПРАВИТЬ ЗАЯВКУ</button>
-                </div>
+            <div class="form-buttons">
+                <button class="form-submit js-education-submit" type="submit">ОТПРАВИТЬ ЗАЯВКУ</button>
+            </div>
+            <div class="form-disclaimer">
+              Отправляя заявку, вы соглашаетесь на обработку <a href="/pdfs/agreement.pdf" target="_blank">персональных данных</a>
+            </div>
             </form>
         </section>
 

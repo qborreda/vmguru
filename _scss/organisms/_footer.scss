@@ -88,6 +88,7 @@
   &-contact {
     @include flex_flex(0 0 auto);
     display: none;
+    text-align: right;
     order: 4;
 
     @include mq($from: tablet) {

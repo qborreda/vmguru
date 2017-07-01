@@ -35,7 +35,6 @@ if(isset($_POST['email'])) {
   } else {
     header("Location: " . $_SERVER['HTTP_REFERER'],TRUE,301);
   }
-
 }
 
 ?>
