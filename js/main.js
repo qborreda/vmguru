@@ -118,4 +118,40 @@ $(document).ready(function() {
       prevArrow: $(".project-carrusel-main .btn-arrows-left"),
       nextArrow: $(".project-carrusel-main .btn-arrows-right")
     });
+
+  // Footer Carrousel
+  $(".js-carrusel-footer").length > 0 &&
+    $(".js-carrusel-footer").slick({
+      infinite: true,
+      autoplay: true,
+      slidesToShow: 6,
+      slidesToScroll: 1,
+      // variableWidth: true,
+      // centerMode: true,
+      prevArrow: $(".footer-carrusel .btn-arrows-left"),
+      nextArrow: $(".footer-carrusel .btn-arrows-right"),
+      responsive: [
+        {
+          breakpoint: 1024,
+          settings: {
+            slidesToShow: 6,
+            slidesToScroll: 1
+          }
+        },
+        {
+          breakpoint: 980,
+          settings: {
+            slidesToShow: 4,
+            slidesToScroll: 1
+          }
+        },
+        {
+          breakpoint: 400,
+          settings: {
+            slidesToShow: 2,
+            slidesToScroll: 1
+          }
+        }
+      ]
+    });
 });

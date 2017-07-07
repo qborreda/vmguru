@@ -1,3 +1,23 @@
+.footer-carrusel {
+  position: relative;
+  margin: 0 auto;
+  width: 100%;
+  text-align: center;
+
+  .carr-item {
+    width: 20%;
+    /*min-width: 150px;*/
+    height: 65px;
+    vertical-align: middle;
+    text-align: center;
+
+    img {
+      margin: 0 auto;
+      max-width: 150px;
+    }
+  }
+}
+
 .footer {
   @include display_flex();
   @include flex_justify-content(space-between);
@@ -40,7 +60,7 @@
   &-menu {
     @include flex_flex(0 1 auto);
     // min-width: 140px;
-    margin-left: 1rem;
+    margin-left: 2rem;
     text-align: right;
     order: 2;
 
@@ -93,6 +113,7 @@
 
     @include mq($from: tablet) {
       display: block;
+      margin-left: auto;
     }
   }
 

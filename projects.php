@@ -24,7 +24,7 @@
     <?php include "header.php"; ?>
 
     <div class="wrapper">
-        
+
         <div class="stripped-title">
             <span></span>
             <p>ПРОЕКТЫ</p>
@@ -32,7 +32,7 @@
 
         <section class="projects-section1">
 
-            <div class="projects-intro">созданы и реализованы 
+            <div class="projects-intro">созданы и реализованы
             <br/>под руководством и при участии А. Баландиной</div>
 
             <ul class="hex-grid clr">
@@ -173,7 +173,7 @@
                         <!-- <div class="hex-title">Fest 1</div> -->
                         <p class="hex-description">
                             АУДИТ ВМ СТАНДАРТОВ КОНКУРЕНТОВ
-                            <br/>РАЗРАБОТКА ВМ СТАНДАРТОВ 
+                            <br/>РАЗРАБОТКА ВМ СТАНДАРТОВ
                             <br/>ДЛЯ РАЗНЫХ ТОРГОВЫХ ФОРМАТОВ
                         </p>
                     </div>
@@ -184,7 +184,7 @@
                         <!-- <div class="hex-title">Fest 2</div> -->
                         <p class="hex-description">
                             РАЗРАБОТКА И ПРОВЕДЕНИЕ
-                            <br/>РЕКЛАМНОЙ ФОТОСЕССИИ;   
+                            <br/>РЕКЛАМНОЙ ФОТОСЕССИИ;
                             <br/>РАЗРАБОТКА СТАНДАРТОВ ПРЕЗЕНТАЦИИ
                             <br/>POS МАТЕРИАЛОВ
                         </p>
@@ -216,7 +216,7 @@
                         <!-- <div class="hex-title">Moda HSE</div> -->
                         <p class="hex-description">
                             КУРС НИУ ВШЭ «ВИЗУАЛЬНЫЙ МЕРЧАНДАЙЗИНГ
-                            <br/>В ИНДУСТРИИ МОДЫ»  
+                            <br/>В ИНДУСТРИИ МОДЫ»
                             <br/>СОАВТОР И КУРАТОР КУРСА, ВЕДУЩИЙ
                             <br/>ПРЕПОДАВАТЕЛЬ- ПРАКТИК
                         </p>
@@ -249,7 +249,7 @@
                         <img class="hex-content" src="/imgs/bkgr_hex_project21.jpg" alt="" />
                         <!-- <div class="hex-title">Marccain</div> -->
                         <p class="hex-description">
-                            СТАНДАРТЫ ПРЕЗЕНТАЦИИ ПРЕМИУМ КОЛЛЕКЦИЙ - 
+                            СТАНДАРТЫ ПРЕЗЕНТАЦИИ ПРЕМИУМ КОЛЛЕКЦИЙ -
                             <br/>КОРПОРАТИВНОЕ ОБУЧЕНИЕ / ФРАНЧАЙЗИНГ. КОНФ.
                         </p>
                     </div>
@@ -309,10 +309,11 @@
 
         <!-- FOOTER -->
         <?php include "footer.php"; ?>
-        
+
     </div>
 </body>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js" type="text/javascript" charset="utf-8"></script>
+<script type="text/javascript" src="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.min.js"></script>
 <script src="/js/main.js" type="text/javascript" charset="utf-8"></script>
 
 </html>

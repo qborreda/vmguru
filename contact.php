@@ -48,10 +48,11 @@
 
         <!-- FOOTER -->
         <?php include "footer.php"; ?>
-        
+
     </div>
 </body>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js" type="text/javascript" charset="utf-8"></script>
+<script type="text/javascript" src="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.min.js"></script>
 <script src="/js/main.js" type="text/javascript" charset="utf-8"></script>
 
 </html>

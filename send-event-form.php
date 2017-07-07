@@ -33,7 +33,7 @@ if(isset($_POST['email'])) {
   }
 
   $to = "hello@vmguru.ru";
-    // $to = "qborreda@yahoo.com";
+  // $to = "qborreda@yahoo.com";
   $subject = "Contact from Training Event";
   $message = "A user has sent this data:". $br.$br;
 
@@ -55,8 +55,10 @@ if(isset($_POST['email'])) {
   $message .= "Aксессуары: " . $mess_accesories . $br;
 
   $header .= "MIME-Version: 1.0" . $br;
-  $header .= "From: VMGuru form service <hello@vmguru.ru>" . $br;
   $header .= "Content-Type: text/plain; charset=utf-8" . $br;
+  $header .= "From: VMGuru form service <hello@vmguru.ru>" . $br;
+  $header .= "Reply-To: hello@vmguru.ru". $br;
+  $header .= "X-Mailer: PHP/" . phpversion();
 
   if(mail($to, $subject, $message, $header, "-fhello@vmguru.ru")) {
     header("Location: " . $_SERVER['HTTP_REFERER'],TRUE,301);
@@ -64,10 +66,13 @@ if(isset($_POST['email'])) {
     header("Location: " . $_SERVER['HTTP_REFERER'],TRUE,301);
   }
 
+  // $firstmail = mail($to, $subject, $message, $header, "-fhello@vmguru.ru");
+  // header("Location: " . $_SERVER['HTTP_REFERER'],TRUE,301);
+
   // Message to the sender
   // $to = $email;
-  //   // $to = "qborreda@yahoo.com";
-  // $subject = "Something coming from vmguru.ru";
+  // $to = "qborreda@yahoo.com";
+  // $subject = "Message to sender";
   //
   // $message = "Здравствуйте!" . $br.$br;
   // $message .= "Благодарим Вас!" . $br;
@@ -84,13 +89,18 @@ if(isset($_POST['email'])) {
   // $message .= "<a href='http://www.instagram.com/anna_balandina_vmguru' target='_blank'>www.instagram.com/anna_balandina_vmguru</a>" . $br.$br;
   //
   // $header .= "MIME-Version: 1.0" . $br;
-  // $header .= "From: VMGuru <hello@vmguru.ru>" . $br;
   // $header .= "Content-Type: text/plain; charset=utf-8" . $br;
+  // $header .= "From: VMGuru <hello@vmguru.ru>" . $br;
+  // $header .= "Reply-To: hello@vmguru.ru". $br;
+  // $header .= "X-Mailer: PHP/" . phpversion();
   //
-  // if(mail($to, $subject, $message, $header, "-fhello@vmguru.ru")) {
+  // $secondmail = mail($to, $subject, $message, $header);
+  //
+  // if( $firstmail && $secondmail) {
   //   header("Location: " . $_SERVER['HTTP_REFERER'],TRUE,301);
   // } else {
-  //   header("Location: " . $_SERVER['HTTP_REFERER'],TRUE,301);
+  //   print_r($firstmail);
+  //   print_r($secondmail);
   // }
 
 }

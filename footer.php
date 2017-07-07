@@ -1,4 +1,30 @@
 <!-- FOOTER -->
+<div class="footer-carrusel">
+  <h2 style="margin:30px auto 20px;">ПАРТНЕРЫ:</h2>
+    <div class="js-carrusel-footer">
+        <div class="carr-item">
+          <img src="/imgs/logo-mosshoes.png" alt="">
+        </div>
+        <div class="carr-item">
+          <img src="/imgs/logo-mospel.png" alt="">
+        </div>
+        <div class="carr-item">
+          <img src="/imgs/logo-euro-shoes.png" alt="">
+        </div>
+        <div class="carr-item">
+          <img src="/imgs/logo-lingerie-show.png" alt="">
+        </div>
+        <div class="carr-item">
+          <img src="/imgs/logo-shoes-n-leather.png" alt="">
+        </div>
+        <div class="carr-item">
+          <img src="/imgs/logo-cjf.png" alt="">
+        </div>
+        <div class="carr-item">
+          <img src="/imgs/logo-fashion-industry.png" alt="">
+        </div>
+    </div>
+</div>
 <footer class="footer">
     <div class="footer-copyright">
         &copy; агентство VM GURU 2017
@@ -27,7 +53,7 @@
             <li><a href="/contact.php">контакты</a></li>
         </ul>
     </div>
-    <div class="footer-logos">
+    <!-- <div class="footer-logos">
         партнеры агентства:
         <div class="logo-row">
             <img src="/imgs/footer-logo-shoesreport.png" alt="">
@@ -39,7 +65,7 @@
             <img src="/imgs/footer-logo-shoesandleather.png" alt="">
             <img src="/imgs/footer-logo-cjf.png" alt="">
         </div>
-    </div>
+    </div> -->
     <div class="footer-contact">
         +7 495 741 1784
         <br/>
