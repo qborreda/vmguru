@@ -30,7 +30,7 @@
             <div class="home-section1-arrow"></div>
             <div class="home-section1-footer">
                 <div class="home-section1-footer-text">
-                    <span>ВИЗУАЛЬНЫЙ МЕРЧАНДАЙЗИНГ 
+                    <span>ВИЗУАЛЬНЫЙ МЕРЧАНДАЙЗИНГ
                     <br/>способен увеличить
                     <br/>продажи до 80%</span>
                 </div>
