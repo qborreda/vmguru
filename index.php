@@ -102,6 +102,34 @@
 
         </section> -->
 
+        <!-- CAROUSEL -->
+        <div class="footer-carrusel">
+          <h2 style="margin:30px auto 20px;">ПАРТНЕРЫ:</h2>
+            <div class="js-carrusel-footer">
+                <div class="carr-item">
+                  <img src="/imgs/logo-mosshoes.png" alt="">
+                </div>
+                <div class="carr-item">
+                  <img src="/imgs/logo-mospel.png" alt="">
+                </div>
+                <div class="carr-item">
+                  <img src="/imgs/logo-euro-shoes.png" alt="">
+                </div>
+                <div class="carr-item">
+                  <img src="/imgs/logo-lingerie-show.png" alt="">
+                </div>
+                <div class="carr-item">
+                  <img src="/imgs/logo-shoes-n-leather.png" alt="">
+                </div>
+                <div class="carr-item">
+                  <img src="/imgs/logo-cjf.png" alt="">
+                </div>
+                <div class="carr-item">
+                  <img src="/imgs/logo-fashion-industry.png" alt="">
+                </div>
+            </div>
+        </div>
+
         <!-- FOOTER -->
         <?php include "footer.php"; ?>
 
