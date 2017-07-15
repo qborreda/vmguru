@@ -159,6 +159,21 @@
 
         </section>
 
+        <section class="video-section">
+            <div class="videos">
+              <div class="video-container">
+                <iframe src="https://www.youtube.com/embed/PDXzHY5JuxI" frameborder="0" allowfullscreen></iframe>
+              </div>
+              <div class="video-container">
+                <iframe src="https://www.youtube.com/embed/FDJVyuWsaqI" frameborder="0" allowfullscreen></iframe>
+              </div>
+              <div class="video-container">
+                <iframe src="https://www.youtube.com/embed/XW_ZkJDv9Us" frameborder="0" allowfullscreen></iframe>
+              </div>
+            </div>
+            <p>Другие ВМ видео на канале VM Guru</p>
+        </section>
+
         <div class="stripped-title">
             <span></span>
             <p>АВТОР И ТРЕНЕР</p>
@@ -216,6 +231,12 @@
 </body>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js" type="text/javascript" charset="utf-8"></script>
 <script type="text/javascript" src="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.min.js"></script>
+<script src="/js/jquery.fitvids.js"></script>
 <script src="/js/main.js" type="text/javascript" charset="utf-8"></script>
+<script>
+$(document).ready(function(){
+    $('.video-container').fitVids();
+});
+</script>
 
 </html>
