@@ -162,16 +162,16 @@
         <section class="video-section">
             <div class="videos">
               <div class="video-container">
-                <iframe src="https://www.youtube.com/embed/PDXzHY5JuxI" frameborder="0" allowfullscreen></iframe>
+                <iframe src="https://www.youtube.com/embed/PDXzHY5JuxI?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
               </div>
               <div class="video-container">
-                <iframe src="https://www.youtube.com/embed/FDJVyuWsaqI" frameborder="0" allowfullscreen></iframe>
+                <iframe src="https://www.youtube.com/embed/FDJVyuWsaqI?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
               </div>
               <div class="video-container">
-                <iframe src="https://www.youtube.com/embed/XW_ZkJDv9Us" frameborder="0" allowfullscreen></iframe>
+                <iframe src="https://www.youtube.com/embed/XW_ZkJDv9Us?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
               </div>
             </div>
-            <p>Другие ВМ видео на канале VM Guru</p>
+            <p>Другие ВМ видео на <a href="https://www.youtube.com/channel/UC3wAc98I2O_bcAK8OD3koQQ" target="_blank">канале VM Guru</a></p>
         </section>
 
         <div class="stripped-title">
