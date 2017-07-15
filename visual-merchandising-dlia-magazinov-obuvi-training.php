@@ -76,39 +76,38 @@
 
         </section>
 
-        <!-- <section class="project-details">
+        <section class="project-details">
           <div class="project-carrusel">
-            <img class="btn-arrows btn-arrows-left" src="/imgs/btn_arrow_left.png" />
 
               <div class="js-carrusel-1">
                   <div class="carr-item"><img src="/imgs/trainings/visual-merchandising-01.jpg" alt=""></div>
                   <div class="carr-item"><img src="/imgs/trainings/visual-merchandising-02.jpg" alt=""></div>
                   <div class="carr-item"><img src="/imgs/trainings/visual-merchandising-03.jpg" alt=""></div>
-                  <div class="carr-item"><img src="/imgs/trainings/visual-merchandising-04.jpg" alt=""></div>
+                  <!-- <div class="carr-item"><img src="/imgs/trainings/visual-merchandising-04.jpg" alt=""></div> -->
                   <div class="carr-item"><img src="/imgs/trainings/visual-merchandising-05.jpg" alt=""></div>
                   <div class="carr-item"><img src="/imgs/trainings/visual-merchandising-06.jpg" alt=""></div>
                   <div class="carr-item"><img src="/imgs/trainings/visual-merchandising-07.jpg" alt=""></div>
-                  <div class="carr-item"><img src="/imgs/trainings/visual-merchandising-08.jpg" alt=""></div>
+                  <!-- <div class="carr-item"><img src="/imgs/trainings/visual-merchandising-08.jpg" alt=""></div> -->
                   <div class="carr-item"><img src="/imgs/trainings/visual-merchandising-09.jpg" alt=""></div>
                   <div class="carr-item"><img src="/imgs/trainings/visual-merchandising-10.jpg" alt=""></div>
                   <div class="carr-item"><img src="/imgs/trainings/visual-merchandising-11.jpg" alt=""></div>
-                  <div class="carr-item"><img src="/imgs/trainings/visual-merchandising-12.jpg" alt=""></div>
+                  <!-- <div class="carr-item"><img src="/imgs/trainings/visual-merchandising-12.jpg" alt=""></div> -->
                   <div class="carr-item"><img src="/imgs/trainings/visual-merchandising-13.jpg" alt=""></div>
                   <div class="carr-item"><img src="/imgs/trainings/visual-merchandising-14.jpg" alt=""></div>
-                  <div class="carr-item"><img src="/imgs/trainings/visual-merchandising-15.jpg" alt=""></div>
-                  <div class="carr-item"><img src="/imgs/trainings/visual-merchandising-16.jpg" alt=""></div>
+                  <!-- <div class="carr-item"><img src="/imgs/trainings/visual-merchandising-15.jpg" alt=""></div> -->
+                  <!-- <div class="carr-item"><img src="/imgs/trainings/visual-merchandising-16.jpg" alt=""></div> -->
                   <div class="carr-item"><img src="/imgs/trainings/visual-merchandising-17.jpg" alt=""></div>
                   <div class="carr-item"><img src="/imgs/trainings/visual-merchandising-18.jpg" alt=""></div>
-                  <div class="carr-item"><img src="/imgs/trainings/visual-merchandising-19.jpg" alt=""></div>
+                  <!-- <div class="carr-item"><img src="/imgs/trainings/visual-merchandising-19.jpg" alt=""></div> -->
                   <div class="carr-item"><img src="/imgs/trainings/visual-merchandising-20.jpg" alt=""></div>
                   <div class="carr-item"><img src="/imgs/trainings/visual-merchandising-21.jpg" alt=""></div>
                   <div class="carr-item"><img src="/imgs/trainings/visual-merchandising-22.jpg" alt=""></div>
-                  <div class="carr-item"><img src="/imgs/trainings/visual-merchandising-23.jpg" alt=""></div>
               </div>
 
+              <img class="btn-arrows btn-arrows-left" src="/imgs/btn_arrow_left.png" />
               <img class="btn-arrows btn-arrows-right" src="/imgs/btn_arrow_right.png" />
           </div>
-        </section> -->
+        </section>
 
         <div class="stripped-title">
             <span></span>
