@@ -68,6 +68,36 @@
 
       <article class="hex-content clearfix">
           <div class="hex-content-left">
+              <p class="hex-content-name">Lingerie Show-Forum
+              <br/>27 АВГУСТА – 04 СЕНТЯБРЯ 2017
+              <br/>27 АВГУСТА 16.00-17.00
+              </p>
+              <div class="hex-content-image">
+                  <img src="imgs/hex-pill-trainings1.jpg" alt="" />
+              </div>
+          </div>
+          <div class="hex-content-right">
+              <p class="hex-content-name">Lingerie Show-Forum
+                <br/>27 АВГУСТА – 04 СЕНТЯБРЯ 2017
+                <br/>27 АВГУСТА 16.00-17.00
+              </p>
+              <p class="hex-content-description">
+                  <strong>Мастер-класс Анны Баландиной: </strong>
+                  <br/>«КОММЕРЧЕСКИЙ ВИЗУАЛЬНЫЙ МЕРЧАНДАЙЗИНГ: КАК ПОВЫСИТЬ ПРОДАЖИ В МАГАЗИНАХ НИЖНЕГО БЕЛЬЯ»
+              </p>
+              <ul class="hex-content-list">
+                <li>Особенности ВМ для магазинов бельевого сегмента</li>
+                <li>Для чего нужны стандарты ВМ и как их создать</li>
+                <li>Как взаимодействовать с покупателями на уровне их подсознания</li>
+                <li>Что такое «эмоциональные» магазины сегодня и почему «эмоции» в магазине – двигатель продаж</li>
+                <li>Как продают витрины; нужно ли инвестировать либо экономить на оформлении витрин и какие приемы работают</li>
+              </ul>
+              <img class="hex-content-logo" src="imgs/logo-lingerie-show.png" alt="">
+          </div>
+      </article>
+
+      <article class="hex-content clearfix">
+          <div class="hex-content-left">
               <p class="hex-content-name">Euro Shoes Collection Premier
               <br/>23 – 24 августа 2017
               <br/>24 августа 13.00-14.00
@@ -152,36 +182,6 @@
               <img class="hex-content-logo" src="imgs/logo-shoes-n-leather.png" alt="">
           </div>
       </article>
-
-    <article class="hex-content clearfix">
-        <div class="hex-content-left">
-            <p class="hex-content-name">Lingerie Show-Forum
-            <br/>16 – 24 февраля 2017
-            <br/>18 февраля 16.00-17.00
-            </p>
-            <div class="hex-content-image">
-                <img src="imgs/hex-pill-trainings1.jpg" alt="" />
-            </div>
-        </div>
-        <div class="hex-content-right">
-            <p class="hex-content-name">Lingerie Show-Forum
-            <br/>16 – 24 февраля 2017
-            <br/>18 февраля 16.00-17.00
-            </p>
-            <p class="hex-content-description">
-                <strong>Мастер-класс Анны Баландиной: </strong>
-                <br/>«КОММЕРЧЕСКИЙ ВИЗУАЛЬНЫЙ МЕРЧАНДАЙЗИНГ: КАК ПОВЫСИТЬ ПРОДАЖИ В МАГАЗИНАХ НИЖНЕГО БЕЛЬЯ СРЕДСТВАМИ ВИЗУАЛЬНОГО МЕРЧАНДАЙЗИНГА?»
-            </p>
-            <!-- <ul class="hex-content-list">
-                <li>Техники создания эффективного входного пространства магазина</li>
-                <li>Алгоритм построения зон «Активных продаж», работающих с подсознанием покупателей</li>
-                <li>Мобильное зонирование магазина и выбор коллекций для ассортиментных зон с учетом маркетинговых приоритетов бренда</li>
-                <li>Какой товар презентовать в «горячих» зонах торгового зала и как «утеплять» «холодные» пространства магазина</li>
-                <li>«Эмоции повышают продажи» – новый тренд в покупательском поведении потребителей; основы эмоционального визуального мерчандайзинга</li>
-            </ul> -->
-            <img class="hex-content-logo" src="imgs/logo-lingerie-show.png" alt="">
-        </div>
-    </article>
 
     <article class="hex-content clearfix">
         <div class="hex-content-left">
