@@ -58,8 +58,8 @@
                 <li><span class="month">ноябрь 2016</span><span class="title"><a href="pdfs/emotionalnii shopping.pdf" target="_blank">«Эмоциональный шопинг и новогодняя витринистика»</a> — <span class="media">Shoes Report</span></span>
                 </li>
 
-                <li><span class="month">сентябрь 2015</span><span class="title"><a href="pdfs/visual-merchandasing-podnimaem-prodazi.pdf" target="_blank">«Поднимаем продажи. Как увеличить трафик покупателей и объем продаж в магазине с помощью инструментов ВМ»</a> — <span class="media">Shoes Report</span></span>
-                </li>
+                <!-- <li><span class="month">сентябрь 2015</span><span class="title"><a href="pdfs/visual-merchandasing-podnimaem-prodazi.pdf" target="_blank">«Поднимаем продажи. Как увеличить трафик покупателей и объем продаж в магазине с помощью инструментов ВМ»</a> — <span class="media">Shoes Report</span></span>
+                </li> -->
 
                 <li><span class="month">декабрь 2012</span><span class="title"><a href="pdfs/Jazz_Econika.pdf" target="_blank">«Джаз и прямо сейчас!» — новогодние витрины «Эконики»</a> — <span class="media">Shoes Report</span></span>
                 </li>
@@ -74,6 +74,9 @@
                 </div>
             </div>
             <ul class="publication-article-list">
+                <li><span class="month">август 2017</span><span class="title"><a href="https://fashionunited.ru/novostee/beeznyes/vm-guru-kak-prezentovat-tovar-maksimalno-kommercheski/2017080118767" target="_blank">VM Guru: как презентовать товар максимально коммерчески</a> — <span class="media">FashionUnited</span></span>
+                </li>
+
                 <li><span class="month">сентябрь 2016</span><span class="title"><a href="pdfs/instrument-bistrogo-reagirovania-profashion.pdf" target="_blank">«Инструмент быстрого реагирования»</a> — <span class="media">profashion</span></span>
                 </li>
 
@@ -83,13 +86,13 @@
                 <li><span class="month">март 2015</span><span class="title"><a href="pdfs/anna-balandina-vizualnyiy-merchenday.pdf" target="_blank">«Bизуальный мерчандайзинг- это нечто среднее между математикой и чистым креативом»</a> — <span class="media">WZOR</span></span>
                 </li>
 
-                <li><span class="month">сентябрь 2015</span><span class="title"><a href="pdfs/visual-merchandasing-podnimaem-prodazi.pdf" target="_blank">«Поднимаем продажи. Как увеличить трафик покупателей и объем продаж в магазине с помощью инструментов ВМ»</a> — <span class="media">Shoes Report</span></span>
+                <!-- <li><span class="month">сентябрь 2015</span><span class="title"><a href="pdfs/visual-merchandasing-podnimaem-prodazi.pdf" target="_blank">«Поднимаем продажи. Как увеличить трафик покупателей и объем продаж в магазине с помощью инструментов ВМ»</a> — <span class="media">Shoes Report</span></span> -->
                 </li>
 
                 <li><span class="month">январь 2016</span><span class="title"><a href="pdfs/profashion_ru-analytics-154623.pdf" target="_blank">«КУРС НА ВЫЖИВАНИЕ; Стратегии лидеров на падающем рынке»</a> — <span class="media">profashion</span></span>
                 </li>
 
-                <li><span class="month">октябрь 2012</span><span class="title"><a href="http://fashion-report.ru/articles/tekhnologii-prodazh/kakova-optimalnaya-vmestimost-magazina/" target="_blank">КАК РАСЧИТАТЬ ОПТИМАЛЬНУЮ ВМЕСТИМОСТЬ МАГАЗИНА?</a> — <span class="media">fashion report</span></span>
+                <!-- <li><span class="month">октябрь 2012</span><span class="title"><a href="http://fashion-report.ru/articles/tekhnologii-prodazh/kakova-optimalnaya-vmestimost-magazina/" target="_blank">КАК РАСЧИТАТЬ ОПТИМАЛЬНУЮ ВМЕСТИМОСТЬ МАГАЗИНА?</a> — <span class="media">fashion report</span></span> -->
                 </li>
 
                 <li><span class="month">декабрь 2015</span><span class="title"><a href="/pdfs/onko_v_prodazi_balandina.pdf" target="_blank">«ОКНО В ПРОДАЖИ»</a> — <span class="media">profashion</span></span>
