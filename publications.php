@@ -40,6 +40,9 @@
                 </div>
             </div>
             <ul class="publication-article-list">
+                <li><span class="month">август 2017</span><span class="title"><a href="pdfs/muzskie_pravila_VM-Balandina-shoes-report.pdf" target="_blank">Mужские правила: kак работать с ассортиментом для мужчин</a> — <span class="media">Shoes Report</span></span>
+                </li>
+
                 <li><span class="month">февраль 2017</span><span class="title"><a href="pdfs/kommercheski-pazl-dlia-sborki-ShoesReport-02-17.pdf" target="_blank">Коммерческий пазл для сборки. Как создать эффективный магазин обуви.</a> — <span class="media">Shoes Report</span></span>
                 </li>
 
