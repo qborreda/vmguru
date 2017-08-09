@@ -32,8 +32,8 @@
                 <div class="box-skewy"></div>
                 <div class="box-texts">
                     <div class="box-texts-date">
-                        <span class="day">28—29</span>
-                        <span class="month">августа</span>
+                        <span class="day">11—12</span>
+                        <span class="month">сентября</span>
                     </div>
                     <div class="box-texts-title">
                         ВИЗУАЛЬНЫЙ МЕРЧАНДАЙЗИНГ ДЛЯ МАГАЗИНОВ ОБУВИ И АКСЕССУАРОВ

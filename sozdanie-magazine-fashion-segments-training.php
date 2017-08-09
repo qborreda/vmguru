@@ -32,8 +32,8 @@
                 <div class="box-skewy"></div>
                 <div class="box-texts">
                     <div class="box-texts-date">
-                        <span class="day">23</span>
-                        <span class="month">августа</span>
+                        <span class="day">8</span>
+                        <span class="month">сентября</span>
                     </div>
                     <div class="box-texts-title">
                         СОЗДАНИЕ ЭФФЕКТИВНОГО МАГАЗИНА ФЭШН СЕГМЕНТА:

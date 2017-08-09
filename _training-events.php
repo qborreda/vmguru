@@ -28,8 +28,8 @@
         <img src="imgs/bkgr_event1.jpg">
         <div class="article-stripe">
             <div class="article-dates">
-                <span class="month">августа</span>
-                <span class="date">23</span>
+                <span class="month">сентября</span>
+                <span class="date">8</span>
             </div>
             <p>Cоздание эффективного магазина фэшн сегмента: планировки, зонирование, оптимальная вместимость, ВМ-дизайн</p>
         </div>
@@ -40,8 +40,8 @@
         <img src="imgs/bkgr_event3.jpg">
         <div class="article-stripe">
             <div class="article-dates">
-                <span class="month">августа</span>
-                <span class="date">28—29</span>
+                <span class="month">сентября</span>
+                <span class="date">11—12</span>
             </div>
             <p>Визуальный мерчандайзинг для магазинов обуви и аксессуаров</p>
         </div>
