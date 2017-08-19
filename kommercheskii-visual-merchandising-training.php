@@ -32,7 +32,7 @@
                 <div class="box-texts">
                     <div class="box-texts-date">
                         <span class="day">21—22</span>
-                        <span class="month">августа</span>
+                        <span class="month">сентября</span>
                     </div>
                     <div class="box-texts-title">
                         КОММЕРЧЕСКИЙ ВИЗУАЛЬНЫЙ МЕРЧАНДАЙЗИНГ; ПРИКЛАДНЫЕ ТЕХНИКИ «ОТ А ДО Я»

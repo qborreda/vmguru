@@ -32,8 +32,8 @@
                 <div class="box-skewy"></div>
                 <div class="box-texts">
                     <div class="box-texts-date">
-                        <span class="day">17—18</span>
-                        <span class="month">августа</span>
+                        <span class="day">16—17</span>
+                        <span class="month">октября</span>
                     </div>
                     <div class="box-texts-title">
                         ВИТРИНИСТИКА: СОЗДАНИЕ ЭФФЕКТИВНЫХ ВИТРИН. БОЛЬШОЙ ЭФФЕКТ БЕЗ БОЛЬШИХ РАСХОДОВ.
