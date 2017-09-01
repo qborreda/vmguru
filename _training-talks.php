@@ -62,6 +62,7 @@
                 <li>Мировые тенденции в оформлении фэшн магазинов</li>
               </ul>
               <img class="hex-content-logo" src="imgs/logo-cjf.png" alt="">
+              <img class="hex-content-logo" src="imgs/logo-kidsfair.jpg" alt="">
           </div>
       </article>
 
