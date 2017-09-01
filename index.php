@@ -126,6 +126,9 @@
                   <img src="/imgs/logo-cjf.png" alt="">
                 </div>
                 <div class="carr-item">
+                  <img src="/imgs/logo-kidsfair.jpg" alt="">
+                </div>
+                <div class="carr-item">
                   <img src="/imgs/logo-fashion-industry.png" alt="">
                 </div>
             </div>
