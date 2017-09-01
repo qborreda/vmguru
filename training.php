@@ -166,7 +166,8 @@
 
         <div class="stripped-title">
             <span></span>
-            <p>СЕМИНАРЫ НА ВЫСТАВКАХ</p>
+            <p class="title">СЕМИНАРЫ И МАСТЕР-КЛАССЫ</p>
+            <p class="subtitle">на выставках, форумах и конференциях</p>
         </div>
         <?php include "_training-talks.php"; ?>
 

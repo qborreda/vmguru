@@ -1,5 +1,6 @@
 .stripped-title {
   @include display_flex();
+  @include flex_flex-direction(column);
   @include flex_justify-content(center);
   @include flex_align-items(center);
   position: relative;
@@ -9,7 +10,7 @@
   height: auto;
   text-align: center;
   overflow: hidden;
-  
+
   span {
     display: block;
     position: absolute;
@@ -20,15 +21,23 @@
     min-height: 50px;
     height: 100%;
     z-index: -1;
-    background: linear-gradient(to right bottom, $WHITE 42%, $DETAIL-CYAN 43%, $DETAIL-CYAN 56%, $WHITE 57%);
+    background: linear-gradient(
+      to right bottom,
+      $WHITE 42%,
+      $DETAIL-CYAN 43%,
+      $DETAIL-CYAN 56%,
+      $WHITE 57%
+    );
   }
 
-  p {
+  p,
+  .title {
     display: block;
     font-size: 32px;
     font-weight: 100;
     line-height: 130%;
     font-style: italic;
+    margin: 0;
     padding: 3% 2%;
 
     @include mq($from: tablet) {
@@ -37,6 +46,27 @@
 
     @include mq($from: desktop) {
       font-size: 52px;
+    }
+  }
+
+  .subtitle {
+    display: none;
+    font-size: 12px;
+    font-weight: 100;
+    line-height: 100%;
+    font-style: normal;
+    padding: 0;
+
+    @include mq($from: tablet) {
+      display: block;
+      margin-top: -32px;
+      font-size: 18px;
+    }
+
+    @include mq($from: desktop) {
+      display: block;
+      margin-top: -46px;
+      font-size: 20px;
     }
   }
 }
