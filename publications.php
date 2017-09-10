@@ -40,6 +40,9 @@
                 </div>
             </div>
             <ul class="publication-article-list">
+              <li><span class="month">сентябрь 2017</span><span class="title"><a href="pdfs/iskusstvo_samoprodaz_Balandina-Profashion.pdf" target="_blank">Искусство самопродаж</a> — <span class="media">profashion</span></span>
+              </li>
+
                 <li><span class="month">август 2017</span><span class="title"><a href="pdfs/muzskie_pravila_VM-Balandina-shoes-report.pdf" target="_blank">Mужские правила: kак работать с ассортиментом для мужчин</a> — <span class="media">Shoes Report</span></span>
                 </li>
 
@@ -77,6 +80,9 @@
                 </div>
             </div>
             <ul class="publication-article-list">
+                <li><span class="month">август 2017</span><span class="title"><a href="pdfs/pazl_effective_shop_Balandina_Profashion.pdf" target="_blank">Пазл для сборки эффективного магазина одежды</a> — <span class="media">profashion</span></span>
+                </li>
+
                 <li><span class="month">август 2017</span><span class="title"><a href="https://fashionunited.ru/novostee/beeznyes/vm-guru-kak-prezentovat-tovar-maksimalno-kommercheski/2017080118767" target="_blank">VM Guru: как презентовать товар максимально коммерчески</a> — <span class="media">FashionUnited</span></span>
                 </li>
 
@@ -114,6 +120,8 @@
                 </div>
             </div>
             <ul class="publication-article-list">
+                <li><span class="month">август 2017</span><span class="title"><a href="pdfs/pazl_effective_shop_Balandina_Profashion.pdf" target="_blank">Пазл для сборки эффективного магазина одежды</a> — <span class="media">profashion</span></span>
+                </li>
 
                 <li><span class="month">февраль 2017</span><span class="title"><a href="pdfs/kommercheski-pazl-dlia-sborki-ShoesReport-02-17.pdf" target="_blank">Коммерческий пазл для сборки. Как создать эффективный магазин обуви.</a> — <span class="media">Shoes Report</span></span>
                 </li>
@@ -137,6 +145,9 @@
                 </div>
             </div>
             <ul class="publication-article-list">
+                <li><span class="month">август 2017</span><span class="title"><a href="pdfs/vitrini_man_Balandina_Profashion.pdf" target="_blank">Витрины с подтекстом. Какие должны быть витрины мужских магазинов?</a> — <span class="media">profashion</span></span>
+                </li>
+
                 <li><span class="month">август 2016</span><span class="title"><a href="pdfs/creativnii-vitrini-PRPfashion.pdf" target="_blank">«Креативные витрины; актуальные тенденции и мировые практики»</a> — <span class="media">profashion</span></span>
                 </li>
 
