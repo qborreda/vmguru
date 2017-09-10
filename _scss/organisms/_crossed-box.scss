@@ -25,7 +25,7 @@
     width: 0%;
     height: 50px;
   }
-  &:before { 
+  &:before {
     top: -30%;
     left: 50%;
     border-right: 1px solid $DETAIL-GREY;
@@ -34,5 +34,44 @@
     top: 75%;
     right: 50%;
     border-left: 1px solid $DETAIL-GREY;
+  }
+}
+
+.crossed-box__small {
+  position: relative;
+  display: table;
+  margin: 30px auto 20px;
+  padding: 15px 8px;
+  width: 70%;
+  font-size: $H3-SIZE;
+  font-weight: 100;
+  text-align: center;
+  border: 1px solid $DETAIL-CYAN;
+
+  @include mq($from: tablet) {
+    padding: 10px 5px;
+    width: 60%;
+    white-space: nowrap;
+    font-size: $H1-SIZE;
+  }
+
+  &:before,
+  &:after {
+    content: '';
+    display: table-cell;
+    position: absolute;
+    top: 0;
+    width: 0%;
+    height: 25px;
+  }
+  &:before {
+    top: -30%;
+    left: 50%;
+    border-right: 1px solid $DETAIL-CYAN;
+  }
+  &:after {
+    top: 85%;
+    right: 50%;
+    border-left: 1px solid $DETAIL-CYAN;
   }
 }

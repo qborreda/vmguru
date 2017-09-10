@@ -1,10 +1,10 @@
 // TYPOGRAPHY
 // @import "../font-awesome/scss/font-awesome";
-@import "_fonts.scss";
-@import "_typography.scss";
+@import '_fonts.scss';
+@import '_typography.scss';
 
 // LINKS
-@import "_links.scss";
+@import '_links.scss';
 
 // ICONS
 
@@ -21,6 +21,4 @@
 // LEGEND
 
 // HELPERS
-.is-cyan {
-  color: $DETAIL-CYAN;
-}
+@import '_helpers.scss';
