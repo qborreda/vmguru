@@ -66,8 +66,11 @@
           </div>
       </article>
 
-      <div class="crossed-box__small has-pointer js-trigger-toggle">
-          <img src="/imgs/ico-hex-nav.png" alt=""> показать еще
+      <div class="has-pointer js-trigger-toggle">
+          <div class="trigger-toggle">
+            <span>показать еще</span>
+            <img src="imgs/btn_arrow_right.png" alt="">
+          </div>
       </div>
 
       <div class="js-toggle-content">

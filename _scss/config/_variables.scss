@@ -16,16 +16,15 @@ $WHITE: #fff !default;
 $BLACK: #000 !default;
 
 $PRIMARY-TEXT-COLOR: #4a4a4a;
-$DETAIL-GREY: #BCBEC0;
-$DETAIL-CYAN: #03F7F0;
-$BKGR-GREY: #58595B;
-
+$DETAIL-GREY: #bcbec0;
+$DETAIL-CYAN: #03f7f0;
+$BKGR-GREY: #58595b;
 
 // TYPOGRAPHY
 
 $BASE-FONT: 'Roboto', Helvetica, sans-serif !default;
 $BASE-FONT-SIZE: 16px !default;
-$BASE-LINE-HEIGHT: .85rem !default;
+$BASE-LINE-HEIGHT: 0.85rem !default;
 
 $H1-SIZE: 24px !default;
 $H2-SIZE: 18px !default;
@@ -39,19 +38,16 @@ $ICON-SIZE: 24px;
 $set-rtl: false;
 
 // BREAKPOINTS
-$mq-breakpoints: (
-    mobile:  320px,
-    tablet:  740px,
-    desktop: 980px,
-    wide:    1200px
-) !default;
+$mq-breakpoints: (mobile: 320px, tablet: 740px, desktop: 980px, wide: 1200px)
+  !default;
 
 // Z-INDEX
 $Z-LAYERS: (
-  bottomless-pit: -9999,
-  default: 1,
-  floated-menu: 2000,
-  dropdown: 3000,
-  overlay: 4000,
-  modal: 4001
-) !default;
+    bottomless-pit: -9999,
+    default: 1,
+    floated-menu: 2000,
+    dropdown: 3000,
+    overlay: 4000,
+    modal: 4001
+  )
+  !default;
