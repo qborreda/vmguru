@@ -68,8 +68,8 @@
 
       <div class="has-pointer js-trigger-toggle">
           <div class="trigger-toggle">
-            <span>показать еще</span>
-            <img src="imgs/btn_arrow_right.png" alt="">
+            <span>показать еще мероприятия</span>
+            <img src="imgs/ico-eye-toggle-triangle.png" alt="">
           </div>
       </div>
 
