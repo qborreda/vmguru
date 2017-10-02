@@ -145,6 +145,10 @@
             <div class="event-journey-description">
                 7. Мировые тенденции коммерческой витринистики /по материалам тренд-бюро TrendUnion/
             </div>
+            <div class="event-journey-description is-highlight">
+                <span>ДОПОЛНИТЕЛЬНЫЙ БЛОК / ТОЛЬКО В ОКТЯБРЕ</span><br/>
+                8. Особенности и мировые тенденции Новогодней витринистики
+            </div>
 
             <div class="event-journey">ДЕНЬ 2.
             <br/><strong>ПРАКТИКА В МАГАЗИНЕ</strong></div>

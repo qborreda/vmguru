@@ -15,6 +15,7 @@
     font-weight: 300;
     text-align: center;
   }
+
   .event-journey-description {
     margin-bottom: 20px;
     font-size: 16px;
@@ -26,8 +27,15 @@
       font-weight: 300;
     }
 
-    ul {
+    &.is-highlight {
+      color: #990000;
 
+      span {
+        font-weight: 300;
+      }
+    }
+
+    ul {
       ul {
         margin-left: 20px;
       }
