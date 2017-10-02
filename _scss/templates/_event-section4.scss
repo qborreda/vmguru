@@ -33,7 +33,7 @@
       }
 
       li {
-        margin-bottom: .5rem;
+        margin-bottom: 0.5rem;
         font-style: italic;
       }
 
@@ -46,10 +46,9 @@
     }
 
     &-name {
-
-      h2 { 
+      h2 {
         display: inline-block;
-        margin: 0 0 20px 0; 
+        margin: 0 0 20px 0;
         padding: 0 0 3px 0;
         font-size: 28px;
         font-weight: 700;
@@ -76,18 +75,22 @@
     li {
       width: 100%;
       padding: 8px 0;
-      border-bottom: 1px solid rgba($DETAIL-GREY, .3);
+      border-bottom: 1px solid rgba($DETAIL-GREY, 0.3);
 
       .title {
         display: block;
         font-size: 14px;
         font-weight: 300;
-        color: rgb(80,81,84);
+        color: rgb(80, 81, 84);
       }
 
       .item {
         font-size: 17px;
         font-weight: 400;
+      }
+
+      .is-highlighted {
+        color: $RED-HIGHLIGHT;
       }
 
       @include mq($from: tablet) {
@@ -101,7 +104,6 @@
           margin-right: 60px;
         }
         .item {
-
         }
       }
     }
