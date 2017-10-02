@@ -6,7 +6,7 @@
         <div class="article-stripe">
             <div class="article-dates">
                 <span class="month">октября</span>
-                <span class="date">19—20</span>
+                <span class="date">26—27</span>
             </div>
             <p>Витринистика: создание эффективных витрин. Большой эффект без больших расходов.</p>
         </div>
