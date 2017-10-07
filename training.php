@@ -136,6 +136,13 @@
                 <span class="client-grid-logo"><img src="imgs/client-normann.jpg" alt="Normann"></span>
                 <span class="client-grid-logo"><img src="imgs/client-sintagamma.jpg" alt="Sinta Gamma"></span>
                 <span class="client-grid-logo"><img src="imgs/client-axara.jpg" alt="Axara"></span>
+
+                <span class="client-grid-logo"><img src="imgs/client-pablosky.jpg" alt="Pablosky"></span>
+                <span class="client-grid-logo"><img src="imgs/client-markformelle.jpg" alt="Mark Formelle"></span>
+                <span class="client-grid-logo"><img src="imgs/client-veravictoriavito.jpg" alt="Vera Victoria Vito"></span>
+                <span class="client-grid-logo"><img src="imgs/client-dinoricci.jpg" alt="Dino Ricci"></span>
+                <span class="client-grid-logo"><img src="imgs/client-dijeans.jpg" alt="Di Jeans"></span>
+                <span class="client-grid-logo"><img src="imgs/client-mreason.jpg" alt="M. Reason"></span>
             </div>
         </section>
         <section class="event-section5">
