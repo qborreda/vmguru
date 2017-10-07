@@ -108,13 +108,19 @@
           <h2 style="margin:30px auto 20px;">ПАРТНЕРЫ:</h2>
             <div class="js-carrusel-footer">
                 <div class="carr-item">
-                  <img src="/imgs/logo-mosshoes.png" alt="">
+                    <img src="/imgs/logo-mosshoes.png" alt="">
                 </div>
                 <div class="carr-item">
-                  <img src="/imgs/logo-mospel.png" alt="">
+                    <img src="/imgs/logo-mospel.png" alt="">
                 </div>
                 <div class="carr-item">
-                  <img src="/imgs/logo-euro-shoes.png" alt="">
+                  <img src="/imgs/logo-fashionunited.jpg" alt="">
+                </div>
+                <div class="carr-item">
+                  <img src="/imgs/logo-newretail.jpg" alt="">
+                </div>
+                <div class="carr-item">
+                  <img src="/imgs/logo-euroshoes.jpg" alt="">
                 </div>
                 <div class="carr-item">
                   <img src="/imgs/logo-lingerie-show.png" alt="">
@@ -129,7 +135,7 @@
                   <img src="/imgs/logo-kidsfair.jpg" alt="">
                 </div>
                 <div class="carr-item">
-                  <img src="/imgs/logo-fashion-industry.png" alt="">
+                  <img src="/imgs/logo-fashionindustry.jpg" alt="">
                 </div>
             </div>
         </div>
