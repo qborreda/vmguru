@@ -1,6 +1,35 @@
 <section class="trainings-section3">
 
       <article class="hex-content clearfix">
+        <div class="hex-content-left">
+          <p class="hex-content-name">Обувь. Мир кожи. Осень-2017
+          <br/>24 – 27 ОТКТЯБРЯ 2017
+          <br/>26 ОКТЯБРЯ с 13:00 до 14:00
+          </p>
+          <div class="hex-content-image">
+              <img src="imgs/hex-pill-trainings10.jpg" alt="" />
+          </div>
+        </div>
+        <div class="hex-content-right">
+          <p class="hex-content-name">Обувь. Мир кожи. Осень-2017
+          <br/>24 – 27 ОТКТЯБРЯ 2017
+          <br/>26 ОКТЯБРЯ с 13:00 до 14:00
+          </p>
+          <p class="hex-content-description">
+            <strong>Семинар Ирины Акимовой: </strong>
+            <br/>«КАК ЭФФЕКТИВНО ОБУЧИТЬ ПЕРСОНАЛ ВИЗУАЛЬНОМУ МЕРЧАНДАЙЗИНГУ И ПОДНЯТЬ ПРОДАЖИ В МАГАЗИНЕ СРЕДСТВАМИ ВМ»
+          </p>
+          <ul class="hex-content-list">
+            <li>Как обучить персонал визуальному мерчандайзингу: нужно ли «зубрить» теорию? Как применять знания на практике «под бренд»?</li>
+            <li>Что такое «дистанционный ВМ» и как это работает?</li>
+            <li>Как коммерчески презентовать коллекции и управлять выкладкой в обувной сети без </li>
+            <li>«Продающие витрины» обувных магазинов – как создать эффектные сезонные витрины без больших расходов и транслировать их на сеть?</li>
+          </ul>
+          <img class="hex-content-logo" src="imgs/logo-shoes-n-leather.png" alt="">
+        </div>
+      </article>
+
+      <article class="hex-content clearfix">
           <div class="hex-content-left">
               <p class="hex-content-name">FASHION INDUSTRY - МЕЖДУНАРОДНАЯ ВЫСТАВКА ЛЕГКОЙ И ТЕКСТИЛЬНОЙ ПРОМЫШЛЕННОСТИ
               <br/>28.09 – 01.10 2017, САНКТ-ПЕТЕРБУРГ
@@ -34,38 +63,6 @@
           </div>
       </article>
 
-      <article class="hex-content clearfix">
-          <div class="hex-content-left">
-              <p class="hex-content-name">CJF – ДЕТСКАЯ МОДА
-              <br/>26 – 29 СЕНТЯБРЯ 2017
-              <br/>26 СЕНТЯБРЯ с 16:00 до 17:00
-              </p>
-              <div class="hex-content-image">
-                  <img src="imgs/hex-pill-trainings7.jpg" alt="" />
-              </div>
-          </div>
-          <div class="hex-content-right">
-              <p class="hex-content-name">CJF – ДЕТСКАЯ МОДА
-              <br/>26 – 29 СЕНТЯБРЯ 2017
-              <br/>26 СЕНТЯБРЯ с 16:00 до 17:00
-              </p>
-              <p class="hex-content-description">
-                  <strong>Семинар Анны Баландиной: </strong>
-                  <br/>КАК СОЗДАТЬ ЭФФЕКТИВНЫЙ МАГАЗИН ОДЕЖДЫ И ТОВАРОВ ДЛЯ ДЕТЕЙ: ПРАВИЛА ПЛАНИРОВКИ И ЗОНИРОВАНИЯ; МИРОВЫЕ ТЕНДЕНЦИИ В ОФОРМЛЕНИИ ФЭШН МАГАЗИНОВ.
-              </p>
-              <ul class="hex-content-list">
-                <li>«Золотые» правила планировки и зонирования детских магазинов</li>
-                <li>Особенности работы с детским ассортиментом </li>
-                <li>Для кого строить магазин, к кому «обращаться»: к детям или родителям?</li>
-                <li>Что такое эмоциональный торговый концепт и почему сегодня «эмоции» в</li>
-                <li>Как выбрать яркий и индивидуальный стиль оформления детского магазина; </li>
-                <li>Мировые тенденции в оформлении фэшн магазинов</li>
-              </ul>
-              <img class="hex-content-logo" src="imgs/logo-cjf.png" alt="">
-              <img class="hex-content-logo" src="imgs/logo-kidsfair.jpg" alt="">
-          </div>
-      </article>
-
       <div class="has-pointer js-trigger-toggle">
           <div class="trigger-toggle">
             <span>показать еще мероприятия</span>
@@ -74,6 +71,38 @@
       </div>
 
       <div class="js-toggle-content">
+
+        <article class="hex-content clearfix">
+          <div class="hex-content-left">
+            <p class="hex-content-name">CJF – ДЕТСКАЯ МОДА
+            <br/>26 – 29 СЕНТЯБРЯ 2017
+            <br/>26 СЕНТЯБРЯ с 16:00 до 17:00
+            </p>
+            <div class="hex-content-image">
+                <img src="imgs/hex-pill-trainings7.jpg" alt="" />
+            </div>
+          </div>
+          <div class="hex-content-right">
+            <p class="hex-content-name">CJF – ДЕТСКАЯ МОДА
+            <br/>26 – 29 СЕНТЯБРЯ 2017
+            <br/>26 СЕНТЯБРЯ с 16:00 до 17:00
+            </p>
+            <p class="hex-content-description">
+              <strong>Семинар Анны Баландиной: </strong>
+              <br/>КАК СОЗДАТЬ ЭФФЕКТИВНЫЙ МАГАЗИН ОДЕЖДЫ И ТОВАРОВ ДЛЯ ДЕТЕЙ: ПРАВИЛА ПЛАНИРОВКИ И ЗОНИРОВАНИЯ; МИРОВЫЕ ТЕНДЕНЦИИ В ОФОРМЛЕНИИ ФЭШН МАГАЗИНОВ.
+            </p>
+            <!-- <ul class="hex-content-list">
+              <li>«Золотые» правила планировки и зонирования детских магазинов</li>
+              <li>Особенности работы с детским ассортиментом </li>
+              <li>Для кого строить магазин, к кому «обращаться»: к детям или родителям?</li>
+              <li>Что такое эмоциональный торговый концепт и почему сегодня «эмоции» в</li>
+              <li>Как выбрать яркий и индивидуальный стиль оформления детского магазина; </li>
+              <li>Мировые тенденции в оформлении фэшн магазинов</li>
+            </ul> -->
+            <img class="hex-content-logo" src="imgs/logo-cjf.png" alt="">
+            <img class="hex-content-logo" src="imgs/logo-kidsfair.jpg" alt="">
+          </div>
+        </article>
 
         <article class="hex-content clearfix">
         <div class="hex-content-left">
