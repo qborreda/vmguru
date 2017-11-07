@@ -2,7 +2,7 @@
 <div class="training-items">
     <article class="event-article">
         <a class="no-border" href="/vitrinistika-texniki-sozdania-kommercheskix-vitrin.php">
-        <img src="imgs/bkgr_event4.jpg">
+        <img src="imgs/bkgr_event_xmas.jpg">
         <div class="article-stripe">
             <div class="article-dates">
                 <span class="month">ноября</span>
