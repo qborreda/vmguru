@@ -204,8 +204,8 @@
                 <li><span class="title">Стоимость обучения</span>
                   <span class="item">
                     19 900 руб.<br/>
-                    <span class="is-highlighted">Только в октябре:<br/>
-                    ПРИ ПОКУПКЕ ТРЕХ ТРЕНИНГОВ - СКИДКА 20%</span>
+                    <!-- <span class="is-highlighted">Только в октябре:<br/>
+                    ПРИ ПОКУПКЕ ТРЕХ ТРЕНИНГОВ - СКИДКА 20%</span> -->
                   </span>
                 </li>
                 <li><span class="title">Стоимость одного дня (теория)</span><span class="item">12 500 руб.</span>

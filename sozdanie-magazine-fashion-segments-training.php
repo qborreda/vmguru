@@ -161,8 +161,8 @@
                   <span class="title">стоимость</span>
                   <span class="item">
                     12 500 руб.<br/>
-                    <span class="is-highlighted">Только в октябре:<br/>
-                    ПРИ ПОКУПКЕ ТРЕХ ТРЕНИНГОВ - СКИДКА 20%</span>
+                    <!-- <span class="is-highlighted">Только в октябре:<br/>
+                    ПРИ ПОКУПКЕ ТРЕХ ТРЕНИНГОВ - СКИДКА 20%</span> -->
                   </span>
                 </li>
                 <li><span class="title">место проведения</span><span class="item">Москва, Трубная ул., д 12, бизнес-центр «Миллениум Хаус»</span>
