@@ -1,17 +1,6 @@
 <!-- TRAINING EVENTS -->
 <div class="training-items">
     <article class="event-article">
-        <a class="no-border" href="/kommercheskii-visual-merchandising-training.php">
-        <img src="imgs/bkgr_event2.jpg">
-        <div class="article-stripe">
-            <div class="article-dates">
-                <span class="month">октября</span>
-                <span class="date">23—24</span>
-            </div>
-            <p>Коммерческий визуальный мерчандайзинг; прикладные техники «от А до Я»</p>
-        </div></a>
-    </article>
-    <article class="event-article">
         <a class="no-border" href="/sozdanie-magazine-fashion-segments-training.php">
         <img src="imgs/bkgr_event1.jpg">
         <div class="article-stripe">
@@ -35,16 +24,27 @@
         </div>
         </a>
     </article>
-        <article class="event-article">
-            <a class="no-border" href="/vitrinistika-texniki-sozdania-kommercheskix-vitrin.php">
-            <img src="imgs/bkgr_event4.jpg">
-            <div class="article-stripe">
-                <div class="article-dates">
-                    <span class="month">ноября</span>
-                    <span class="date">16—17</span>
-                </div>
-                <p>Витринистика: создание эффективных витрин. Большой эффект без больших расходов.</p>
+    <article class="event-article">
+        <a class="no-border" href="/vitrinistika-texniki-sozdania-kommercheskix-vitrin.php">
+        <img src="imgs/bkgr_event4.jpg">
+        <div class="article-stripe">
+            <div class="article-dates">
+                <span class="month">ноября</span>
+                <span class="date">21—22</span>
             </div>
-            </a>
-        </article>
+            <p>Витринистика: создание эффективных витрин. Большой эффект без больших расходов.</p>
+        </div>
+        </a>
+    </article>
+    <article class="event-article">
+        <a class="no-border" href="/kommercheskii-visual-merchandising-training.php">
+        <img src="imgs/bkgr_event2.jpg">
+        <div class="article-stripe">
+            <div class="article-dates">
+                <span class="month">ноября</span>
+                <span class="date">27—28</span>
+            </div>
+            <p>Коммерческий визуальный мерчандайзинг; прикладные техники «от А до Я»</p>
+        </div></a>
+    </article>
 </div>
