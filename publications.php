@@ -107,8 +107,8 @@
                 <li><span class="month">декабрь 2015</span><span class="title"><a href="/pdfs/onko_v_prodazi_balandina.pdf" target="_blank">«ОКНО В ПРОДАЖИ»</a> — <span class="media">profashion</span></span>
                 </li>
 
-                <li><span class="month">май 2016</span><span class="title"><a href="pdfs/anna-balandina-vizualnyi-merchandai-zing-mozhno-postich-tolko-na-praktike.pdf" target="_blank">«Визуальный мерчандайзинг возможно постичь только на практике!»</a> — <span class="media">портал FashionUnited</span></span>
-                </li>
+                <!-- <li><span class="month">май 2016</span><span class="title"><a href="pdfs/anna-balandina-vizualnyi-merchandai-zing-mozhno-postich-tolko-na-praktike.pdf" target="_blank">«Визуальный мерчандайзинг возможно постичь только на практике!»</a> — <span class="media">портал FashionUnited</span></span>
+                </li> -->
             </ul>
 
             <!-- Magazine block -->
@@ -132,9 +132,9 @@
                 <li><span class="month">октябрь 2016</span><span class="title"><a href="pdfs/velikolepnaia-piaterka-piat-interierov-obuvnix-brendov.pdf" target="_blank">«Великолепная пятерка; интересные дизайны обувной розницы»</a> — <span class="media">Shoes Report</span></span>
                 </li>
 
-                <li><span class="month">сентябрь 2013</span><span class="title"><a href="pdfs/trademaster_ua-articles-1130.pdf" target="_blank">Качественный мерчандайзинг и оформление детского магазина</a> — <span class="media">TradeMaster</span>
+                <!-- <li><span class="month">сентябрь 2013</span><span class="title"><a href="pdfs/trademaster_ua-articles-1130.pdf" target="_blank">Качественный мерчандайзинг и оформление детского магазина</a> — <span class="media">TradeMaster</span>
                 <br/><a href="http://www.shoes-report.ru/articles/merchandayzing/dlinnyy-i-uzkiy-magazin-kak-organizovat-torgovoe-prostranstvo/" target="_blank">Длинный узкий магазин, как организовать торговое пространство?</a> — <span class="media">Shoes Report</span></span>
-                </li>
+                </li> -->
             </ul>
 
             <!-- Vitrina block -->
@@ -157,22 +157,19 @@
                 <li><span class="month">август 2015</span><span class="title"><a href="pdfs/kolonka-fashion-consulting-group-nizkobyudzhetnaya-vitrina-ne-znachit-plokhaya.pdf" target="_blank">Низкобюджетная витрина не значит плохая</a> — <span class="media">портал FashionUnited</span></span>
                 </li>
 
-                <li><span class="month">декабрь 2015</span><span class="title"><a href="/pdfs/onko_v_prodazi_balandina.pdf" target="_blank">«Окно в продажи»</a> — <span class="media">profashion</span></span>
-                </li>
-
                 <li><span class="month">апрель 2015</span><span class="title"><a href="https://new-retail.ru/magaziny/dizayn/za_steklom_mirovye_trendy_vitrinistiki6275/" target="_blank">За стеклом: мировые тренды витринистики</a> — <span class="media">New-retail.ru</span></span>
                 </li>
 
-                <li><span class="month">декабрь 2014</span><span class="title"><a href="pdfs/vitriny-magazinov-stanovyatsya-vse-pragmatichnee.pdf" target="_blank">Витрины магазинов становятся все прагматичнее и информативнее</a> — <span class="media">Газета Ведомости</span></span>
+                <!-- <li><span class="month">декабрь 2014</span><span class="title"><a href="pdfs/vitriny-magazinov-stanovyatsya-vse-pragmatichnee.pdf" target="_blank">Витрины магазинов становятся все прагматичнее и информативнее</a> — <span class="media">Газета Ведомости</span></span>
                 </li>
 
                 <li><span class="month">декабрь 2015</span><span class="title"><a href="pdfs/emotsionalnye_prodayushchie_vitriny_kak_zastavit_prokhozhego_zayti_v_vash_magazin_i_stat_ego_pokupat.pdf" target="_blank">Эмоциональные продающие витрины. Как заставить покупателя зайти в ваш магазин и статьего покупателем</a> — <span class="media">Shoes Report</span></span>
+                </li> -->
+
+                <li><span class="month">лето 2015</span><span class="title"><a href="pdfs/vitrini-creativ-tochnii-paschet-1.pdf" target="_blank">Витрины: креатив и точный расчет часть 1</a> — <span class="media">Индустрия моды</span></span>
                 </li>
 
-                <li><span class="month">лето 2014</span><span class="title"><a href="pdfs/vitrini-creativ-tochnii-paschet-1.pdf" target="_blank">Витрины: креатив и точный расчет часть 1</a> — <span class="media">Индустрия моды</span></span>
-                </li>
-
-                <li><span class="month">осень 2014</span><span class="title"><a href="pdfs/vitrini-creativ-tochnii-paschet-2.pdf" target="_blank">Витрины: креатив и точный расчет часть 2</a> — <span class="media">Индустрия моды</span></span>
+                <li><span class="month">осень 2015</span><span class="title"><a href="pdfs/vitrini-creativ-tochnii-paschet-2.pdf" target="_blank">Витрины: креатив и точный расчет часть 2</a> — <span class="media">Индустрия моды</span></span>
                 </li>
             </ul>
 
