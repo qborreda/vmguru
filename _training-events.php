@@ -5,8 +5,8 @@
         <img src="imgs/bkgr_event_xmas.jpg">
         <div class="article-stripe">
             <div class="article-dates">
-                <span class="month">ноября</span>
-                <span class="date">21—22</span>
+                <span class="month">февраль</span>
+                <span class="date">2018</span>
             </div>
             <p>Витринистика: создание эффективных витрин. Большой эффект без больших расходов.</p>
         </div>
@@ -17,8 +17,8 @@
         <img src="imgs/bkgr_event2.jpg">
         <div class="article-stripe">
             <div class="article-dates">
-                <span class="month">ноября</span>
-                <span class="date">27—28</span>
+                <span class="month">февраль</span>
+                <span class="date">2018</span>
             </div>
             <p>Коммерческий визуальный мерчандайзинг; прикладные техники «от А до Я»</p>
         </div></a>
@@ -28,8 +28,8 @@
         <img src="imgs/bkgr_event1.jpg">
         <div class="article-stripe">
             <div class="article-dates">
-                <span class="month">октября</span>
-                <span class="date">25</span>
+                <span class="month">февраль</span>
+                <span class="date">2018</span>
             </div>
             <p>Cоздание эффективного магазина фэшн сегмента: планировки, зонирование, оптимальная вместимость, ВМ-дизайн</p>
         </div>
@@ -40,8 +40,8 @@
         <img src="imgs/bkgr_event3.jpg">
         <div class="article-stripe">
             <div class="article-dates">
-                <span class="month">ноября</span>
-                <span class="date">7—8</span>
+                <span class="month">февраль</span>
+                <span class="date">2018</span>
             </div>
             <p>Визуальный мерчандайзинг для магазинов обуви и аксессуаров</p>
         </div>

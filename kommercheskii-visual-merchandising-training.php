@@ -31,8 +31,8 @@
                 <div class="box-skewy"></div>
                 <div class="box-texts">
                     <div class="box-texts-date">
-                        <span class="day">27—28</span>
-                        <span class="month">ноября</span>
+                        <span class="day">2018</span>
+                        <span class="month">февраль</span>
                     </div>
                     <div class="box-texts-title">
                         КОММЕРЧЕСКИЙ ВИЗУАЛЬНЫЙ МЕРЧАНДАЙЗИНГ; ПРИКЛАДНЫЕ ТЕХНИКИ «ОТ А ДО Я»

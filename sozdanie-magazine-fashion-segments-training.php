@@ -32,8 +32,8 @@
                 <div class="box-skewy"></div>
                 <div class="box-texts">
                     <div class="box-texts-date">
-                        <span class="day">25</span>
-                        <span class="month">октября</span>
+                        <span class="day">2018</span>
+                        <span class="month">февраль</span>
                     </div>
                     <div class="box-texts-title">
                         СОЗДАНИЕ ЭФФЕКТИВНОГО МАГАЗИНА ФЭШН СЕГМЕНТА:
