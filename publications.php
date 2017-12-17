@@ -47,8 +47,8 @@
               <li><span class="month">ноябрь 2016</span><span class="title"><a href="pdfs/emotionalnii shopping.pdf" target="_blank">«Эмоциональный шопинг и новогодняя витринистика»</a> — <span class="media">Shoes Report</span></span>
               </li>
 
-              <li><span class="month">август 2015</span><span class="title"><a href="pdfs/kolonka-fashion-consulting-group-nizkobyudzhetnaya-vitrina-ne-znachit-plokhaya.pdf" target="_blank">Низкобюджетная витрина не значит плохая</a> — <span class="media">портал FashionUnited</span></span>
-              </li>
+              <!-- <li><span class="month">август 2015</span><span class="title"><a href="pdfs/kolonka-fashion-consulting-group-nizkobyudzhetnaya-vitrina-ne-znachit-plokhaya.pdf" target="_blank">Низкобюджетная витрина не значит плохая</a> — <span class="media">портал FashionUnited</span></span>
+              </li> -->
 
               <li><span class="month">апрель 2015</span><span class="title"><a href="https://new-retail.ru/magaziny/dizayn/za_steklom_mirovye_trendy_vitrinistiki6275/" target="_blank">За стеклом: мировые тренды витринистики</a> — <span class="media">New-retail.ru</span></span>
               </li>
