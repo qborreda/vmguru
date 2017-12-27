@@ -37,7 +37,7 @@
               <br/>22 ФЕВРАЛЯ 14.00-14.45
               </p>
               <div class="hex-content-image">
-                  <img src="imgs/hex-pill-trainings12.jpg" alt="" />
+                  <img src="imgs/hex-pill-trainings2.jpg" alt="" />
               </div>
           </div>
           <div class="hex-content-right">
