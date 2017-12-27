@@ -38,6 +38,13 @@
               </div>
           </div>
           <ul class="publication-article-list">
+
+              <li><span class="month">декабрь 2017</span><span class="title"><a href="https://new-retail.ru/magaziny/novogodnyaya_feshn_vitrinistika_glavnye_pravila_nedorogogo_prazdnichnogo_oformleniya3387/?sphrase_id=235771" target="_blank">Новогодняя фэшн витринистика: главные правила недорогого праздничного оформления</a> — <span class="media">New-retail.ru</span></span>
+              </li>
+
+              <li><span class="month">декабрь 2017</span><span class="title"><a href="https://fashionunited.ru/novostee/moda/kakimi-budut-novogodnie-vitriny-etogo-sezona-anna-balandina-spetsialist-po-kommercheskoj-vitrinistike-rukovoditel-vm-guru/2017111619849" target="_blank">Какими будут новогодние витрины сезона FW 2018</a> — <span class="media">FASHIONUNITED</span></span>
+              </li>
+
               <li><span class="month">август 2017</span><span class="title"><a href="pdfs/vitrini_man_Balandina_Profashion.pdf" target="_blank">Витрины с подтекстом. Какие должны быть витрины мужских магазинов?</a> — <span class="media">profashion</span></span>
               </li>
 
@@ -142,8 +149,14 @@
               </div>
             </div>
             <ul class="publication-article-list">
-            <li><span class="month">сентябрь 2017</span><span class="title"><a href="pdfs/iskusstvo_samoprodaz_Balandina-Profashion.pdf" target="_blank">Искусство самопродаж</a> — <span class="media">profashion</span></span>
-            </li>
+
+
+
+                <li><span class="month">октябрь 2017</span><span class="title"><a href="pdfs/rules_of_christmas_merchandising_Balandina-ShoesReport.pdf" target="_blank">Сказочный мерчандайзинг. О правилах выкладки товара в период праздников.</a> — <span class="media">Shoes Report</span></span>
+                </li>
+
+                <li><span class="month">сентябрь 2017</span><span class="title"><a href="pdfs/iskusstvo_samoprodaz_Balandina-Profashion.pdf" target="_blank">Искусство самопродаж</a> — <span class="media">profashion</span></span>
+                </li>
 
               <li><span class="month">август 2017</span><span class="title"><a href="pdfs/muzskie_pravila_VM-Balandina-shoes-report.pdf" target="_blank">Mужские правила: kак работать с ассортиментом для мужчин</a> — <span class="media">Shoes Report</span></span>
               </li>
