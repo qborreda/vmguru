@@ -32,8 +32,8 @@
                 <div class="box-skewy"></div>
                 <div class="box-texts">
                     <div class="box-texts-date">
-                        <span class="day">2018</span>
-                        <span class="month">февраль</span>
+                        <span class="day">15 - 16</span>
+                        <span class="month">марта</span>
                     </div>
                     <div class="box-texts-title">
                         ВИТРИНИСТИКА: СОЗДАНИЕ ЭФФЕКТИВНЫХ ВИТРИН. БОЛЬШОЙ ЭФФЕКТ БЕЗ БОЛЬШИХ РАСХОДОВ.
