@@ -13,17 +13,18 @@
         </div>
         </a>
     </article>
-    <!-- -->
+    <!-- VM -->
     <article class="event-article">
-        <a class="no-border" href="/kommercheskii-visual-merchandising-training.php">
-        <img src="imgs/bkgr_event2.jpg">
+        <a class="no-border" href="/sozdanie-magazine-fashion-segments-training.php">
+        <img src="imgs/bkgr_event1.jpg">
         <div class="article-stripe">
             <div class="article-dates">
                 <span class="month">марта</span>
                 <span class="date">13</span>
             </div>
-            <p>Коммерческий визуальный мерчандайзинг; прикладные техники «от А до Я»</p>
-        </div></a>
+            <p>Cоздание эффективного магазина фэшн сегмента: планировки, зонирование, оптимальная вместимость, ВМ-дизайн</p>
+        </div>
+        </a>
     </article>
     <!-- WINDOWS -->
     <article class="event-article">
@@ -38,17 +39,16 @@
         </div>
         </a>
     </article>
-    <!-- VM -->
+    <!-- -->
     <article class="event-article">
-        <a class="no-border" href="/sozdanie-magazine-fashion-segments-training.php">
-        <img src="imgs/bkgr_event1.jpg">
+        <a class="no-border" href="/kommercheskii-visual-merchandising-training.php">
+        <img src="imgs/bkgr_event2.jpg">
         <div class="article-stripe">
             <div class="article-dates">
                 <span class="month">марта</span>
                 <span class="date">19 - 20</span>
             </div>
-            <p>Cоздание эффективного магазина фэшн сегмента: планировки, зонирование, оптимальная вместимость, ВМ-дизайн</p>
-        </div>
-        </a>
+            <p>Коммерческий визуальный мерчандайзинг; прикладные техники «от А до Я»</p>
+        </div></a>
     </article>
 </div>
