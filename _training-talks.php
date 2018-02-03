@@ -89,7 +89,7 @@
                   <li>Что значит "правильные" манекены? Как выбрать манекены под бренд </li>
                   <li>Как создать продающие витрины в магазине: критерии эффективности, правильный выбор товара и концепции оформления сезонных витрин</li>
               </ul>
-              <img class="hex-content-logo" src="imgs/logo-lingerie-show-2-2.png" alt="">
+              <img class="hex-content-logo" src="imgs/logo-lingerie-show-2.png" alt="">
           </div>
       </article>
 
