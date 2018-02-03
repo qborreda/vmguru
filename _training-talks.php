@@ -2,32 +2,33 @@
 
       <article class="hex-content clearfix">
         <div class="hex-content-left">
-          <p class="hex-content-name">ХI ВЫСТАВКА SHOESSTAR, УРАЛ
-          <br/>2 - 4 МАРТА 2018, ЕКАТЕРИНБУРГ
-          <br/>2 МАРТА 13.30 – 14.45
+          <p class="hex-content-name">CJF – ДЕТСКАЯ МОДА
+          <br/>19 – 22 ФЕВРАЛЯ 2018
+          <br/>20 ФЕВРАЛЯ с 15:30 до 16:30
           </p>
           <div class="hex-content-image">
-              <img src="imgs/hex-pill-trainings15.jpg" alt="" />
+             <img src="imgs/hex-pill-trainings13.jpg" alt="" />
           </div>
         </div>
         <div class="hex-content-right">
-          <p class="hex-content-name">ХI ВЫСТАВКА SHOESSTAR, УРАЛ
-          <br/>2 - 4 МАРТА 2018, ЕКАТЕРИНБУРГ
-          <br/>2 МАРТА 13.30 – 14.45
+          <p class="hex-content-name">CJF – ДЕТСКАЯ МОДА
+          <br/>19 – 22 ФЕВРАЛЯ 2018
+          <br/>20 ФЕВРАЛЯ с 15:30 до 16:30
           </p>
           <p class="hex-content-description">
-            <strong>Мастер-класс Анны Баландиной:</strong>
-            <br/>«СОВРЕМЕННЫЕ ВМ ТЕХНОЛОГИИ ДЛЯ МАГАЗИНОВ ОБУВИ И АКСЕССУАРОВ; КАК ПОДНЯТЬ ПРОДАЖИ В МАГАЗИНЕ СРЕДСТВАМИ ВМ»
+            <strong>Семинар Анны Баландиной: </strong>
+            <br/>«ВИЗУАЛЬНЫЙ МЕРЧАНДАЙЗИНГ И ДИЗАЙН ДЕТСКИХ МАГАЗИНОВ; МИРОВЫЕ ТРЕНДЫ В ОФОРМЛЕНИИ»
           </p>
           <ul class="hex-content-list">
-            <li>Золотые правила ВМ для магазинов обуви и аксессуаров</li>
-            <li>Мобильное зонирование; оценка эффективности торговых зон</li>
-            <li>Как работать с «горячими» и утеплить «холодные» зоны магазина</li>
-            <li>Как оформить входную зону и витрины, чтобы они и продавали, и работали как зоны-магнит</li>
-            <li>Особенности креативного мерчандайзинга</li>
-            <li>Визуальный мерчандайзинг без мерчандайзеров – миф или реальность?; как это работает</li>
+            <li>Особенности ВМ для магазинов детской одежды</li>
+            <li>Для чего нужны стандарты ВМ в бренде и как их создать</li>
+            <li>Как взаимодействовать с покупателями на уровне их подсознания</li>
+            <li>Эмоциональный ВМ – двигатель продаж; как это работает</li>
+            <li>Как продают витрины; эффективные приемы оформления</li>
+            <li>Современный дизайн детских магазинов; мировые тенденции</li>
           </ul>
-          <img class="hex-content-logo" src="imgs/logo-shoesstar.png" alt="">
+          <img class="hex-content-logo" src="imgs/logo-cjf.png" alt="">
+          <!-- <img class="hex-content-logo" src="imgs/logo-kidsfair.jpg" alt=""> -->
         </div>
       </article>
 
@@ -62,35 +63,34 @@
       </article>
 
       <article class="hex-content clearfix">
-        <div class="hex-content-left">
-          <p class="hex-content-name">CJF – ДЕТСКАЯ МОДА
-          <br/>19 – 22 ФЕВРАЛЯ 2018
-          <br/>20 ФЕВРАЛЯ с 15:30 до 16:30
-          </p>
-          <div class="hex-content-image">
-             <img src="imgs/hex-pill-trainings13.jpg" alt="" />
+          <div class="hex-content-left">
+              <p class="hex-content-name">Lingerie Show-Forum
+              <br/>15 – 23 ФЕВРАЛЯ 2018
+              <br/>22 ФЕВРАЛЯ 14.00-14.45
+              </p>
+              <div class="hex-content-image">
+                  <img src="imgs/hex-pill-trainings2.jpg" alt="" />
+              </div>
           </div>
-        </div>
-        <div class="hex-content-right">
-          <p class="hex-content-name">CJF – ДЕТСКАЯ МОДА
-          <br/>19 – 22 ФЕВРАЛЯ 2018
-          <br/>20 ФЕВРАЛЯ с 15:30 до 16:30
-          </p>
-          <p class="hex-content-description">
-            <strong>Семинар Анны Баландиной: </strong>
-            <br/>«ВИЗУАЛЬНЫЙ МЕРЧАНДАЙЗИНГ И ДИЗАЙН ДЕТСКИХ МАГАЗИНОВ; МИРОВЫЕ ТРЕНДЫ В ОФОРМЛЕНИИ»
-          </p>
-          <ul class="hex-content-list">
-            <li>Особенности ВМ для магазинов детской одежды</li>
-            <li>Для чего нужны стандарты ВМ в бренде и как их создать</li>
-            <li>Как взаимодействовать с покупателями на уровне их подсознания</li>
-            <li>Эмоциональный ВМ – двигатель продаж; как это работает</li>
-            <li>Как продают витрины; эффективные приемы оформления</li>
-            <li>Современный дизайн детских магазинов; мировые тенденции</li>
-          </ul>
-          <img class="hex-content-logo" src="imgs/logo-cjf.png" alt="">
-          <!-- <img class="hex-content-logo" src="imgs/logo-kidsfair.jpg" alt=""> -->
-        </div>
+          <div class="hex-content-right">
+              <p class="hex-content-name">Lingerie Show-Forum
+              <br/>15 – 23 ФЕВРАЛЯ 2018
+              <br/>22 ФЕВРАЛЯ 14.00-14.45
+              </p>
+              <p class="hex-content-description">
+                  <strong>Мастер-класс Анны Баландиной:</strong>
+                  <br/>«ВИЗУАЛЬНЫЙ МЕРЧАНДАЙЗИНГ В СЕГМЕНТЕ НИЖНЕГО БЕЛЬЯ - РАБОТА С ЭМОЦИЯМИ; КАК ПРОДАВАТЬ ТОВАР НА УРОВНЕ ПОДСОЗНАНИЯ»
+              </p>
+              <ul class="hex-content-list">
+                  <li>Новая ВМ  реальность - нейромаркетинг с оформлении магазинов нижнего белья</li>
+                  <li>Как вызвать желание покупателя зайти в магазин: мягкие техники "затягивания" потребителя в магазин</li>
+                  <li>Эмоциональный магазин - эффектный тренд или двигатель продаж?</li>
+                  <li>Как найти яркий индивидуальный стиль в оформлении вашего магазина (тренды в оборудовании и оформлении витрин)</li>
+                  <li>Что значит "правильные" манекены? Как выбрать манекены под бренд </li>
+                  <li>Как создать продающие витрины в магазине: критерии эффективности, правильный выбор товара и концепции оформления сезонных витрин</li>
+              </ul>
+              <img class="hex-content-logo" src="imgs/logo-lingerie-show-2-2.png" alt="">
+          </div>
       </article>
 
       <article class="hex-content clearfix">
@@ -124,34 +124,34 @@
       </article>
 
       <article class="hex-content clearfix">
-          <div class="hex-content-left">
-              <p class="hex-content-name">Lingerie Show-Forum
-              <br/>15 – 23 ФЕВРАЛЯ 2018
-              <br/>22 ФЕВРАЛЯ 14.00-14.45
-              </p>
-              <div class="hex-content-image">
-                  <img src="imgs/hex-pill-trainings2.jpg" alt="" />
-              </div>
+        <div class="hex-content-left">
+          <p class="hex-content-name">ХI ВЫСТАВКА SHOESSTAR, УРАЛ
+          <br/>2 - 4 МАРТА 2018, ЕКАТЕРИНБУРГ
+          <br/>2 МАРТА 13.30 – 14.45
+          </p>
+          <div class="hex-content-image">
+              <img src="imgs/hex-pill-trainings15.jpg" alt="" />
           </div>
-          <div class="hex-content-right">
-              <p class="hex-content-name">Lingerie Show-Forum
-              <br/>15 – 23 ФЕВРАЛЯ 2018
-              <br/>22 ФЕВРАЛЯ 14.00-14.45
-              </p>
-              <p class="hex-content-description">
-                  <strong>Мастер-класс Анны Баландиной:</strong>
-                  <br/>«ВИЗУАЛЬНЫЙ МЕРЧАНДАЙЗИНГ В СЕГМЕНТЕ НИЖНЕГО БЕЛЬЯ - РАБОТА С ЭМОЦИЯМИ; КАК ПРОДАВАТЬ ТОВАР НА УРОВНЕ ПОДСОЗНАНИЯ»
-              </p>
-              <ul class="hex-content-list">
-                  <li>Новая ВМ  реальность - нейромаркетинг с оформлении магазинов нижнего белья</li>
-                  <li>Как вызвать желание покупателя зайти в магазин: мягкие техники "затягивания" потребителя в магазин</li>
-                  <li>Эмоциональный магазин - эффектный тренд или двигатель продаж?</li>
-                  <li>Как найти яркий индивидуальный стиль в оформлении вашего магазина (тренды в оборудовании и оформлении витрин)</li>
-                  <li>Что значит "правильные" манекены? Как выбрать манекены под бренд </li>
-                  <li>Как создать продающие витрины в магазине: критерии эффективности, правильный выбор товара и концепции оформления сезонных витрин</li>
-              </ul>
-              <img class="hex-content-logo" src="imgs/logo-lingerie-show-2-2.png" alt="">
-          </div>
+        </div>
+        <div class="hex-content-right">
+          <p class="hex-content-name">ХI ВЫСТАВКА SHOESSTAR, УРАЛ
+          <br/>2 - 4 МАРТА 2018, ЕКАТЕРИНБУРГ
+          <br/>2 МАРТА 13.30 – 14.45
+          </p>
+          <p class="hex-content-description">
+            <strong>Мастер-класс Анны Баландиной:</strong>
+            <br/>«СОВРЕМЕННЫЕ ВМ ТЕХНОЛОГИИ ДЛЯ МАГАЗИНОВ ОБУВИ И АКСЕССУАРОВ; КАК ПОДНЯТЬ ПРОДАЖИ В МАГАЗИНЕ СРЕДСТВАМИ ВМ»
+          </p>
+          <ul class="hex-content-list">
+            <li>Золотые правила ВМ для магазинов обуви и аксессуаров</li>
+            <li>Мобильное зонирование; оценка эффективности торговых зон</li>
+            <li>Как работать с «горячими» и утеплить «холодные» зоны магазина</li>
+            <li>Как оформить входную зону и витрины, чтобы они и продавали, и работали как зоны-магнит</li>
+            <li>Особенности креативного мерчандайзинга</li>
+            <li>Визуальный мерчандайзинг без мерчандайзеров – миф или реальность?; как это работает</li>
+          </ul>
+          <img class="hex-content-logo" src="imgs/logo-shoesstar.png" alt="">
+        </div>
       </article>
 
       <!--  CONTENT TOGGLING BUTTON -->
