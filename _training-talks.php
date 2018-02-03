@@ -2,6 +2,99 @@
 
       <article class="hex-content clearfix">
         <div class="hex-content-left">
+          <p class="hex-content-name">ХI ВЫСТАВКА SHOESSTAR, УРАЛ
+          <br/>2 - 4 МАРТА 2018, ЕКАТЕРИНБУРГ
+          <br/>2 МАРТА 13.30 – 14.45
+          </p>
+          <div class="hex-content-image">
+              <img src="imgs/hex-pill-trainings15.jpg" alt="" />
+          </div>
+        </div>
+        <div class="hex-content-right">
+          <p class="hex-content-name">ХI ВЫСТАВКА SHOESSTAR, УРАЛ
+          <br/>2 - 4 МАРТА 2018, ЕКАТЕРИНБУРГ
+          <br/>2 МАРТА 13.30 – 14.45
+          </p>
+          <p class="hex-content-description">
+            <strong>Мастер-класс Анны Баландиной:</strong>
+            <br/>«СОВРЕМЕННЫЕ ВМ ТЕХНОЛОГИИ ДЛЯ МАГАЗИНОВ ОБУВИ И АКСЕССУАРОВ; КАК ПОДНЯТЬ ПРОДАЖИ В МАГАЗИНЕ СРЕДСТВАМИ ВМ»
+          </p>
+          <ul class="hex-content-list">
+            <li>Золотые правила ВМ для магазинов обуви и аксессуаров</li>
+            <li>Мобильное зонирование; оценка эффективности торговых зон</li>
+            <li>Как работать с «горячими» и утеплить «холодные» зоны магазина</li>
+            <li>Как оформить входную зону и витрины, чтобы они и продавали, и работали как зоны-магнит</li>
+            <li>Особенности креативного мерчандайзинга</li>
+            <li>Визуальный мерчандайзинг без мерчандайзеров – миф или реальность?; как это работает</li>
+          </ul>
+          <img class="hex-content-logo" src="imgs/logo-shoesstar.png" alt="">
+        </div>
+      </article>
+
+      <article class="hex-content clearfix">
+        <div class="hex-content-left">
+          <p class="hex-content-name">COLLECTION PREMIER MOSCOW
+          <br/>19 – 22 ФЕВРАЛЯ 2018
+          <br/>21 ФЕВРАЛЯ 14.30 – 15.30
+          </p>
+          <div class="hex-content-image">
+              <img src="imgs/hex-pill-trainings14.jpg" alt="" />
+          </div>
+        </div>
+        <div class="hex-content-right">
+          <p class="hex-content-name">COLLECTION PREMIER MOSCOW
+          <br/>19 – 22 ФЕВРАЛЯ 2018
+          <br/>21 ФЕВРАЛЯ 14.30 – 15.30
+          </p>
+          <p class="hex-content-description">
+            <strong>Семинар Анны Баландиной:</strong>
+            <br/>«ДИЗАЙН МАГАЗИНА И ТОРГОВОЕ ОБОРУДОВАНИЕ: КАК ИЗБЕЖАТЬ ОШИБОК С САМОГО НАЧАЛА И СОЗДАТЬ ЭФФЕКТИВНЫЙ МАГАЗИН»
+          </p>
+          <!-- <ul class="hex-content-list">
+            <li>Как создать эффективный магазин обуви без больших затрат</li>
+            <li>Как получить максимальный эффект от визуальной презентации без мерчандайзеров</li>
+            <li>Оптимизация затрат на креативные витрины</li>
+            <li>Креативный мерчандайзинг - как это работает</li>
+            <li>Новые тренды в оформлении магазинов обуви</li>
+          </ul> -->
+          <img class="hex-content-logo" src="imgs/logo-cpm.png" alt="">
+        </div>
+      </article>
+
+      <article class="hex-content clearfix">
+        <div class="hex-content-left">
+          <p class="hex-content-name">CJF – ДЕТСКАЯ МОДА
+          <br/>19 – 22 ФЕВРАЛЯ 2018
+          <br/>20 ФЕВРАЛЯ с 15:30 до 16:30
+          </p>
+          <div class="hex-content-image">
+             <img src="imgs/hex-pill-trainings13.jpg" alt="" />
+          </div>
+        </div>
+        <div class="hex-content-right">
+          <p class="hex-content-name">CJF – ДЕТСКАЯ МОДА
+          <br/>19 – 22 ФЕВРАЛЯ 2018
+          <br/>20 ФЕВРАЛЯ с 15:30 до 16:30
+          </p>
+          <p class="hex-content-description">
+            <strong>Семинар Анны Баландиной: </strong>
+            <br/>«ВИЗУАЛЬНЫЙ МЕРЧАНДАЙЗИНГ И ДИЗАЙН ДЕТСКИХ МАГАЗИНОВ; МИРОВЫЕ ТРЕНДЫ В ОФОРМЛЕНИИ»
+          </p>
+          <ul class="hex-content-list">
+            <li>Особенности ВМ для магазинов детской одежды</li>
+            <li>Для чего нужны стандарты ВМ в бренде и как их создать</li>
+            <li>Как взаимодействовать с покупателями на уровне их подсознания</li>
+            <li>Эмоциональный ВМ – двигатель продаж; как это работает</li>
+            <li>Как продают витрины; эффективные приемы оформления</li>
+            <li>Современный дизайн детских магазинов; мировые тенденции</li>
+          </ul>
+          <img class="hex-content-logo" src="imgs/logo-cjf.png" alt="">
+          <!-- <img class="hex-content-logo" src="imgs/logo-kidsfair.jpg" alt=""> -->
+        </div>
+      </article>
+
+      <article class="hex-content clearfix">
+        <div class="hex-content-left">
           <p class="hex-content-name">EURO SHOES COLLECTION PREMIER
           <br/>26 ФЕВРАЛЯ – 1 МАРТА 2018
           <br/>28 ФЕВРАЛЯ 13.00-14.00
@@ -57,10 +150,11 @@
                   <li>Что значит "правильные" манекены? Как выбрать манекены под бренд </li>
                   <li>Как создать продающие витрины в магазине: критерии эффективности, правильный выбор товара и концепции оформления сезонных витрин</li>
               </ul>
-              <img class="hex-content-logo" src="imgs/logo-lingerie-show.png" alt="">
+              <img class="hex-content-logo" src="imgs/logo-lingerie-show-2-2.png" alt="">
           </div>
       </article>
 
+      <!--  CONTENT TOGGLING BUTTON -->
       <div class="has-pointer js-trigger-toggle">
           <div class="trigger-toggle">
             <span>показать еще мероприятия</span>
@@ -68,7 +162,7 @@
           </div>
       </div>
 
-      <!--  -->
+      <!--  CONTENT TOGGLED -->
       <div class="js-toggle-content">
 
         <article class="hex-content clearfix">
@@ -192,7 +286,7 @@
           <li>Что такое «эмоциональные» магазины сегодня и почему «эмоции» в магазине – двигатель продаж</li>
           <li>Как продают витрины; нужно ли инвестировать либо экономить на оформлении витрин и какие приемы работают</li>
         </ul> -->
-        <img class="hex-content-logo" src="imgs/logo-lingerie-show.png" alt="">
+        <img class="hex-content-logo" src="imgs/logo-lingerie-show-2.png" alt="">
         </div>
         </article>
 
@@ -311,7 +405,7 @@
         <li>потребителей;  Как создать эмоциональную витрину</li>
         <li>Главные мировые тренды коммерческой витринистики</li>
         </ul> -->
-        <img class="hex-content-logo" src="imgs/logo-lingerie-show.png" alt="">
+        <img class="hex-content-logo" src="imgs/logo-lingerie-show-2.png" alt="">
         </div>
         </article>
 
