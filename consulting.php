@@ -32,6 +32,43 @@
 
       <article class="hex-content clearfix">
         <div class="hex-content-left">
+          <p class="hex-content-name">Pазработка
+            <br/>дизайн-проекта магазина</p>
+          <div class="hex-content-image">
+            <img src="imgs/bkgr_consulting8.jpg" alt="" />
+          </div>
+        </div>
+        <div class="hex-content-right">
+          <p class="hex-content-name">Pазработка
+            <br/>дизайн-проекта магазина</p>
+          <p class="hex-content-description">Состоит из двух частей и включает разработку и визуализацию следующих составляющих:</p>
+          <p class="hex-content-description">ПРЕ-КОНЦЕПЦИЯ/ ЭСКИЗНЫЙ ПРОЕКТ</p>
+          <ul class="hex-content-list">
+            <li>Общая стилистика торгового концепта</li>
+            <li>Элементы отделки и декорирования</li>
+            <li>Идеи по визуальному зонированию основных торговых зон</li>
+            <li>Стилистика фасада, витрин и входной группы</li>
+            <li>Идеи по торговому и неторговому оборудованию</li>
+            <li>Идеи по «уникальному почерку» бренда </li>
+          </ul>
+          <p class="hex-content-description">ПОЛНЫЙ ДИЗАЙН ПРОЕКТ</p>
+          <ul class="hex-content-list">
+            <li>Визуализация магазина в 3D</li>
+            <li>План отделки</li>
+            <li>План расстановки оборудования с размерами</li>
+            <li>Развертки по стенам</li>
+            <li>План потолка (с расстановкой размерами и наименованием осветительного оборудования)</li>
+            <li>План полов (с размерами и наименованием отделочных материалов)</li>
+            <li>Дизайн-проект фасада  и вывески </li>
+            <li>Дизайн-проект кассовой зоны </li>
+            <li>Дизайн-проект торгового оборудования и зон примерочных (с размерами и материалами торгового оборудования </li>
+            <li>Подбор декоративных ВМ элементов (манекены, торсы и пр.)</li>
+          </ul>
+        </div>
+      </article>
+
+      <article class="hex-content clearfix">
+        <div class="hex-content-left">
           <p class="hex-content-name">Разработка стандартов
             <br/>визуального мерчандайзинга (ВМ) бренда.
             <br/>Создание мерчандайзинг-бук
@@ -119,7 +156,7 @@
         </div>
       </article>
 
-      <article class="hex-content clearfix">
+      <!-- <article class="hex-content clearfix">
         <div class="hex-content-left">
           <p class="hex-content-name">Разработка дизайн-концепции
             <br/>магазина-прототипа</p>
@@ -141,7 +178,7 @@
             <li>Манекены и торсы – выбор и расчет комплекта манекенов, торсов и ВМ элементов (вешалки, подставки и т.д.) на магазин</li>
           </ul>
         </div>
-      </article>
+      </article> -->
 
       <article class="hex-content clearfix">
         <div class="hex-content-left">
@@ -187,6 +224,47 @@
             <li>Cоздание сетевых инструкций по текущему оформлению </li>
             <li>Отбор и обучение ВМ группы бренда работе с MS проектом и супервайзингу “обратной связи сети”</li>
             <li>Внедрение полномасштабного проекта Мodel Store в розничную сеть клиента; контроль качества</li>
+          </ul>
+        </div>
+      </article>
+
+      <article class="hex-content clearfix">
+        <div class="hex-content-left">
+          <p class="hex-content-name">Pазработка брендинг-проекта</p>
+          <div class="hex-content-image">
+            <img src="imgs/bkgr_consulting9.jpg" alt="" />
+          </div>
+        </div>
+        <div class="hex-content-right">
+          <p class="hex-content-name">Pазработка брендинг-проекта</p>
+          <p class="hex-content-description">Включает в себя:</p>
+          <ul class="hex-content-list">
+            <li>Логотип </li>
+            <li>Набор фирменных цветов (цвета по СMYK; параметры использования)</li>
+            <li>Визитка магазина</li>
+            <li>Ценник</li>
+            <li>Пакет</li>
+            <li>Бонусная карта</li>
+            <li>Дополнительные элементы по требованию заказчика</li>
+          </ul>
+        </div>
+      </article>
+
+      <article class="hex-content clearfix">
+        <div class="hex-content-left">
+          <p class="hex-content-name">Pазработка комплекта
+            <br/>pos материалов sale</p>
+          <div class="hex-content-image">
+            <img src="imgs/bkgr_consulting10.jpg" alt="" />
+          </div>
+        </div>
+        <div class="hex-content-right">
+          <p class="hex-content-name">Pазработка комплекта
+            <br/>pos материалов sale</p>
+          <p class="hex-content-description">Включает в себя:</p>
+          <ul class="hex-content-list">
+            <li>Комплект  POS материалов в торговый зал: "Новая Коллекция", "Распродажа", Sale до 30%, Sale до 50%, Sale до 70% либо другие по требованию Заказчика</li>
+            <li>Баннеры  "распродажа" на витрины</li>
           </ul>
         </div>
       </article>
