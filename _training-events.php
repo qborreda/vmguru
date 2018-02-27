@@ -1,18 +1,5 @@
 <!-- TRAINING EVENTS -->
 <div class="training-items">
-    <!-- SHOES -->
-    <article class="event-article">
-        <a class="no-border" href="/visual-merchandising-dlia-magazinov-obuvi-training.php">
-        <img src="imgs/bkgr_event3.jpg">
-        <div class="article-stripe">
-            <div class="article-dates">
-                <span class="month">марта</span>
-                <span class="date">11 - 12</span>
-            </div>
-            <p>Визуальный мерчандайзинг для магазинов обуви и аксессуаров</p>
-        </div>
-        </a>
-    </article>
     <!-- VM -->
     <article class="event-article">
         <a class="no-border" href="/sozdanie-magazine-fashion-segments-training.php">
@@ -50,5 +37,18 @@
             </div>
             <p>Коммерческий визуальный мерчандайзинг; прикладные техники «от А до Я»</p>
         </div></a>
+    </article>
+    <!-- SHOES -->
+    <article class="event-article">
+        <a class="no-border" href="/visual-merchandising-dlia-magazinov-obuvi-training.php">
+        <img src="imgs/bkgr_event3.jpg">
+        <div class="article-stripe">
+            <div class="article-dates">
+                <span class="month">марта</span>
+                <span class="date">26 - 27</span>
+            </div>
+            <p>Визуальный мерчандайзинг для магазинов обуви и аксессуаров</p>
+        </div>
+        </a>
     </article>
 </div>
