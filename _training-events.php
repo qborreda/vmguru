@@ -7,7 +7,7 @@
         <div class="article-stripe">
             <div class="article-dates">
                 <span class="month">марта</span>
-                <span class="date">15 - 16</span>
+                <span class="date">21 - 22</span>
             </div>
             <p>Витринистика: создание эффективных витрин. Большой эффект без больших расходов.</p>
         </div>
