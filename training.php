@@ -46,7 +46,20 @@
             <div class="crossed-box">
                 ВМ обучение проходит в двух форматах
             </div>
+        </section>
 
+        <div class="stripped-title">
+            <span></span>
+            <p>ГРУППОВЫЕ ТРЕНИНГИ</p>
+        </div>
+        <section class="trainings-section2">
+          <div class="trainings-intro">Oбучение в формате интерактивного тренинга-практикума в группе до 14 человек по утвержденной программе в нашем офисе и на нашей торговой площадке.</div>
+          <div class="" style="max-width: 700px; margin: 0 auto 20px; text-align: center;">
+              <p style="padding-left: 20px; text-align: center;">При информационной поддержке</p>
+              <img src="/imgs/logo-newretail.jpg" alt="">
+              <img src="/imgs/logo-fashionunited.jpg" alt="">
+          </div>
+          <?php include "_training-events.php"; ?>
         </section>
 
         <div class="stripped-title">
@@ -126,20 +139,6 @@
               Отправляя заявку, вы соглашаетесь на обработку <a href="/pdfs/agreement.pdf" target="_blank">персональных данных</a>
             </div>
             </form>
-        </section>
-
-        <div class="stripped-title">
-            <span></span>
-            <p>ГРУППОВЫЕ ТРЕНИНГИ</p>
-        </div>
-        <section class="trainings-section2">
-          <div class="trainings-intro">Oбучение в формате интерактивного тренинга-практикума в группе до 14 человек по утвержденной программе в нашем офисе и на нашей торговой площадке.</div>
-          <div class="" style="max-width: 700px; margin: 0 auto 20px; text-align: center;">
-              <p style="padding-left: 20px; text-align: center;">При информационной поддержке</p>
-              <img src="/imgs/logo-newretail.jpg" alt="">
-              <img src="/imgs/logo-fashionunited.jpg" alt="">
-          </div>
-          <?php include "_training-events.php"; ?>
         </section>
 
         <div class="stripped-title">
