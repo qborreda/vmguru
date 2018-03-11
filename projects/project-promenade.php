@@ -162,7 +162,7 @@
 
         <section class="project-testimonials">
             <div class="person">
-                <img src="/imgs/projects/unichel-testimonial.jpg" alt="Екатерина Железнякова">
+                <img src="/imgs/projects/promenade-testimonial.jpg" alt="Александр Шапкин">
                 <div class="person-text-layout">
                     <h4 class="person-name">АЛЕКСАНДР ШАПКИН</h4>
                     <span class="person-position bkgr-hi">Владелец бренда «Promenade»</span>
