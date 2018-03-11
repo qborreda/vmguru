@@ -111,25 +111,23 @@
                         </p>
                     </div>
                 </li>
-                <li class="hex-item" data-link="/projects/project-sneznaia-koroleva.php">
-                    <div>
-                        <img class="hex-content" src="/imgs/bkgr_hex_project9.jpg" alt="" />
-                        <!-- <div class="hex-title">Sneznaia 1</div> -->
-                        <p class="hex-description">
-                            РАЗРАБОТКА СТАНДАРТОВ ПРЕЗЕНТАЦИИ
-                            <br/>АКСЕССУАРОВ;
-                            <br/>КОРПОРАТИВНОЕ ОБУЧЕНИЕ
+                <li class="hex-item" data-link="/projects/project-promenade.php">
+                    <div class="white-icon">
+                        <img class="hex-content" src="/imgs/bkgr_hex_project_promenade1.jpg" alt="" />
+                        <!-- <div class="hex-title white-text">Promenade</div> -->
+                        <p class="hex-description is-little-text">
+                            дизайн-проект магазина;
+                            <br/>тех. сопровождение
                         </p>
                     </div>
                 </li>
-                <li class="hex-item" data-link="/projects/project-sneznaia-koroleva.php">
-                    <div>
-                        <img class="hex-content" src="/imgs/bkgr_hex_project10.jpg" alt="" />
-                        <!-- <div class="hex-title">Sneznaia 2</div> -->
-                        <p class="hex-description">
-                            РАЗРАБОТКА И ВНЕДРЕНИЕ
-                            <br/>ПРОЕКТА MODEL STORE – ВИТРИНЫ;
-                            <br/>КОРПОРАТИВНОЕ ОБУЧЕНИЕ
+                <li class="hex-item" data-link="/projects/project-promenade.php">
+                    <div class="white-icon">
+                        <img class="hex-content" src="/imgs/bkgr_hex_project_promenade2.jpg" alt="" />
+                        <!-- <div class="hex-title white-text">Promenade</div> -->
+                        <p class="hex-description is-little-text">
+                            полный брендинг-проект;
+                            <br/>разработка комплекта роs sale
                         </p>
                     </div>
                 </li>
@@ -167,6 +165,28 @@
                         </p>
                     </div>
                 </li>
+                <li class="hex-item" data-link="/projects/project-sneznaia-koroleva.php">
+                    <div>
+                        <img class="hex-content" src="/imgs/bkgr_hex_project9.jpg" alt="" />
+                        <!-- <div class="hex-title">Sneznaia 1</div> -->
+                        <p class="hex-description">
+                            РАЗРАБОТКА СТАНДАРТОВ ПРЕЗЕНТАЦИИ
+                            <br/>АКСЕССУАРОВ;
+                            <br/>КОРПОРАТИВНОЕ ОБУЧЕНИЕ
+                        </p>
+                    </div>
+                </li>
+                <li class="hex-item" data-link="/projects/project-sneznaia-koroleva.php">
+                    <div>
+                        <img class="hex-content" src="/imgs/bkgr_hex_project10.jpg" alt="" />
+                        <!-- <div class="hex-title">Sneznaia 2</div> -->
+                        <p class="hex-description">
+                            РАЗРАБОТКА И ВНЕДРЕНИЕ
+                            <br/>ПРОЕКТА MODEL STORE – ВИТРИНЫ;
+                            <br/>КОРПОРАТИВНОЕ ОБУЧЕНИЕ
+                        </p>
+                    </div>
+                </li>
                 <li class="hex-item">
                     <div>
                         <img class="hex-content" src="/imgs/bkgr_hex_project14.jpg" alt="" />
@@ -187,6 +207,16 @@
                             <br/>РЕКЛАМНОЙ ФОТОСЕССИИ;
                             <br/>РАЗРАБОТКА СТАНДАРТОВ ПРЕЗЕНТАЦИИ
                             <br/>POS МАТЕРИАЛОВ
+                        </p>
+                    </div>
+                </li>
+                <li class="hex-item">
+                    <div>
+                        <img class="hex-content" src="/imgs/bkgr_hex_project19.jpg" alt="" />
+                        <!-- <div class="hex-title">Ikopolis</div> -->
+                        <p class="hex-description is-little-text">
+                            ПРОГРАММА КОРПОРАТИВНОГО ОБУЧЕНИЯ
+                            <br/>И ВМ КОНСАЛТИНГ ДЛЯ  АРЕНДАТОРОВ ТЦ
                         </p>
                     </div>
                 </li>
@@ -251,16 +281,6 @@
                         <p class="hex-description">
                             СТАНДАРТЫ ПРЕЗЕНТАЦИИ ПРЕМИУМ КОЛЛЕКЦИЙ -
                             <br/>КОРПОРАТИВНОЕ ОБУЧЕНИЕ / ФРАНЧАЙЗИНГ. КОНФ.
-                        </p>
-                    </div>
-                </li>
-                <li class="hex-item">
-                    <div>
-                        <img class="hex-content" src="/imgs/bkgr_hex_project19.jpg" alt="" />
-                        <!-- <div class="hex-title">Ikopolis</div> -->
-                        <p class="hex-description is-little-text">
-                            ПРОГРАММА КОРПОРАТИВНОГО ОБУЧЕНИЯ
-                            <br/>И ВМ КОНСАЛТИНГ ДЛЯ  АРЕНДАТОРОВ ТЦ
                         </p>
                     </div>
                 </li>
