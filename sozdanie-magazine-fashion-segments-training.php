@@ -32,7 +32,7 @@
                 <div class="box-skewy"></div>
                 <div class="box-texts">
                     <div class="box-texts-date">
-                        <span class="day">23</span>
+                        <span class="day">30</span>
                         <span class="month">марта</span>
                     </div>
                     <div class="box-texts-title">
