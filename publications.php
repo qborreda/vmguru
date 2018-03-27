@@ -103,9 +103,6 @@
         <li><span class="month">январь 2016</span><span class="title"><a href="pdfs/profashion_ru-analytics-154623.pdf" target="_blank">«КУРС НА ВЫЖИВАНИЕ; Стратегии лидеров на падающем рынке»</a> — <span class="media">profashion</span></span>
         </li>
 
-        <!-- <li><span class="month">октябрь 2012</span><span class="title"><a href="http://fashion-report.ru/articles/tekhnologii-prodazh/kakova-optimalnaya-vmestimost-magazina/" target="_blank">КАК РАСЧИТАТЬ ОПТИМАЛЬНУЮ ВМЕСТИМОСТЬ МАГАЗИНА?</a> — <span class="media">fashion report</span></span>
-        </li> -->
-
         <li><span class="month">декабрь 2015</span><span class="title"><a href="/pdfs/onko_v_prodazi_balandina.pdf" target="_blank">«ОКНО В ПРОДАЖИ»</a> — <span class="media">profashion</span></span>
         </li>
 
