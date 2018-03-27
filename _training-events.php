@@ -1,17 +1,5 @@
 <!-- TRAINING EVENTS -->
 <div class="training-items">
-    <!-- -->
-    <article class="event-article">
-        <a class="no-border" href="/kommercheskii-visual-merchandising-training.php">
-        <img src="imgs/bkgr_event2.jpg">
-        <div class="article-stripe">
-            <div class="article-dates">
-                <span class="month">марта</span>
-                <span class="date">28 - 29</span>
-            </div>
-            <p>Коммерческий визуальный мерчандайзинг; прикладные техники «от А до Я»</p>
-        </div></a>
-    </article>
     <!-- WINDOWS -->
     <article class="event-article">
         <a class="no-border" href="/vitrinistika-texniki-sozdania-kommercheskix-vitrin.php">
@@ -24,6 +12,18 @@
             <p>Витринистика: создание эффективных витрин. Большой эффект без больших расходов.</p>
         </div>
         </a>
+    </article>
+    <!-- -->
+    <article class="event-article">
+        <a class="no-border" href="/kommercheskii-visual-merchandising-training.php">
+        <img src="imgs/bkgr_event2.jpg">
+        <div class="article-stripe">
+            <div class="article-dates">
+                <span class="month">май</span>
+                <span class="date">...</span>
+            </div>
+            <p>Коммерческий визуальный мерчандайзинг; прикладные техники «от А до Я»</p>
+        </div></a>
     </article>
     <!-- SHOES -->
     <article class="event-article">
