@@ -26,7 +26,7 @@
   <div class="wrapper">
     <div class="stripped-title">
       <span></span>
-      <p>НАШИ ПУБЛИКАЦИИ 2015 - 2017</p>
+      <p>НАШИ ПУБЛИКАЦИИ 2016 - 2018</p>
     </div>
     <section class="publications-section1">
 
@@ -38,6 +38,9 @@
         </div>
       </div>
       <ul class="publication-article-list">
+
+        <li><span class="month">aпрель 2018</span><span class="title"><a href="https://fashionunited.ru/novostee/moda/kollaboratsii-v-feshn-vitrinistike-eto-novaya-krov-i-interes-k-brendu/2018041221473" target="_blank">Коллаборации в витринистике: "новая кровь" и интерес к бренду</a> — <span class="media">FASHIONUNITED</span></span>
+        </li>
 
         <li><span class="month">декабрь 2017</span><span class="title"><a href="https://new-retail.ru/magaziny/novogodnyaya_feshn_vitrinistika_glavnye_pravila_nedorogogo_prazdnichnogo_oformleniya3387/?sphrase_id=235771" target="_blank">Новогодняя фэшн витринистика: главные правила недорогого праздничного оформления</a> — <span class="media">New-retail.ru</span></span>
         </li>
@@ -179,8 +182,8 @@
         <!-- <li><span class="month">сентябрь 2015</span><span class="title"><a href="pdfs/visual-merchandasing-podnimaem-prodazi.pdf" target="_blank">«Поднимаем продажи. Как увеличить трафик покупателей и объем продаж в магазине с помощью инструментов ВМ»</a> — <span class="media">Shoes Report</span></span>
               </li> -->
 
-        <li><span class="month">декабрь 2012</span><span class="title"><a href="pdfs/Jazz_Econika.pdf" target="_blank">«Джаз и прямо сейчас!» — новогодние витрины «Эконики»</a> — <span class="media">Shoes Report</span></span>
-        </li>
+        <!-- <li><span class="month">декабрь 2012</span><span class="title"><a href="pdfs/Jazz_Econika.pdf" target="_blank">«Джаз и прямо сейчас!» — новогодние витрины «Эконики»</a> — <span class="media">Shoes Report</span></span>
+        </li> -->
       </ul>
 
     </section>
