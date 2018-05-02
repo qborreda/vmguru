@@ -29,5 +29,8 @@
       <span class="client-grid-logo"><img src="imgs/client-dinoricci.jpg" alt="Dino Ricci"></span>
       <span class="client-grid-logo"><img src="imgs/client-dijeans.jpg" alt="Di Jeans"></span>
       <span class="client-grid-logo"><img src="imgs/client-mreason.jpg" alt="M. Reason"></span>
+      <span class="client-grid-logo"><img src="imgs/client-promenade.jpg" alt="Promenade"></span>
+      <span class="client-grid-logo"><img src="imgs/client-sportdepo.jpg" alt="Sport Depo"></span>
       <span class="client-grid-logo"><img src="imgs/client-ilovemum.jpg" alt="I love mum"></span>
+      <span class="client-grid-logo"><img src="imgs/client-oscar.jpg" alt="Oscar"></span>
   </div>
