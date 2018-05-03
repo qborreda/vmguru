@@ -31,7 +31,7 @@
                 <div class="box-skewy"></div>
                 <div class="box-texts">
                     <div class="box-texts-date">
-                        <span class="day">16 - 17</span>
+                        <span class="day">24 - 25</span>
                         <span class="month">мая</span>
                     </div>
                     <div class="box-texts-title">
