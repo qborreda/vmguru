@@ -31,8 +31,8 @@
                 <div class="box-skewy"></div>
                 <div class="box-texts">
                     <div class="box-texts-date">
-                        <span class="day">24 - 25</span>
-                        <span class="month">мая</span>
+                        <span class="day">...</span>
+                        <span class="month">август</span>
                     </div>
                     <div class="box-texts-title">
                         КОММЕРЧЕСКИЙ ВИЗУАЛЬНЫЙ МЕРЧАНДАЙЗИНГ; ПРИКЛАДНЫЕ ТЕХНИКИ «ОТ А ДО Я»
