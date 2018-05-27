@@ -1,4 +1,4 @@
-a,
+a:not(.project-link),
 a:active,
 a:link,
 a:visited {
@@ -6,7 +6,7 @@ a:visited {
   padding-bottom: 3px;
   text-decoration: none;
   border-bottom: 1px solid $DETAIL-GREY;
-  
+
   &:hover {
     border-bottom: 1px solid $DETAIL-CYAN;
   }
