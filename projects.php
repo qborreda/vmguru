@@ -215,8 +215,18 @@
                         <img class="hex-content" src="/imgs/bkgr_hex_project19.jpg" alt="" />
                         <!-- <div class="hex-title">Ikopolis</div> -->
                         <p class="hex-description is-little-text">
-                            ПРОГРАММА КОРПОРАТИВНОГО ОБУЧЕНИЯ
-                            <br/>И ВМ КОНСАЛТИНГ ДЛЯ  АРЕНДАТОРОВ ТЦ
+                            КОРПОРАТИВНОЕ ОБУЧЕНИЕ
+                            <br/>И ВМ КОНСАЛТИНГ ДЛЯ АРЕНДАТОРОВ ТЦ
+                        </p>
+                    </div>
+                </li>
+                <li class="hex-item">
+                    <div>
+                        <img class="hex-content" src="/imgs/bkgr_hex_project25.jpg" alt="" />
+                        <!-- <div class="hex-title">Meganom</div> -->
+                        <p class="hex-description is-little-text">
+                            КОРПОРАТИВНОЕ ОБУЧЕНИЕ
+                            <br/>И ВМ КОНСАЛТИНГ ДЛЯ АРЕНДАТОРОВ ТЦ
                         </p>
                     </div>
                 </li>
