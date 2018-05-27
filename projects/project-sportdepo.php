@@ -83,24 +83,28 @@
             <div class="carrusel-main-legend">/ дата реализации - апрель 2018 /</div>
         </section>
 
-        <!-- <div class="stripped-title">
+        <div class="stripped-title">
             <span></span>
             <p>ОТЗЫВ КЛИЕНТА</p>
         </div>
 
         <section class="project-testimonials">
-            <div class="person">
+            <!-- <div class="person">
                 <img src="/imgs/projects/xitzona-testimonial.jpg" alt="Вера Зайцева">
                 <div class="person-text-layout">
                     <h4 class="person-name">С. Yважением</h4>
                     <span class="person-position bkgr-hi">Департамент управления персоналом</span>
                 </div>
-            </div>
+            </div> -->
             <div class="testimonial-text">
                 <p>Компания СпортDепо выражает благодарность Компании «VMGuru» в лице Анны Баландиной и Ирины Акимовой за подготовку и проведение обучающего курса по основам визуального мерчендайзинга для магазинов спортивной одежды, спортивных товаров и профессиональной экипировки для сотрудников наших сбытовых подразделений.</p>
                 <p>Надеемся на дальнейшее плодотворное сотрудничество!</p>
+                <p>
+                  С уважением, 
+                  <br />Департамент управления персоналом
+                </p>
             </div>
-        </section> -->
+        </section>
 
         <!-- FOOTER -->
         <?php include "../footer.php"; ?>
