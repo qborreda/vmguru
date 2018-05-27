@@ -77,6 +77,36 @@
                         </p>
                     </div>
                 </li>
+                <li class="hex-item" data-link="/projects/project-promenade.php">
+                    <div class="white-icon">
+                        <img class="hex-content" src="/imgs/bkgr_hex_project_promenade1.jpg" alt="" />
+                        <!-- <div class="hex-title white-text">Promenade</div> -->
+                        <p class="hex-description is-little-text">
+                            дизайн-проект магазина;
+                            <br/>тех. сопровождение
+                        </p>
+                    </div>
+                </li>
+                <li class="hex-item" data-link="/projects/project-promenade.php">
+                    <div class="white-icon">
+                        <img class="hex-content" src="/imgs/bkgr_hex_project_promenade2.jpg" alt="" />
+                        <!-- <div class="hex-title white-text">Promenade</div> -->
+                        <p class="hex-description is-little-text">
+                            полный брендинг-проект;
+                            <br/>разработка комплекта роs sale
+                        </p>
+                    </div>
+                </li>
+                <li class="hex-item" data-link="/projects/project-xitzona.php">
+                    <div>
+                        <img class="hex-content" src="/imgs/bkgr_hex_project8.jpg" alt="" />
+                        <!-- <div class="hex-title">XNT Zona</div> -->
+                        <p class="hex-description is-little-text">
+                            РАЗРАБОТКА ВИТРИННЫХ КОНЦЕПЦИЙ;
+                            <br/>ОФОРМЛЕНИЕ ВИТРИН
+                        </p>
+                    </div>
+                </li>
                 <li class="hex-item"  data-link="/projects/project-modis.php">
                     <div class="white-icon">
                         <img class="hex-content" src="/imgs/bkgr_hex_project6.jpg" alt="" />
@@ -101,33 +131,54 @@
                         </p>
                     </div>
                 </li>
-                <li class="hex-item" data-link="/projects/project-xitzona.php">
+                <li class="hex-item">
                     <div>
-                        <img class="hex-content" src="/imgs/bkgr_hex_project8.jpg" alt="" />
-                        <!-- <div class="hex-title">XNT Zona</div> -->
+                        <img class="hex-content" src="/imgs/bkgr_hex_project26.jpg" alt="" />
+                        <!-- <div class="hex-title">Sportdepo</div> -->
                         <p class="hex-description is-little-text">
-                            РАЗРАБОТКА ВИТРИННЫХ КОНЦЕПЦИЙ;
-                            <br/>ОФОРМЛЕНИЕ ВИТРИН
+                            КОРПОРАТИВНОЕ ВМ ОБУЧЕНИЕ
                         </p>
                     </div>
                 </li>
-                <li class="hex-item" data-link="/projects/project-promenade.php">
-                    <div class="white-icon">
-                        <img class="hex-content" src="/imgs/bkgr_hex_project_promenade1.jpg" alt="" />
-                        <!-- <div class="hex-title white-text">Promenade</div> -->
+                <li class="hex-item">
+                    <div>
+                        <img class="hex-content" src="/imgs/bkgr_hex_project25.jpg" alt="" />
+                        <!-- <div class="hex-title">Meganom</div> -->
                         <p class="hex-description is-little-text">
-                            дизайн-проект магазина;
-                            <br/>тех. сопровождение
+                            КОРПОРАТИВНОЕ ОБУЧЕНИЕ
+                            <br/>И ВМ КОНСАЛТИНГ ДЛЯ АРЕНДАТОРОВ ТЦ
                         </p>
                     </div>
                 </li>
-                <li class="hex-item" data-link="/projects/project-promenade.php">
-                    <div class="white-icon">
-                        <img class="hex-content" src="/imgs/bkgr_hex_project_promenade2.jpg" alt="" />
-                        <!-- <div class="hex-title white-text">Promenade</div> -->
+                <li class="hex-item">
+                    <div>
+                        <img class="hex-content" src="/imgs/bkgr_hex_project19.jpg" alt="" />
+                        <!-- <div class="hex-title">Ikopolis</div> -->
                         <p class="hex-description is-little-text">
-                            полный брендинг-проект;
-                            <br/>разработка комплекта роs sale
+                            КОРПОРАТИВНОЕ ОБУЧЕНИЕ
+                            <br/>И ВМ КОНСАЛТИНГ ДЛЯ АРЕНДАТОРОВ ТЦ
+                        </p>
+                    </div>
+                </li>
+                <li class="hex-item" data-link="/projects/project-sneznaia-koroleva.php">
+                    <div>
+                        <img class="hex-content" src="/imgs/bkgr_hex_project9.jpg" alt="" />
+                        <!-- <div class="hex-title">Sneznaia 1</div> -->
+                        <p class="hex-description">
+                            РАЗРАБОТКА СТАНДАРТОВ ПРЕЗЕНТАЦИИ
+                            <br/>АКСЕССУАРОВ;
+                            <br/>КОРПОРАТИВНОЕ ОБУЧЕНИЕ
+                        </p>
+                    </div>
+                </li>
+                <li class="hex-item" data-link="/projects/project-sneznaia-koroleva.php">
+                    <div>
+                        <img class="hex-content" src="/imgs/bkgr_hex_project10.jpg" alt="" />
+                        <!-- <div class="hex-title">Sneznaia 2</div> -->
+                        <p class="hex-description">
+                            РАЗРАБОТКА И ВНЕДРЕНИЕ
+                            <br/>ПРОЕКТА MODEL STORE – ВИТРИНЫ;
+                            <br/>КОРПОРАТИВНОЕ ОБУЧЕНИЕ
                         </p>
                     </div>
                 </li>
@@ -165,28 +216,6 @@
                         </p>
                     </div>
                 </li>
-                <li class="hex-item" data-link="/projects/project-sneznaia-koroleva.php">
-                    <div>
-                        <img class="hex-content" src="/imgs/bkgr_hex_project9.jpg" alt="" />
-                        <!-- <div class="hex-title">Sneznaia 1</div> -->
-                        <p class="hex-description">
-                            РАЗРАБОТКА СТАНДАРТОВ ПРЕЗЕНТАЦИИ
-                            <br/>АКСЕССУАРОВ;
-                            <br/>КОРПОРАТИВНОЕ ОБУЧЕНИЕ
-                        </p>
-                    </div>
-                </li>
-                <li class="hex-item" data-link="/projects/project-sneznaia-koroleva.php">
-                    <div>
-                        <img class="hex-content" src="/imgs/bkgr_hex_project10.jpg" alt="" />
-                        <!-- <div class="hex-title">Sneznaia 2</div> -->
-                        <p class="hex-description">
-                            РАЗРАБОТКА И ВНЕДРЕНИЕ
-                            <br/>ПРОЕКТА MODEL STORE – ВИТРИНЫ;
-                            <br/>КОРПОРАТИВНОЕ ОБУЧЕНИЕ
-                        </p>
-                    </div>
-                </li>
                 <li class="hex-item">
                     <div>
                         <img class="hex-content" src="/imgs/bkgr_hex_project14.jpg" alt="" />
@@ -207,26 +236,6 @@
                             <br/>РЕКЛАМНОЙ ФОТОСЕССИИ;
                             <br/>РАЗРАБОТКА СТАНДАРТОВ ПРЕЗЕНТАЦИИ
                             <br/>POS МАТЕРИАЛОВ
-                        </p>
-                    </div>
-                </li>
-                <li class="hex-item">
-                    <div>
-                        <img class="hex-content" src="/imgs/bkgr_hex_project19.jpg" alt="" />
-                        <!-- <div class="hex-title">Ikopolis</div> -->
-                        <p class="hex-description is-little-text">
-                            КОРПОРАТИВНОЕ ОБУЧЕНИЕ
-                            <br/>И ВМ КОНСАЛТИНГ ДЛЯ АРЕНДАТОРОВ ТЦ
-                        </p>
-                    </div>
-                </li>
-                <li class="hex-item">
-                    <div>
-                        <img class="hex-content" src="/imgs/bkgr_hex_project25.jpg" alt="" />
-                        <!-- <div class="hex-title">Meganom</div> -->
-                        <p class="hex-description is-little-text">
-                            КОРПОРАТИВНОЕ ОБУЧЕНИЕ
-                            <br/>И ВМ КОНСАЛТИНГ ДЛЯ АРЕНДАТОРОВ ТЦ
                         </p>
                     </div>
                 </li>
