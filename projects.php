@@ -254,7 +254,7 @@
                         <img class="hex-content" src="/imgs/bkgr_hex_project16.jpg" alt="" />
                         <!-- <div class="hex-title">Baon</div> -->
                         <p class="hex-description white-text is-little-text">
-                            АУДИТ ВМ СТАНДАРТОВ ВМ;
+                            АУДИТ ВМ СТАНДАРТОВ;
                             <br/>РЕДРЕССИНГ ФЛАГМАНСКОГО МАГАЗИНА
                         </p>
                     </div>
