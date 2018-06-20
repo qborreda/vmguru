@@ -140,7 +140,7 @@
                         </p>
                     </div>
                 </li>
-                <li class="hex-item">
+                <li class="hex-item" data-link="/projects/project-meganom.php">
                     <div>
                         <img class="hex-content" src="/imgs/bkgr_hex_project25.jpg" alt="" />
                         <!-- <div class="hex-title">Meganom</div> -->
