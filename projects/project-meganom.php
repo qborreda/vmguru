@@ -86,23 +86,33 @@
 
         </section>
 
-        <!-- <section class="project-details">
+        <section class="project-details">
 
             <div class="project-carrusel project-carrusel-main">
                 <img class="btn-arrows btn-arrows-left" src="/imgs/btn_arrow_left.png" />
 
                 <div class="js-main-carrusel">
-                    <div class="carr-item"><img src="/imgs/projects/sportdepo-1-01.jpg" alt=""></div>
-                    <div class="carr-item"><img src="/imgs/projects/sportdepo-1-02.jpg" alt=""></div>
-                    <div class="carr-item"><img src="/imgs/projects/sportdepo-1-03.jpg" alt=""></div>
-                    <div class="carr-item"><img src="/imgs/projects/sportdepo-1-04.jpg" alt=""></div>
+                    <div class="carr-item"><img src="/imgs/projects/meganom-1-01.jpg" alt=""></div>
+                    <div class="carr-item"><img src="/imgs/projects/meganom-1-02.jpg" alt=""></div>
+                    <div class="carr-item"><img src="/imgs/projects/meganom-1-03.jpg" alt=""></div>
+                    <div class="carr-item"><img src="/imgs/projects/meganom-1-04.jpg" alt=""></div>
+                    <div class="carr-item"><img src="/imgs/projects/meganom-1-05.jpg" alt=""></div>
+                    <div class="carr-item"><img src="/imgs/projects/meganom-1-06.jpg" alt=""></div>
+                    <div class="carr-item"><img src="/imgs/projects/meganom-1-07.jpg" alt=""></div>
+                    <div class="carr-item"><img src="/imgs/projects/meganom-1-08.jpg" alt=""></div>
+                    <div class="carr-item"><img src="/imgs/projects/meganom-1-09.jpg" alt=""></div>
+                    <div class="carr-item"><img src="/imgs/projects/meganom-1-10.jpg" alt=""></div>
+                    <div class="carr-item"><img src="/imgs/projects/meganom-1-11.jpg" alt=""></div>
+                    <div class="carr-item"><img src="/imgs/projects/meganom-1-12.jpg" alt=""></div>
+                    <div class="carr-item"><img src="/imgs/projects/meganom-1-13.jpg" alt=""></div>
+                    <div class="carr-item"><img src="/imgs/projects/meganom-1-14.jpg" alt=""></div>
                 </div>
 
                 <img class="btn-arrows btn-arrows-right" src="/imgs/btn_arrow_right.png" />
             </div>
 
-            <div class="carrusel-main-legend">/ дата реализации - апрель 2018 /</div>
-        </section> -->
+            <div class="carrusel-main-legend">/ дата реализации - май 2018 /</div>
+        </section>
 
         <!-- FOOTER -->
         <?php include "../footer.php"; ?>
