@@ -32,8 +32,8 @@
                 <div class="box-skewy"></div>
                 <div class="box-texts">
                     <div class="box-texts-date">
-                        <span class="day">...</span>
-                        <span class="month">август</span>
+                        <span class="day">19</span>
+                        <span class="month">сентября</span>
                     </div>
                     <div class="box-texts-title">
                         СОЗДАНИЕ ЭФФЕКТИВНОГО МАГАЗИНА ФЭШН СЕГМЕНТА:
@@ -160,7 +160,7 @@
                 <li>
                   <span class="title">стоимость</span>
                   <span class="item">
-                    12 500 руб.<br/>
+                    14 500 руб.<br/>
                     <!-- <span class="is-highlighted">Только в октябре:<br/>
                     ПРИ ПОКУПКЕ ТРЕХ ТРЕНИНГОВ - СКИДКА 20%</span> -->
                   </span>

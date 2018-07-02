@@ -32,8 +32,8 @@
                 <div class="box-skewy"></div>
                 <div class="box-texts">
                     <div class="box-texts-date">
-                        <span class="day">...</span>
-                        <span class="month">август</span>
+                        <span class="day">30 - 31</span>
+                        <span class="month">августа</span>
                     </div>
                     <div class="box-texts-title">
                         ВИЗУАЛЬНЫЙ МЕРЧАНДАЙЗИНГ ДЛЯ МАГАЗИНОВ ОБУВИ И АКСЕССУАРОВ
@@ -203,9 +203,7 @@
                 </li>
                 <li><span class="title">Стоимость обучения</span>
                   <span class="item">
-                    19 900 руб.<br/>
-                    <!-- <span class="is-highlighted">Только в октябре:<br/>
-                    ПРИ ПОКУПКЕ ТРЕХ ТРЕНИНГОВ - СКИДКА 20%</span> -->
+                    22 500 руб. / <span class="is-highlighted">19 000 руб - ранние продажи до 25.07</span>
                   </span>
                 </li>
                 <li><span class="title">Стоимость одного дня (теория)</span><span class="item">12 500 руб.</span>

@@ -32,8 +32,8 @@
                 <div class="box-skewy"></div>
                 <div class="box-texts">
                     <div class="box-texts-date">
-                        <span class="day">...</span>
-                        <span class="month">август</span>
+                        <span class="day">27 - 28</span>
+                        <span class="month">августа</span>
                     </div>
                     <div class="box-texts-title">
                         ВИТРИНИСТИКА: СОЗДАНИЕ ЭФФЕКТИВНЫХ ВИТРИН. БОЛЬШОЙ ЭФФЕКТ БЕЗ БОЛЬШИХ РАСХОДОВ.
@@ -199,9 +199,7 @@
                 <li>
                   <span class="title">стоимость</span>
                   <span class="item">
-                    19 000 руб.<br/>
-                    <!-- <span class="is-highlighted">Только в октябре:<br/>
-                    ПРИ ПОКУПКЕ ТРЕХ ТРЕНИНГОВ - СКИДКА 20%</span> -->
+                    22 500 руб. / <span class="is-highlighted">19 000 руб - ранние продажи до 25.07</span>
                   </span>
                 </li>
                 <li><span class="title">место проведения день 1</span><span class="item">Москва, Трубная ул., д 12, бизнес-центр «Миллениум Хаус»</span>
