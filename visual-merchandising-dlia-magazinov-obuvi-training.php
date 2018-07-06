@@ -203,10 +203,10 @@
                 </li>
                 <li><span class="title">Стоимость обучения</span>
                   <span class="item">
-                    22 500 руб. / <span class="is-highlighted">19 000 руб - ранние продажи до 25.07</span>
+                    23 500 руб. / <span class="is-highlighted">19 900 руб - ранние продажи до 25.07</span>
                   </span>
                 </li>
-                <li><span class="title">Стоимость одного дня (теория)</span><span class="item">12 500 руб.</span>
+                <li><span class="title">Стоимость одного дня (теория)</span><span class="item">14 500 руб.</span>
                 </li>
                 <li><span class="title">место проведения</span><span class="item">Москва, Трубная ул., д 12, бизнес-центр «Миллениум Хаус»</span>
                 </li>
