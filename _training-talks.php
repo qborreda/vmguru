@@ -87,6 +87,27 @@
 
   <article class="hex-content clearfix">
     <div class="hex-content-left">
+      <p class="hex-content-name">Mos Shoes
+      <br/>12 сентября 13.00 - 14.00
+      </p>
+      <div class="hex-content-image">
+      <img src="imgs/hex-pill-trainings4.jpg" alt="" />
+      </div>
+    </div>
+    <div class="hex-content-right">
+      <p class="hex-content-name">Mos Shoes
+      <br/>12 сентября 13.00 - 14.00
+      </p>
+      <p class="hex-content-description">
+      <strong>Семинар Анны Баландиной: </strong>
+      <br/>«ПАЗЛ ДЛЯ СБОРКИ ЭФФЕКТИВНОГО МАГАЗИНА; КАК СОЗДАТЬ ЭФФЕКТИВНЫЙ МАГАЗИН ОБУВИ И АКСЕССУАРОВ И ИЗБЕЖАТЬ ОШИБОК С САМОГО НАЧАЛА»
+      </p>
+      <img class="hex-content-logo" src="imgs/logo-mosshoes.png" alt="">
+    </div>
+  </article>
+
+  <article class="hex-content clearfix">
+    <div class="hex-content-left">
       <p class="hex-content-name">CJF – ДЕТСКАЯ МОДА
       <br/>27 сентября 15.20 – 16.20
       </p>
