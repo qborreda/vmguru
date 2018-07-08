@@ -103,11 +103,11 @@
         <!-- <li><span class="month">сентябрь 2015</span><span class="title"><a href="pdfs/visual-merchandasing-podnimaem-prodazi.pdf" target="_blank">«Поднимаем продажи. Как увеличить трафик покупателей и объем продаж в магазине с помощью инструментов ВМ»</a> — <span class="media">Shoes Report</span></span>
         </li> -->
 
-        <li><span class="month">январь 2016</span><span class="title"><a href="pdfs/profashion_ru-analytics-154623.pdf" target="_blank">«КУРС НА ВЫЖИВАНИЕ; Стратегии лидеров на падающем рынке»</a> — <span class="media">profashion</span></span>
-        </li>
+        <!-- <li><span class="month">январь 2016</span><span class="title"><a href="pdfs/profashion_ru-analytics-154623.pdf" target="_blank">«КУРС НА ВЫЖИВАНИЕ; Стратегии лидеров на падающем рынке»</a> — <span class="media">profashion</span></span>
+        </li> -->
 
-        <li><span class="month">декабрь 2015</span><span class="title"><a href="/pdfs/onko_v_prodazi_balandina.pdf" target="_blank">«ОКНО В ПРОДАЖИ»</a> — <span class="media">profashion</span></span>
-        </li>
+        <!-- <li><span class="month">декабрь 2015</span><span class="title"><a href="/pdfs/onko_v_prodazi_balandina.pdf" target="_blank">«ОКНО В ПРОДАЖИ»</a> — <span class="media">profashion</span></span>
+        </li> -->
 
         <!-- <li><span class="month">май 2016</span><span class="title"><a href="pdfs/anna-balandina-vizualnyi-merchandai-zing-mozhno-postich-tolko-na-praktike.pdf" target="_blank">«Визуальный мерчандайзинг возможно постичь только на практике!»</a> — <span class="media">портал FashionUnited</span></span>
         </li> -->
@@ -150,8 +150,6 @@
       </div>
       <ul class="publication-article-list">
 
-
-
         <li><span class="month">октябрь 2017</span><span class="title"><a href="pdfs/rules_of_christmas_merchandising_Balandina-ShoesReport.pdf" target="_blank">Сказочный мерчандайзинг. О правилах выкладки товара в период праздников.</a> — <span class="media">Shoes Report</span></span>
         </li>
 
@@ -170,8 +168,8 @@
         <li><span class="month">март 2016</span><span class="title"><a href="pdfs/Standarti-visual-merchandasing-balandina03.16.pdf" target="_blank">«Визуальная стандартизация.Что такое стандарты ВМ и как их создать?»</a> — <span class="media">Shoes Report</span></span>
         </li>
 
-        <li><span class="month">октябрь 2016</span><span class="title"><a href="pdfs/velikolepnaia-piaterka-piat-interierov-obuvnix-brendov.pdf" target="_blank">«Великолепная пятерка; интересные дизайны обувной розницы»</a> — <span class="media">Shoes Report</span></span>
-        </li>
+        <!-- <li><span class="month">октябрь 2016</span><span class="title"><a href="pdfs/velikolepnaia-piaterka-piat-interierov-obuvnix-brendov.pdf" target="_blank">«Великолепная пятерка; интересные дизайны обувной розницы»</a> — <span class="media">Shoes Report</span></span>
+        </li> -->
 
         <li><span class="month">август 2016</span><span class="title"><a href="pdfs/Emotsionalnii-effect-torgovii-consept-obuvnogo-brenda.pdf" target="_blank">«Эмоциональный эффект; каким должен быть эффективный торговый концепт обувного бренда»</a> — <span class="media">Shoes Report</span></span>
         </li>
