@@ -85,6 +85,12 @@
         </div>
       </div>
       <ul class="publication-article-list">
+        <li><span class="month">июнь 2018</span><span class="title"><a href="https://fashionunited.ru/novostee/beeznyes/moda-i-sport-osobennosti-sportivnogo-vizualnogo-merchandajzinga/2018061822186" target="_blank">Мода и спорт: особенности спортивного ВМ</a> — <span class="media">FASHIONUNITED</span></span>
+        </li>
+
+        <li><span class="month">май 2018</span><span class="title"><a href="https://fashionunited.ru/novostee/moda/fashion-zavtrak-uvelichivaem-prodazhi-v-magazine-instrumentami-vizualnogo-merchandajzinga/2018050421716" target="_blank">Fashion-завтрак: как увеличить продажи.</a> — <span class="media">FASHIONUNITED</span></span>
+        </li>
+
         <li><span class="month">август 2017</span><span class="title"><a href="pdfs/pazl_effective_shop_Balandina_Profashion.pdf" target="_blank">Пазл для сборки эффективного магазина одежды</a> — <span class="media">profashion</span></span>
         </li>
 
@@ -149,6 +155,12 @@
         </div>
       </div>
       <ul class="publication-article-list">
+
+        <li><span class="month">апрель 2018</span><span class="title"><a href="pdfs/zatiagivausie_texnologii_visual_merchandasing_Balandina-ShoesReport.pdf" target="_blank">Затягивающие технологии ВМ.</a> — <span class="media">Shoes Report</span></span>
+        </li>
+
+        <li><span class="month">март 2018</span><span class="title"><a href="pdfs/secreti_obuchenia_visualnii_merchandasing_Balandina_ShoesReport.pdf" target="_blank">Учеба на практике: секреты эффективного обучения ВМ</a> — <span class="media">Shoes Report</span></span>
+        </li>
 
         <li><span class="month">октябрь 2017</span><span class="title"><a href="pdfs/rules_of_christmas_merchandising_Balandina-ShoesReport.pdf" target="_blank">Сказочный мерчандайзинг. О правилах выкладки товара в период праздников.</a> — <span class="media">Shoes Report</span></span>
         </li>
