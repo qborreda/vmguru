@@ -32,8 +32,8 @@
                 <div class="box-skewy"></div>
                 <div class="box-texts">
                     <div class="box-texts-date">
-                        <span class="day">27 - 28</span>
-                        <span class="month">августа</span>
+                        <span class="day">20 - 21</span>
+                        <span class="month">сентября</span>
                     </div>
                     <div class="box-texts-title">
                         ВИТРИНИСТИКА: СОЗДАНИЕ ЭФФЕКТИВНЫХ ВИТРИН. БОЛЬШОЙ ЭФФЕКТ БЕЗ БОЛЬШИХ РАСХОДОВ.
@@ -199,7 +199,7 @@
                 <li>
                   <span class="title">стоимость</span>
                   <span class="item">
-                    22 500 руб. / <span class="is-highlighted">19 000 руб - ранние продажи до 25.07</span>
+                    22 500 руб. / <span class="is-highlighted">19 000 руб - ранние продажи до 25.08</span>
                   </span>
                 </li>
                 <li><span class="title">место проведения день 1</span><span class="item">Москва, Трубная ул., д 12, бизнес-центр «Миллениум Хаус»</span>
