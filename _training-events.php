@@ -45,7 +45,7 @@
         <div class="article-stripe">
             <div class="article-dates">
                 <span class="month">сентября</span>
-                <span class="date">20 - 218</span>
+                <span class="date">20 - 21</span>
             </div>
             <p>Витринистика: создание эффективных витрин. Большой эффект без больших расходов.</p>
         </div>
