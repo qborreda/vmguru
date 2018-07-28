@@ -32,11 +32,23 @@
               <div class="hero_subtitle">Агентство по визуальному мерчандайзингу
                 <br />и дизайну магазинов</div>
               <p class="hero_text">Ваш проводник к успеху</p>
-              <div class="hero_arrow js-trigger-toggle">Some arrow svg</div>
+              <div class="hero_arrow js-trigger-toggle js-dont-hide" data-target=".hero_expanded">
+                <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30px" viewBox="0 0 111 32" enable-background="new 0 0 111 32" xml:space="preserve">
+                   <polyline fill="none" stroke="#FFFFFF" stroke-width="3" stroke-miterlimit="10" points="0.729,1.342 52.597,30.157 110.229,1.342"/>
+                </svg>
+              </div>
             </div>
           </div>
           <div class="hero_expanded js-toggle-content">
-              Worked all evening to just have the image retain 16:9 ratio .. :D
+            <div class="wand">
+              <img src="/imgs/ico-home-wand.svg" width="80" />
+            </div>
+            <div class="text">
+                <p>Знаете, в чем секрет успеха фэшн брендов?</p>
+                <p>Почему проходя по торговому центру, один магазин вы не замечаете, а в другой будто манит невидимая рука, и вы уже стоите в примерочной?</p>
+                <p>Это все — чудеса визуального мерчендайзинга, науки презентации товара в торговом зале и на витринах.</p>
+                <p>Любой бренд может стать успешным, привлечь своих покупателей и заметно увеличить выручку. Практика показывает, что грамотный коммерческий ВМ способен увеличить продажи в магазине на 50 - 80%, а то и в несколько раз. Мы научим этому ваш бренд!</p>
+            </div>
           </div>
       </section>
 

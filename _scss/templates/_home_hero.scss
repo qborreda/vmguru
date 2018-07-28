@@ -12,7 +12,6 @@
 .home_hero {
   display: block;
   width: 100%;
-  background-color: #CCC;
 
   .hero_image {
     position: relative;
@@ -46,6 +45,13 @@
       font-size: 20px;
       color: $WHITE;
     }
+    .hero_arrow {
+      display: block;
+      margin-top: 1rem;
+      width: 30px;
+      height: auto;
+      cursor: pointer;
+    }
 
     /* Other aspect ratios to try:
      * 56.25% = 16:9
@@ -63,6 +69,29 @@
     }
   }
   .hero_expanded {
-    display: none;
+    display: block;
+    padding: 50px 200px;
+    width: 100%;
+
+    .wand {
+      display: inline-block;
+      vertical-align: top;
+      width: 80px;
+    }
+    .text {
+      display: inline-block;
+      vertical-align: top;
+      width: auto;
+      max-width: 900px;
+      margin-left: 20px;
+      line-height: 1.5;
+
+      p {
+        margin-bottom: 1.5rem;
+      }
+      p:first-child {
+        font-weight: 900;
+      }
+    }
   }
 }
