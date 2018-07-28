@@ -49,9 +49,10 @@ $(document).ready(function() {
   // Generic Content Toggling
   $(".js-toggle-content").hide();
   $(document).on("click", ".js-trigger-toggle", function(e) {
-    var content = $(this).next(".js-toggle-content");
+    var target = $(this).data('target');
+    var content = (target) ? $(target) : $(this).next(".js-toggle-content");
     $(content[0]).toggle("slow");
-    $(this).hide();
+    $(this).not(".js-dont-hide").hide();
   });
 
   // Link on project hexagons
