@@ -47,11 +47,13 @@ $(document).ready(function() {
   }
 
   // Generic Content Toggling
-  $(".js-toggle-content").hide();
+  // $(".js-toggle-content").hide();
+  $(".js-toggle-content").animate({height: 'hide'}, 0);
   $(document).on("click", ".js-trigger-toggle", function(e) {
     var target = $(this).data('target');
     var content = (target) ? $(target) : $(this).next(".js-toggle-content");
-    $(content[0]).toggle("slow");
+    // $(content[0]).toggle("slow");
+    $(content[0]).animate({height: 'toggle'}, 700);
     $(this).not(".js-dont-hide").hide();
   });
 
