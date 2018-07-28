@@ -1,0 +1,68 @@
+.home_wrapper {
+  display: block;
+  margin: 0 auto;
+  width: 100%;
+  padding-top: 150px;
+
+  @include mq($from: tablet) {
+    padding-top: 230px;
+  }
+}
+
+.home_hero {
+  display: block;
+  width: 100%;
+  background-color: #CCC;
+
+  .hero_image {
+    position: relative;
+    width: 100%;
+    hight: auto;
+    background-color: red;
+
+    .hero_contents {
+      position: absolute;
+      top: 50%;
+      left: 100px;
+      bottom: 0;
+      right: 0;
+    }
+
+    .hero_title,
+    .hero_subtitle,
+    .home_text {
+      display: block;
+      line-height: 1;
+      font-family: $BASE-FONT;
+      font-weight: 600;
+      font-size: 35px;
+      color: $DETAIL-CYAN;
+    }
+    .hero_subtitle {
+      color: $WHITE;
+    }
+    .hero_text {
+      margin-top: 50px;
+      font-size: 20px;
+      color: $WHITE;
+    }
+
+    /* Other aspect ratios to try:
+     * 56.25% = 16:9
+     * 75% = 4:3
+     * 66.66% = 3:2
+     * 62.5% = 8:5
+     */
+    &:after {
+      display:block;
+      content:"";
+      padding-top: 56.25%;
+      /* background: url(http://localhost/imgs/bkgr_home_hero_default.jpg) no-repeat center; */
+      background: url('http://localhost/imgs/hero-image4.jpg') no-repeat center;
+      background-size: cover;
+    }
+  }
+  .hero_expanded {
+    display: none;
+  }
+}

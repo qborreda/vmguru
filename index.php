@@ -23,127 +23,31 @@
     <!-- MAIN HEADER -->
     <?php include "header.php"; ?>
 
-    <!-- WRAPPER -->
-    <div class="wrapper">
-        <section class="home-section1">
-            <div class="home-section1-image"></div>
-            <div class="home-section1-arrow"></div>
-            <div class="home-section1-footer">
-                <div class="home-section1-footer-text">
-                    <span>ВИЗУАЛЬНЫЙ МЕРЧАНДАЙЗИНГ
-                    <br/>способен увеличить
-                    <br/>продажи до 80%</span>
-                </div>
+    <section class="home_wrapper">
+
+      <section class="home_hero">
+          <div class="hero_image">
+            <div class="hero_contents">
+              <div class="hero_title">VM GURU</div>
+              <div class="hero_subtitle">Агентство по визуальному мерчандайзингу
+                <br />и дизайну магазинов</div>
+              <p class="hero_text">Ваш проводник к успеху</p>
+              <div class="hero_arrow js-trigger-toggle">Some arrow svg</div>
             </div>
-        </section>
-        <section class="home-section2">
-            <div class="home-section2-texts">
-                <div class="left">
-                    А вы знаете почему иногда, проходя по торговому центру с неизвестными для вас брендами, один магазин вы не замечаете, а в другой будто тянет невидимая рука? И вы уже хотите все потрогать и примерить!
-                </div>
-                <div class="wand-detail">
-                    <img src="imgs/ico-detail-wand-cyan.png" alt="">
-                </div>
-                <div class="right">
-                    Это все — чудеса визуального мерчендайзинга, науки презентации товара в торговом зале и на витринах. Мы готовы доказать вам, что грамотный коммерческий ВМ способен увеличить продажи в магазине до 80%!
-                </div>
-            </div>
-            <div class="crossed-box">
-                этому можно научиться раз и навсегда
-            </div>
-        </section>
-        <div class="stripped-title">
-            <span></span>
-            <p>БЛИЖАЙШИЕ ТРЕНИНГИ</p>
-        </div>
-        <section class="home-section3">
-        <?php include "_training-events.php"; ?>
-        </section>
+          </div>
+          <div class="hero_expanded js-toggle-content">
+              Worked all evening to just have the image retain 16:9 ratio .. :D
+          </div>
+      </section>
 
-<!--         <div class="stripped-title">
-            <span></span>
-            <p>ПРОЕКТЫ</p>
-        </div>
-        <section class="home-section4">
-        </section> -->
+      <section class="home-section3">
+          <?php include "_training-events.php"; ?>
+      </section>
 
-        <!-- <section class="home-section4">
-            <div class="crossed-box">
-                страница в разработке
-            </div>
-        </section> -->
+      <!-- FOOTER -->
+      <?php include "footer.php"; ?>
 
-        <div class="stripped-title">
-            <span></span>
-            <p class="title">СЕМИНАРЫ И МАСТЕР-КЛАССЫ</p>
-            <p class="subtitle">на выставках, форумах и конференциях</p>
-        </div>
-        <?php include "_training-talks.php"; ?>
-
-        <!-- <div class="stripped-title">
-            <span></span>
-            <p>РАССЫЛКА VM GURU</p>
-        </div> -->
-
-        <!-- <section class="home-newsletter">
-
-            <form method="POST" action="https://cp.unisender.com/en/subscribe?hash=6uwxffjitwihhyppuem87rp4rjzia9ju5bdk4y5637zj81ui4ooby" name="subscribtion_form">
-                <div class="subscribe-form-item subscribe-form-item--input-email">
-                    <input class="subscribe-form-item__control subscribe-form-item__control--input-email" type="text" name="email" value="" placeholder="EMAIL">
-                </div>
-                <div class="subscribe-form-item subscribe-form-item--btn-submit">
-                    <input class="subscribe-form-item__btn subscribe-form-item__btn--btn-submit form-submit" type="submit" value="Подписаться">
-                    <button class="form-submit" type="submit" value="Подписаться">Подписаться</button>
-                </div>
-                <input type="hidden" name="charset" value="UTF-8">
-                <input type="hidden" name="default_list_id" value="8929775">
-                <input type="hidden" name="overwrite" value="2">
-                <input type="hidden" name="is_v5" value="1">
-            </form>
-
-        </section> -->
-
-        <!-- CAROUSEL -->
-        <div class="footer-carrusel">
-          <h2 style="margin:30px auto 20px;">ПАРТНЕРЫ:</h2>
-            <div class="js-carrusel-footer">
-                <div class="carr-item">
-                    <img src="/imgs/logo-mosshoes.png" alt="">
-                </div>
-                <div class="carr-item">
-                    <img src="/imgs/logo-mospel.png" alt="">
-                </div>
-                <div class="carr-item">
-                  <img src="/imgs/logo-fashionunited.jpg" alt="">
-                </div>
-                <div class="carr-item">
-                  <img src="/imgs/logo-newretail.jpg" alt="">
-                </div>
-                <div class="carr-item">
-                  <img src="/imgs/logo-euroshoes.jpg" alt="">
-                </div>
-                <div class="carr-item">
-                  <img src="/imgs/logo-lingerie-show.png" alt="">
-                </div>
-                <div class="carr-item">
-                  <img src="/imgs/logo-shoes-n-leather.png" alt="">
-                </div>
-                <div class="carr-item">
-                  <img src="/imgs/logo-cjf.png" alt="">
-                </div>
-                <div class="carr-item">
-                  <img src="/imgs/logo-kidsfair.jpg" alt="">
-                </div>
-                <div class="carr-item">
-                  <img src="/imgs/logo-fashionindustry.jpg" alt="">
-                </div>
-            </div>
-        </div>
-
-        <!-- FOOTER -->
-        <?php include "footer.php"; ?>
-
-    </div>
+    </section>
 </body>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js" type="text/javascript" charset="utf-8"></script>
 <script type="text/javascript" src="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.min.js"></script>

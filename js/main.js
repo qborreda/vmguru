@@ -9,6 +9,9 @@ $(document).ready(function() {
     }
   }
 
+  // Mobile menu by cloning
+  var isMobile = isMobile();
+
   function floatedHeader() {
     // Header slide hiding
     var headerDistanceTrigger = 60,
@@ -20,9 +23,6 @@ $(document).ready(function() {
       ? header.addClass("floated")
       : header.removeClass("floated");
   }
-
-  // Mobile menu by cloning
-  var isMobile = isMobile();
 
   if (isMobile) {
     var $mainMenu = $(".main-nav");
