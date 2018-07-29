@@ -4,25 +4,31 @@
         <li class="main-nav-item"><a class="main-nav-item__link" href="/about-us.php">о нас</a></li>
         <li class="main-nav-item"><a class="main-nav-item__link" href="/consulting.php">услуги</a></li>
         <li class="main-nav-item"><a class="main-nav-item__link" href="/training.php">обучение</a></li>
-
-        <li class="main-nav-item logo"><a class="main-nav-item__link no-border" href="/index.php"><img src="/imgs/vmguru_logo_hex.png" alt="VM Guru" /></a></li>
-
+        <li class="main-nav-item"></li>
         <li class="main-nav-item"><a class="main-nav-item__link" href="/projects.php">проекты</a></li>
         <li class="main-nav-item"><a class="main-nav-item__link" href="/publications.php">публикации</a></li>
         <li class="main-nav-item"><a class="main-nav-item__link" href="/contact.php">контакты</a></li>
     </ul>
+    <div class="logo">
+      <a class="no-border" href="/index.php">
+        <img src="/imgs/vmguru_logo_hex.png" alt="VM Guru" />
+      </a>
+    </div>
     <div class="secondary">
-        <ul class="sub-tags">
-            <li>визуальный мерчандайзинг</li>
-            <li><img src="/imgs/ico-hex-nav.png" alt=""></li>
-            <li>дизайн магазинов</li>
-            <li><img src="/imgs/ico-hex-nav.png" alt=""></li>
-            <li>вм-обучение</li>
-        </ul>
+        <div class="phone-number">+7 495 741-17-84</div>
         <div class="social-links">
-            <a href="https://www.instagram.com/anna_balandina_vmguru/" target="_blank"><span class="social-icon instagram"></span></a>
-            <a href="https://www.facebook.com/VMGURU.Russia/" target="_blank"><span class="social-icon facebook"></span></a>
-            <a href="https://www.youtube.com/channel/UC3wAc98I2O_bcAK8OD3koQQ/featured" target="_blank"><span class="social-icon youtube"></span></a>
+            <a class="no-border" href="https://www.instagram.com/anna_balandina_vmguru/" target="_blank">
+                <img src="/imgs/ico-instagram.svg" width="30"/>
+            </a>
+            <a class="no-border" href="https://www.facebook.com/VMGURU.Russia/" target="_blank">
+                <img src="/imgs/ico-facebook.svg" width="30"/>
+            </a>
+            <a class="no-border" href="https://www.youtube.com/channel/UC3wAc98I2O_bcAK8OD3koQQ/featured" target="_blank">
+                <img src="/imgs/ico-youtube.svg" width="30"/>
+            </a>
+        </div>
+        <div class="contact-button">
+          связаться с нами ›
         </div>
     </div>
     <div class="mobile-menu is-open js-hamburger">
