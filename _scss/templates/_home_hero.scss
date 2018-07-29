@@ -28,8 +28,11 @@
       line-height: 1;
       font-family: $BASE-FONT;
       font-weight: 600;
-      font-size: 35px;
+      font-size: 38px;
       color: $DETAIL-CYAN;
+    }
+    .hero_title {
+      font-weight: 900;
     }
     .hero_subtitle {
       color: $WHITE;
@@ -56,7 +59,7 @@
     &:after {
       display:block;
       content:"";
-      padding-top: 56.25%;
+      padding-top: 45%;
       background: transparent url('../imgs/hero_image.jpg') no-repeat center;
       background-size: cover;
     }
@@ -71,6 +74,8 @@
       float: left;
       display: inline-block;
       vertical-align: top;
+      margin-right: 50px;
+      margin-bottom: 50px;
       width: 80px;
     }
     .text {
@@ -79,7 +84,7 @@
       vertical-align: top;
       width: auto;
       max-width: 900px;
-      margin-left: 20px;
+      font-size: 18px;
       line-height: 1.5;
 
       p {
