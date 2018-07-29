@@ -52,7 +52,22 @@
           </div>
       </section>
 
-      <section class="home-section3">
+      <!-- CONSULTING -->
+
+      <section class="home-section">
+
+        <div class="home-consulting-title">Наши услуги</div>
+        <div class="home-consulting-text">
+          <p>Мы проанализируем ваш бизнес и создадим эффективную систему ВМ бренда, уникальный дизайн магазина и фирменный стиль, опираясь на вкусы вашей целевой аудитории, ваш ассортимент и конкурентное окружение бренда.</p>
+          <p>Мы создаем «магазины под ключ» и гарантируем максимальную коммерческую привлекательность своим проектам!</p>
+        </div>
+
+          <?php include "_consulting-elements.php"; ?>
+      </section>
+
+
+
+      <section class="home-section">
           <?php include "_training-events.php"; ?>
       </section>
 
