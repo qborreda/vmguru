@@ -17,7 +17,6 @@
     position: relative;
     width: 100%;
     hight: auto;
-    background-color: red;
 
     .hero_contents {
       position: absolute;
@@ -63,8 +62,7 @@
       display:block;
       content:"";
       padding-top: 56.25%;
-      /* background: url(http://localhost/imgs/bkgr_home_hero_default.jpg) no-repeat center; */
-      background: url('http://localhost/imgs/hero-image4.jpg') no-repeat center;
+      background: transparent url('../imgs/hero_image.jpg') no-repeat center;
       background-size: cover;
     }
   }
@@ -72,13 +70,16 @@
     display: block;
     padding: 50px 200px;
     width: 100%;
+    @include clearfix();
 
     .wand {
+      float: left;
       display: inline-block;
       vertical-align: top;
       width: 80px;
     }
     .text {
+      float: left;
       display: inline-block;
       vertical-align: top;
       width: auto;
