@@ -11,40 +11,40 @@ $(document).ready(function() {
 
   // Mobile menu by cloning
   var isMobile = isMobile();
-
-  function floatedHeader() {
-    // Header slide hiding
-    var headerDistanceTrigger = 60,
-      distanceY = $(window).scrollTop(),
-      shrinkOn = headerDistanceTrigger,
-      header = $(".main-header");
-
-    distanceY > shrinkOn
-      ? header.addClass("floated")
-      : header.removeClass("floated");
-  }
-
-  if (isMobile) {
-    var $mainMenu = $(".main-nav");
-    var $mobileHeader = $(".mobile-header");
-    var $newMenu = $(".main-nav").clone();
-    var $newLogo = $(".main-nav .logo").clone();
-    var $menuIcon = $(".js-hamburger").show();
-
-    $newMenu.find(".logo").remove();
-    $newMenu.prepend($newLogo);
-    $mainMenu.find(".main-nav-item").not(".logo").hide();
-
-    $mobileHeader.empty().append($newMenu);
-
-    $(".js-hamburger").on("click", function() {
-      $(this).toggleClass("is-active");
-      $mobileHeader.toggleClass("is-open");
-    });
-  } else {
-    $(window).on("scroll", floatedHeader);
-    floatedHeader();
-  }
+  // 
+  // function floatedHeader() {
+  //   // Header slide hiding
+  //   var headerDistanceTrigger = 60,
+  //     distanceY = $(window).scrollTop(),
+  //     shrinkOn = headerDistanceTrigger,
+  //     header = $(".main-header");
+  //
+  //   distanceY > shrinkOn
+  //     ? header.addClass("floated")
+  //     : header.removeClass("floated");
+  // }
+  //
+  // if (isMobile) {
+  //   var $mainMenu = $(".main-nav");
+  //   var $mobileHeader = $(".mobile-header");
+  //   var $newMenu = $(".main-nav").clone();
+  //   var $newLogo = $(".main-nav .logo").clone();
+  //   var $menuIcon = $(".js-hamburger").show();
+  //
+  //   $newMenu.find(".logo").remove();
+  //   $newMenu.prepend($newLogo);
+  //   $mainMenu.find(".main-nav-item").not(".logo").hide();
+  //
+  //   $mobileHeader.empty().append($newMenu);
+  //
+  //   $(".js-hamburger").on("click", function() {
+  //     $(this).toggleClass("is-active");
+  //     $mobileHeader.toggleClass("is-open");
+  //   });
+  // } else {
+  //   $(window).on("scroll", floatedHeader);
+  //   floatedHeader();
+  // }
 
   // Generic Content Toggling
   // $(".js-toggle-content").hide();
@@ -52,7 +52,6 @@ $(document).ready(function() {
   $(document).on("click", ".js-trigger-toggle", function(e) {
     var target = $(this).data('target');
     var content = (target) ? $(target) : $(this).next(".js-toggle-content");
-    // $(content[0]).toggle("slow");
     $(content[0]).animate({height: 'toggle'}, 700);
     $(this).not(".js-dont-hide").hide();
   });
