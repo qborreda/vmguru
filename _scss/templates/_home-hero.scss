@@ -72,11 +72,11 @@
   .hero_expanded {
     display: block;
     padding: 50px 200px;
+    text-align: center;
     width: 100%;
     @include clearfix();
 
     .wand {
-      float: left;
       display: inline-block;
       vertical-align: top;
       margin-right: 50px;
@@ -84,13 +84,13 @@
       width: 80px;
     }
     .text {
-      float: left;
       display: inline-block;
       vertical-align: top;
       width: auto;
       max-width: 900px;
       font-size: 18px;
       line-height: 1.5;
+      text-align: left;
 
       p {
         margin-bottom: 1.5rem;
