@@ -11,19 +11,7 @@ $(document).ready(function() {
 
   // Mobile menu by cloning
   var isMobile = isMobile();
-  //
-  // function floatedHeader() {
-  //   // Header slide hiding
-  //   var headerDistanceTrigger = 60,
-  //     distanceY = $(window).scrollTop(),
-  //     shrinkOn = headerDistanceTrigger,
-  //     header = $(".main-header");
-  //
-  //   distanceY > shrinkOn
-  //     ? header.addClass("floated")
-  //     : header.removeClass("floated");
-  // }
-  //
+
   if (isMobile) {
     var $mainMenu = $(".main-nav");
     var $mobileHeader = $(".mobile-header");
@@ -34,20 +22,16 @@ $(document).ready(function() {
     $newMenu.find(".logo").remove();
     $newMenu.prepend($newLogo);
     $mainMenu.find(".main-nav-item").not(".logo").hide();
-  
+
     $mobileHeader.empty().append($newMenu);
 
     $(".js-hamburger").on("click", function() {
       $(this).toggleClass("is-active");
       $mobileHeader.toggleClass("is-open");
     });
-  // } else {
-  //   $(window).on("scroll", floatedHeader);
-  //   floatedHeader();
   }
 
   // Generic Content Toggling
-  // $(".js-toggle-content").hide();
   $(".js-toggle-content").animate({height: 'hide'}, 0);
   $(document).on("click", ".js-trigger-toggle", function(e) {
     var target = $(this).data('target');
