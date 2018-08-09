@@ -62,12 +62,12 @@
           <p>Мы создаем «магазины под ключ» и гарантируем максимальную коммерческую привлекательность своим проектам!</p>
         </div>
 
-          <?php include "_consulting-elements.php"; ?>
+        <?php include "_consulting-elements.php"; ?>
       </section>
 
-
-
       <section class="home-section">
+          <div class="home-consulting-title">Some title here</div>
+
           <?php include "_training-events.php"; ?>
       </section>
 

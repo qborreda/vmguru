@@ -3,7 +3,7 @@
 <div class="consulting-items">
     <!-- 1 -->
     <article class="container">
-        <a class="no-border" href="/visual-merchandising-dlia-magazinov-obuvi-training.php">
+        <a class="no-border" href="/consulting.php">
         <img src="imgs/bkgr_skew_consulting1.jpg">
 
         <div class="dark-stripe">
@@ -20,7 +20,7 @@
     </article>
     <!-- 2 -->
     <article class="container">
-        <a class="no-border" href="/kommercheskii-visual-merchandising-training.php">
+        <a class="no-border" href="/consulting.php">
         <img src="imgs/bkgr_skew_consulting2.jpg">
 
         <div class="dark-stripe">
@@ -37,7 +37,7 @@
     </article>
     <!-- 3 -->
     <article class="container">
-        <a class="no-border" href="/sozdanie-magazine-fashion-segments-training.php">
+        <a class="no-border" href="/consulting.php">
         <img src="imgs/bkgr_skew_consulting3.jpg">
         <div class="dark-stripe">
           <div class="title">Практические<br />ВМ услуги</div>
@@ -54,7 +54,7 @@
     </article>
     <!-- 4 -->
     <article class="container">
-        <a class="no-border" href="/vitrinistika-texniki-sozdania-kommercheskix-vitrin.php">
+        <a class="no-border" href="/consulting.php">
         <img src="imgs/bkgr_skew_consulting4.jpg">
         <div class="dark-stripe">
           <div class="title">Обучение ВМ <br />и витринистике</div>

@@ -52,6 +52,14 @@
       font-size: 36px;
       line-height: 1.2;
       font-weight: 700;
+
+      @include mq($from: tablet) {
+        font-size: 26px;
+      }
+
+      @include mq($from: desktop) {
+        font-size: 36px;
+      }
     }
     .bullet-list {
       padding: 0 0 0 18px;
@@ -76,17 +84,21 @@
     }
 
     .cta-button {
-      display: inline-block;
+      display: none;
       position: absolute;
-      bottom: 100px;
+      top: calc(30% + 270px + 50px);
       left: 0;
       padding: 0 16px;
-      margin: 2rem 0 0 25px;
+      margin: 0 0 0 25px;
       border-radius: 15px;
       font-size: 14px;
       font-weight: 400;
       color: $BLACK;
       background-color: $DETAIL-CYAN;
+
+      @include mq($from: tablet) {
+        display: inline-block;
+      }
 
       &:hover {
         color: $WHITE;
