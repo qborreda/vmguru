@@ -68,6 +68,22 @@
           <?php include "_training-events.php"; ?>
       </section>
 
+      <!-- SEMINARS -->
+      <section class="home-section">
+        <div class="section-title">Семинары и мастер-классы</div>
+        <?php include "_seminars-masters.php"; ?>
+      </section>
+
+      <!-- MARKETING -->
+      <section class="home-section">
+        <div class="section-title">Почему именно VM GURU?</div>
+      </section>
+
+      <!-- CLIENTS -->
+      <section class="home-section">
+        <div class="section-title">Нам доверяют</div>
+      </section>
+
       <!-- FOOTER -->
       <?php include "footer.php"; ?>
 

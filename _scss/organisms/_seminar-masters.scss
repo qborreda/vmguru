@@ -1,0 +1,51 @@
+.seminar-list {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: flex-start;
+  align-content: center;
+  flex: 1 0 20%;
+  flex-wrap: wrap;
+  width: 100%;
+
+  .seminar-item {
+    width: 50%;
+    max-width: 350px;
+    padding: 5px;
+    margin-bottom: 10px;
+    font-size: 16px;
+    line-height: 1;
+    font-weight: 600;
+
+    @include mq($from: tablet) {
+      width: 25%;
+      padding: 10px;
+    }
+
+    .logo {
+      width: 65%;
+      max-width: 340px;
+      margin-bottom: 1.5rem;
+
+      @include mq($from: tablet) {
+        width: 70%;
+      }
+      @include mq($from: desktop) {
+        width: 80%;
+      }
+    }
+
+    .title {
+      font-weight: 900;
+    }
+    .subtitle {
+      color: $DETAIL-ORANGE;
+    }
+    .speaker {
+      margin: 1.5rem 0;
+    }
+    .description {
+      font-weight: 400;
+    }
+  }
+}
