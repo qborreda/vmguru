@@ -2,7 +2,7 @@
   display: block;
   position: relative;
   max-width: 1300px;
-  margin: 0 auto;
+  margin: 0 auto 20px;
   color: $BLACK;
   text-align:center;
   font-size: 30px;
@@ -20,11 +20,16 @@
   }
 
   @include mq($from: tablet) {
-    margin: 0 auto 50px;
+    margin: 0 auto 40px;
     font-size: 36px;
   }
 
   @include mq($from: desktop) {
-    font-size: 42px;
+    margin: 0 auto 50px;
+    font-size: 46px;
+  }
+
+  @include mq($from: wide) {
+    font-size: 50px;
   }
 }
