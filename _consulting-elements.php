@@ -1,6 +1,5 @@
 <!-- CONSULTING ELEMENTS -->
-<!-- TODO: Name the different sections better -->
-<div class="consulting-items">
+<div class="skewed-items">
     <!-- 1 -->
     <article class="container">
         <a class="no-border" href="/consulting.php">

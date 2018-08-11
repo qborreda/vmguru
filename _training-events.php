@@ -1,7 +1,7 @@
 <!-- TRAINING EVENTS -->
-<div class="training-items">
+<div class="skewed-items">
     <!-- SHOES -->
-    <article class="event-article">
+    <article class="container">
         <a class="no-border" href="/visual-merchandising-dlia-magazinov-obuvi-training.php">
         <img src="imgs/bkgr_event3.jpg">
         <div class="article-stripe">
@@ -15,7 +15,7 @@
         </a>
     </article>
     <!-- VM -->
-    <article class="event-article">
+    <article class="container">
         <a class="no-border" href="/kommercheskii-visual-merchandising-training.php">
         <img src="imgs/bkgr_event2.jpg">
         <div class="article-stripe">
@@ -29,7 +29,7 @@
     </a>
     </article>
     <!-- SHOPS -->
-    <article class="event-article">
+    <article class="container">
         <a class="no-border" href="/sozdanie-magazine-fashion-segments-training.php">
         <img src="imgs/bkgr_event1.jpg">
         <div class="article-stripe">
@@ -43,7 +43,7 @@
         </a>
     </article>
     <!-- WINDOWS -->
-    <article class="event-article">
+    <article class="container">
         <a class="no-border" href="/vitrinistika-texniki-sozdania-kommercheskix-vitrin.php">
         <img src="imgs/bkgr_event4.jpg">
         <div class="article-stripe">
