@@ -56,6 +56,11 @@ body {
 
     @include mq($from: tablet) {
       margin: 0 auto 50px;
+      font-size: 20px;
+    }
+
+    @include mq($from: desktop) {
+      font-size: 24px;
     }
   }
 }

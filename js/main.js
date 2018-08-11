@@ -13,17 +13,20 @@ $(document).ready(function() {
   var isMobile = isMobile();
 
   if (isMobile) {
+    var $mainHeader = $(".main-header");
     var $mainMenu = $(".main-nav");
     var $mobileHeader = $(".mobile-header");
     var $newMenu = $(".main-nav").clone();
-    var $newLogo = $(".main-nav .logo").clone();
     var $menuIcon = $(".js-hamburger").show();
+    var $newLogo = $(".main-header .logo").clone();
+    var $secondary = $(".main-header .secondary");
 
-    $newMenu.find(".logo").remove();
-    $newMenu.prepend($newLogo);
+    $secondary.hide();
+    $mainHeader.find(".logo").remove();
     $mainMenu.find(".main-nav-item").not(".logo").hide();
-
+    $newMenu.prepend($newLogo);
     $mobileHeader.empty().append($newMenu);
+
 
     $(".js-hamburger").on("click", function() {
       $(this).toggleClass("is-active");
