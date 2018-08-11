@@ -95,7 +95,7 @@
         top: 42%;
       }
 
-      p {
+      .description {
         @include flex_align-self(flex-start);
         color: $WHITE;
         text-align: left;
