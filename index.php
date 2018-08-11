@@ -83,6 +83,7 @@
       <!-- CLIENTS -->
       <section class="home-section">
         <div class="section-title">Нам доверяют</div>
+        <?php include "_client-grid.php"; ?>
       </section>
 
       <!-- FOOTER -->
