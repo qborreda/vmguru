@@ -1,0 +1,30 @@
+.section-title {
+  display: block;
+  position: relative;
+  max-width: 1300px;
+  margin: 0 auto;
+  color: $BLACK;
+  text-align:center;
+  font-size: 30px;
+  font-weight: 600;
+
+  &:before {
+    content: '';
+    display: block;
+    position: relative;
+    width: 10%;
+    height: 4px;
+    margin: 0 auto 15px;
+    padding: 4px;
+    background-color: $DETAIL-CYAN;
+  }
+
+  @include mq($from: tablet) {
+    margin: 0 auto 50px;
+    font-size: 36px;
+  }
+
+  @include mq($from: desktop) {
+    font-size: 42px;
+  }
+}
