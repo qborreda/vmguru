@@ -77,6 +77,7 @@
       <!-- MARKETING -->
       <section class="home-section">
         <div class="section-title">Почему именно VM GURU?</div>
+        <?php include "_home-marketing.php"; ?>
       </section>
 
       <!-- CLIENTS -->

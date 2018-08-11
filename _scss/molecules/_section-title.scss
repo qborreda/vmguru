@@ -7,6 +7,7 @@
   text-align:center;
   font-size: 30px;
   font-weight: 600;
+  line-height: 1.1;
 
   &:before {
     content: '';
@@ -22,6 +23,7 @@
   @include mq($from: tablet) {
     margin: 0 auto 40px;
     font-size: 36px;
+    line-height: 1.2;
   }
 
   @include mq($from: desktop) {
