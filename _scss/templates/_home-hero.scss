@@ -27,7 +27,7 @@
 
     .hero_contents {
       position: absolute;
-      top: 30%;
+      top: 40%;
       left: 25px;
       bottom: 0;
       right: 0;
@@ -65,10 +65,12 @@
       color: $WHITE;
     }
     .hero_text {
+      display: none;
       margin-top: 50px;
       color: $WHITE;
       font-size: 12px;
       @include mq($from: tablet) {
+        display: block;
         font-size: 14px;
       }
       @include mq($from: desktop) {
@@ -76,11 +78,14 @@
       }
     }
     .hero_arrow {
-      display: block;
+      display: none;
       margin-top: 1rem;
       width: 30px;
       height: auto;
       cursor: pointer;
+      @include mq($from: tablet) {
+        display: block;
+      }
     }
 
     /* Other aspect ratios to try:
