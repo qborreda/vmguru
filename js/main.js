@@ -9,6 +9,18 @@ $(document).ready(function() {
     }
   }
 
+  function floatedHeader() {
+    // Header slide hiding
+    var headerDistanceTrigger = 60,
+      distanceY = $(window).scrollTop(),
+      shrinkOn = headerDistanceTrigger,
+      header = $(".main-header");
+
+    distanceY > shrinkOn
+      ? header.addClass("floated")
+      : header.removeClass("floated");
+  }
+
   // Mobile menu by cloning
   var isMobile = isMobile();
 
@@ -16,22 +28,24 @@ $(document).ready(function() {
     var $mainHeader = $(".main-header");
     var $mainMenu = $(".main-nav");
     var $mobileHeader = $(".mobile-header");
-    var $newMenu = $(".main-nav").clone();
+    var $newMenu = $mainMenu.clone();
     var $menuIcon = $(".js-hamburger").show();
-    var $newLogo = $(".main-header .logo").clone();
+    var $logo = $(".main-header .logo");
+    var $newLogo = $logo.clone();
     var $secondary = $(".main-header .secondary");
 
-    $secondary.hide();
-    $mainHeader.find(".logo").remove();
-    $mainMenu.find(".main-nav-item").not(".logo").hide();
-    $newMenu.prepend($newLogo);
-    $mobileHeader.empty().append($newMenu);
-
+    $secondary.remove();
+    $logo.remove();
+    $mainMenu.find(".main-nav-item").hide();
+    $mobileHeader.empty().prepend($newLogo).append($newMenu);
 
     $(".js-hamburger").on("click", function() {
       $(this).toggleClass("is-active");
       $mobileHeader.toggleClass("is-open");
     });
+  } else {
+    $(window).on("scroll", floatedHeader);
+    floatedHeader();
   }
 
   // Generic Content Toggling
