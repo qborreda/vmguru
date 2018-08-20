@@ -3,7 +3,7 @@
     <!-- 1 -->
     <article class="container">
         <a class="no-border" href="/consulting.php">
-        <img src="imgs/bkgr_skew_consulting1.jpg">
+        <img src="imgs/bkgr_skew_placeholder.jpg" data-src="imgs/bkgr_skew_consulting1.jpg" class="lazy">
 
         <div class="dark-stripe">
           <div class="title">Дизайн<br />магазинов</div>
@@ -20,7 +20,7 @@
     <!-- 2 -->
     <article class="container">
         <a class="no-border" href="/consulting.php">
-        <img src="imgs/bkgr_skew_consulting2.jpg">
+        <img src="imgs/bkgr_skew_placeholder.jpg" data-src="imgs/bkgr_skew_consulting2.jpg" class="lazy">
 
         <div class="dark-stripe">
           <div class="title">Стратегический<br />мерчандайзинг</div>
@@ -37,7 +37,7 @@
     <!-- 3 -->
     <article class="container">
         <a class="no-border" href="/consulting.php">
-        <img src="imgs/bkgr_skew_consulting3.jpg">
+        <img src="imgs/bkgr_skew_placeholder.jpg" data-src="imgs/bkgr_skew_consulting3.jpg" class="lazy">
         <div class="dark-stripe">
           <div class="title">Практические<br />ВМ услуги</div>
           <ul class="bullet-list">
@@ -54,7 +54,7 @@
     <!-- 4 -->
     <article class="container">
         <a class="no-border" href="/consulting.php">
-        <img src="imgs/bkgr_skew_consulting4.jpg">
+        <img src="imgs/bkgr_skew_placeholder.jpg" data-src="imgs/bkgr_skew_consulting4.jpg" class="lazy">
         <div class="dark-stripe">
           <div class="title">Обучение ВМ <br />и витринистике</div>
           <ul class="bullet-list">
