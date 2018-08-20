@@ -41,7 +41,7 @@
           </div>
           <div class="hero_expanded js-toggle-content">
             <div class="wand">
-              <img src="/imgs/ico-home-wand.svg" width="80" />
+              <img src="/imgs/ico-home-wand.svg" width="80" height="80" />
             </div>
             <div class="text">
                 <p>Знаете, в чем секрет успеха фэшн брендов?</p>

@@ -104,22 +104,29 @@
   }
 
   .hero_expanded {
-    display: block;
+    @include display_flex();
+    @include flex_flex-direction(row);
+    @include flex_justify-content(center);
+    @include flex_align-items(space-around);
     margin: 0 auto;
+    width: 90%;
+    max-width: 1300px;
     padding: 50px 0 0;
     text-align: center;
-    width: 100%;
-    @include clearfix();
 
     .wand {
-      display: inline-block;
-      vertical-align: top;
+      @include display_flex();
+      @include flex_flex(0 0 80px);
+      @include flex_align-self(flex-start);
       margin-right: 50px;
       margin-bottom: 50px;
       width: 80px;
     }
     .text {
-      display: inline-block;
+      @include display_flex();
+      @include flex_flex-direction(column);
+      @include flex_align-self(flex-start);
+      @include flex_flex(0 1 auto);
       vertical-align: top;
       width: auto;
       max-width: 900px;
