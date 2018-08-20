@@ -57,6 +57,9 @@
       @include mq($from: desktop) {
         font-size: 38px;
       }
+      @include mq($from: wide) {
+        font-size: 44px;
+      }
     }
     .hero_title {
       font-weight: 900;
@@ -75,6 +78,9 @@
       }
       @include mq($from: desktop) {
         font-size: 20px;
+      }
+      @include mq($from: wide) {
+        font-size: 26px;
       }
     }
     .hero_arrow {
