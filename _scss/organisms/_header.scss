@@ -70,16 +70,26 @@
 
   .logo {
     position: absolute;
-    top: 20px;
+    top: 10px;
     left: 50%;
     transform: translateX(-50%);
     border: none;
 
+    @include mq($from: tablet) {
+      top: 15px;
+    }
+    @include mq($from: desktop) {
+      top: 20px;
+    }
+
     img {
-      width: 90px;
+      width: 80px;
       transition: all 0.3s;
 
       @include mq($from: tablet) {
+        width: 90px;
+      }
+      @include mq($from: desktop) {
         width: 100px;
       }
     }
@@ -210,7 +220,7 @@
     z-index: map-get($Z-LAYERS, floated-menu) + 10;
     transition: left 0.5s;
 
-    @include mq($from: tablet) {
+    @include mq($from: desktop) {
       display: none;
     }
 
@@ -219,12 +229,13 @@
     }
 
     .logo {
-      position: absolute;
-      top:50px;
-      left: 50%;
+      position: relative;
+      top: unset;
+      left: unset;
       margin: 0;
       padding: 0;
-      transform: translateX(-50%);
+      transform: unset;
+      margin-bottom: 10vw;
 
       text-align: center;
       border: none;

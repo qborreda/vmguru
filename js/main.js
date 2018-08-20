@@ -35,7 +35,7 @@ $(document).ready(function() {
     var $secondary = $(".main-header .secondary");
 
     $secondary.remove();
-    $logo.remove();
+    // $logo.remove();
     $mainMenu.find(".main-nav-item").hide();
     $mobileHeader.empty().prepend($newLogo).append($newMenu);
 
