@@ -7,9 +7,16 @@ body {
 
 .wrapper {
   display: block;
-  margin: 0 auto;
+  margin: 100px auto 0;
   max-width: 1300px;
   width: 100%;
+
+  @include mq($from: tablet) {
+    margin: 120px auto 0;
+  }
+  @include mq($from: desktop) {
+    margin: 160px auto 0;
+  }
 }
 
 .home-section {

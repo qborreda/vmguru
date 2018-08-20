@@ -1,7 +1,14 @@
 .home_wrapper {
   display: block;
-  margin: 0 auto;
+  margin: 100px auto 0;
   width: 100%;
+
+  @include mq($from: tablet) {
+    margin: 120px auto 0;
+  }
+  @include mq($from: desktop) {
+    margin: 160px auto 0;
+  }
 }
 
 .home_hero {
@@ -69,6 +76,7 @@
       background-size: cover;
     }
   }
+
   .hero_expanded {
     display: block;
     margin: 0 auto;
