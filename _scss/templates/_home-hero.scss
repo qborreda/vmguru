@@ -27,10 +27,18 @@
 
     .hero_contents {
       position: absolute;
-      top: 50%;
-      left: 100px;
+      top: 30%;
+      left: 25px;
       bottom: 0;
       right: 0;
+      @include mq($from: tablet) {
+        top: 40%;
+        left: 50px;
+      }
+      @include mq($from: desktop) {
+        top: 50%;
+        left: 100px;
+      }
     }
 
     .hero_title,
@@ -39,9 +47,16 @@
       display: block;
       line-height: 1;
       font-family: $BASE-FONT;
-      font-weight: 600;
-      font-size: 38px;
+      font-weight: 400;
+      font-size: 20px;
       color: $DETAIL-CYAN;
+      @include mq($from: tablet) {
+        font-weight: 600;
+        font-size: 30px;
+      }
+      @include mq($from: desktop) {
+        font-size: 38px;
+      }
     }
     .hero_title {
       font-weight: 900;
@@ -51,8 +66,14 @@
     }
     .hero_text {
       margin-top: 50px;
-      font-size: 20px;
       color: $WHITE;
+      font-size: 12px;
+      @include mq($from: tablet) {
+        font-size: 14px;
+      }
+      @include mq($from: desktop) {
+        font-size: 20px;
+      }
     }
     .hero_arrow {
       display: block;
