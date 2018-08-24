@@ -53,7 +53,7 @@
     </article>
     <!-- 4 -->
     <article class="container">
-        <a class="no-border" href="/consulting.php">
+        <a class="no-border" href="/training.php">
         <img src="imgs/bkgr_skew_placeholder.jpg" data-src="imgs/bkgr_skew_consulting4.jpg" class="lazy">
         <div class="dark-stripe">
           <div class="title">Обучение ВМ <br />и витринистике</div>
