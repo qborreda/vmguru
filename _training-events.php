@@ -20,8 +20,8 @@
         <img src="imgs/bkgr_skew_placeholder.jpg" data-src="imgs/bkgr_event2.jpg" class="lazy">
         <div class="article-stripe">
             <div class="article-dates">
-                <span class="month">сентября</span>
-                <span class="date">17 - 18</span>
+                <span class="month">октября</span>
+                <span class="date">1 - 2</span>
             </div>
             <p class="description">Коммерческий визуальный мерчандайзинг; прикладные техники «от А до Я»</p>
         </div>
@@ -34,8 +34,8 @@
         <img src="imgs/bkgr_skew_placeholder.jpg" data-src="imgs/bkgr_event1.jpg" class="lazy">
         <div class="article-stripe">
             <div class="article-dates">
-                <span class="month">сентября</span>
-                <span class="date">19</span>
+                <span class="month">октября</span>
+                <span class="date">3</span>
             </div>
             <p class="description">Cоздание эффективного магазина фэшн сегмента: планировки, зонирование, оптимальная вместимость, ВМ-дизайн</p>
         </div>
@@ -48,8 +48,8 @@
         <img src="imgs/bkgr_skew_placeholder.jpg" data-src="imgs/bkgr_event4.jpg" class="lazy">
         <div class="article-stripe">
             <div class="article-dates">
-                <span class="month">сентября</span>
-                <span class="date">20 - 21</span>
+                <span class="month">октября</span>
+                <span class="date">8 - 9</span>
             </div>
             <p class="description">Витринистика: создание эффективных витрин. Большой эффект без больших расходов.</p>
         </div>
