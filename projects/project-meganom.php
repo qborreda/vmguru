@@ -88,10 +88,9 @@
 
         <section class="project-details">
 
-            <div class="project-carrusel project-carrusel-main">
-                <img class="btn-arrows btn-arrows-left" src="/imgs/btn_arrow_left.png" />
+            <div class="project-carrusel">
 
-                <div class="js-main-carrusel">
+                <div class="js-carrusel-1">
                     <div class="carr-item"><img src="/imgs/projects/meganom-1-01.jpg" alt=""></div>
                     <div class="carr-item"><img src="/imgs/projects/meganom-1-02.jpg" alt=""></div>
                     <div class="carr-item"><img src="/imgs/projects/meganom-1-03.jpg" alt=""></div>
@@ -108,10 +107,11 @@
                     <div class="carr-item"><img src="/imgs/projects/meganom-1-14.jpg" alt=""></div>
                 </div>
 
-                <img class="btn-arrows btn-arrows-right" src="/imgs/btn_arrow_right.png" />
-            </div>
+                <img class="btn-arrows btn-arrows-left" src="/imgs/btn_arrow_left.png" />
 
-            <div class="carrusel-main-legend">/ дата реализации - май 2018 /</div>
+                <img class="btn-arrows btn-arrows-right" src="/imgs/btn_arrow_right.png" />
+
+            <div class="carrusel-legend">/ дата реализации - май 2018 /</div>
         </section>
 
         <!-- FOOTER -->
