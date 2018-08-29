@@ -27,7 +27,7 @@
 
     .hero_contents {
       position: absolute;
-      top: 40%;
+      top: 60%;
       left: 25px;
       bottom: 0;
       right: 0;
@@ -104,6 +104,7 @@
       display:block;
       content:"";
       padding-top: 45%;
+      min-height: 300px;
       background: transparent url('../imgs/hero_image.jpg') no-repeat center;
       background-size: cover;
     }
