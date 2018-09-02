@@ -50,6 +50,22 @@
       font-weight: 400;
       font-size: 20px;
       color: $DETAIL-CYAN;
+    }
+    .hero_title {
+      font-size: 28px;
+      font-weight: 900;
+      @include mq($from: tablet) {
+        font-size: 30px;
+      }
+      @include mq($from: desktop) {
+        font-size: 38px;
+      }
+      @include mq($from: wide) {
+        font-size: 44px;
+      }
+    }
+    .hero_subtitle {
+      color: $WHITE;
       @include mq($from: tablet) {
         font-weight: 600;
         font-size: 30px;
@@ -60,12 +76,6 @@
       @include mq($from: wide) {
         font-size: 44px;
       }
-    }
-    .hero_title {
-      font-weight: 900;
-    }
-    .hero_subtitle {
-      color: $WHITE;
     }
     .hero_text {
       display: none;
