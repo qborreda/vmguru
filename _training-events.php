@@ -1,15 +1,15 @@
 <!-- TRAINING EVENTS -->
 <div class="skewed-items">
-    <!-- SHOES -->
+    <!-- SHOPS -->
     <article class="container">
-        <a class="no-border" href="/visual-merchandising-dlia-magazinov-obuvi-training.php">
-        <img src="imgs/bkgr_skew_placeholder.jpg" data-src="imgs/bkgr_event3.jpg" class="lazy">
+        <a class="no-border" href="/sozdanie-magazine-fashion-segments-training.php">
+        <img src="imgs/bkgr_skew_placeholder.jpg" data-src="imgs/bkgr_event1.jpg" class="lazy">
         <div class="article-stripe">
             <div class="article-dates">
-                <span class="month">августа</span>
-                <span class="date">30 - 31</span>
+                <span class="month">октября</span>
+                <span class="date">10</span>
             </div>
-            <p class="description">Визуальный мерчандайзинг для магазинов обуви и аксессуаров</p>
+            <p class="description">Cоздание эффективного магазина фэшн сегмента: планировки, зонирование, оптимальная вместимость, ВМ-дизайн</p>
         </div>
         <div class="cta-button">Узнать больше ›</div>
         </a>
@@ -21,26 +21,12 @@
         <div class="article-stripe">
             <div class="article-dates">
                 <span class="month">октября</span>
-                <span class="date">1 - 2</span>
+                <span class="date">11 - 12</span>
             </div>
             <p class="description">Коммерческий визуальный мерчандайзинг; прикладные техники «от А до Я»</p>
         </div>
       <div class="cta-button">Узнать больше ›</div>
     </a>
-    </article>
-    <!-- SHOPS -->
-    <article class="container">
-        <a class="no-border" href="/sozdanie-magazine-fashion-segments-training.php">
-        <img src="imgs/bkgr_skew_placeholder.jpg" data-src="imgs/bkgr_event1.jpg" class="lazy">
-        <div class="article-stripe">
-            <div class="article-dates">
-                <span class="month">октября</span>
-                <span class="date">3</span>
-            </div>
-            <p class="description">Cоздание эффективного магазина фэшн сегмента: планировки, зонирование, оптимальная вместимость, ВМ-дизайн</p>
-        </div>
-        <div class="cta-button">Узнать больше ›</div>
-        </a>
     </article>
     <!-- WINDOWS -->
     <article class="container">
@@ -49,9 +35,23 @@
         <div class="article-stripe">
             <div class="article-dates">
                 <span class="month">октября</span>
-                <span class="date">8 - 9</span>
+                <span class="date">15 - 16</span>
             </div>
             <p class="description">Витринистика: создание эффективных витрин. Большой эффект без больших расходов.</p>
+        </div>
+        <div class="cta-button">Узнать больше ›</div>
+        </a>
+    </article>
+    <!-- SHOES -->
+    <article class="container">
+        <a class="no-border" href="/visual-merchandising-dlia-magazinov-obuvi-training.php">
+        <img src="imgs/bkgr_skew_placeholder.jpg" data-src="imgs/bkgr_event3.jpg" class="lazy">
+        <div class="article-stripe">
+            <div class="article-dates">
+                <span class="month">ноября</span>
+                <span class="date">15 - 16</span>
+            </div>
+            <p class="description">Визуальный мерчандайзинг для магазинов обуви и аксессуаров</p>
         </div>
         <div class="cta-button">Узнать больше ›</div>
         </a>
