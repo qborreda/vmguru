@@ -170,9 +170,9 @@
               <div class="video-container">
                 <iframe src="https://www.youtube.com/embed/FDJVyuWsaqI?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
               </div>
-              <div class="video-container">
+              <!-- <div class="video-container">
                 <iframe src="https://www.youtube.com/embed/XW_ZkJDv9Us?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
-              </div>
+              </div> -->
             </div>
             <p>Другие ВМ видео на <a href="https://www.youtube.com/channel/UC3wAc98I2O_bcAK8OD3koQQ" target="_blank">канале VM Guru</a></p>
         </section>
