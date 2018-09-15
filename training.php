@@ -29,7 +29,6 @@
             <p>ОБУЧЕНИЕ</p>
         </div>
         <section class="trainings-section1">
-
             <div class="trainings-section1-title">Мы обучаем специалистов компаний
             <br/>по следующим направлениям:</div>
             <div class="trainings-section1-lists">
@@ -117,10 +116,6 @@
             </article> -->
         </section>
 
-        <!-- <div class="stripped-title">
-            <span></span>
-            <p>У НАС ОБУЧАЛИСЬ:</p>
-        </div> -->
         <section class="consulting-section2">
             <h2 style="margin:10px auto;">У НАС ОБУЧАЛИСЬ:</h2>
             <?php include "_client-grid.php"; ?>
@@ -141,12 +136,14 @@
             </form>
         </section>
 
-        <div class="stripped-title">
-            <span></span>
-            <p class="title">СЕМИНАРЫ И МАСТЕР-КЛАССЫ</p>
-            <p class="subtitle">на выставках, форумах и конференциях</p>
-        </div>
-        <?php include "_training-talks.php"; ?>
+        <!-- SEMINARS -->
+        <section class="home-section">
+          <div class="section-title">Семинары и мастер-классы</div>
+          <div class="home-section-intro-text">
+            <p>на выставках, форумах и конференциях</p>
+          </div>
+          <?php include "_seminars-masters.php"; ?>
+        </section>
 
         <!-- FOOTER -->
         <?php include "footer.php"; ?>
