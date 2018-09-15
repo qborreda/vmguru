@@ -24,26 +24,25 @@
 
     <div class="wrapper">
 
-        <div class="stripped-title">
-            <span></span>
-            <p>ПРОЕКТЫ</p>
-        </div>
+      <section class="home-section">
+        <div class="section-title">ПРОЕКТЫ</div>
+      </section>
         <section class="project-details">
 
             <article class="hex-content clearfix">
                 <div class="hex-content-left">
-                    <p class="hex-content-name">РАЗРАБОТКА СТАНДАРТОВ 
+                    <p class="hex-content-name">РАЗРАБОТКА СТАНДАРТОВ
                     <br/>ПРЕЗЕНТАЦИИ АКСЕССУАРОВ
-                    <br/>В МАГАЗИНАХ «СНЕЖНАЯ КОРОЛЕВА»; 
+                    <br/>В МАГАЗИНАХ «СНЕЖНАЯ КОРОЛЕВА»;
                     <br/>КОРПОРАТИВНОЕ ВМ ОБУЧЕНИЕ</p>
                     <div class="hex-content-image">
                         <img src="/imgs/bkgr_hex_project_sneznaia1.jpg" alt="" />
                     </div>
                 </div>
                 <div class="hex-content-right">
-                    <p class="hex-content-name">РАЗРАБОТКА СТАНДАРТОВ 
-                    <br/>ПРЕЗЕНТАЦИИ АКСЕССУАРОВ 
-                    <br/>В МАГАЗИНАХ «СНЕЖНАЯ КОРОЛЕВА»; 
+                    <p class="hex-content-name">РАЗРАБОТКА СТАНДАРТОВ
+                    <br/>ПРЕЗЕНТАЦИИ АКСЕССУАРОВ
+                    <br/>В МАГАЗИНАХ «СНЕЖНАЯ КОРОЛЕВА»;
                     <br/>КОРПОРАТИВНОЕ ВМ ОБУЧЕНИЕ</p>
                     <p class="hex-content-description">проект включает:</p>
                     <ul class="hex-content-list">
@@ -68,7 +67,7 @@
                     <div class="carr-item"><img src="/imgs/projects/sneznaia-1-07.jpg" alt=""></div>
                     <div class="carr-item"><img src="/imgs/projects/sneznaia-1-08.jpg" alt=""></div>
                 </div>
-                
+
                 <img class="btn-arrows btn-arrows-left" src="/imgs/btn_arrow_left.png" />
 
                 <img class="btn-arrows btn-arrows-right" src="/imgs/btn_arrow_right.png" />
@@ -82,7 +81,7 @@
 
             <article class="hex-content clearfix">
                 <div class="hex-content-left">
-                    <p class="hex-content-name">СЕЗОННЫЙ МОДЕЛ СТОР ПРОЕКТ 
+                    <p class="hex-content-name">СЕЗОННЫЙ МОДЕЛ СТОР ПРОЕКТ
                     <br/>«ОФОРМЛЕНИЕ ВИТРИН И ВХОДНЫХ ЗОН»;
                     <br/>КОРПОРАТИВНОЕ ВМ ОБУЧЕНИЕ</p>
                     <div class="hex-content-image">
@@ -90,7 +89,7 @@
                     </div>
                 </div>
                 <div class="hex-content-right">
-                    <p class="hex-content-name">СЕЗОННЫЙ МОДЕЛ СТОР ПРОЕКТ 
+                    <p class="hex-content-name">СЕЗОННЫЙ МОДЕЛ СТОР ПРОЕКТ
                     <br/>«ОФОРМЛЕНИЕ ВИТРИН И ВХОДНЫХ ЗОН»;
                     <br/>КОРПОРАТИВНОЕ ВМ ОБУЧЕНИЕ</p>
                     <p class="hex-content-description">проект включает:</p>

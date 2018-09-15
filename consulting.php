@@ -24,12 +24,11 @@
   <?php include "header.php"; ?>
 
   <div class="wrapper">
-    <div class="stripped-title">
-      <span></span>
-      <p>НАШИ УСЛУГИ</p>
-    </div>
-    <section class="consulting-section1">
 
+    <section class="home-section">
+      <div class="section-title">НАШИ УСЛУГИ</div>
+    </section>
+    <section class="consulting-section1">
       <article class="hex-content clearfix">
         <div class="hex-content-left">
           <p class="hex-content-name">Pазработка
@@ -279,10 +278,9 @@
       </article>
     </section>
 
-    <div class="stripped-title">
-      <span></span>
-      <p>КЛИЕНТЫ</p>
-    </div>
+    <section class="home-section">
+      <div class="section-title">КЛИЕНТЫ</div>
+    </section>
     <section class="consulting-section2">
       <?php include "_client-grid.php"; ?>
     </section>

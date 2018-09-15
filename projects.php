@@ -25,11 +25,9 @@
 
     <div class="wrapper">
 
-        <div class="stripped-title">
-            <span></span>
-            <p>ПРОЕКТЫ</p>
-        </div>
-
+        <section class="home-section">
+          <div class="section-title">ПРОЕКТЫ</div>
+        </section>
         <section class="projects-section1">
 
             <div class="projects-intro">созданы и реализованы

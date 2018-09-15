@@ -24,10 +24,9 @@
 
     <div class="wrapper">
 
-        <div class="stripped-title">
-            <span></span>
-            <p>ПРОЕКТЫ</p>
-        </div>
+      <section class="home-section">
+        <div class="section-title">ПРОЕКТЫ</div>
+      </section>
         <section class="project-details">
 
             <article class="hex-content clearfix">
@@ -83,11 +82,9 @@
             <div class="carrusel-main-legend">/ дата реализации - апрель 2018 /</div>
         </section>
 
-        <div class="stripped-title">
-            <span></span>
-            <p>ОТЗЫВ КЛИЕНТА</p>
-        </div>
-
+        <section class="home-section">
+          <div class="section-title">ОТЗЫВ КЛИЕНТА</div>
+        </section>
         <section class="project-testimonials">
             <!-- <div class="person">
                 <img src="/imgs/projects/xitzona-testimonial.jpg" alt="Вера Зайцева">

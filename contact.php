@@ -25,10 +25,10 @@
 
     <!-- WRAPPER -->
     <div class="wrapper">
-        <div class="stripped-title">
-            <span></span>
-            <p>НАШ АДРЕС</p>
-        </div>
+
+        <section class="home-section">
+          <div class="section-title">НАШ АДРЕС</div>
+        </section>
         <section class="contact-section1">
             <div class="contact-text">
                 <p>Москва,<br/>

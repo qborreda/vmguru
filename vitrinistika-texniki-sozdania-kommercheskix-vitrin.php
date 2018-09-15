@@ -78,10 +78,9 @@
 
         </section>
 
-        <div class="stripped-title">
-            <span></span>
-            <p>ПРОГРАММА</p>
-        </div>
+        <section class="home-section">
+          <div class="section-title">ПРОГРАММА</div>
+        </section>
         <section class="event-section3">
 
             <div class="event-journey">
@@ -178,20 +177,16 @@
             <p>Другие ВМ видео на <a href="https://www.youtube.com/channel/UC3wAc98I2O_bcAK8OD3koQQ" target="_blank">канале VM Guru</a></p>
         </section>
 
-        <div class="stripped-title">
-            <span></span>
-            <p>АВТОР И ТРЕНЕР</p>
-        </div>
-
+        <section class="home-section">
+          <div class="section-title">АВТОР И ТРЕНЕР</div>
+        </section>
         <section class="event-section4">
             <?php include "_trainer-anna.php"; ?>
         </section>
 
-        <div class="stripped-title">
-            <span></span>
-            <p>СТОИМОСТЬ</p>
-        </div>
-
+        <section class="home-section">
+          <div class="section-title">СТОИМОСТЬ</div>
+        </section>
         <section class="event-section4">
             <ul class="event-data">
                 <li><span class="title">продолжительность</span><span class="item">2 дня (14 академических часов)</span>
@@ -212,10 +207,9 @@
         </section>
 
         <!-- FORM SECTION -->
-        <div class="stripped-title">
-            <span></span>
-            <p>ОСТАВИТЬ ЗАЯВКУ</p>
-        </div>
+        <section class="home-section">
+          <div class="section-title">ОСТАВИТЬ ЗАЯВКУ</div>
+        </section>
         <section class="event-section5">
             <form id="event-form" class="event-info" action="send-event-form.php" method="post" lang="ru" accept-charset="UTF-8">
 

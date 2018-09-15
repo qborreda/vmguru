@@ -24,22 +24,21 @@
 
     <div class="wrapper">
 
-        <div class="stripped-title">
-            <span></span>
-            <p>ПРОЕКТЫ</p>
-        </div>
+        <section class="home-section">
+          <div class="section-title">ПРОЕКТЫ</div>
+        </section>
         <section class="project-details">
 
             <article class="hex-content clearfix">
                 <div class="hex-content-left">
-                    <p class="hex-content-name">СОЗДАНИЕ МЕРЧАНДАЙЗИНГ-БУК INCANTO 
+                    <p class="hex-content-name">СОЗДАНИЕ МЕРЧАНДАЙЗИНГ-БУК INCANTO
                     <br/>ДЛЯ МАГАЗИНОВ КОНЦЕПТА VANILLA SKY</p>
                     <div class="hex-content-image">
                         <img src="/imgs/bkgr_hex_project_incanto_1.jpg" alt="" />
                     </div>
                 </div>
                 <div class="hex-content-right">
-                    <p class="hex-content-name">СОЗДАНИЕ МЕРЧАНДАЙЗИНГ-БУК INCANTO 
+                    <p class="hex-content-name">СОЗДАНИЕ МЕРЧАНДАЙЗИНГ-БУК INCANTO
                     <br/>ДЛЯ МАГАЗИНОВ КОНЦЕПТА VANILLA SKY</p>
                     <p class="hex-content-description"></p>
                     <ul class="hex-content-list">
@@ -68,7 +67,7 @@
                     <div class="carr-item"><img src="/imgs/projects/incanto-1-13.jpg" alt=""></div>
                     <div class="carr-item"><img src="/imgs/projects/incanto-1-14.jpg" alt=""></div>
                 </div>
-                
+
                 <img class="btn-arrows btn-arrows-left" src="/imgs/btn_arrow_left.png" />
 
                 <img class="btn-arrows btn-arrows-right" src="/imgs/btn_arrow_right.png" />
@@ -120,11 +119,9 @@
 
         </section>
 
-        <div class="stripped-title">
-            <span></span>
-            <p>ИТОГИ ПРОЕКТА</p>
-        </div>
-
+        <section class="home-section">
+          <div class="section-title">ИТОГИ ПРОЕКТА</div>
+        </section>
         <section class="project-details">
 
             <div class="project-carrusel project-carrusel-main">
@@ -144,11 +141,9 @@
             <div class="carrusel-main-legend">Внешний вид магазинов Incanto, концепт Vanila Sky после реализации проектов</div>
         </section>
 
-        <div class="stripped-title">
-            <span></span>
-            <p>ОТЗЫВ КЛИЕНТА</p>
-        </div>
-
+        <section class="home-section">
+          <div class="section-title">ОТЗЫВ КЛИЕНТА</div>
+        </section>
         <section class="project-testimonials">
             <div class="person">
                 <img src="/imgs/projects/incanto-testimonial.jpg" alt="Марина Афанасьева">

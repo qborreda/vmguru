@@ -24,15 +24,14 @@
 
     <div class="wrapper">
 
-        <div class="stripped-title">
-            <span></span>
-            <p>ПРОЕКТЫ</p>
-        </div>
+      <section class="home-section">
+        <div class="section-title">ПРОЕКТЫ</div>
+      </section>
         <section class="project-details">
 
             <article class="hex-content clearfix">
                 <div class="hex-content-left">
-                    <p class="hex-content-name">РАЗРАБОТКА ТЕМАТИЧЕСКИХ ВИТРИННЫХ 
+                    <p class="hex-content-name">РАЗРАБОТКА ТЕМАТИЧЕСКИХ ВИТРИННЫХ
                     <br/>КОНЦЕПЦИЙ И ОФОРМЛЕНИЕ ПИЛОТНЫХ ВИТРИН
                     <br/>ДЛЯ МАГАЗИНОВ СЕТИ «ХИТ ЗОНА»</p>
                     <div class="hex-content-image">
@@ -40,7 +39,7 @@
                     </div>
                 </div>
                 <div class="hex-content-right">
-                    <p class="hex-content-name">РАЗРАБОТКА ТЕМАТИЧЕСКИХ ВИТРИННЫХ 
+                    <p class="hex-content-name">РАЗРАБОТКА ТЕМАТИЧЕСКИХ ВИТРИННЫХ
                     <br/>КОНЦЕПЦИЙ И ОФОРМЛЕНИЕ ПИЛОТНЫХ ВИТРИН
                     <br/>ДЛЯ МАГАЗИНОВ СЕТИ «ХИТ ЗОНА»</p>
                     <p class="hex-content-description">проект включает:</p>
@@ -88,11 +87,9 @@
             <div class="carrusel-main-legend">/ проекты реализованы: декабрь 2012 – март 2013 /</div>
         </section>
 
-        <div class="stripped-title">
-            <span></span>
-            <p>ОТЗЫВ КЛИЕНТА</p>
-        </div>
-
+        <section class="home-section">
+          <div class="section-title">ОТЗЫВ КЛИЕНТА</div>
+        </section>
         <section class="project-testimonials">
             <div class="person">
                 <img src="/imgs/projects/xitzona-testimonial.jpg" alt="Вера Зайцева">
