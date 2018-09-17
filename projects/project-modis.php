@@ -24,18 +24,17 @@
 
     <div class="wrapper">
 
-        <div class="stripped-title">
-            <span></span>
-            <p>ПРОЕКТЫ</p>
-        </div>
+      <section class="home-section">
+        <div class="section-title">ПРОЕКТЫ</div>
+      </section>
         <section class="project-details">
 
             <article class="hex-content clearfix">
                 <div class="hex-content-left">
                     <p class="hex-content-name">
-                    CЕЗОННЫЙ MOДЕЛ СТОР (MС) ПРОЕКТ: 
-                    <br/>«ОФОРМЛЕНИЕ ГОРЯЧИХ ЗОН» 
-                    <br/>ДЛЯ МАГАЗИНОВ СЕТИ MODIS; 
+                    CЕЗОННЫЙ MOДЕЛ СТОР (MС) ПРОЕКТ:
+                    <br/>«ОФОРМЛЕНИЕ ГОРЯЧИХ ЗОН»
+                    <br/>ДЛЯ МАГАЗИНОВ СЕТИ MODIS;
                     <br/>ОБУЧЕНИЕ КОМАНДЫ ВМ MODIS</p>
                     <div class="hex-content-image">
                         <img src="/imgs/bkgr_hex_project_modis1.jpg" alt="" />
@@ -43,9 +42,9 @@
                 </div>
                 <div class="hex-content-right">
                     <p class="hex-content-name">
-                    CЕЗОННЫЙ MOДЕЛ СТОР (MС) ПРОЕКТ: 
-                    <br/>«ОФОРМЛЕНИЕ ГОРЯЧИХ ЗОН» 
-                    <br/>ДЛЯ МАГАЗИНОВ СЕТИ MODIS; 
+                    CЕЗОННЫЙ MOДЕЛ СТОР (MС) ПРОЕКТ:
+                    <br/>«ОФОРМЛЕНИЕ ГОРЯЧИХ ЗОН»
+                    <br/>ДЛЯ МАГАЗИНОВ СЕТИ MODIS;
                     <br/>ОБУЧЕНИЕ КОМАНДЫ ВМ MODIS</p>
                     <p class="hex-content-description">/ реализовано 4 проекта /</p>
                     <ul class="hex-content-list">
@@ -55,7 +54,7 @@
                         <li>Ведение проекта; создание текущей сетевой инструкции</li>
                         <li>Обучение ВМ команды MODIS алгоритму работы с данным MС проектом</li>
                     </ul>
-                    <div class="hex-content-client-description">MODIS – федеральная сеть магазинов доступной модной одежды для всей семьи. 
+                    <div class="hex-content-client-description">MODIS – федеральная сеть магазинов доступной модной одежды для всей семьи.
                     <br/>Более 120 магазинов в 70 городах России. Средняя площадь магазина - 1200 м2.</div>
                 </div>
             </article>
@@ -80,7 +79,7 @@
                     <div class="carr-item"><img src="/imgs/projects/modis-1-15.jpg" alt=""></div>
                     <div class="carr-item"><img src="/imgs/projects/modis-1-16.jpg" alt=""></div>
                 </div>
-                
+
                 <img class="btn-arrows btn-arrows-left" src="/imgs/btn_arrow_left.png" />
 
                 <img class="btn-arrows btn-arrows-right" src="/imgs/btn_arrow_right.png" />
@@ -94,18 +93,18 @@
 
             <article class="hex-content clearfix">
                 <div class="hex-content-left">
-                    <p class="hex-content-name">СЕЗОННЫЙ МОДЕЛ СТОР ПРОЕКТ 
+                    <p class="hex-content-name">СЕЗОННЫЙ МОДЕЛ СТОР ПРОЕКТ
                     <br/>«ОФОРМЛЕНИЕ ВИТРИН»
-                    <br/>ДЛЯ МАГАЗИНОВ СЕТИ MODIS; 
+                    <br/>ДЛЯ МАГАЗИНОВ СЕТИ MODIS;
                     <br/>ОБУЧЕНИЕ КОМАНДЫ ВМ MODIS</p>
                     <div class="hex-content-image">
                         <img src="/imgs/bkgr_hex_project_modis2.jpg" alt="" />
                     </div>
                 </div>
                 <div class="hex-content-right">
-                    <p class="hex-content-name">СЕЗОННЫЙ МОДЕЛ СТОР ПРОЕКТ 
+                    <p class="hex-content-name">СЕЗОННЫЙ МОДЕЛ СТОР ПРОЕКТ
                     <br/>«ОФОРМЛЕНИЕ ВИТРИН»
-                    <br/>ДЛЯ МАГАЗИНОВ СЕТИ MODIS; 
+                    <br/>ДЛЯ МАГАЗИНОВ СЕТИ MODIS;
                     <br/>ОБУЧЕНИЕ КОМАНДЫ ВМ MODIS</p>
                     <p class="hex-content-description">/ реализовано 4 проекта /</p>
                     <ul class="hex-content-list">

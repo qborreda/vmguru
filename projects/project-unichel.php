@@ -24,10 +24,9 @@
 
     <div class="wrapper">
 
-        <div class="stripped-title">
-            <span></span>
-            <p>ПРОЕКТЫ</p>
-        </div>
+      <section class="home-section">
+        <div class="section-title">ПРОЕКТЫ</div>
+      </section>
         <section class="project-details">
 
             <article class="hex-content clearfix">
@@ -75,7 +74,7 @@
                     <div class="carr-item"><img src="/imgs/projects/unichel-1-12.jpg" alt=""></div>
                     <div class="carr-item"><img src="/imgs/projects/unichel-1-13.jpg" alt=""></div>
                 </div>
-                
+
                 <img class="btn-arrows btn-arrows-left" src="/imgs/btn_arrow_left.png" />
 
                 <img class="btn-arrows btn-arrows-right" src="/imgs/btn_arrow_right.png" />
@@ -142,11 +141,9 @@
 
         </section>
 
-        <div class="stripped-title">
-            <span></span>
-            <p>ОТЗЫВ КЛИЕНТА</p>
-        </div>
-
+        <section class="home-section">
+          <div class="section-title">ОТЗЫВ КЛИЕНТА</div>
+        </section>
         <section class="project-testimonials">
             <div class="person">
                 <img src="/imgs/projects/unichel-testimonial.jpg" alt="Екатерина Железнякова">

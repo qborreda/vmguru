@@ -25,10 +25,9 @@
 
     <!-- WRAPPER -->
     <div class="wrapper">
-        <div class="stripped-title">
-            <span></span>
-            <p>О ПРОЕКТЕ</p>
-        </div>
+        <section class="home-section">
+          <div class="section-title">О ПРОЕКТЕ</div>
+        </section>
         <section class="about-section1">
             <span class="about-section1--icon">
                 <img src="imgs/ico-detail-eye.png" alt="">
@@ -36,10 +35,10 @@
             <p class="about-section1--text">VM Guru — консалтинговое агентство визуальных коммуникаций в фэшн ритейле, специализирующееся на стратегическом ВМ консалтинге, практических услугах в области визуального мерчандайзинга, дизайне магазинов и обучении в данных сегментах.</p>
             <p class="about-section1--text">Наша команда – авторитетные профессионалы-практики с большим опытом работы в фэшн ритейле. Методики, инструменты и тренинг-технологии , которые мы используем для реализации проектов и выполнения задач клиента  протестированы и успешно внедрены нами для известных международных и российских компаний по продаже одежды, обуви и аксессуаров.</p>
         </section>
-        <div class="stripped-title">
-            <span></span>
-            <p>ОСНОВАТЕЛЬ</p>
-        </div>
+
+        <section class="home-section">
+          <div class="section-title">ОСНОВАТЕЛЬ</div>
+        </section>
         <section class="about-section2">
             <div class="ceo">
                 <div class="ceo-picture">
@@ -101,10 +100,10 @@
                 </div>
             </div>
         </section>
-        <div class="stripped-title">
-            <span></span>
-            <p>ГЛАВНЫЕ РОЛИ</p>
-        </div>
+
+        <section class="home-section">
+          <div class="section-title">ГЛАВНЫЕ РОЛИ</div>
+        </section>
         <section class="about-section3">
             <div class="person">
                 <img src="imgs/about-picture-irinaa.jpg" alt="Ирина акимова">

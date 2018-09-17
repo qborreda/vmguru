@@ -24,10 +24,9 @@
 
     <div class="wrapper">
 
-        <div class="stripped-title">
-            <span></span>
-            <p>ПРОЕКТЫ</p>
-        </div>
+      <section class="home-section">
+        <div class="section-title">ПРОЕКТЫ</div>
+      </section>
         <section class="project-details">
 
             <article class="hex-content clearfix">
@@ -143,11 +142,9 @@
 
         </section>
 
-        <div class="stripped-title">
-            <span></span>
-            <p>ОТЗЫВ КЛИЕНТА</p>
-        </div>
-
+        <section class="home-section">
+          <div class="section-title">ОТЗЫВ КЛИЕНТА</div>
+        </section>
         <section class="project-testimonials">
             <div class="person">
                 <img src="/imgs/projects/promenade-testimonial.jpg" alt="Александр Шапкин">

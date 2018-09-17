@@ -6,20 +6,22 @@
   @include flex_align-items(center);
 
   .client-grid-logo {
-    margin: 5px auto;
+    margin: 0 auto;
+    padding: 0;
     text-align: center;
-    @include flex_flex(0 1 100px);
+    @include flex_flex(0 1 25%);
 
     @include mq($from: tablet) {
-      @include flex_flex(0 1 160px);
+      @include flex_flex(0 1 20%);
     }
     @include mq($from: desktop) {
-      @include flex_flex(0 1 160px);
+      @include flex_flex(0 1 16%);
     }
 
     img {
       width: 100%;
       height: auto;
+      margin: 0;
     }
   }
 }

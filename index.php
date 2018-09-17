@@ -23,127 +23,77 @@
     <!-- MAIN HEADER -->
     <?php include "header.php"; ?>
 
-    <!-- WRAPPER -->
-    <div class="wrapper">
-        <section class="home-section1">
-            <div class="home-section1-image"></div>
-            <div class="home-section1-arrow"></div>
-            <div class="home-section1-footer">
-                <div class="home-section1-footer-text">
-                    <span>ВИЗУАЛЬНЫЙ МЕРЧАНДАЙЗИНГ
-                    <br/>способен увеличить
-                    <br/>продажи до 80%</span>
-                </div>
+    <section class="home_wrapper">
+
+      <section class="home_hero">
+          <div class="hero_image">
+            <div class="hero_contents">
+              <div class="hero_title">VM GURU</div>
+              <div class="hero_subtitle">Агентство по визуальному мерчандайзингу
+                <br />и дизайну магазинов</div>
+              <p class="hero_text">Ваш проводник к успеху</p>
+              <div class="hero_arrow js-trigger-toggle js-dont-hide" data-target=".hero_expanded">
+                <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30px" viewBox="0 0 111 32" enable-background="new 0 0 111 32" xml:space="preserve">
+                   <polyline fill="none" stroke="#FFFFFF" stroke-width="3" stroke-miterlimit="10" points="0.729,1.342 52.597,30.157 110.229,1.342"/>
+                </svg>
+              </div>
             </div>
-        </section>
-        <section class="home-section2">
-            <div class="home-section2-texts">
-                <div class="left">
-                    А вы знаете почему иногда, проходя по торговому центру с неизвестными для вас брендами, один магазин вы не замечаете, а в другой будто тянет невидимая рука? И вы уже хотите все потрогать и примерить!
-                </div>
-                <div class="wand-detail">
-                    <img src="imgs/ico-detail-wand-cyan.png" alt="">
-                </div>
-                <div class="right">
-                    Это все — чудеса визуального мерчендайзинга, науки презентации товара в торговом зале и на витринах. Мы готовы доказать вам, что грамотный коммерческий ВМ способен увеличить продажи в магазине до 80%!
-                </div>
+          </div>
+          <div class="hero_expanded js-toggle-content">
+            <div class="wand">
+              <img src="/imgs/ico-home-wand.svg" width="80" height="80" />
             </div>
-            <div class="crossed-box">
-                этому можно научиться раз и навсегда
+            <div class="text">
+                <p>Знаете, в чем секрет успеха фэшн брендов?</p>
+                <p>Почему проходя по торговому центру, один магазин вы не замечаете, а в другой будто манит невидимая рука, и вы уже стоите в примерочной?</p>
+                <p>Это все — чудеса визуального мерчендайзинга, науки презентации товара в торговом зале и на витринах.</p>
+                <p>Любой бренд может стать успешным, привлечь своих покупателей и заметно увеличить выручку. Практика показывает, что грамотный коммерческий ВМ способен увеличить продажи в магазине на 50 - 80%, а то и в несколько раз. Мы научим этому ваш бренд!</p>
             </div>
-        </section>
-        <div class="stripped-title">
-            <span></span>
-            <p>БЛИЖАЙШИЕ ТРЕНИНГИ</p>
+          </div>
+      </section>
+
+      <!-- CONSULTING -->
+      <section class="home-section">
+        <div class="section-title">Наши услуги</div>
+        <div class="home-section-intro-text">
+          <p>Мы готовы помочь на любом этапе создания вашего бренда: от разработки стандартов визуального мерчандайзинга  до обучения персонала. Нам вы можете доверить всё!</p>
+          <p>Мы создаем «магазины под ключ» и гарантируем максимальную коммерческую привлекательность своим проектам.</p>
         </div>
-        <section class="home-section3">
-        <?php include "_training-events.php"; ?>
-        </section>
+        <?php include "_consulting-elements.php"; ?>
+      </section>
 
-<!--         <div class="stripped-title">
-            <span></span>
-            <p>ПРОЕКТЫ</p>
-        </div>
-        <section class="home-section4">
-        </section> -->
+      <!-- TRAININGS -->
+      <section class="home-section">
+          <div class="section-title">Ближайшие тренинги</div>
+          <div class="home-section-intro-text">
+            <p>Эффективная организация торгового пространства, грамотная презентация товара и привлекательные витрины способны увеличить продажи в магазине минимум на 50 %.</p>
+            <p>Мы научим этому вас и ваш бренд!</p>
+          </div>
+          <?php include "_training-events.php"; ?>
+      </section>
 
-        <!-- <section class="home-section4">
-            <div class="crossed-box">
-                страница в разработке
-            </div>
-        </section> -->
+      <!-- SEMINARS -->
+      <section class="home-section">
+        <div class="section-title">Семинары и мастер-классы</div>
+        <?php include "_seminars-masters.php"; ?>
+      </section>
 
-        <div class="stripped-title">
-            <span></span>
-            <p class="title">СЕМИНАРЫ И МАСТЕР-КЛАССЫ</p>
-            <p class="subtitle">на выставках, форумах и конференциях</p>
-        </div>
-        <?php include "_training-talks.php"; ?>
+      <!-- MARKETING -->
+      <section class="home-section">
+        <div class="section-title">Почему именно VM GURU?</div>
+        <?php include "_home-marketing.php"; ?>
+      </section>
 
-        <!-- <div class="stripped-title">
-            <span></span>
-            <p>РАССЫЛКА VM GURU</p>
-        </div> -->
+      <!-- CLIENTS -->
+      <section class="home-section">
+        <div class="section-title">Нам доверяют</div>
+        <?php include "_client-grid.php"; ?>
+      </section>
 
-        <!-- <section class="home-newsletter">
+      <!-- FOOTER -->
+      <?php include "footer.php"; ?>
 
-            <form method="POST" action="https://cp.unisender.com/en/subscribe?hash=6uwxffjitwihhyppuem87rp4rjzia9ju5bdk4y5637zj81ui4ooby" name="subscribtion_form">
-                <div class="subscribe-form-item subscribe-form-item--input-email">
-                    <input class="subscribe-form-item__control subscribe-form-item__control--input-email" type="text" name="email" value="" placeholder="EMAIL">
-                </div>
-                <div class="subscribe-form-item subscribe-form-item--btn-submit">
-                    <input class="subscribe-form-item__btn subscribe-form-item__btn--btn-submit form-submit" type="submit" value="Подписаться">
-                    <button class="form-submit" type="submit" value="Подписаться">Подписаться</button>
-                </div>
-                <input type="hidden" name="charset" value="UTF-8">
-                <input type="hidden" name="default_list_id" value="8929775">
-                <input type="hidden" name="overwrite" value="2">
-                <input type="hidden" name="is_v5" value="1">
-            </form>
-
-        </section> -->
-
-        <!-- CAROUSEL -->
-        <div class="footer-carrusel">
-          <h2 style="margin:30px auto 20px;">ПАРТНЕРЫ:</h2>
-            <div class="js-carrusel-footer">
-                <div class="carr-item">
-                    <img src="/imgs/logo-mosshoes.png" alt="">
-                </div>
-                <div class="carr-item">
-                    <img src="/imgs/logo-mospel.png" alt="">
-                </div>
-                <div class="carr-item">
-                  <img src="/imgs/logo-fashionunited.jpg" alt="">
-                </div>
-                <div class="carr-item">
-                  <img src="/imgs/logo-newretail.jpg" alt="">
-                </div>
-                <div class="carr-item">
-                  <img src="/imgs/logo-euroshoes.jpg" alt="">
-                </div>
-                <div class="carr-item">
-                  <img src="/imgs/logo-lingerie-show.png" alt="">
-                </div>
-                <div class="carr-item">
-                  <img src="/imgs/logo-shoes-n-leather.png" alt="">
-                </div>
-                <div class="carr-item">
-                  <img src="/imgs/logo-cjf.png" alt="">
-                </div>
-                <div class="carr-item">
-                  <img src="/imgs/logo-kidsfair.jpg" alt="">
-                </div>
-                <div class="carr-item">
-                  <img src="/imgs/logo-fashionindustry.jpg" alt="">
-                </div>
-            </div>
-        </div>
-
-        <!-- FOOTER -->
-        <?php include "footer.php"; ?>
-
-    </div>
+    </section>
 </body>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js" type="text/javascript" charset="utf-8"></script>
 <script type="text/javascript" src="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.min.js"></script>

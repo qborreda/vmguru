@@ -7,13 +7,51 @@ body {
 
 .wrapper {
   display: block;
-  margin: 0 auto;
+  margin: 100px auto 0;
   max-width: 1300px;
-  padding-top: 150px;
   width: 100%;
-  
+
   @include mq($from: tablet) {
-    padding-top: 230px;
+    margin: 120px auto 0;
+  }
+  @include mq($from: desktop) {
+    margin: 160px auto 0;
+  }
+}
+
+.home-section,
+.new-section {
+  margin: 0 auto 25px;
+  padding: 0 10px;
+  line-height: 1.8rem;
+  max-width: 1440px;
+
+  @include mq($from: tablet) {
+    margin: 0 auto 50px;
+  }
+
+  .home-section-intro-text {
+    display: block;
+    width: 80%;
+    max-width: 1300px;
+    margin: 0 auto 25px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+
+    p {
+      text-align: center;
+      margin-bottom: 30px;
+    }
+
+    @include mq($from: tablet) {
+      margin: 0 auto 50px;
+      font-size: 20px;
+    }
+
+    @include mq($from: desktop) {
+      font-size: 24px;
+    }
   }
 }
 

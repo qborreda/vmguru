@@ -24,14 +24,16 @@
 
     <div class="wrapper">
 
-        <div class="stripped-title">
-            <span></span>
-            <p>ОБУЧЕНИЕ</p>
-        </div>
+        <section class="home-section">
+          <div class="section-title">ОБУЧЕНИЕ</div>
+          <div class="home-section-intro-text">
+              <p>Мы обучаем специалистов компаний
+              <br/>по следующим направлениям:</p>
+          </div>
+        </section>
         <section class="trainings-section1">
-
-            <div class="trainings-section1-title">Мы обучаем специалистов компаний
-            <br/>по следующим направлениям:</div>
+            <!-- <div class="trainings-section1-title">Мы обучаем специалистов компаний
+            <br/>по следующим направлениям:</div> -->
             <div class="trainings-section1-lists">
                 <ul class="left">
                     <li><img src="imgs/ico-hex-nav.png" alt=""> Визуальный мерчандайзинг для магазинов одежды</li>
@@ -48,12 +50,14 @@
             </div>
         </section>
 
-        <div class="stripped-title">
-            <span></span>
-            <p>ГРУППОВЫЕ ТРЕНИНГИ</p>
-        </div>
+        <section class="home-section">
+          <div class="section-title">ГРУППОВЫЕ ТРЕНИНГИ</div>
+          <div class="home-section-intro-text">
+              <p>Oбучение в формате интерактивного тренинга-практикума в группе до 14 человек по утвержденной программе в нашем офисе и на нашей торговой площадке.</p>
+          </div>
+        </section>
         <section class="trainings-section2">
-          <div class="trainings-intro">Oбучение в формате интерактивного тренинга-практикума в группе до 14 человек по утвержденной программе в нашем офисе и на нашей торговой площадке.</div>
+          <!-- <div class="trainings-intro">Oбучение в формате интерактивного тренинга-практикума в группе до 14 человек по утвержденной программе в нашем офисе и на нашей торговой площадке.</div> -->
           <div class="" style="max-width: 700px; margin: 0 auto 20px; text-align: center;">
               <p style="padding-left: 20px; text-align: center;">При информационной поддержке</p>
               <img src="/imgs/logo-newretail.jpg" alt="">
@@ -62,10 +66,9 @@
           <?php include "_training-events.php"; ?>
         </section>
 
-        <div class="stripped-title">
-            <span></span>
-            <p>КОРПОРАТИВНОЕ ОБУЧЕНИЕ</p>
-        </div>
+        <section class="home-section">
+          <div class="section-title">КОРПОРАТИВНОЕ ОБУЧЕНИЕ</div>
+        </section>
         <section class="trainings-section1">
             <article class="hex-content clearfix">
                 <div class="hex-content-left">
@@ -117,10 +120,6 @@
             </article> -->
         </section>
 
-        <!-- <div class="stripped-title">
-            <span></span>
-            <p>У НАС ОБУЧАЛИСЬ:</p>
-        </div> -->
         <section class="consulting-section2">
             <h2 style="margin:10px auto;">У НАС ОБУЧАЛИСЬ:</h2>
             <?php include "_client-grid.php"; ?>
@@ -141,12 +140,14 @@
             </form>
         </section>
 
-        <div class="stripped-title">
-            <span></span>
-            <p class="title">СЕМИНАРЫ И МАСТЕР-КЛАССЫ</p>
-            <p class="subtitle">на выставках, форумах и конференциях</p>
-        </div>
-        <?php include "_training-talks.php"; ?>
+        <!-- SEMINARS -->
+        <section class="home-section">
+          <div class="section-title">Семинары и мастер-классы</div>
+          <div class="home-section-intro-text">
+            <p>на выставках, форумах и конференциях</p>
+          </div>
+          <?php include "_seminars-masters.php"; ?>
+        </section>
 
         <!-- FOOTER -->
         <?php include "footer.php"; ?>

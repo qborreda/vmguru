@@ -20,6 +20,7 @@ $DETAIL-GREY: #bcbec0;
 $DETAIL-CYAN: #03f7f0;
 $BKGR-GREY: #58595b;
 $RED-HIGHLIGHT: #990000;
+$DETAIL-ORANGE: rgb(255, 128, 109);
 
 // TYPOGRAPHY
 
@@ -39,7 +40,13 @@ $ICON-SIZE: 24px;
 $set-rtl: false;
 
 // BREAKPOINTS
-$mq-breakpoints: (mobile: 320px, tablet: 740px, desktop: 980px, wide: 1200px)
+$mq-breakpoints: (
+  mobile: 320px,
+  tablet: 740px,
+  desktop: 980px,
+  wide: 1200px,
+  huge: 1600px
+  )
   !default;
 
 // Z-INDEX

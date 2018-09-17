@@ -24,10 +24,10 @@
   <?php include "header.php"; ?>
 
   <div class="wrapper">
-    <div class="stripped-title">
-      <span></span>
-      <p>НАШИ ПУБЛИКАЦИИ 2016 - 2018</p>
-    </div>
+
+    <section class="home-section">
+      <div class="section-title">НАШИ ПУБЛИКАЦИИ 2016 - 2018</div>
+    </section>
     <section class="publications-section1">
 
       <!-- Vitrina block -->

@@ -1,0 +1,58 @@
+.home-marketing {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: flex-start;
+  align-content: center;
+  flex: 1 0 100%;
+  flex-wrap: wrap;
+  width: 100%;
+
+  .marketing-item {
+    width: 100%;
+    max-width: 400px;
+    padding: 10px;
+    margin-bottom: 10px;
+    font-size: 16px;
+    line-height: 1.2;
+    font-weight: 400;
+    text-align: center;
+
+    @include mq($from: tablet) {
+      width: 33%;
+      font-size: 16px;
+    }
+
+    @include mq($from: desktop) {
+      font-size: 18px;
+    }
+
+    .icono {
+      width: 30%;
+      margin-bottom: 1.5rem;
+    }
+
+    .title {
+      font-weight: 600;
+      font-size: 20px;
+      line-height: 1;
+      margin-bottom: 1rem;
+      @include mq($from: tablet) {
+        font-size: 24px;
+      }
+      @include mq($from: desktop) {
+        font-size: 28px;
+      }
+    }
+    .description {
+      font-weight: 300;
+      font-size: 14px;
+      @include mq($from: tablet) {
+        font-size: 16px;
+      }
+      @include mq($from: desktop) {
+        font-size: 20px;
+      }
+    }
+  }
+}
