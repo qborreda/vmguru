@@ -26,7 +26,7 @@
     <!-- WRAPPER -->
     <div class="wrapper">
         <section class="home-section">
-          <div class="section-title">О ПРОЕКТЕ</div>
+          <div class="section-title">О проекте</div>
         </section>
         <section class="about-section1">
             <span class="about-section1--icon">
@@ -37,7 +37,7 @@
         </section>
 
         <section class="home-section">
-          <div class="section-title">ОСНОВАТЕЛЬ</div>
+          <div class="section-title">Основатель</div>
         </section>
         <section class="about-section2">
             <div class="ceo">
@@ -102,7 +102,7 @@
         </section>
 
         <section class="home-section">
-          <div class="section-title">ГЛАВНЫЕ РОЛИ</div>
+          <div class="section-title">Главные роли</div>
         </section>
         <section class="about-section3">
             <div class="person">

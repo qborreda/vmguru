@@ -76,7 +76,7 @@
         </section>
 
         <section class="home-section">
-          <div class="section-title">ПРОГРАММА</div>
+          <div class="section-title">Программа</div>
         </section>
         <section class="event-section3">
 
@@ -139,14 +139,14 @@
         </section>
 
         <section class="home-section">
-          <div class="section-title">АВТОР И ТРЕНЕР</div>
+          <div class="section-title">Автор и тренер</div>
         </section>
         <section class="event-section4">
             <?php include "_trainer-anna.php"; ?>
         </section>
 
         <section class="home-section">
-          <div class="section-title">СТОИМОСТЬ</div>
+          <div class="section-title">Стоимость</div>
         </section>
         <section class="event-section4">
             <ul class="event-data">
@@ -169,7 +169,7 @@
 
         <!-- FORM SECTION -->
         <section class="home-section">
-          <div class="section-title">ОСТАВИТЬ ЗАЯВКУ</div>
+          <div class="section-title">Оставить заявку</div>
         </section>
         <section class="event-section5">
             <form id="event-form" class="event-info" action="send-event-form.php" method="post" lang="ru" accept-charset="UTF-8">

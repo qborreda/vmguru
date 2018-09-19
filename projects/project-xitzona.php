@@ -25,7 +25,7 @@
     <div class="wrapper">
 
       <section class="home-section">
-        <div class="section-title">ПРОЕКТЫ</div>
+        <div class="section-title">Проекты</div>
       </section>
         <section class="project-details">
 
@@ -88,7 +88,7 @@
         </section>
 
         <section class="home-section">
-          <div class="section-title">ОТЗЫВ КЛИЕНТА</div>
+          <div class="section-title">Отзыв клиента</div>
         </section>
         <section class="project-testimonials">
             <div class="person">
