@@ -31,7 +31,7 @@
                 <div class="box-skewy"></div>
                 <div class="box-texts">
                     <div class="box-texts-date">
-                        <span class="day">11 - 12</span>
+                        <span class="day">17 - 18</span>
                         <span class="month">октября</span>
                     </div>
                     <div class="box-texts-title">
