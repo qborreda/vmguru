@@ -27,9 +27,11 @@
                 <img src="/imgs/ico-youtube.svg" width="30"/>
             </a>
         </div>
-        <div class="contact-button">
-          связаться с нами ›
-        </div>
+        <a class="no-border" href="/contact.php">
+          <div class="contact-button">
+            связаться с нами ›
+          </div>
+        </a>
     </div>
     <div class="mobile-menu is-open js-hamburger">
         <span class="line"></span>

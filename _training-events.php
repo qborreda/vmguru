@@ -1,19 +1,5 @@
 <!-- TRAINING EVENTS -->
 <div class="skewed-items">
-    <!-- SHOPS -->
-    <article class="container">
-        <a class="no-border" href="/sozdanie-magazine-fashion-segments-training.php">
-        <img src="imgs/bkgr_skew_placeholder.jpg" data-src="imgs/bkgr_event1.jpg" class="lazy">
-        <div class="article-stripe">
-            <div class="article-dates">
-                <span class="month">октября</span>
-                <span class="date">10</span>
-            </div>
-            <p class="description">Cоздание эффективного магазина фэшн сегмента: планировки, зонирование, оптимальная вместимость, ВМ-дизайн</p>
-        </div>
-        <div class="cta-button">Узнать больше ›</div>
-        </a>
-    </article>
     <!-- VM -->
     <article class="container">
         <a class="no-border" href="/kommercheskii-visual-merchandising-training.php">
@@ -21,12 +7,26 @@
         <div class="article-stripe">
             <div class="article-dates">
                 <span class="month">октября</span>
-                <span class="date">11 - 12</span>
+                <span class="date">17 - 18</span>
             </div>
             <p class="description">Коммерческий визуальный мерчандайзинг; прикладные техники «от А до Я»</p>
         </div>
       <div class="cta-button">Узнать больше ›</div>
     </a>
+    </article>
+    <!-- SHOPS -->
+    <article class="container">
+        <a class="no-border" href="/sozdanie-magazine-fashion-segments-training.php">
+        <img src="imgs/bkgr_skew_placeholder.jpg" data-src="imgs/bkgr_event1.jpg" class="lazy">
+        <div class="article-stripe">
+            <div class="article-dates">
+                <span class="month">октября</span>
+                <span class="date">19</span>
+            </div>
+            <p class="description">Cоздание эффективного магазина фэшн сегмента: планировки, зонирование, оптимальная вместимость, ВМ-дизайн</p>
+        </div>
+        <div class="cta-button">Узнать больше ›</div>
+        </a>
     </article>
     <!-- WINDOWS -->
     <article class="container">
@@ -35,7 +35,7 @@
         <div class="article-stripe">
             <div class="article-dates">
                 <span class="month">октября</span>
-                <span class="date">15 - 16</span>
+                <span class="date">25 - 26</span>
             </div>
             <p class="description">Витринистика: создание эффективных витрин. Большой эффект без больших расходов.</p>
         </div>

@@ -31,7 +31,7 @@
                 <div class="box-skewy"></div>
                 <div class="box-texts">
                     <div class="box-texts-date">
-                        <span class="day">11 - 12</span>
+                        <span class="day">17 - 18</span>
                         <span class="month">октября</span>
                     </div>
                     <div class="box-texts-title">
@@ -71,7 +71,7 @@
         </section>
 
         <section class="home-section">
-          <div class="section-title">ПРОГРАММА</div>
+          <div class="section-title">Программа</div>
         </section>
         <section class="event-section3">
             <div class="event-journey">
@@ -155,14 +155,14 @@
         </section>
 
         <section class="home-section">
-          <div class="section-title">АВТОР И ТРЕНЕР</div>
+          <div class="section-title">Автор и тренер</div>
         </section>
         <section class="event-section4">
             <?php include "_trainer-anna.php"; ?>
         </section>
 
         <section class="home-section">
-          <div class="section-title">СТОИМОСТЬ</div>
+          <div class="section-title">Стоимость</div>
         </section>
         <section class="event-section4">
 
@@ -185,7 +185,7 @@
 
         <!-- FORM SECTION -->
         <section class="home-section">
-          <div class="section-title">ОСТАВИТЬ ЗАЯВКУ</div>
+          <div class="section-title">Оставить заявку</div>
         </section>
         <section class="event-section5">
             <form id="event-form" class="event-info" action="send-event-form.php" method="post" lang="ru" accept-charset="UTF-8">

@@ -26,7 +26,7 @@
   <div class="wrapper">
 
     <section class="home-section">
-      <div class="section-title">НАШИ ПУБЛИКАЦИИ 2016 - 2018</div>
+      <div class="section-title">Наши публикации 2016 - 2018</div>
     </section>
     <section class="publications-section1">
 

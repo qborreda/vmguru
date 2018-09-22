@@ -27,7 +27,7 @@
     <div class="wrapper">
 
         <section class="home-section">
-          <div class="section-title">НАШ АДРЕС</div>
+          <div class="section-title">Наш адрес</div>
         </section>
         <section class="contact-section1">
             <div class="contact-text">

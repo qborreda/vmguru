@@ -26,7 +26,7 @@
   <div class="wrapper">
 
     <section class="home-section">
-      <div class="section-title">НАШИ УСЛУГИ</div>
+      <div class="section-title">Наши услуги</div>
     </section>
     <section class="consulting-section1">
       <article class="hex-content clearfix">
@@ -279,7 +279,7 @@
     </section>
 
     <section class="home-section">
-      <div class="section-title">КЛИЕНТЫ</div>
+      <div class="section-title">Клиенты</div>
     </section>
     <section class="consulting-section2">
       <?php include "_client-grid.php"; ?>

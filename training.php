@@ -25,7 +25,7 @@
     <div class="wrapper">
 
         <section class="home-section">
-          <div class="section-title">ОБУЧЕНИЕ</div>
+          <div class="section-title">Обучение</div>
           <div class="home-section-intro-text">
               <p>Мы обучаем специалистов компаний
               <br/>по следующим направлениям:</p>
@@ -51,7 +51,7 @@
         </section>
 
         <section class="home-section">
-          <div class="section-title">ГРУППОВЫЕ ТРЕНИНГИ</div>
+          <div class="section-title">Групповые тренинги</div>
           <div class="home-section-intro-text">
               <p>Oбучение в формате интерактивного тренинга-практикума в группе до 14 человек по утвержденной программе в нашем офисе и на нашей торговой площадке.</p>
           </div>
@@ -67,7 +67,7 @@
         </section>
 
         <section class="home-section">
-          <div class="section-title">КОРПОРАТИВНОЕ ОБУЧЕНИЕ</div>
+          <div class="section-title">Корпоративное обучение</div>
         </section>
         <section class="trainings-section1">
             <article class="hex-content clearfix">
@@ -142,7 +142,7 @@
 
         <!-- SEMINARS -->
         <section class="home-section">
-          <div class="section-title">Семинары и мастер-классы</div>
+          <div class="section-title">Семинары и мастер классы</div>
           <div class="home-section-intro-text">
             <p>на выставках, форумах и конференциях</p>
           </div>
