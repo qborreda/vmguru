@@ -23,9 +23,9 @@
   <!-- MAIN HEADER -->
   <?php include "header.php"; ?>
 
-  <div class="wrapper">
+  <div class="short_wrapper">
 
-    <section class="home-section">
+    <section class="new-section">
       <div class="section-title">Наши услуги</div>
     </section>
     <section class="consulting-section1">
@@ -278,7 +278,7 @@
       </article>
     </section>
 
-    <section class="home-section">
+    <section class="new-section">
       <div class="section-title">Клиенты</div>
     </section>
     <section class="consulting-section2">

@@ -24,8 +24,8 @@
     <?php include "header.php"; ?>
 
     <!-- WRAPPER -->
-    <div class="wrapper">
-        <section class="home-section">
+    <div class="short_wrapper">
+        <section class="new-section">
           <div class="section-title">О проекте</div>
         </section>
         <section class="about-section1">
@@ -36,7 +36,7 @@
             <p class="about-section1--text">Наша команда – авторитетные профессионалы-практики с большим опытом работы в фэшн ритейле. Методики, инструменты и тренинг-технологии , которые мы используем для реализации проектов и выполнения задач клиента  протестированы и успешно внедрены нами для известных международных и российских компаний по продаже одежды, обуви и аксессуаров.</p>
         </section>
 
-        <section class="home-section">
+        <section class="new-section">
           <div class="section-title">Основатель</div>
         </section>
         <section class="about-section2">
@@ -101,7 +101,7 @@
             </div>
         </section>
 
-        <section class="home-section">
+        <section class="new-section">
           <div class="section-title">Главные роли</div>
         </section>
         <section class="about-section3">

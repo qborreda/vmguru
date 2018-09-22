@@ -22,11 +22,11 @@
     <!-- MAIN HEADER -->
     <?php include "header.php"; ?>
 
-    <div class="wrapper">
+    <div class="short_wrapper">
 
-        <section class="home-section">
+        <section class="new-section">
           <div class="section-title">Обучение</div>
-          <div class="home-section-intro-text">
+          <div class="section-intro-text">
               <p>Мы обучаем специалистов компаний
               <br/>по следующим направлениям:</p>
           </div>
@@ -50,9 +50,9 @@
             </div>
         </section>
 
-        <section class="home-section">
+        <section class="new-section">
           <div class="section-title">Групповые тренинги</div>
-          <div class="home-section-intro-text">
+          <div class="section-intro-text">
               <p>Oбучение в формате интерактивного тренинга-практикума в группе до 14 человек по утвержденной программе в нашем офисе и на нашей торговой площадке.</p>
           </div>
         </section>
@@ -66,7 +66,7 @@
           <?php include "_training-events.php"; ?>
         </section>
 
-        <section class="home-section">
+        <section class="new-section">
           <div class="section-title">Корпоративное обучение</div>
         </section>
         <section class="trainings-section1">
@@ -141,9 +141,9 @@
         </section>
 
         <!-- SEMINARS -->
-        <section class="home-section">
+        <section class="new-section">
           <div class="section-title">Семинары и мастер классы</div>
-          <div class="home-section-intro-text">
+          <div class="section-intro-text">
             <p>на выставках, форумах и конференциях</p>
           </div>
           <?php include "_seminars-masters.php"; ?>

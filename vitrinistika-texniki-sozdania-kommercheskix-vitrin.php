@@ -24,7 +24,7 @@
     <?php include "header.php"; ?>
 
     <!-- WRAPPER -->
-    <div class="wrapper">
+    <div class="short_wrapper">
 
         <section class="event-section1">
             <div class="event-section1-image event1"></div>
@@ -78,7 +78,7 @@
 
         </section>
 
-        <section class="home-section">
+        <section class="new-section">
           <div class="section-title">Программа</div>
         </section>
         <section class="event-section3">
@@ -177,14 +177,14 @@
             <p>Другие ВМ видео на <a href="https://www.youtube.com/channel/UC3wAc98I2O_bcAK8OD3koQQ" target="_blank">канале VM Guru</a></p>
         </section>
 
-        <section class="home-section">
+        <section class="new-section">
           <div class="section-title">Автор и тренер</div>
         </section>
         <section class="event-section4">
             <?php include "_trainer-anna.php"; ?>
         </section>
 
-        <section class="home-section">
+        <section class="new-section">
           <div class="section-title">Стоимость</div>
         </section>
         <section class="event-section4">
@@ -207,7 +207,7 @@
         </section>
 
         <!-- FORM SECTION -->
-        <section class="home-section">
+        <section class="new-section">
           <div class="section-title">Оставить заявку</div>
         </section>
         <section class="event-section5">

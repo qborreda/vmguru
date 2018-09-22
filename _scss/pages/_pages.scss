@@ -5,10 +5,11 @@ body {
   line-height: $BASE-LINE-HEIGHT;
 }
 
-.wrapper {
+.wrapper,
+.full_wrapper,
+.short_wrapper {
   display: block;
   margin: 100px auto 0;
-  max-width: 1300px;
   width: 100%;
 
   @include mq($from: tablet) {
@@ -19,40 +20,11 @@ body {
   }
 }
 
-.home-section,
-.new-section {
-  margin: 0 auto 25px;
-  padding: 0 10px;
-  line-height: 1.8rem;
+.wrapper {
+  max-width: 1300px;
+}
+.short_wrapper {
   max-width: 1440px;
-
-  @include mq($from: tablet) {
-    margin: 0 auto 50px;
-  }
-
-  .home-section-intro-text {
-    display: block;
-    width: 80%;
-    max-width: 1300px;
-    margin: 0 auto 25px;
-    text-align: center;
-    font-size: 18px;
-    font-weight: 400;
-
-    p {
-      text-align: center;
-      margin-bottom: 30px;
-    }
-
-    @include mq($from: tablet) {
-      margin: 0 auto 50px;
-      font-size: 20px;
-    }
-
-    @include mq($from: desktop) {
-      font-size: 24px;
-    }
-  }
 }
 
 // Pages
