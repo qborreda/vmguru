@@ -77,10 +77,8 @@
 
         </section>
 
-        <section class="new-section">
+        <section class="new-section event-section3">
           <div class="section-title">Программа</div>
-        </section>
-        <section class="event-section3">
 
             <div class="event-journey">
                 ДЕНЬ 1.

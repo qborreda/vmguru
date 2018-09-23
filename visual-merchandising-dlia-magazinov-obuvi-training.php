@@ -75,7 +75,7 @@
 
         </section>
 
-        <section class="project-details">
+        <section class="new-section project-details">
           <div class="project-carrusel">
 
               <div class="js-carrusel-1">
@@ -108,10 +108,8 @@
           </div>
         </section>
 
-        <section class="new-section">
+        <section class="new-section event-section3">
           <div class="section-title">Программа</div>
-        </section>
-        <section class="event-section3">
 
             <div class="event-journey">
                 ДЕНЬ 1, ЧАСТЬ 1.
