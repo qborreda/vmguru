@@ -1,0 +1,156 @@
+.hero_section {
+  display: block;
+  width: 100%;
+  margin: 0 0 25px;
+
+  @include mq($from: tablet) {
+    margin: 0 0 50px;
+  }
+
+  .hero_image {
+    position: relative;
+    width: 100%;
+    hight: auto;
+
+    .hero_contents {
+      position: absolute;
+      top: 20%;
+      left: 25px;
+      bottom: 0;
+      right: 0;
+      width: calc(100% - 50px);
+      @include mq($from: tablet) {
+        top: 20%;
+        left: 50px;
+        width: calc(100% - 100px);
+      }
+      @include mq($from: desktop) {
+        top: 20%;
+        left: 100px;
+        width: calc(100% - 200px);
+      }
+    }
+
+    .hero_dates,
+    .hero_title,
+    .hero_description {
+      display: block;
+      line-height: 1;
+      margin-top: 30px;
+      font-family: $BASE-FONT;
+      font-weight: 400;
+      font-size: 20px;
+      color: $WHITE;
+    }
+
+    .hero_dates {
+      font-size: 28px;
+      font-weight: 100;
+      margin-top: unset;
+      color: $DETAIL-CYAN;
+      @include mq($from: tablet) {
+        font-size: 30px;
+      }
+      @include mq($from: desktop) {
+        font-size: 38px;
+      }
+      @include mq($from: wide) {
+        font-size: 44px;
+      }
+    }
+    .hero_title {
+      width: 100%;
+      font-size: 28px;
+      font-weight: 900;
+      @include mq($from: tablet) {
+        width: 80%;
+        margin-top: 35px;
+        font-size: 30px;
+      }
+      @include mq($from: desktop) {
+        width: 70%;
+        margin-top: 40px;
+        font-size: 38px;
+      }
+      @include mq($from: wide) {
+        width: 60%;
+        margin-top: 50px;
+        font-size: 44px;
+      }
+    }
+    .hero_description {
+      display: none;
+      font-size: 12px;
+      line-height: 1.2;
+      @include mq($from: tablet) {
+        display: block;
+        margin-top: 35px;
+        font-size: 14px;
+      }
+      @include mq($from: desktop) {
+        font-size: 16px;
+      }
+      @include mq($from: wide) {
+        margin-top: 50px;
+        font-size: 18px;
+      }
+    }
+
+    .cta-button {
+      display: none;
+      margin-top: 35px;
+      padding: 8px 24px;
+      border-radius: 20px;
+      font-size: 10px;
+      font-weight: 300;
+      line-height: 1.5;
+      color: $WHITE;
+      background-color: $DETAIL-ORANGE;
+      cursor: pointer;
+
+      @include mq($from: desktop) {
+        font-size: 12px;
+      }
+
+      @include mq($from: wide) {
+        padding: 2px 16px;
+        font-size: 14px;
+      }
+
+      &:hover {
+        color: $WHITE;
+        background-color: $DETAIL-ORANGE;
+      }
+    }
+
+    /* Other aspect ratios to try:
+     * 56.25% = 16:9
+     * 75% = 4:3
+     * 66.66% = 3:2
+     * 62.5% = 8:5
+     */
+    &:after {
+      display:block;
+      content:"";
+      padding-top: 45%;
+      min-height: 300px;
+    }
+
+    &.shoes:after {
+      background: transparent url('../imgs/training-shoes-hero.jpg') center center no-repeat;
+      background-size: cover;
+    }
+    &.event2:after {
+      background: transparent url('../imgs/hero-image2.jpg') center center no-repeat;
+      background-size: cover;
+    }
+    &.event3:after {
+      background: transparent url('../imgs/hero-image3.jpg') center center no-repeat;
+      background-size: cover;
+    }
+    &.event4:after {
+      background: transparent url('../imgs/hero-image4.jpg') center center no-repeat;
+      background-size: cover;
+    }
+  }
+}

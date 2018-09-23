@@ -26,6 +26,9 @@ body {
 .short_wrapper {
   max-width: 1440px;
 }
+.full_wrapper + .short_wrapper {
+  margin-top: 10px;
+}
 
 // Pages
 @import "_home.scss";

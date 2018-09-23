@@ -23,25 +23,30 @@
     <!-- MAIN HEADER -->
     <?php include "header.php"; ?>
 
+    <!-- FULL WRAPPER -->
+    <div class="full_wrapper">
+
+      <section class="hero_section">
+          <div class="hero_image shoes">
+            <div class="hero_contents">
+              <div class="hero_dates">15 - 16 ноября</div>
+              <div class="hero_title">Визуальный мерчандайзинг для магазинов обуви и аксессуаров</div>
+              <p class="hero_description">
+                  Узнаете правила ВМ для магазинов обуви и аксессуаров
+                  <br/>Как создать систему ВМ торговой марки используя индивидуальные параметры бренда
+                  <br/>Как выделить функциональные зоны торгового пространства и направить туда покупателей
+                  <br/>Отработаете прикладные техники ВМ на практике
+                  <br/>Научитесь создавать эффективную выкладку коллекций и продающие витрины
+              </p>
+              <div class="cta-button">заказать консультацию ›</div>
+            </div>
+          </div>
+      </section>
+
+    </div>
+
     <!-- WRAPPER -->
     <div class="short_wrapper">
-
-        <section class="event-section1">
-            <div class="event-section1-image event3"></div>
-            <div class="boxed-title">
-                <div class="box-skewy"></div>
-                <div class="box-texts">
-                    <div class="box-texts-date">
-                        <span class="day">15 - 16</span>
-                        <span class="month">ноября</span>
-                    </div>
-                    <div class="box-texts-title">
-                        ВИЗУАЛЬНЫЙ МЕРЧАНДАЙЗИНГ ДЛЯ МАГАЗИНОВ ОБУВИ И АКСЕССУАРОВ
-                    </div>
-                    <span class="box-texts-detail">групповой тренинг</span>
-                </div>
-            </div>
-        </section>
 
         <section class="event-section2">
 
