@@ -65,7 +65,7 @@
       }
     }
 
-    &.is-special { 
+    &.is-special {
       .project-box { background-color: $DETAIL-CYAN; color: $BKGR-GREY; }
       .project-box:before { border-right: 50px solid $DETAIL-CYAN; }
       .project-box:after { border-left: 50px solid $DETAIL-CYAN; }
@@ -82,8 +82,6 @@
       .hexa { left: null; right: -55px;}
     }
   }
-}
 
-.home-section4 {
   .crossed-box { margin-bottom: 50px; }
 }
