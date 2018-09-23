@@ -23,35 +23,31 @@
     <!-- MAIN HEADER -->
     <?php include "header.php"; ?>
 
+    <!-- FULL WRAPPER -->
+    <div class="full_wrapper">
+
+      <section class="hero_section">
+          <div class="hero_image shops">
+            <div class="hero_contents">
+              <div class="hero_dates">19 октября</div>
+              <div class="hero_title">Создание эффективного магазина фэшн сегмента br планировки зонирование оптимальная вместимость вм дизайн</div>
+              <p class="hero_description">
+                  Узнаете как спланировать эффективно «продающий» магазин
+                  <br/>Как рассчитать оптимальную вместимость коллекций в зале и оптимизировать зонирование
+                  <br/>Как отразить в торговом пространстве ДНК и привлекательность бренда, а также управлять вниманием покупателей, повышая таким образом продажи
+                  <br/>О мировых тенденциях в дизайне магазинов и ВМ оборудовании
+              </p>
+              <div class="cta-button">заказать консультацию ›</div>
+            </div>
+          </div>
+      </section>
+
+    </div>
+
     <!-- WRAPPER -->
     <div class="short_wrapper">
 
-        <section class="event-section1">
-            <div class="event-section1-image event2"></div>
-            <div class="boxed-title">
-                <div class="box-skewy"></div>
-                <div class="box-texts">
-                    <div class="box-texts-date">
-                        <span class="day">19</span>
-                        <span class="month">октября</span>
-                    </div>
-                    <div class="box-texts-title">
-                        СОЗДАНИЕ ЭФФЕКТИВНОГО МАГАЗИНА ФЭШН СЕГМЕНТА:
-                        <br/>ПЛАНИРОВКИ, ЗОНИРОВАНИЕ, ОПТИМАЛЬНАЯ ВМЕСТИМОСТЬ, ВМ ДИЗАЙН
-                    </div>
-                    <span class="box-texts-detail">групповой тренинг</span>
-                </div>
-            </div>
-        </section>
-
         <section class="new-section event-section2">
-
-            <ul class="resume-list">
-                <li>Узнаете как спланировать эффективно «продающий» магазин </li>
-                <li>Как рассчитать оптимальную вместимость коллекций в зале и оптимизировать зонирование</li>
-                <li>Как отразить в торговом пространстве ДНК и привлекательность бренда, а также управлять вниманием покупателей, повышая таким образом продажи</li>
-                <li>О мировых тенденциях в дизайне магазинов и ВМ оборудовании</li>
-            </ul>
 
             <div class="more-info">
                 <div class="more-info-left">

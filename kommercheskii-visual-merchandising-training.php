@@ -23,31 +23,32 @@
     <!-- MAIN HEADER -->
     <?php include "header.php"; ?>
 
+    <!-- FULL WRAPPER -->
+    <div class="full_wrapper">
+
+      <section class="hero_section">
+          <div class="hero_image vm">
+            <div class="hero_contents">
+              <div class="hero_dates">17 - 18 октября</div>
+              <div class="hero_title">Коммерческий визуальный мерчандайзинг прикладные техники от а до я</div>
+              <p class="hero_description">
+                Изучите и отработаете на практике законы презентации коллекций в торговом зале с адаптацией «под бренд»
+                <br/>Узнаете о ВМ техниках «затягивания» покупателей в магазин
+                <br/>Освоите визуальный мерчандайзинг быстрого реагирования
+                <br/>Превратите теоретические знания о визуальном мерчендайзинге в практические навыки и умения
+              </p>
+              <div class="cta-button">заказать консультацию ›</div>
+            </div>
+          </div>
+      </section>
+
+    </div>
+
     <!-- WRAPPER -->
     <div class="short_wrapper">
-        <section class="event-section1">
-            <div class="event-section1-image event4"></div>
-            <div class="boxed-title">
-                <div class="box-skewy"></div>
-                <div class="box-texts">
-                    <div class="box-texts-date">
-                        <span class="day">17 - 18</span>
-                        <span class="month">октября</span>
-                    </div>
-                    <div class="box-texts-title">
-                        КОММЕРЧЕСКИЙ ВИЗУАЛЬНЫЙ МЕРЧАНДАЙЗИНГ; ПРИКЛАДНЫЕ ТЕХНИКИ «ОТ А ДО Я»
-                    </div>
-                    <span class="box-texts-detail">групповой тренинг</span>
-                </div>
-            </div>
-        </section>
+
         <section class="new-section event-section2">
-            <ul class="resume-list">
-                <li>Изучите и отработаете на практике законы презентации коллекций в торговом зале с адаптацией «под бренд»</li>
-                <li>Узнаете о ВМ техниках «затягивания» покупателей в магазин</li>
-                <li>Освоите визуальный мерчандайзинг быстрого реагирования </li>
-                <li>Превратите теоретические знания о визуальном мерчендайзинге в практические навыки и умения</li>
-            </ul>
+
             <div class="more-info">
                 <div class="more-info-left">
                   <img class="info-icon" src="/imgs/ico-for-whom.svg" alt="для кого?">

@@ -23,36 +23,33 @@
     <!-- MAIN HEADER -->
     <?php include "header.php"; ?>
 
+    <!-- FULL WRAPPER -->
+    <div class="full_wrapper">
+
+      <section class="hero_section">
+          <div class="hero_image windows">
+            <div class="hero_contents">
+              <div class="hero_dates">25 - 26 октября</div>
+              <div class="hero_title">Витринистика создание эффективных витрин большой эффект без больших расходов</div>
+              <p class="hero_description">
+                  Научитесь техникам создания эффективных витрин под задачи бренда
+                  <br/>Узнаете о всех тонкостях коммерческой презентации товара в витрине и закрепите их на практике
+                  <br/>Изучите способы создания низкобюджетных витрин
+                  <br/>Научитесь использовать опыт лучших практик мировой витринистики, не копируя его
+                  <br/>Создадите витрину в мультибрендовом магазина
+                  <br/>Разовьете свою креативность
+              </p>
+              <div class="cta-button">заказать консультацию ›</div>
+            </div>
+          </div>
+      </section>
+
+    </div>
+
     <!-- WRAPPER -->
     <div class="short_wrapper">
 
-        <section class="event-section1">
-            <div class="event-section1-image event1"></div>
-            <div class="boxed-title">
-                <div class="box-skewy"></div>
-                <div class="box-texts">
-                    <div class="box-texts-date">
-                        <span class="day">25 - 26</span>
-                        <span class="month">октября</span>
-                    </div>
-                    <div class="box-texts-title">
-                        ВИТРИНИСТИКА: СОЗДАНИЕ ЭФФЕКТИВНЫХ ВИТРИН. БОЛЬШОЙ ЭФФЕКТ БЕЗ БОЛЬШИХ РАСХОДОВ.
-                    </div>
-                    <span class="box-texts-detail">групповой тренинг</span>
-                </div>
-            </div>
-        </section>
-
         <section class="new-section event-section2">
-
-            <ul class="resume-list">
-            <li>Научитесь техникам создания эффективных витрин под задачи бренда</li>
-            <li>Узнаете о всех тонкостях коммерческой презентации товара в витрине и закрепите их на практике</li>
-            <li>Изучите способы создания низкобюджетных витрин </li>
-            <li>Научитесь использовать опыт лучших практик мировой витринистики, не копируя его</li>
-            <li>Создадите витрину в мультибрендовом магазина</li>
-            <li>Разовьете свою креативность</li>
-            </ul>
 
             <div class="more-info">
                 <div class="more-info-left">

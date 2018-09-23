@@ -142,15 +142,15 @@
       background: transparent url('../imgs/training-shoes-hero.jpg') center center no-repeat;
       background-size: cover;
     }
-    &.event2:after {
+    &.windows:after {
+      background: transparent url('../imgs/hero-image1.jpg') center center no-repeat;
+      background-size: cover;
+    }
+    &.shops:after {
       background: transparent url('../imgs/hero-image2.jpg') center center no-repeat;
       background-size: cover;
     }
-    &.event3:after {
-      background: transparent url('../imgs/hero-image3.jpg') center center no-repeat;
-      background-size: cover;
-    }
-    &.event4:after {
+    &.vm:after {
       background: transparent url('../imgs/hero-image4.jpg') center center no-repeat;
       background-size: cover;
     }
