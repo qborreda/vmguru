@@ -143,16 +143,25 @@
       background-size: cover;
     }
     &.windows:after {
-      background: transparent url('../imgs/hero-image1.jpg') center center no-repeat;
-      background-size: cover;
+      /* background: transparent url('../imgs/hero-image1.jpg') center center no-repeat; */
+      background-image: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('../imgs/hero-image1.jpg');
+      background-repeat: no-repeat, no-repeat;
+      background-position: center center, center center;
+      background-size: cover, cover;
     }
     &.shops:after {
-      background: transparent url('../imgs/hero-image2.jpg') center center no-repeat;
-      background-size: cover;
+      /* background: transparent url('../imgs/hero-image2.jpg') center center no-repeat; */
+      background-image: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('../imgs/hero-image2.jpg');
+      background-repeat: no-repeat, no-repeat;
+      background-position: center center, center center;
+      background-size: cover, cover;
     }
     &.vm:after {
-      background: transparent url('../imgs/hero-image4.jpg') center center no-repeat;
-      background-size: cover;
+      /* background: transparent url('../imgs/hero-image4.jpg') center center no-repeat; */
+      background-image: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('../imgs/hero-image4.jpg');
+      background-repeat: no-repeat, no-repeat;
+      background-position: center center, center center;
+      background-size: cover, cover;
     }
   }
 }
