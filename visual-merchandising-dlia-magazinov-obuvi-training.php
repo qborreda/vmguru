@@ -108,6 +108,50 @@
           </div>
         </section>
 
+        <section class="new-section">
+          <div class="section-title">Программа</div>
+
+          <div class="training-programma">
+            <div class="days-column">
+              <h3 class="day">День 1</h3>
+              <h6 class="session">Часть 1<br />Теоретическая подготовка</h6>
+            </div>
+            <div class="logo-column">
+              <img src="/imgs/ico-programma-1.svg" width="100%" alt="ДЕНЬ 1">
+            </div>
+            <div class="text-column">
+              Some text
+            </div>
+          </div>
+
+          <div class="training-programma">
+            <div class="days-column">
+              <h3 class="day">День 1</h3>
+              <h6 class="session">Часть 2<br />Блиц консалтинг</h6>
+            </div>
+            <div class="logo-column">
+              <img src="/imgs/ico-programma-2.svg" width="100%" alt="ДЕНЬ 1">
+            </div>
+            <div class="text-column">
+              Some text
+            </div>
+          </div>
+
+          <div class="training-programma">
+            <div class="days-column">
+              <h3 class="day">День 2</h3>
+              <h6 class="session">Практика в магазине</h6>
+            </div>
+            <div class="logo-column">
+              <img src="/imgs/ico-programma-3.svg" width="100%" alt="ДЕНЬ 1">
+            </div>
+            <div class="text-column">
+              Some text
+            </div>
+          </div>
+
+        </section>
+
         <section class="new-section event-section3">
           <div class="section-title">Программа</div>
 
