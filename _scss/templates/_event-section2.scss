@@ -44,14 +44,13 @@
       @include display_flex();
       @include flex_flex-direction(column);
       @include flex_justify-content(center);
-      @include flex_align-items(center);
-      @include flex_flex(1 1 96%);
-      max-width: 96%;
+      @include flex_align-items(flex-start);
+      @include flex_flex(1 1 90%);
+      max-width: 90%;
       margin: 15px 0;
       min-height: 0;
 
       @include mq($from: tablet) {
-        @include flex_align-items(flex-start);
         @include flex_flex(1 1 45%);
         max-width: 45%;
         margin: 0 30px;
@@ -74,31 +73,30 @@
 
       .info-title {
         position: relative;
-        display: inline-block;
+        display: block;
         margin-top: 0;
-        padding-right: 30px;
-        font-size: 38px;
-        font-weight: 100;
-        font-style: italic;
+        padding-bottom: 16px;
+        font-size: 30px;
+        font-weight: 400;
         line-height: 45px;
         overflow: hidden;
 
-        span {
-          display: block;
+        &:after {
+          content: "";
           position: absolute;
-          top: 25%;
+          bottom: 0;
           left: 0;
-          width: 130%;
-          height: 50%;
+          display: inline-block;
+          width: 100px;
+          height: 8px;
           background-color: $DETAIL-CYAN;
-          transform: skewY(-5deg);
-          z-index: -1;
         }
       }
 
       .info-bullets {
-        padding: 0 1rem;
+        padding: 0;
         line-height: 1.5rem;
+        list-style: none;
       }
 
       p:not(last-child),
