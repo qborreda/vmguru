@@ -44,7 +44,7 @@
             </div>
         </section>
 
-        <section class="event-section2">
+        <section class="new-section event-section2">
 
             <ul class="resume-list">
                 <li>Узнаете как спланировать эффективно «продающий» магазин </li>
@@ -55,8 +55,9 @@
 
             <div class="more-info">
                 <div class="more-info-left">
-                    <h3><span></span>для кого?</h3>
-                    <ul>
+                  <img class="info-icon" src="/imgs/ico-for-whom.svg" alt="для кого?">
+                    <h3 class="info-title"><span></span>для кого?</h3>
+                    <ul class="info-bullets">
                     <li>владельцы бизнеса</li>
                     <li>руководители розницы</li>
                     <li>руководители и специалисты отделов ВМ</li>
@@ -64,8 +65,9 @@
                     </ul>
                 </div>
                 <div class="more-info-right">
-                    <h3><span></span>формат</h3>
-                    <ul>
+                  <img class="info-icon" src="/imgs/ico-format.svg" alt="формат"> class="info-bullets"
+                    <h3 class="info-title"><span></span>формат</h3>
+                    <ul class="info-bullets">
                     <li>в группе не более 12 человек</li>
                     <li>участники обеспечиваются раздаточными материалами</li>
                     <li>по окончании семинара участники получают сертификат компании VM GURU</li>

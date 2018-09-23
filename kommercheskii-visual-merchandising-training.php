@@ -41,7 +41,7 @@
                 </div>
             </div>
         </section>
-        <section class="event-section2">
+        <section class="new-section event-section2">
             <ul class="resume-list">
                 <li>Изучите и отработаете на практике законы презентации коллекций в торговом зале с адаптацией «под бренд»</li>
                 <li>Узнаете о ВМ техниках «затягивания» покупателей в магазин</li>
@@ -50,16 +50,18 @@
             </ul>
             <div class="more-info">
                 <div class="more-info-left">
-                    <h3><span></span>для кого?</h3>
-                    <ul>
+                  <img class="info-icon" src="/imgs/ico-for-whom.svg" alt="для кого?">
+                    <h3 class="info-title"><span></span>для кого?</h3>
+                    <ul class="info-bullets">
                     <li>руководители и специалисты отделов ВМ</li>
                     <li>руководители  и специалисты розницы</li>
                     <li>управляющие магазинов</li>
                     </ul>
                 </div>
                 <div class="more-info-right">
-                    <h3><span></span>о чём?</h3>
-                    <ul>
+                  <img class="info-icon" src="/imgs/ico-format.svg" alt="формат">
+                    <h3 class="info-title"><span></span>о чём?</h3>
+                    <ul class="info-bullets">
                     <li>день 1 – теория</li>
                     <li>день 2 – практика в магазине </li>
                     <li>группа  не более 14 человек</li>
