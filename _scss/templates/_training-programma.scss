@@ -81,4 +81,34 @@
       border-top: none;
     }
   }
+
+  .event-journey-description {
+    margin-bottom: 10px;
+    font-size: 16px;
+    font-weight: 600;
+
+    p {
+      padding: 0 2rem;
+      margin-bottom: 1.2rem;
+      font-weight: 300;
+    }
+
+    &.is-highlight {
+      color: $RED-HIGHLIGHT;
+      span {
+        font-weight: 300;
+      }
+    }
+
+    .event-journey-bullets {
+      font-size: 16px;
+      font-weight: 300;
+      margin-left: 2rem;
+      list-style: none;
+      ul {
+        margin-left: 1.2rem;
+        list-style: none;
+      }
+    }
+  }
 }
