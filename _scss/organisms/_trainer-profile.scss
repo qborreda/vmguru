@@ -7,6 +7,7 @@
 
   @include mq($from: tablet) {
     min-height: 330px;
+    margin-top: 125px;
   }
 
   &-picture {
@@ -14,16 +15,27 @@
     top: 0;
     left: 0;
     transform: translate(-25%, -20%);
+
+    img {
+      width: 250px;
+
+      @include mq($from: tablet) {
+        width: unset;
+      }
+    }
   }
 
   &-resume {
     position: relative;
-    @include flex_flex(1 1 auto);
-    padding: 30px;
-    margin-left: 20px;
+    padding: 190px 30px 20px 30px;
+
+    @include mq($from: tablet) {
+      margin-left: 350px;
+      padding: 30px;
+    }
 
     @include mq($from: desktop) {
-      margin-left: 470px;
+      margin-left: 400px;
     }
 
     @include mq($from: wide) {
@@ -38,10 +50,10 @@
   }
 
   &-title {
-    font-size: 20px;
+    font-size: 16px;
     font-weight: 600;
     color: $DETAIL-ORANGE;
-    text-transformation: uppercase;
+    text-transform: uppercase;
   }
 
   &-name {
