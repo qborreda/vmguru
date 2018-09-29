@@ -212,8 +212,7 @@
 
         <section class="new-section">
           <div class="section-title">Стоимость</div>
-        </section>
-        <section class="event-section4">
+
             <ul class="event-data">
                 <li><span class="title">продолжительность</span><span class="item">2 дня (14 академических часов)</span>
                 </li>
@@ -236,8 +235,7 @@
         <!-- FORM SECTION -->
         <section class="new-section">
           <div class="section-title">Оставить заявку</div>
-        </section>
-        <section class="event-section5">
+
             <form id="event-form" class="event-info" action="send-event-form.php" method="post" lang="ru" accept-charset="UTF-8">
 
             <?php include "_training-form.php"; ?>
