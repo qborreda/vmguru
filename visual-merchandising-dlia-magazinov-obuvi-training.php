@@ -234,7 +234,6 @@
             <?php include "_training-form.php"; ?>
 
             <input type="hidden" name="interest" value="ВИЗУАЛЬНЫЙ МЕРЧАНДАЙЗИНГ ДЛЯ МАГАЗИНОВ ОБУВИ И АКСЕССУАРОВ">
-
             <div class="form-buttons">
                 <button class="form-submit js-event-submit" type="submit">ОТПРАВИТЬ ЗАЯВКУ</button>
             </div>
