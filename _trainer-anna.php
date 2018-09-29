@@ -1,6 +1,6 @@
 <div class="trainer">
     <div class="trainer-picture">
-        <img src="imgs/trainer-anna-balandina.png" alt="Анна Баландина">
+        <img src="imgs/trainer-anna-balandina.png" alt="Анна Баландина" class="lazy">
     </div>
     <div class="trainer-resume">
       <div class="trainer-title">Автор и тренер</div>

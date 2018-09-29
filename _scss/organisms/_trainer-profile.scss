@@ -3,7 +3,7 @@
   display: block;
   background-color: #EFEFEF;
   min-height: 330px;
-  margin-top: 125px;
+  margin-top: 30px;
 
   @include mq($from: tablet) {
     min-height: 330px;
