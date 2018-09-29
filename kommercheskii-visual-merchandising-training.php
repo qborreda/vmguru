@@ -206,7 +206,8 @@
                 </li>
                 <li><span class="title">стоимость</span>
                   <span class="item">
-                    22 500 руб. / <span class="is-highlighted">19 000 руб - ранние продажи до 25.07</span>
+                    22 500 руб.<br />
+                    <!-- / <span class="is-highlighted">19 000 руб - ранние продажи до 25.07</span> -->
                   </span>
                 </li>
                 <li><span class="title">место проведения день 1</span><span class="item">Москва, Трубная ул., д 12, бизнес-центр «Миллениум Хаус»</span>
