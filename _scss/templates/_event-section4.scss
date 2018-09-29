@@ -9,62 +9,6 @@
     padding: 20px 50px;
   }
 
-  .trainer {
-    position: relative;
-    @include display_flex();
-    @include flex_flex-direction(column);
-    @include flex_justify-content(center);
-    @include flex_align-items(center);
-
-    @include mq($from: tablet) {
-      @include flex_flex-direction(row);
-      @include flex_justify-content(space-between);
-      @include flex_align-items(start);
-    }
-
-    &-resume {
-      position: relative;
-      @include flex_flex(1 1 auto);
-      margin-left: 20px;
-      padding-top: 30px;
-
-      @include mq($from: tablet) {
-        margin-left: 60px;
-      }
-
-      li {
-        margin-bottom: 0.5rem;
-        font-style: italic;
-      }
-
-      p {
-        margin: 1.5rem 0;
-        font-size: 16px;
-        font-weight: 300;
-        line-height: 1.5rem;
-      }
-    }
-
-    &-name {
-      h2 {
-        display: inline-block;
-        margin: 0 0 20px 0;
-        padding: 0 0 3px 0;
-        font-size: 28px;
-        font-weight: 700;
-        border-bottom: 1px solid $DETAIL-GREY;
-      }
-    }
-
-    &-education {
-      display: block;
-      width: 100%;
-      font-size: 17px;
-      font-weight: 300;
-      line-height: 1.5rem;
-    }
-  }
-
   .event-data {
     display: table;
     width: 100%;
@@ -102,8 +46,6 @@
         .title {
           width: 360px;
           margin-right: 60px;
-        }
-        .item {
         }
       }
     }

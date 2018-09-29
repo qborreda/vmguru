@@ -4,6 +4,10 @@
   line-height: 1.8rem;
   max-width: 1440px;
 
+  &.no-padding {
+    padding: 0;
+  }
+
   @include mq($from: tablet) {
     margin: 0 auto 50px;
   }

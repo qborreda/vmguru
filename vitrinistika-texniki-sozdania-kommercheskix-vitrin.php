@@ -200,13 +200,15 @@
             </div>
             <p>Другие ВМ видео на <a href="https://www.youtube.com/channel/UC3wAc98I2O_bcAK8OD3koQQ" target="_blank">канале VM Guru</a></p>
         </section>
+    </div>
 
-        <section class="new-section">
-          <div class="section-title">Автор и тренер</div>
-        </section>
-        <section class="event-section4">
+    <div class="full_wrapper">
+        <section class="new-section no-padding">
             <?php include "_trainer-anna.php"; ?>
         </section>
+    </div>
+
+    <div class="short_wrapper">
 
         <section class="new-section">
           <div class="section-title">Стоимость</div>

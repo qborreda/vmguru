@@ -26,8 +26,12 @@ body {
 .short_wrapper {
   max-width: 1440px;
 }
-.full_wrapper + .short_wrapper {
+.full_wrapper + .short_wrapper,
+.short_wrapper + .full_wrapper {
   margin-top: 10px;
+  @include mq($from: tablet) {
+    margin: 10px auto 0;
+  }
 }
 
 // Pages

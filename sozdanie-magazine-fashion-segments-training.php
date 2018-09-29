@@ -163,13 +163,15 @@
           </div>
 
         </section>
+    </div>
 
-        <section class="new-section">
-          <div class="section-title">Автор и тренер</div>
-        </section>
-        <section class="event-section4">
+    <div class="full_wrapper">
+        <section class="new-section no-padding">
             <?php include "_trainer-anna.php"; ?>
         </section>
+    </div>
+
+    <div class="short_wrapper">
 
         <section class="new-section">
           <div class="section-title">Стоимость</div>
