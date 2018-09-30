@@ -1,19 +1,5 @@
 <!-- TRAINING EVENTS -->
 <div class="skewed-items">
-    <!-- VM -->
-    <article class="container">
-        <a class="no-border" href="/kommercheskii-visual-merchandising-training.php">
-        <img src="imgs/bkgr_skew_placeholder.jpg" data-src="imgs/bkgr_event2.jpg" class="lazy">
-        <div class="article-stripe">
-            <div class="article-dates">
-                <span class="month">октября</span>
-                <span class="date">17 - 18</span>
-            </div>
-            <p class="description">Коммерческий визуальный мерчандайзинг; прикладные техники «от А до Я»</p>
-        </div>
-      <div class="cta-button">Узнать больше ›</div>
-    </a>
-    </article>
     <!-- SHOPS -->
     <article class="container">
         <a class="no-border" href="/sozdanie-magazine-fashion-segments-training.php">
@@ -27,6 +13,20 @@
         </div>
         <div class="cta-button">Узнать больше ›</div>
         </a>
+    </article>
+    <!-- VM -->
+    <article class="container">
+        <a class="no-border" href="/kommercheskii-visual-merchandising-training.php">
+        <img src="imgs/bkgr_skew_placeholder.jpg" data-src="imgs/bkgr_event2.jpg" class="lazy">
+        <div class="article-stripe">
+            <div class="article-dates">
+                <span class="month">октября</span>
+                <span class="date">22 - 23</span>
+            </div>
+            <p class="description">Коммерческий визуальный мерчандайзинг; прикладные техники «от А до Я»</p>
+        </div>
+      <div class="cta-button">Узнать больше ›</div>
+    </a>
     </article>
     <!-- WINDOWS -->
     <article class="container">

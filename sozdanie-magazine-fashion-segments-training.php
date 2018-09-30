@@ -144,7 +144,7 @@
           <div class="training-programma">
             <div class="days-column">
               <h3 class="day">Часть 2</h3>
-              <h6 class="session">Практика в магазине</h6>
+              <h6 class="session">Блиц консалтинг</h6>
             </div>
             <div class="logo-column">
               <img src="/imgs/ico-programma-3.svg" width="100%" alt="ДЕНЬ 1">

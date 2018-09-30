@@ -29,7 +29,7 @@
       <section class="hero_section">
           <div class="hero_image vm">
             <div class="hero_contents">
-              <div class="hero_dates">17 - 18 октября</div>
+              <div class="hero_dates">22 - 23 октября</div>
               <div class="hero_title">Коммерческий визуальный мерчандайзинг; прикладные техники «от А до Я»</div>
               <p class="hero_description">
                 Изучите и отработаете на практике законы презентации коллекций в торговом зале с адаптацией «под бренд»
