@@ -1,0 +1,51 @@
+.testimonial {
+  margin: 0 auto 2rem;
+  padding: 0 20px;
+  max-width: 850px;
+
+  .testimonial-intro-text,
+  .testimonial-full-text {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.2;
+    p {
+      padding: 0;
+      margin: 0 0 1rem;
+    }
+  }
+  .testimonial-footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: stretch;
+    /* align-items: flex-start;
+    align-content: flex-start; */
+    flex: 1 1 auto;
+    width: 100%;
+  }
+  .testimonial-author {
+    flex: 1 1 auto;
+    font-size: 18px;
+    font-weight: 900;
+    line-height: 1.1;
+    .testimonial-title {
+      font-size: 14px;
+      color: $DETAIL-ORANGE;
+    }
+  }
+
+  .trigger {
+    flex: 0 0 auto;
+    margin-left: auto;
+    margin-right: 2rem;
+    font-size: 12px;
+    line-height: 1;
+    color: $DETAIL-ORANGE;
+    background-color: $WHITE;
+    cursor: pointer;
+
+    svg {
+      margin-left: 0.8rem;
+      stroke: $DETAIL-ORANGE;
+    }
+  }
+}

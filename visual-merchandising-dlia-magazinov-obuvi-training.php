@@ -205,6 +205,85 @@
 
     <div class="short_wrapper">
 
+      <!-- TESTIMONIALS -->
+      <section class="new-section">
+        <div class="section-title">Отзывы клиентов</div>
+
+        <div class="testimonial">
+          <div class="testimonial-intro-text">
+            <p>Я прослушал два тренинга Анны: "Визуальный мерчандайзинг для магазинов обуви и аксессуаров" и "Создание эффективного магазина".</p>
+          </div>
+          <div class="testimonial-full-text js-toggle-content js-toggle-01">
+            <p>Программы очень полезны владельцам бизнеса, рекомендую. Мне они дали комплекс современных ВМ знаний и мощный толчок для изменений в бренде.</p>
+            <p>Мы продолжаем сотрудничество. Команда VM Guru разработала для Promenade брендинг-проект, два дизайн-проекта  и курирует все новые открытия и обучение персонала.</p>
+          </div>
+          <div class="testimonial-footer">
+            <div class="testimonial-author">
+              Александр Шапкин,
+              <div class="testimonial-title">Владелец бренда «Promenade»</div>
+            </div>
+            <div class="trigger js-trigger-toggle" data-target=".js-toggle-01">
+              <span>читать подробнее
+                <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30px" viewBox="0 0 111 32" enable-background="new 0 0 111 32" xml:space="preserve">
+                   <polyline fill="none" stroke-width="3" stroke-miterlimit="10" points="0.729,1.342 52.597,30.157 110.229,1.342"/>
+                </svg>
+              </span>
+            </div>
+          </div>
+        </div>
+
+        <div class="testimonial">
+          <div class="testimonial-intro-text">
+            <p>Я познакомилась с Анной Баландиной на MOСШУЗ, где Анна проводила семинар для обувных компаний и договорились о сотрудничестве - обучении ключевых сотрудников.</p>
+          </div>
+          <div class="testimonial-full-text js-toggle-content js-toggle-02">
+            <p>Предварительно Анна с коллегами провели аудит флагманского магазина Vera Victoria Vito и согласовали с нами формат и программу обучения.  Первый день был полностью посвящен теории, с примерами на слайдах и обзорами успешного опыта сильных брендов и разбором ошибок реальных магазинов. Второй день – практический, Анна провела в магазине Vera Victoria Vito на Покровке 11.</p>
+            <p>Магазин преобразился полностью! Были переделены зоны для товаров свежей коллекции, расставлены цветовые акценты, добавлены аксессуары, удачно дополняющие друг друга, появилась... легкость. Сотрудников научились формировать зоны магазина с учетом аналитики продаж, группировать товар, работать с комплементарным товаром, создавать «семьи товара».</p>
+            <p>Что позволило нам далее повысить продажи и поднять показатель «чек-вещь».</p>
+          </div>
+          <div class="testimonial-footer">
+            <div class="testimonial-author">
+              Лариса Вовденко,
+              <div class="testimonial-title">Владелица сети магазинов «Vera Victoria Vito»</div>
+            </div>
+            <div class="trigger js-trigger-toggle" data-target=".js-toggle-02">
+              <span>читать подробнее
+                <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30px" viewBox="0 0 111 32" enable-background="new 0 0 111 32" xml:space="preserve">
+                   <polyline fill="none" stroke-width="3" stroke-miterlimit="10" points="0.729,1.342 52.597,30.157 110.229,1.342"/>
+                </svg>
+              </span>
+            </div>
+          </div>
+        </div>
+
+        <div class="testimonial">
+          <div class="testimonial-intro-text">
+            <p>На основе полученных в ходе тренинга знаний, мы  начали работу по разработке индивидуальных стандартов выкладки коллекций и правильному зонированию магазинов сети.</p>
+          </div>
+          <div class="testimonial-full-text js-toggle-content js-toggle-03">
+            <p>Обучение помогло нам справиться со сложной задачей: нам удалось найти нестандартные  и интересные решения для выкладки некоторых моделей, а также более компактно и логично выставить большой объем обуви и сумок в магазинах.</p>
+            <p>Крайне полезна для нас была и теория, и практика по оформлению коммерческой привлекательной витрины, внедряем теперь в свои магазины.</p>
+            <p>Спасибо Анне Баландиной за хорошо структурированный, доступный для понимания и внедрения материал и эффективную практику в магазине.</p>
+          </div>
+          <div class="testimonial-footer">
+            <div class="testimonial-author">
+              Азаркевич Ольга,
+              <div class="testimonial-title">Руководитель отдела рекламы и PR,
+                  <br />сеть обувных магазинов «Dino Ricci»</div>
+            </div>
+            <div class="trigger js-trigger-toggle" data-target=".js-toggle-03">
+              <span>читать подробнее
+                <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30px" viewBox="0 0 111 32" enable-background="new 0 0 111 32" xml:space="preserve">
+                   <polyline fill="none" stroke-width="3" stroke-miterlimit="10" points="0.729,1.342 52.597,30.157 110.229,1.342"/>
+                </svg>
+              </span>
+            </div>
+          </div>
+        </div>
+
+      </section>
+
+        <!-- PRICES & DETAILS -->
         <section class="new-section">
           <div class="section-title">Стоимость</div>
             <ul class="event-data">
