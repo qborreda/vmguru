@@ -31,14 +31,14 @@ form.event-info {
       border: 1px solid $DETAIL-GREY;
       font-size: 21px;
       font-weight: 100;
-      font-style: italic;
+      outline: none;
       color: $PRIMARY-TEXT-COLOR;
 
       &::-moz-placeholder,
       &::-ms-input-placeholder,
       &::-webkit-input-placeholder,
       &::placeholder {
-        font-style: italic;
+        font-size: 14px;
         color: $DETAIL-GREY;
       }
     }
