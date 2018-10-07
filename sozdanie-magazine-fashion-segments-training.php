@@ -173,26 +173,61 @@
 
     <div class="short_wrapper">
 
-        <section class="new-section">
-          <div class="section-title">Стоимость</div>
+      <!-- TESTIMONIALS -->
+      <section class="new-section">
+        <div class="section-title">Отзывы клиентов</div>
+        <!-- 01 -->
+        <div class="testimonial">
+          <div class="testimonial-intro-text">
+            <p>Я прослушал два тренинга Анны: "Визуальный мерчандайзинг для магазинов обуви и аксессуаров" и "Создание эффективного магазина".</p>
+          </div>
+          <div class="testimonial-full-text js-toggle-content js-toggle-01">
+            <p>Программы очень полезны владельцам бизнеса, рекомендую. Мне они дали комплекс современных ВМ знаний и мощный толчок для изменений в бренде.</p>
+            <p>Мы продолжаем сотрудничество. Команда VM Guru разработала для Promenade брендинг-проект, два дизайн-проекта  и курирует все новые открытия и обучение персонала.</p>
+            <a href="/projects/project-promenade.php" class="no-border">
+              <div class="cta-button">
+                показать проект ›
+              </div>
+            </a>
+          </div>
+          <div class="testimonial-footer">
+            <div class="testimonial-author">
+              Александр Шапкин,
+              <div class="testimonial-title">Владелец бренда «Promenade»</div>
+            </div>
+            <div class="trigger js-trigger-toggle" data-target=".js-toggle-01">
+              <span>читать подробнее
+                <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30px" viewBox="0 0 111 32" enable-background="new 0 0 111 32" xml:space="preserve">
+                   <polyline fill="none" stroke-width="3" stroke-miterlimit="10" points="0.729,1.342 52.597,30.157 110.229,1.342"/>
+                </svg>
+              </span>
+            </div>
+          </div>
+        </div>
 
-            <ul class="event-data">
-                <li><span class="title">продолжительность</span><span class="item">8 ак. часов</span>
-                </li>
-                <li>
-                  <span class="title">стоимость</span>
-                  <span class="item">
-                    14 500 руб.<br/>
-                    <!-- <span class="is-highlighted">Только в октябре:<br/>
-                    ПРИ ПОКУПКЕ ТРЕХ ТРЕНИНГОВ - СКИДКА 20%</span> -->
-                  </span>
-                </li>
-                <li><span class="title">место проведения</span><span class="item">Москва, Трубная ул., д 12, бизнес-центр «Миллениум Хаус»</span>
-                </li>
-                <li><span class="title">контакты</span><span class="item">+7 495 741 1784; irina.akimova@vmguru.ru</span>
-                </li>
-            </ul>
-        </section>
+      </section>
+
+      <!-- PRICES & DETAILS -->
+      <section class="new-section">
+        <div class="section-title">Стоимость</div>
+
+          <ul class="event-data">
+              <li><span class="title">продолжительность</span><span class="item">8 ак. часов</span>
+              </li>
+              <li>
+                <span class="title">стоимость</span>
+                <span class="item">
+                  14 500 руб.<br/>
+                  <!-- <span class="is-highlighted">Только в октябре:<br/>
+                  ПРИ ПОКУПКЕ ТРЕХ ТРЕНИНГОВ - СКИДКА 20%</span> -->
+                </span>
+              </li>
+              <li><span class="title">место проведения</span><span class="item">Москва, Трубная ул., д 12, бизнес-центр «Миллениум Хаус»</span>
+              </li>
+              <li><span class="title">контакты</span><span class="item">+7 495 741 1784; irina.akimova@vmguru.ru</span>
+              </li>
+          </ul>
+      </section>
 
         <!-- FORM SECTION -->
         <section class="new-section">
