@@ -120,12 +120,13 @@
             </article> -->
         </section>
 
-        <section class="consulting-section2">
-            <h2 style="margin:10px auto;">У НАС ОБУЧАЛИСЬ:</h2>
-            <?php include "_client-grid.php"; ?>
+        <section class="new-section">
+          <div class="section-title">Y нас обучались</div>
+          <?php include "_client-grid.php"; ?>
         </section>
-        <section class="event-section5">
-            <h2 style="margin:10px auto;">УЗНАТЬ ПОДРОБНЕЙ / ЗАКАЗАТЬ УСЛУГУ:</h2>
+
+        <section class="new-section">
+          <div class="section-title">Заказать услугу:</div>
             <form id="event-form" class="event-info" action="http://www.vmguru.ru/send-education-form.php" method="post" lang="ru" accept-charset="UTF-8">
 
             <?php include "_education-form.php"; ?>
