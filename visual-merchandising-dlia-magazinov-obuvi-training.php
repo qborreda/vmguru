@@ -208,7 +208,7 @@
       <!-- TESTIMONIALS -->
       <section class="new-section">
         <div class="section-title">Отзывы клиентов</div>
-
+        <!-- 01 -->
         <div class="testimonial">
           <div class="testimonial-intro-text">
             <p>Я прослушал два тренинга Анны: "Визуальный мерчандайзинг для магазинов обуви и аксессуаров" и "Создание эффективного магазина".</p>
@@ -216,6 +216,11 @@
           <div class="testimonial-full-text js-toggle-content js-toggle-01">
             <p>Программы очень полезны владельцам бизнеса, рекомендую. Мне они дали комплекс современных ВМ знаний и мощный толчок для изменений в бренде.</p>
             <p>Мы продолжаем сотрудничество. Команда VM Guru разработала для Promenade брендинг-проект, два дизайн-проекта  и курирует все новые открытия и обучение персонала.</p>
+            <a href="/projects/project-promenade.php" class="no-border">
+              <div class="cta-button">
+                показать проект ›
+              </div>
+            </a>
           </div>
           <div class="testimonial-footer">
             <div class="testimonial-author">
@@ -231,7 +236,7 @@
             </div>
           </div>
         </div>
-
+        <!-- 02 -->
         <div class="testimonial">
           <div class="testimonial-intro-text">
             <p>Я познакомилась с Анной Баландиной на MOСШУЗ, где Анна проводила семинар для обувных компаний и договорились о сотрудничестве - обучении ключевых сотрудников.</p>
@@ -255,7 +260,7 @@
             </div>
           </div>
         </div>
-
+        <!-- 03 -->
         <div class="testimonial">
           <div class="testimonial-intro-text">
             <p>На основе полученных в ходе тренинга знаний, мы  начали работу по разработке индивидуальных стандартов выкладки коллекций и правильному зонированию магазинов сети.</p>
