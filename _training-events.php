@@ -34,8 +34,8 @@
         <img src="imgs/bkgr_skew_placeholder.jpg" data-src="imgs/bkgr_event4.jpg" class="lazy">
         <div class="article-stripe">
             <div class="article-dates">
-                <span class="month">октября</span>
-                <span class="date">25 - 26</span>
+                <span class="month">ноября</span>
+                <span class="date">8 - 9</span>
             </div>
             <p class="description">Витринистика: создание эффективных витрин. Большой эффект без больших расходов</p>
         </div>
