@@ -54,19 +54,19 @@
                   <img class="info-icon" src="/imgs/ico-for-whom.svg" alt="для кого?">
                     <h3 class="info-title"><span></span>для кого?</h3>
                     <ul class="info-bullets">
-                    <li>владельцы бизнеса</li>
-                    <li>руководители розницы</li>
-                    <li>руководители и специалисты отделов ВМ</li>
-                    <li>руководители и специалисты архитектурных отделов</li>
+                      <li>владельцы бизнеса</li>
+                      <li>руководители розницы</li>
+                      <li>руководители и специалисты отделов ВМ</li>
+                      <li>руководители и специалисты архитектурных отделов</li>
                     </ul>
                 </div>
                 <div class="more-info-right">
-                  <img class="info-icon" src="/imgs/ico-format.svg" alt="формат"> class="info-bullets"
+                  <img class="info-icon" src="/imgs/ico-format.svg" alt="формат">
                     <h3 class="info-title"><span></span>формат</h3>
                     <ul class="info-bullets">
-                    <li>в группе не более 12 человек</li>
-                    <li>участники обеспечиваются раздаточными материалами</li>
-                    <li>по окончании семинара участники получают сертификат компании VM GURU</li>
+                      <li>в группе не более 12 человек</li>
+                      <li>участники обеспечиваются раздаточными материалами</li>
+                      <li>по окончании семинара участники получают сертификат компании VM GURU</li>
                     </ul>
                 </div>
             </div>
