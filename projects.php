@@ -335,6 +335,25 @@
                         </p>
                     </div>
                 </li>
+                <li class="hex-item" data-link="/projects/project-oscar.php">
+                    <div>
+                        <img class="hex-content" src="/imgs/bkgr_hex_project27.jpg" alt="" />
+                        <!-- <div class="hex-title">Oscar 1</div> -->
+                        <p class="hex-description white-text is-little-text">
+                            ДИЗАЙН-ПРОЕКТ МАГАЗИНА;
+                            <br />РАЗРАБОТКА ОБОРУДОВАНИЯ
+                        </p>
+                    </div>
+                </li>
+                <li class="hex-item" data-link="/projects/project-oscar.php">
+                    <div>
+                        <img class="hex-content" src="/imgs/bkgr_hex_project28.jpg" alt="" />
+                        <!-- <div class="hex-title">Oscar 2</div> -->
+                        <p class="hex-description white-text is-little-text">
+                            СЕЗОННЫЙ РЕМЕРЧАНДАЙЗИНГ И ОБУЧЕНИЕ
+                        </p>
+                    </div>
+                </li>
             </ul>
 
         </section>
