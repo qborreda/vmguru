@@ -34,6 +34,36 @@
             <br/>под руководством и при участии А. Баландиной</div>
 
             <ul class="hex-grid clr">
+                <li class="hex-item" data-link="/projects/project-promenade.php">
+                    <div class="white-icon">
+                        <img class="hex-content" src="/imgs/bkgr_hex_project_promenade2.jpg" alt="" />
+                        <!-- <div class="hex-title white-text">Promenade</div> -->
+                        <p class="hex-description is-little-text">
+                            полный брендинг-проект;
+                            <br/>разработка комплекта роs sale
+                        </p>
+                    </div>
+                </li>
+                    <li class="hex-item" data-link="/projects/project-promenade.php">
+                        <div class="white-icon">
+                            <img class="hex-content" src="/imgs/bkgr_hex_project_promenade1.jpg" alt="" />
+                            <!-- <div class="hex-title white-text">Promenade</div> -->
+                            <p class="hex-description is-little-text">
+                                дизайн-проект магазина;
+                                <br/>тех. сопровождение
+                            </p>
+                        </div>
+                    </li>
+                <li class="hex-item" data-link="/projects/project-xitzona.php">
+                    <div>
+                        <img class="hex-content" src="/imgs/bkgr_hex_project8.jpg" alt="" />
+                        <!-- <div class="hex-title">XNT Zona</div> -->
+                        <p class="hex-description is-little-text">
+                            РАЗРАБОТКА ВИТРИННЫХ КОНЦЕПЦИЙ;
+                            <br/>ОФОРМЛЕНИЕ ВИТРИН
+                        </p>
+                    </div>
+                </li>
                 <li class="hex-item" data-link="/projects/project-oscar.php">
                     <div>
                         <img class="hex-content" src="/imgs/bkgr_hex_project27.jpg" alt="" />
@@ -50,36 +80,6 @@
                         <!-- <div class="hex-title">Oscar 2</div> -->
                         <p class="hex-description white-text is-little-text">
                             СЕЗОННЫЙ РЕМЕРЧАНДАЙЗИНГ И ОБУЧЕНИЕ
-                        </p>
-                    </div>
-                </li>
-                <li class="hex-item" data-link="/projects/project-xitzona.php">
-                    <div>
-                        <img class="hex-content" src="/imgs/bkgr_hex_project8.jpg" alt="" />
-                        <!-- <div class="hex-title">XNT Zona</div> -->
-                        <p class="hex-description is-little-text">
-                            РАЗРАБОТКА ВИТРИННЫХ КОНЦЕПЦИЙ;
-                            <br/>ОФОРМЛЕНИЕ ВИТРИН
-                        </p>
-                    </div>
-                </li>
-                <li class="hex-item" data-link="/projects/project-promenade.php">
-                    <div class="white-icon">
-                        <img class="hex-content" src="/imgs/bkgr_hex_project_promenade1.jpg" alt="" />
-                        <!-- <div class="hex-title white-text">Promenade</div> -->
-                        <p class="hex-description is-little-text">
-                            дизайн-проект магазина;
-                            <br/>тех. сопровождение
-                        </p>
-                    </div>
-                </li>
-                <li class="hex-item" data-link="/projects/project-promenade.php">
-                    <div class="white-icon">
-                        <img class="hex-content" src="/imgs/bkgr_hex_project_promenade2.jpg" alt="" />
-                        <!-- <div class="hex-title white-text">Promenade</div> -->
-                        <p class="hex-description is-little-text">
-                            полный брендинг-проект;
-                            <br/>разработка комплекта роs sale
                         </p>
                     </div>
                 </li>
