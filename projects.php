@@ -23,9 +23,9 @@
     <!-- HEADER -->
     <?php include "header.php"; ?>
 
-    <div class="wrapper">
+    <div class="short_wrapper">
 
-        <section class="home-section">
+        <section class="new-section">
           <div class="section-title">Проекты</div>
         </section>
         <section class="projects-section1">
@@ -34,6 +34,36 @@
             <br/>под руководством и при участии А. Баландиной</div>
 
             <ul class="hex-grid clr">
+                <li class="hex-item" data-link="/projects/project-promenade.php">
+                    <div class="white-icon">
+                        <img class="hex-content" src="/imgs/bkgr_hex_project_promenade1.jpg" alt="" />
+                        <!-- <div class="hex-title white-text">Promenade</div> -->
+                        <p class="hex-description is-little-text">
+                            дизайн-проект магазина;
+                            <br/>тех. сопровождение
+                        </p>
+                    </div>
+                </li>
+                <li class="hex-item" data-link="/projects/project-promenade.php">
+                    <div class="white-icon">
+                        <img class="hex-content" src="/imgs/bkgr_hex_project_promenade2.jpg" alt="" />
+                        <!-- <div class="hex-title white-text">Promenade</div> -->
+                        <p class="hex-description is-little-text">
+                            полный брендинг-проект;
+                            <br/>разработка комплекта роs sale
+                        </p>
+                    </div>
+                </li>
+                <li class="hex-item" data-link="/projects/project-xitzona.php">
+                    <div>
+                        <img class="hex-content" src="/imgs/bkgr_hex_project8.jpg" alt="" />
+                        <!-- <div class="hex-title">XNT Zona</div> -->
+                        <p class="hex-description is-little-text">
+                            РАЗРАБОТКА ВИТРИННЫХ КОНЦЕПЦИЙ;
+                            <br/>ОФОРМЛЕНИЕ ВИТРИН
+                        </p>
+                    </div>
+                </li>
                 <li class="hex-item" data-link="/projects/project-incanto.php">
                     <div>
                         <img class="hex-content" src="/imgs/bkgr_hex_project1.jpg" alt="" />
@@ -75,36 +105,7 @@
                         </p>
                     </div>
                 </li>
-                <li class="hex-item" data-link="/projects/project-promenade.php">
-                    <div class="white-icon">
-                        <img class="hex-content" src="/imgs/bkgr_hex_project_promenade1.jpg" alt="" />
-                        <!-- <div class="hex-title white-text">Promenade</div> -->
-                        <p class="hex-description is-little-text">
-                            дизайн-проект магазина;
-                            <br/>тех. сопровождение
-                        </p>
-                    </div>
-                </li>
-                <li class="hex-item" data-link="/projects/project-promenade.php">
-                    <div class="white-icon">
-                        <img class="hex-content" src="/imgs/bkgr_hex_project_promenade2.jpg" alt="" />
-                        <!-- <div class="hex-title white-text">Promenade</div> -->
-                        <p class="hex-description is-little-text">
-                            полный брендинг-проект;
-                            <br/>разработка комплекта роs sale
-                        </p>
-                    </div>
-                </li>
-                <li class="hex-item" data-link="/projects/project-xitzona.php">
-                    <div>
-                        <img class="hex-content" src="/imgs/bkgr_hex_project8.jpg" alt="" />
-                        <!-- <div class="hex-title">XNT Zona</div> -->
-                        <p class="hex-description is-little-text">
-                            РАЗРАБОТКА ВИТРИННЫХ КОНЦЕПЦИЙ;
-                            <br/>ОФОРМЛЕНИЕ ВИТРИН
-                        </p>
-                    </div>
-                </li>
+
                 <li class="hex-item"  data-link="/projects/project-modis.php">
                     <div class="white-icon">
                         <img class="hex-content" src="/imgs/bkgr_hex_project6.jpg" alt="" />

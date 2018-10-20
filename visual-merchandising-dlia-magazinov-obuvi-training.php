@@ -23,48 +23,47 @@
     <!-- MAIN HEADER -->
     <?php include "header.php"; ?>
 
-    <!-- WRAPPER -->
-    <div class="wrapper">
+    <!-- FULL WRAPPER -->
+    <div class="full_wrapper">
 
-        <section class="event-section1">
-            <div class="event-section1-image event3"></div>
-            <div class="boxed-title">
-                <div class="box-skewy"></div>
-                <div class="box-texts">
-                    <div class="box-texts-date">
-                        <span class="day">15 - 16</span>
-                        <span class="month">ноября</span>
-                    </div>
-                    <div class="box-texts-title">
-                        ВИЗУАЛЬНЫЙ МЕРЧАНДАЙЗИНГ ДЛЯ МАГАЗИНОВ ОБУВИ И АКСЕССУАРОВ
-                    </div>
-                    <span class="box-texts-detail">групповой тренинг</span>
-                </div>
+      <section class="hero_section">
+          <div class="hero_image shoes">
+            <div class="hero_contents">
+              <div class="hero_dates">15 - 16 ноября</div>
+              <div class="hero_title">Визуальный мерчандайзинг для магазинов обуви и аксессуаров</div>
+              <p class="hero_description">
+                  Узнаете правила ВМ для магазинов обуви и аксессуаров
+                  <br/>Как создать систему ВМ торговой марки используя индивидуальные параметры бренда
+                  <br/>Как выделить функциональные зоны торгового пространства и направить туда покупателей
+                  <br/>Отработаете прикладные техники ВМ на практике
+                  <br/>Научитесь создавать эффективную выкладку коллекций и продающие витрины
+              </p>
+              <div class="cta-button">заказать консультацию ›</div>
             </div>
-        </section>
+          </div>
+      </section>
 
-        <section class="event-section2">
+    </div>
 
-            <ul class="resume-list">
-            <li>Узнаете правила ВМ для магазинов обуви и аксессуаров</li>
-            <li>Как создать систему ВМ торговой марки используя индивидуальные параметры бренда</li>
-            <li>Как выделить функциональные зоны торгового пространства и направить туда покупателей</li>
-            <li>Отработаете прикладные техники ВМ на практике</li>
-            <li>Научитесь создавать эффективную выкладку коллекций и продающие витрины</li>
-            </ul>
+    <!-- WRAPPER -->
+    <div class="short_wrapper">
+
+        <section class="new-section event-section2">
 
             <div class="more-info">
                 <div class="more-info-left">
-                    <h3><span></span>для кого?</h3>
-                    <ul>
+                    <img class="info-icon" src="/imgs/ico-for-whom.svg" alt="для кого?">
+                    <h3 class="info-title"><span></span>для кого?</h3>
+                    <ul class="info-bullets">
                     <li>владельцы бизнеса</li>
                     <li>руководители розницы</li>
                     <li>руководители и специалисты отделов ВМ</li>
                     </ul>
                 </div>
                 <div class="more-info-right">
-                    <h3><span></span>формат</h3>
-                    <ul>
+                    <img class="info-icon" src="/imgs/ico-format.svg" alt="формат">
+                    <h3 class="info-title"><span></span>формат</h3>
+                    <ul class="info-bullets">
                     <li>день 1 – теория</li>
                     <li>день 2 – практика в магазине</li>
                     <li>группа  не более 12 человек</li>
@@ -76,7 +75,7 @@
 
         </section>
 
-        <section class="project-details">
+        <section class="new-section project-details">
           <div class="project-carrusel">
 
               <div class="js-carrusel-1">
@@ -109,96 +108,196 @@
           </div>
         </section>
 
-        <section class="home-section">
+        <section class="new-section">
           <div class="section-title">Программа</div>
+
+          <div class="training-programma">
+            <div class="days-column">
+              <h3 class="day">День 1</h3>
+              <h6 class="session">Часть 1<br />Теоретическая подготовка</h6>
+            </div>
+            <div class="logo-column">
+              <img src="/imgs/ico-programma-1.svg" width="100%" alt="ДЕНЬ 1">
+            </div>
+            <div class="text-column">
+              <div class="event-journey-description">
+                  1. Базовые законы ВМ для магазинов обуви и аксессуаров
+              </div>
+              <div class="event-journey-description">
+                  2. Основные правила выкладки товара
+                  <ul class="event-journey-bullets">
+                  <li>Законы группировки и презентация продукта</li>
+                  <li>Принципы выкладки ассортимента:
+                      <ul>
+                      <li>- половозрастные группы</li>
+                      <li>- функционально-стилевые группы</li>
+                      <li>- модные ассортиментные группы</li>
+                      <li>- сезонность</li>
+                      </ul>
+                  </li>
+                  <li>Принципы оптимизации размещения коллекций</li>
+                  </ul>
+              </div>
+              <div class="event-journey-description">
+                  3. Коммерческий торговый концепт бренда обуви и аксессуаров
+                  <ul class="event-journey-bullets">
+                  <li>Принципы продающего зонирования</li>
+                  <li>Работа с «горячими» и «холодными» зонами</li>
+                  <li>«Эмоции повышают продажи» – тренд в покупательском поведении; основы эмоционального коммерческого ВМ</li>
+                  <li>Как создать эмоциональную презентацию товара для  увеличения продаж и продвижения имиджа бренда</li>
+                  </ul>
+              </div>
+              <div class="event-journey-description">
+                  4. Продающие витрины в магазинах обуви и аксессуаров
+              </div>
+              <div class="event-journey-description">
+                  5. Презентация коллекций и оформление витрин в периоды распродаж
+              </div>
+              <div class="event-journey-description">
+                  6. Система дистанционного ВМ сетевого бренда:
+                  <p>как создавать коммерческие презентации коллекций и управлять выкладкой не имея мерчандайзеров в магазине</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="training-programma">
+            <div class="days-column">
+              <!-- <h3 class="day">День 1</h3> -->
+              <h6 class="session">Часть 2<br />Блиц консалтинг</h6>
+            </div>
+            <div class="logo-column">
+              <img src="/imgs/ico-programma-2.svg" width="100%" alt="ДЕНЬ 1">
+            </div>
+            <div class="text-column">
+              <div class="event-journey-description">
+                  <p>Краткая консультация участников семинара по их вопросам в области визуального мерчандайзинга и планировки торгового пространства магазина/ проходит в открытом режиме перед всей аудиторией.</p>
+                  Для участия в Блиц консалтинге необходимо:
+                  <p>Сформулировать вопросы максимально конкретно.</p>
+                  <p>Подготовить материал для иллюстрации вопросов в виде фото-отчета либо планограммы  магазина на электронном носителе</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="training-programma">
+            <div class="days-column">
+              <h3 class="day">День 2</h3>
+              <h6 class="session">Практика в магазине</h6>
+            </div>
+            <div class="logo-column">
+              <img src="/imgs/ico-programma-3.svg" width="100%" alt="ДЕНЬ 1">
+            </div>
+            <div class="text-column">
+                <div class="event-journey-description">
+                    <p>Практика в магазине обуви и аксессуаров с демонстрацией и отработкой участниками инструментов и законов ВМ изученных в ходе тренинга; сопровождается ремерчендайзингом торгового зала и витрин магазина. </p>
+                    <p>Может проходить на площадке магазина участника тренинга; возможность и условия проведения практики в Вашем магазине уточняйте.</p>
+                </div>
+            </div>
+          </div>
+
         </section>
-        <section class="event-section3">
+    </div>
 
-            <div class="event-journey">
-                ДЕНЬ 1, ЧАСТЬ 1.
-                <br/><strong>ТЕОРЕТИЧЕСКАЯ ПОДГОТОВКА</strong>
-            </div>
-
-            <div class="event-journey-description">
-                1. Базовые законы ВМ для магазинов обуви и аксессуаров
-            </div>
-            <div class="event-journey-description">
-                2. Основные правила выкладки товара
-                <ul class="event-journey-bullets">
-                <li>Законы группировки и презентация продукта</li>
-                <li>Принципы выкладки ассортимента:
-                    <ul>
-                    <li>половозрастные группы</li>
-                    <li>функционально-стилевые группы</li>
-                    <li>модные ассортиментные группы</li>
-                    <li>сезонность</li>
-                    </ul>
-                </li>
-                <li>Принципы оптимизации размещения коллекций</li>
-                </ul>
-            </div>
-            <div class="event-journey-description">
-                3. Коммерческий торговый концепт бренда обуви и аксессуаров
-                <ul class="event-journey-bullets">
-                <li>Принципы продающего зонирования</li>
-                <li>Работа с «горячими» и «холодными» зонами</li>
-                <li>«Эмоции повышают продажи» – тренд в покупательском поведении; основы эмоционального коммерческого ВМ</li>
-                <li>Как создать эмоциональную презентацию товара для  увеличения продаж и продвижения имиджа бренда</li>
-                </ul>
-            </div>
-            <div class="event-journey-description">
-                4. Продающие витрины в магазинах обуви и аксессуаров
-            </div>
-            <div class="event-journey-description">
-                5. Презентация коллекций и оформление витрин в периоды распродаж
-            </div>
-            <div class="event-journey-description">
-                6. Система дистанционного ВМ сетевого бренда:
-                <p>как создавать коммерческие презентации коллекций и управлять выкладкой не имея мерчандайзеров в магазине</p>
-            </div>
-
-            <div class="event-journey">ДЕНЬ 1, ЧАСТЬ 2.
-            <br/><strong>БЛИЦ КОНСАЛТИНГ</strong></div>
-
-            <div class="event-journey-description">
-                <p>Краткая консультация участников семинара по их вопросам в области визуального мерчандайзинга и планировки торгового пространства магазина/ проходит в открытом режиме перед всей аудиторией.</p>
-                Для участия в Блиц консалтинге необходимо:
-                <ul class="event-journey-bullets">
-                <li>Сформулировать вопросы максимально конкретно.</li>
-                <li>Подготовить материал для иллюстрации вопросов в виде фото-отчета либо планограммы  магазина на электронном носителе</li>
-                </ul>
-            </div>
-
-            <div class="event-journey">ДЕНЬ 2.
-            <br/><strong>ПРАКТИКА В МАГАЗИНЕ</strong></div>
-
-            <div class="event-journey-description">
-                <ul class="event-journey-bullets">
-                <li>Практика в магазине обуви и аксессуаров с демонстрацией и отработкой участниками инструментов и законов ВМ изученных в ходе тренинга; сопровождается ремерчендайзингом торгового зала и витрин магазина. </li>
-                <li>Может проходить на площадке магазина участника тренинга; возможность и условия проведения практики в Вашем магазине уточняйте.</li>
-
-                </ul>
-            </div>
-
-        </section>
-
-        <section class="home-section">
-          <div class="section-title">Автор и тренер</div>
-        </section>
-        <section class="event-section4">
+    <div class="full_wrapper">
+        <section class="new-section no-padding">
             <?php include "_trainer-anna.php"; ?>
         </section>
+    </div>
 
-        <section class="home-section">
+    <div class="short_wrapper">
+
+      <!-- TESTIMONIALS -->
+      <section class="new-section">
+        <div class="section-title">Отзывы клиентов</div>
+        <!-- 01 -->
+        <div class="testimonial">
+          <div class="testimonial-intro-text">
+            <p>Я прослушал два тренинга Анны: "Визуальный мерчандайзинг для магазинов обуви и аксессуаров" и "Создание эффективного магазина".</p>
+          </div>
+          <div class="testimonial-full-text js-toggle-content js-toggle-01">
+            <p>Программы очень полезны владельцам бизнеса, рекомендую. Мне они дали комплекс современных ВМ знаний и мощный толчок для изменений в бренде.</p>
+            <p>Мы продолжаем сотрудничество. Команда VM Guru разработала для Promenade брендинг-проект, два дизайн-проекта  и курирует все новые открытия и обучение персонала.</p>
+            <a href="/projects/project-promenade.php" class="no-border">
+              <div class="cta-button">
+                показать проект ›
+              </div>
+            </a>
+          </div>
+          <div class="testimonial-footer">
+            <div class="testimonial-author">
+              Александр Шапкин,
+              <div class="testimonial-title">Владелец бренда «Promenade»</div>
+            </div>
+            <div class="trigger js-trigger-toggle" data-target=".js-toggle-01">
+              <span>читать подробнее
+                <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30px" viewBox="0 0 111 32" enable-background="new 0 0 111 32" xml:space="preserve">
+                   <polyline fill="none" stroke-width="3" stroke-miterlimit="10" points="0.729,1.342 52.597,30.157 110.229,1.342"/>
+                </svg>
+              </span>
+            </div>
+          </div>
+        </div>
+        <!-- 02 -->
+        <div class="testimonial">
+          <div class="testimonial-intro-text">
+            <p>Я познакомилась с Анной Баландиной на MOСШУЗ, где Анна проводила семинар для обувных компаний и договорились о сотрудничестве - обучении ключевых сотрудников.</p>
+          </div>
+          <div class="testimonial-full-text js-toggle-content js-toggle-02">
+            <p>Предварительно Анна с коллегами провели аудит флагманского магазина Vera Victoria Vito и согласовали с нами формат и программу обучения.  Первый день был полностью посвящен теории, с примерами на слайдах и обзорами успешного опыта сильных брендов и разбором ошибок реальных магазинов. Второй день – практический, Анна провела в магазине Vera Victoria Vito на Покровке 11.</p>
+            <p>Магазин преобразился полностью! Были переделены зоны для товаров свежей коллекции, расставлены цветовые акценты, добавлены аксессуары, удачно дополняющие друг друга, появилась... легкость. Сотрудников научились формировать зоны магазина с учетом аналитики продаж, группировать товар, работать с комплементарным товаром, создавать «семьи товара».</p>
+            <p>Что позволило нам далее повысить продажи и поднять показатель «чек-вещь».</p>
+          </div>
+          <div class="testimonial-footer">
+            <div class="testimonial-author">
+              Лариса Вовденко,
+              <div class="testimonial-title">Владелица сети магазинов «Vera Victoria Vito»</div>
+            </div>
+            <div class="trigger js-trigger-toggle" data-target=".js-toggle-02">
+              <span>читать подробнее
+                <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30px" viewBox="0 0 111 32" enable-background="new 0 0 111 32" xml:space="preserve">
+                   <polyline fill="none" stroke-width="3" stroke-miterlimit="10" points="0.729,1.342 52.597,30.157 110.229,1.342"/>
+                </svg>
+              </span>
+            </div>
+          </div>
+        </div>
+        <!-- 03 -->
+        <div class="testimonial">
+          <div class="testimonial-intro-text">
+            <p>На основе полученных в ходе тренинга знаний, мы  начали работу по разработке индивидуальных стандартов выкладки коллекций и правильному зонированию магазинов сети.</p>
+          </div>
+          <div class="testimonial-full-text js-toggle-content js-toggle-03">
+            <p>Обучение помогло нам справиться со сложной задачей: нам удалось найти нестандартные  и интересные решения для выкладки некоторых моделей, а также более компактно и логично выставить большой объем обуви и сумок в магазинах.</p>
+            <p>Крайне полезна для нас была и теория, и практика по оформлению коммерческой привлекательной витрины, внедряем теперь в свои магазины.</p>
+            <p>Спасибо Анне Баландиной за хорошо структурированный, доступный для понимания и внедрения материал и эффективную практику в магазине.</p>
+          </div>
+          <div class="testimonial-footer">
+            <div class="testimonial-author">
+              Азаркевич Ольга,
+              <div class="testimonial-title">Руководитель отдела рекламы и PR,
+                  <br />сеть обувных магазинов «Dino Ricci»</div>
+            </div>
+            <div class="trigger js-trigger-toggle" data-target=".js-toggle-03">
+              <span>читать подробнее
+                <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30px" viewBox="0 0 111 32" enable-background="new 0 0 111 32" xml:space="preserve">
+                   <polyline fill="none" stroke-width="3" stroke-miterlimit="10" points="0.729,1.342 52.597,30.157 110.229,1.342"/>
+                </svg>
+              </span>
+            </div>
+          </div>
+        </div>
+
+      </section>
+
+        <!-- PRICES & DETAILS -->
+        <section class="new-section">
           <div class="section-title">Стоимость</div>
-        </section>
-        <section class="event-section4">
             <ul class="event-data">
                 <li><span class="title">Продолжительность</span><span class="item">2 дня (14 академических часов)</span>
                 </li>
                 <li><span class="title">Стоимость обучения</span>
                   <span class="item">
-                    23 500 руб. / <span class="is-highlighted">19 900 руб - ранние продажи до 25.07</span>
+                    23 500 руб.<br />
+                     <!-- / <span class="is-highlighted">19 900 руб - ранние продажи до 25.07</span> -->
                   </span>
                 </li>
                 <li><span class="title">Стоимость одного дня (теория)</span><span class="item">14 500 руб.</span>
@@ -211,16 +310,14 @@
         </section>
 
         <!-- FORM SECTION -->
-        <section class="home-section">
+        <section class="new-section">
           <div class="section-title">Оставить заявку</div>
-        </section>
-        <section class="event-section5">
+
             <form id="event-form" class="event-info" action="send-event-form.php" method="post" lang="ru" accept-charset="UTF-8">
 
             <?php include "_training-form.php"; ?>
 
             <input type="hidden" name="interest" value="ВИЗУАЛЬНЫЙ МЕРЧАНДАЙЗИНГ ДЛЯ МАГАЗИНОВ ОБУВИ И АКСЕССУАРОВ">
-
             <div class="form-buttons">
                 <button class="form-submit js-event-submit" type="submit">ОТПРАВИТЬ ЗАЯВКУ</button>
             </div>

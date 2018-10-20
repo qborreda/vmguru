@@ -1,110 +1,41 @@
-.event-section4 {
-  @include display_flex();
-  @include flex_flex-direction(column);
-  @include flex_justify-content(start);
-  padding: 25px 10px;
-  line-height: 1.8rem;
+.event-data {
+  display: table;
+  min-width: 320px;
+  max-width: 850px;
+  width: 100%;
+  margin: 0 auto;
+  font-weight: 300;
+  list-style: none;
 
-  @include mq($from: tablet) {
-    padding: 20px 50px;
-  }
-
-  .trainer {
-    position: relative;
-    @include display_flex();
-    @include flex_flex-direction(column);
-    @include flex_justify-content(center);
-    @include flex_align-items(center);
-
-    @include mq($from: tablet) {
-      @include flex_flex-direction(row);
-      @include flex_justify-content(space-between);
-      @include flex_align-items(start);
-    }
-
-    &-resume {
-      position: relative;
-      @include flex_flex(1 1 auto);
-      margin-left: 20px;
-      padding-top: 30px;
-
-      @include mq($from: tablet) {
-        margin-left: 60px;
-      }
-
-      li {
-        margin-bottom: 0.5rem;
-        font-style: italic;
-      }
-
-      p {
-        margin: 1.5rem 0;
-        font-size: 16px;
-        font-weight: 300;
-        line-height: 1.5rem;
-      }
-    }
-
-    &-name {
-      h2 {
-        display: inline-block;
-        margin: 0 0 20px 0;
-        padding: 0 0 3px 0;
-        font-size: 28px;
-        font-weight: 700;
-        border-bottom: 1px solid $DETAIL-GREY;
-      }
-    }
-
-    &-education {
-      display: block;
-      width: 100%;
-      font-size: 17px;
-      font-weight: 300;
-      line-height: 1.5rem;
-    }
-  }
-
-  .event-data {
-    display: table;
+  li {
     width: 100%;
-    margin: 0;
-    font-weight: 300;
-    list-style: none;
+    padding: 8px 0;
+    border-bottom: 1px solid rgba($DETAIL-GREY, 0.3);
 
-    li {
-      width: 100%;
-      padding: 8px 0;
-      border-bottom: 1px solid rgba($DETAIL-GREY, 0.3);
+    .title {
+      display: block;
+      font-size: 14px;
+      font-weight: 300;
+      color: rgb(80, 81, 84);
+    }
+
+    .item {
+      font-size: 17px;
+      font-weight: 400;
+    }
+
+    .is-highlighted {
+      color: $RED-HIGHLIGHT;
+    }
+    @include mq($from: tablet) {
+      .item,
+      .title {
+        display: table-cell;
+      }
 
       .title {
-        display: block;
-        font-size: 14px;
-        font-weight: 300;
-        color: rgb(80, 81, 84);
-      }
-
-      .item {
-        font-size: 17px;
-        font-weight: 400;
-      }
-
-      .is-highlighted {
-        color: $RED-HIGHLIGHT;
-      }
-
-      @include mq($from: tablet) {
-        .title,
-        .item {
-          display: table-cell;
-        }
-
-        .title {
-          width: 360px;
-          margin-right: 60px;
-        }
-        .item {
-        }
+        width: 360px;
+        margin-right: 60px;
       }
     }
   }

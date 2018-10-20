@@ -22,9 +22,9 @@
     <!-- MAIN HEADER -->
     <?php include "../header.php"; ?>
 
-    <div class="wrapper">
+    <div class="short_wrapper">
 
-      <section class="home-section">
+      <section class="new-section">
         <div class="section-title">Проекты</div>
       </section>
         <section class="project-details">
@@ -87,7 +87,7 @@
             <div class="carrusel-main-legend">/ проекты реализованы: декабрь 2012 – март 2013 /</div>
         </section>
 
-        <section class="home-section">
+        <section class="new-section">
           <div class="section-title">Отзыв клиента</div>
         </section>
         <section class="project-testimonials">

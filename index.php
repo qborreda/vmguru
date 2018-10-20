@@ -23,7 +23,7 @@
     <!-- MAIN HEADER -->
     <?php include "header.php"; ?>
 
-    <section class="home_wrapper">
+    <section class="full_wrapper">
 
       <section class="home_hero">
           <div class="hero_image">
@@ -52,40 +52,40 @@
           </div>
       </section>
 
-      <!-- CONSULTING -->
-      <section class="home-section">
-        <div class="section-title">Наши услуги</div>
-        <div class="home-section-intro-text">
-          <p>Мы готовы помочь на любом этапе создания вашего бренда: от разработки стандартов визуального мерчандайзинга  до обучения персонала. Нам вы можете доверить всё!</p>
-          <p>Мы создаем «магазины под ключ» и гарантируем максимальную коммерческую привлекательность своим проектам.</p>
-        </div>
-        <?php include "_consulting-elements.php"; ?>
-      </section>
-
       <!-- TRAININGS -->
-      <section class="home-section">
+      <section class="new-section">
           <div class="section-title">Ближайшие тренинги</div>
-          <div class="home-section-intro-text">
+          <div class="section-intro-text">
             <p>Эффективная организация торгового пространства, грамотная презентация товара и привлекательные витрины способны увеличить продажи в магазине минимум на 50 %.</p>
             <p>Мы научим этому вас и ваш бренд!</p>
           </div>
           <?php include "_training-events.php"; ?>
       </section>
 
+      <!-- CONSULTING -->
+      <section class="new-section">
+        <div class="section-title">Наши услуги</div>
+        <div class="section-intro-text">
+          <p>Мы готовы помочь на любом этапе создания вашего бренда: от разработки стандартов визуального мерчандайзинга  до обучения персонала. Нам вы можете доверить всё!</p>
+          <p>Мы создаем «магазины под ключ» и гарантируем максимальную коммерческую привлекательность своим проектам.</p>
+        </div>
+        <?php include "_consulting-elements.php"; ?>
+      </section>
+
       <!-- SEMINARS -->
-      <section class="home-section">
+      <section class="new-section">
         <div class="section-title">Семинары и мастер классы</div>
         <?php include "_seminars-masters.php"; ?>
       </section>
 
       <!-- MARKETING -->
-      <section class="home-section">
+      <section class="new-section">
         <div class="section-title">Почему именно VM GURU?</div>
         <?php include "_home-marketing.php"; ?>
       </section>
 
       <!-- CLIENTS -->
-      <section class="home-section">
+      <section class="new-section">
         <div class="section-title">Нам доверяют</div>
         <?php include "_client-grid.php"; ?>
       </section>

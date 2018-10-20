@@ -1,12 +1,12 @@
     <div class="form-inputs">
-        <input type="text" name="name" placeholder="ИМЯ, ФАМИЛИЯ"/>
+        <input type="text" name="name" placeholder="Имя фамилия"/>
         <div class="double">
-            <input type="text" name="position" placeholder="ДОЛЖНОСТЬ"/>
-            <input type="text" name="company" placeholder="КОМПАНИЯ"/>
+            <input type="text" name="position" placeholder="Должность"/>
+            <input type="text" name="company" placeholder="Компания"/>
         </div>
         <div class="double">
-            <input type="phone" name="phone" placeholder="ТЕЛЕФОН"/>
-            <input type="email" name="email" placeholder="EMAIL"/>
+            <input type="phone" name="phone" placeholder="Телефон"/>
+            <input type="email" name="email" placeholder="Email"/>
         </div>
     </div>
     <h3 class="form-title">Сфера деятельности компании</h3>

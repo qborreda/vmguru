@@ -1,0 +1,77 @@
+.trainer {
+  position: relative;
+  display: block;
+  background-color: #EFEFEF;
+  min-height: 330px;
+  margin-top: 30px;
+
+  @include mq($from: tablet) {
+    min-height: 330px;
+    margin-top: 125px;
+  }
+
+  &-picture {
+    position: absolute;
+    top: 0;
+    left: 0;
+    transform: translate(-25%, -20%);
+
+    img {
+      width: 250px;
+
+      @include mq($from: tablet) {
+        width: unset;
+      }
+    }
+  }
+
+  &-resume {
+    position: relative;
+    padding: 190px 30px 20px 30px;
+
+    @include mq($from: tablet) {
+      margin-left: 350px;
+      padding: 30px;
+    }
+
+    @include mq($from: desktop) {
+      margin-left: 400px;
+    }
+
+    @include mq($from: wide) {
+      margin-left: 500px;
+    }
+
+    li {
+      margin-bottom: 0.5rem;
+      font-style: italic;
+      list-style: none;
+    }
+  }
+
+  &-title {
+    font-size: 16px;
+    font-weight: 600;
+    color: $DETAIL-ORANGE;
+    text-transform: uppercase;
+  }
+
+  &-name {
+    h2 {
+      display: inline-block;
+      margin: 0 0 20px;
+      padding: 0 0 3px;
+      font-size: 28px;
+      font-weight: 700;
+    }
+  }
+
+  &-education {
+    display: block;
+    width: 100%;
+    font-size: 17px;
+    font-weight: 300;
+    line-height: 1.2rem;
+    max-width: 450px;
+  }
+}

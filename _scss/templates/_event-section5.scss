@@ -1,135 +1,124 @@
-.event-section5 {
-  @include display_flex();
-  @include flex_flex-direction(column);
-  @include flex_justify-content(start);
-  padding: 25px 10px;
-  line-height: 1.8rem;
-  max-width: 1440px;
+form.event-info {
+  margin: 0 auto;
+  min-width: 320px;
+  max-width: 850px;
+  padding: 0 10px;
+  width: 100%;
 
   @include mq($from: tablet) {
-    padding: 30px 50px 40px;
+    padding: 0 20px;
   }
 
-  form.event-info {
-    margin: 0 auto;
-    min-width: 320px;
-    max-width: 980px;
+  .form-title {
+    display: none;
+    text-align: center;
+    font-size: 22px;
+    font-weight: 600;
+    @include mq($from: tablet) {
+      display: block;
+    }
+  }
+
+  .form-inputs {
     width: 100%;
 
-    .form-title {
-      display: none;
-      text-align: center;
-      font-size: 22px;
-      font-weight: 600;
-
-      @include mq($from: tablet) {
-        display: block;
-      }
-    }
-
-    .form-inputs {
+    input[type=email],
+    input[type=phone],
+    input[type=text] {
+      margin: 10px auto;
+      padding: 10px;
       width: 100%;
-
-      input[type=text],
-      input[type=email],
-      input[type=phone] {
-        margin: 10px auto;
-        padding: 10px;
-        width: 100%;
-        border: 1px solid $DETAIL-GREY;
-        font-size: 21px;
-        font-weight: 100;
-        font-style: italic;
-        color: $PRIMARY-TEXT-COLOR;
-
-        &::-webkit-input-placeholder,
-        &::-ms-input-placeholder,
-        &::-moz-placeholder,
-        &::placeholder {
-          font-style: italic;
-          color: $DETAIL-GREY;
-        }
-      }
-
-      .double {
-        @include display_flex();
-        @include flex_flex-direction(row);
-        @include flex_justify-content(space-between);
-        @include flex_align-items(center);
-        margin: 0 auto 10px;
-        padding: 0;
-        width: 100%;
-
-        input {
-          margin: 0 auto;
-          @include flex_flex(0 1 50%);
-        }
-
-        input + input {
-          margin-left: 10px;
-        }
-      }
-    }
-
-    .form-checkboxes {
-      display: none;
-      margin-bottom: 10px;
-      width: 100%;
-
-      @include mq($from: tablet) {
-        @include display_flex();
-        @include flex_flex-wrap(wrap);
-        @include flex_flex-direction(row);
-        @include flex_justify-content(space-around);
-        @include flex_align-items(flex-start);
-        @include flex_align-content(center);
-        margin-bottom: 20px;
-        width: 100%;
-      }
-
-      .checkbox-group {
-        @include flex_flex(1 1 33%);
-        margin: 20px 0 0;
-        min-width: 300px;
-
-        p {
-          @include flex_flex(1 1 30%);
-          margin-bottom: 10px;
-          min-width: 300px;
-          font-size: 22px;
-          font-weight: 300;
-          font-style: italic;
-          text-transform: uppercase;
-        }
-
-        ul {
-          list-style: none;
-
-          input[type=checkbox] {
-            margin-right: 8px;
-          }
-          li {
-            font-size: 16px;
-            font-weight: 300;
-          }
-        }
-      }
-    }
-
-    .form-buttons {
-      display: block;
-      margin: 20px auto 10px;
-      text-align: center;
-    }
-
-    .form-disclaimer {
-      display: block;
-      margin:0 auto;
-      text-align: center;
-      font-size: 13px;
+      border: 1px solid $DETAIL-GREY;
+      font-size: 21px;
       font-weight: 100;
+      outline: none;
+      color: $PRIMARY-TEXT-COLOR;
+
+      &::-moz-placeholder,
+      &::-ms-input-placeholder,
+      &::-webkit-input-placeholder,
+      &::placeholder {
+        font-size: 14px;
+        color: $DETAIL-GREY;
+      }
     }
 
+    .double {
+      @include display_flex();
+      @include flex_flex-direction(row);
+      @include flex_justify-content(space-between);
+      @include flex_align-items(center);
+      margin: 0 auto 10px;
+      padding: 0;
+      width: 100%;
+
+      input {
+        margin: 0 auto;
+        @include flex_flex(0 1 50%);
+      }
+
+      input + input {
+        margin-left: 10px;
+      }
+    }
   }
 
+  .form-checkboxes {
+    display: none;
+    margin-bottom: 10px;
+    width: 100%;
+    @include mq($from: tablet) {
+      @include display_flex();
+      @include flex_flex-wrap(wrap);
+      @include flex_flex-direction(row);
+      @include flex_justify-content(space-around);
+      @include flex_align-items(flex-start);
+      @include flex_align-content(center);
+      margin-bottom: 20px;
+      width: 100%;
+    }
+
+    .checkbox-group {
+      @include flex_flex(1 1 33%);
+      margin: 20px 0 0;
+      min-width: 300px;
+
+      p {
+        @include flex_flex(1 1 30%);
+        margin-bottom: 10px;
+        min-width: 300px;
+        font-size: 22px;
+        font-weight: 300;
+        font-style: italic;
+        text-transform: uppercase;
+      }
+
+      ul {
+        list-style: none;
+
+        input[type=checkbox] {
+          margin-right: 8px;
+        }
+
+        li {
+          font-size: 16px;
+          font-weight: 300;
+        }
+      }
+    }
+  }
+
+  .form-buttons {
+    display: block;
+    margin: 20px auto 10px;
+    text-align: center;
+  }
+
+  .form-disclaimer {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 13px;
+    font-weight: 100;
+  }
 }

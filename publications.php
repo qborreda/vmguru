@@ -23,9 +23,9 @@
   <!-- HEADER -->
   <?php include "header.php"; ?>
 
-  <div class="wrapper">
+  <div class="short_wrapper">
 
-    <section class="home-section">
+    <section class="new-section">
       <div class="section-title">Наши публикации 2016 - 2018</div>
     </section>
     <section class="publications-section1">

@@ -2,12 +2,7 @@
   @include display_flex();
   @include flex_flex-direction(column);
   @include flex_justify-content(start);
-  padding: 0 10px 25px;
   line-height: 1.8rem;
-
-  @include mq($from: tablet) {
-    padding: 30px 50px 0;
-  }
 
   .resume-list {
     display: none;
@@ -49,50 +44,59 @@
       @include display_flex();
       @include flex_flex-direction(column);
       @include flex_justify-content(center);
-      @include flex_align-items(center);
-      /* @include flex_flex(1 0 0); */
+      @include flex_align-items(flex-start);
+      @include flex_flex(1 1 90%);
+      max-width: 90%;
       margin: 15px 0;
       min-height: 0;
 
       @include mq($from: tablet) {
-        @include flex_flex-direction(column);
-        @include flex_justify-content(center);
-        @include flex_align-items(flex-start);
-        @include flex_flex(1 1 50%);
+        @include flex_flex(1 1 45%);
+        max-width: 45%;
         margin: 0 30px;
       }
-
       @include mq($from: desktop) {
+        @include flex_flex(1 1 35%);
+        max-width: 35%;
+        margin: 0 60px;
+      }
+      @include mq($from: wide) {
+        @include flex_flex(1 1 30%);
+        max-width: 30%;
         margin: 0 60px;
       }
 
-      h3 {
+      .info-icon {
+        width: auto;
+        height: 80px;
+      }
+
+      .info-title {
         position: relative;
-        display: inline-block;
+        display: block;
         margin-top: 0;
-        padding-right: 30px;
-        font-size: 38px;
-        font-weight: 100;
-        font-style: italic;
+        padding-bottom: 16px;
+        font-size: 30px;
+        font-weight: 400;
         line-height: 45px;
         overflow: hidden;
 
-        span {
-          display: block;
+        &:after {
+          content: "";
           position: absolute;
-          top: 25%;
+          bottom: 0;
           left: 0;
-          width: 130%;
-          height: 50%;
+          display: inline-block;
+          width: 100px;
+          height: 8px;
           background-color: $DETAIL-CYAN;
-          transform: skewY(-5deg);
-          z-index: -1;
         }
       }
 
-      ul {
-        padding: 0 1rem;
+      .info-bullets {
+        padding: 0;
         line-height: 1.5rem;
+        list-style: none;
       }
 
       p:not(last-child),

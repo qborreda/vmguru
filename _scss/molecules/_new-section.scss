@@ -1,0 +1,38 @@
+.new-section {
+  margin: 0 auto 25px;
+  padding: 0 10px;
+  line-height: 1.8rem;
+  max-width: 1440px;
+
+  &.no-padding {
+    padding: 0;
+  }
+
+  @include mq($from: tablet) {
+    margin: 0 auto 50px;
+  }
+
+  .section-intro-text {
+    display: block;
+    width: 80%;
+    max-width: 1300px;
+    margin: 0 auto 25px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+
+    p {
+      text-align: center;
+      margin-bottom: 30px;
+    }
+
+    @include mq($from: tablet) {
+      margin: 0 auto 50px;
+      font-size: 20px;
+    }
+
+    @include mq($from: desktop) {
+      font-size: 24px;
+    }
+  }
+}

@@ -23,43 +23,46 @@
     <!-- MAIN HEADER -->
     <?php include "header.php"; ?>
 
-    <!-- WRAPPER -->
-    <div class="wrapper">
-        <section class="event-section1">
-            <div class="event-section1-image event4"></div>
-            <div class="boxed-title">
-                <div class="box-skewy"></div>
-                <div class="box-texts">
-                    <div class="box-texts-date">
-                        <span class="day">17 - 18</span>
-                        <span class="month">октября</span>
-                    </div>
-                    <div class="box-texts-title">
-                        КОММЕРЧЕСКИЙ ВИЗУАЛЬНЫЙ МЕРЧАНДАЙЗИНГ; ПРИКЛАДНЫЕ ТЕХНИКИ «ОТ А ДО Я»
-                    </div>
-                    <span class="box-texts-detail">групповой тренинг</span>
-                </div>
+    <!-- FULL WRAPPER -->
+    <div class="full_wrapper">
+
+      <section class="hero_section">
+          <div class="hero_image vm">
+            <div class="hero_contents">
+              <div class="hero_dates">22 - 23 октября</div>
+              <div class="hero_title">Коммерческий визуальный мерчандайзинг; прикладные техники «от А до Я»</div>
+              <p class="hero_description">
+                Изучите и отработаете на практике законы презентации коллекций в торговом зале с адаптацией «под бренд»
+                <br/>Узнаете о ВМ техниках «затягивания» покупателей в магазин
+                <br/>Освоите визуальный мерчандайзинг быстрого реагирования
+                <br/>Превратите теоретические знания о визуальном мерчендайзинге в практические навыки и умения
+              </p>
+              <div class="cta-button">заказать консультацию ›</div>
             </div>
-        </section>
-        <section class="event-section2">
-            <ul class="resume-list">
-                <li>Изучите и отработаете на практике законы презентации коллекций в торговом зале с адаптацией «под бренд»</li>
-                <li>Узнаете о ВМ техниках «затягивания» покупателей в магазин</li>
-                <li>Освоите визуальный мерчандайзинг быстрого реагирования </li>
-                <li>Превратите теоретические знания о визуальном мерчендайзинге в практические навыки и умения</li>
-            </ul>
+          </div>
+      </section>
+
+    </div>
+
+    <!-- WRAPPER -->
+    <div class="short_wrapper">
+
+        <section class="new-section event-section2">
+
             <div class="more-info">
                 <div class="more-info-left">
-                    <h3><span></span>для кого?</h3>
-                    <ul>
+                  <img class="info-icon" src="/imgs/ico-for-whom.svg" alt="для кого?">
+                    <h3 class="info-title"><span></span>для кого?</h3>
+                    <ul class="info-bullets">
                     <li>руководители и специалисты отделов ВМ</li>
                     <li>руководители  и специалисты розницы</li>
                     <li>управляющие магазинов</li>
                     </ul>
                 </div>
                 <div class="more-info-right">
-                    <h3><span></span>о чём?</h3>
-                    <ul>
+                  <img class="info-icon" src="/imgs/ico-format.svg" alt="формат">
+                    <h3 class="info-title"><span></span>о чём?</h3>
+                    <ul class="info-bullets">
                     <li>день 1 – теория</li>
                     <li>день 2 – практика в магазине </li>
                     <li>группа  не более 14 человек</li>
@@ -70,108 +73,139 @@
             </div>
         </section>
 
-        <section class="home-section">
+        <section class="new-section">
           <div class="section-title">Программа</div>
-        </section>
-        <section class="event-section3">
-            <div class="event-journey">
-                ДЕНЬ 1.
-                <br/><strong>ТЕОРЕТИЧЕСКАЯ ПОДГОТОВКА</strong>
-            </div>
-            <div class="event-journey-description">
-                1. Базовые законы визуального мерчандайзинга в действии
-            </div>
-            <div class="event-journey-description">
-                2. Индивидуальные правила и стандарты ВМ модных марок
-                <ul class="event-journey-bullets">
-                <li>Структура коллекции и идеальный продукт микс</li>
-                <li>Понятие «горка» товара; примеры, оптимальные значения</li>
-                <li>Правила презентации капсульных коллекций, «цветовых историй» и промо предложений </li>
-                <li>Особенности презентации моделей Сезонных Хитов, Вольюм Драйверов, Ворст Селлеров, KVI моделей</li>
-                </ul>
-            </div>
-            <div class="event-journey-description">
-                3. Презентация коллекций в торговом зале
-                <ul class="event-journey-bullets">
-                <li>Выкладка ассортимента согласно структуре коллекции</li>
-                <li>Расположение дополнительных ассортиментных групп и товаров импульсной покупки</li>
-                <li>Оптимальная вместимость торгового зала; расчет</li>
-                <li>Оптимизация презентации коллекций в магазине: способы работы в ситуациях “то густо, то пусто”</li>
-                </ul>
-            </div>
-            <div class="event-journey-description">
-                4. Размещение коллекций в магазине; планировки и зонирование
-                <ul class="event-journey-bullets">
-                <li>Правила мобильного зонирования </li>
-                <li>«Горячие» и «холодные» торговые зоны; cпособы  «утепления» зон</li>
-                <li>Алгоритм создания зоны «Активных продаж»; работа с подсознанием покупателя</li>
-                <li>Особенности презентации товара на разном торговом оборудовании</li>
-                </ul>
-            </div>
-            <div class="event-journey-description">
-                5. Оформление коллекций в период распродажи
-                <ul class="event-journey-bullets">
-                <li>Структура и тайминг программы Sale</li>
-                <li>Презентация коллекций на разных этапах распродажи</li>
-                <li>Правила оформления торгового зала и витрин в распродажу</li>
-                </ul>
-            </div>
-            <div class="event-journey-description">
-                6. Прикладные техники антикризисного ВМ
-                <ul class="event-journey-bullets">
-                <li>ВМ быстрого реагирования и малых бюджетов</li>
-                <li>Агрессивные ВМ техники "затягивания" покупателей в магазин</li>
-                <li>Оптимизация годового бюджета ВМ (на чём экономить; что сокращать нельзя)</li>
-                </ul>
-            </div>
-            <div class="event-journey-description">
-                7. Система управления мерчандайзинга сетевого бренда – дистанционный ВМ
-                <ul class="event-journey-bullets">
-                <li>Алгоритм работы и пошагового внедрения</li>
-                <li>Западные технологии дистанционного ВМ на примерах</li>
-                </ul>
-            </div>
-            <div class="event-journey-description">
-                Практическая часть
-                <ul class="event-journey-bullets">
-                <li>Зонирование торгового пространства/ работа с планограммами</li>
-                <li>Расстановка оборудования в магазине/ работа с планограммами</li>
-                </ul>
-            </div>
-            <div class="event-journey">ДЕНЬ 2.
-                <br/><strong>ПРАКТИКА В МАГАЗИНЕ</strong></div>
-            <div class="event-journey-description">
-                Отрабатаете на практике в мультибрендовом магазине:
-                <ul class="event-journey-bullets">
-                <li>Законы и принципы коммерческого ВM в действии</li>
-                <li>Презентацию товара на разных видах торгового оборудования</li>
-                <li>Способы презентации трендовых, цветовых мини-коллекций и промо предложений</li>
-                <li>Особенности презентации моделей Сезонных Хитов, Вольюм Драйверов, Ворст Селлеров, KVI моделей</li>
-                <li>Приемы корректировки вместимости: действия в ситуациях «то густо, то пусто»</li>
-                <li>Зонирование и рутинг (навигация покупателей через все коллекции в магазине)</li>
-                <li>Принципы презентации коллекций в период распродаж</li>
-                </ul>
-            </div>
-        </section>
 
-        <section class="home-section">
-          <div class="section-title">Автор и тренер</div>
+          <div class="training-programma">
+            <div class="days-column">
+              <h3 class="day">День 1</h3>
+              <h6 class="session">Теоретическая подготовка</h6>
+            </div>
+            <div class="logo-column">
+              <img src="/imgs/ico-programma-1.svg" width="100%" alt="ДЕНЬ 1">
+            </div>
+            <div class="text-column">
+                <div class="event-journey-description">
+                    1. Базовые законы визуального мерчандайзинга в действии
+                </div>
+                <div class="event-journey-description">
+                    2. Индивидуальные правила и стандарты ВМ модных марок
+                    <ul class="event-journey-bullets">
+                    <li>Структура коллекции и идеальный продукт микс</li>
+                    <li>Понятие «горка» товара; примеры, оптимальные значения</li>
+                    <li>Правила презентации капсульных коллекций, «цветовых историй» и промо предложений </li>
+                    <li>Особенности презентации моделей Сезонных Хитов, Вольюм Драйверов, Ворст Селлеров, KVI моделей</li>
+                    </ul>
+                </div>
+                <div class="event-journey-description">
+                    3. Презентация коллекций в торговом зале
+                    <ul class="event-journey-bullets">
+                    <li>Выкладка ассортимента согласно структуре коллекции</li>
+                    <li>Расположение дополнительных ассортиментных групп и товаров импульсной покупки</li>
+                    <li>Оптимальная вместимость торгового зала; расчет</li>
+                    <li>Оптимизация презентации коллекций в магазине: способы работы в ситуациях “то густо, то пусто”</li>
+                    </ul>
+                </div>
+                <div class="event-journey-description">
+                    4. Размещение коллекций в магазине; планировки и зонирование
+                    <ul class="event-journey-bullets">
+                    <li>Правила мобильного зонирования </li>
+                    <li>«Горячие» и «холодные» торговые зоны; cпособы  «утепления» зон</li>
+                    <li>Алгоритм создания зоны «Активных продаж»; работа с подсознанием покупателя</li>
+                    <li>Особенности презентации товара на разном торговом оборудовании</li>
+                    </ul>
+                </div>
+                <div class="event-journey-description">
+                    5. Оформление коллекций в период распродажи
+                    <ul class="event-journey-bullets">
+                    <li>Структура и тайминг программы Sale</li>
+                    <li>Презентация коллекций на разных этапах распродажи</li>
+                    <li>Правила оформления торгового зала и витрин в распродажу</li>
+                    </ul>
+                </div>
+                <div class="event-journey-description">
+                    6. Прикладные техники антикризисного ВМ
+                    <ul class="event-journey-bullets">
+                    <li>ВМ быстрого реагирования и малых бюджетов</li>
+                    <li>Агрессивные ВМ техники "затягивания" покупателей в магазин</li>
+                    <li>Оптимизация годового бюджета ВМ (на чём экономить; что сокращать нельзя)</li>
+                    </ul>
+                </div>
+                <div class="event-journey-description">
+                    7. Система управления мерчандайзинга сетевого бренда – дистанционный ВМ
+                    <ul class="event-journey-bullets">
+                    <li>Алгоритм работы и пошагового внедрения</li>
+                    <li>Западные технологии дистанционного ВМ на примерах</li>
+                    </ul>
+                </div>
+                <div class="event-journey-description">
+                    Практическая часть
+                    <ul class="event-journey-bullets">
+                    <li>Зонирование торгового пространства/ работа с планограммами</li>
+                    <li>Расстановка оборудования в магазине/ работа с планограммами</li>
+                    </ul>
+                </div>
+            </div>
+          </div>
+
+          <!-- <div class="training-programma">
+            <div class="days-column">
+              <h3 class="day">День 1</h3>
+              <h6 class="session">Часть 2<br />Блиц консалтинг</h6>
+            </div>
+            <div class="logo-column">
+              <img src="/imgs/ico-programma-2.svg" width="100%" alt="ДЕНЬ 1">
+            </div>
+            <div class="text-column">
+
+            </div>
+          </div> -->
+
+          <div class="training-programma">
+            <div class="days-column">
+              <h3 class="day">День 2</h3>
+              <h6 class="session">Практика в магазине</h6>
+            </div>
+            <div class="logo-column">
+              <img src="/imgs/ico-programma-3.svg" width="100%" alt="ДЕНЬ 1">
+            </div>
+            <div class="text-column">
+              <div class="event-journey-description">
+                  Отрабатаете на практике в мультибрендовом магазине:
+                  <ul class="event-journey-bullets">
+                  <li>Законы и принципы коммерческого ВM в действии</li>
+                  <li>Презентацию товара на разных видах торгового оборудования</li>
+                  <li>Способы презентации трендовых, цветовых мини-коллекций и промо предложений</li>
+                  <li>Особенности презентации моделей Сезонных Хитов, Вольюм Драйверов, Ворст Селлеров, KVI моделей</li>
+                  <li>Приемы корректировки вместимости: действия в ситуациях «то густо, то пусто»</li>
+                  <li>Зонирование и рутинг (навигация покупателей через все коллекции в магазине)</li>
+                  <li>Принципы презентации коллекций в период распродаж</li>
+                  </ul>
+              </div>
+            </div>
+          </div>
+
         </section>
-        <section class="event-section4">
+    </div>
+
+    <div class="full_wrapper">
+        <section class="new-section no-padding">
             <?php include "_trainer-anna.php"; ?>
         </section>
+    </div>
 
-        <section class="home-section">
+    <div class="short_wrapper">
+
+        <section class="new-section">
           <div class="section-title">Стоимость</div>
-        </section>
-        <section class="event-section4">
 
             <ul class="event-data">
                 <li><span class="title">продолжительность</span><span class="item">2 дня (16 академических часов)</span>
                 </li>
                 <li><span class="title">стоимость</span>
                   <span class="item">
-                    22 500 руб. / <span class="is-highlighted">19 000 руб - ранние продажи до 25.07</span>
+                    22 500 руб.<br />
+                    <!-- / <span class="is-highlighted">19 000 руб - ранние продажи до 25.07</span> -->
                   </span>
                 </li>
                 <li><span class="title">место проведения день 1</span><span class="item">Москва, Трубная ул., д 12, бизнес-центр «Миллениум Хаус»</span>
@@ -184,10 +218,9 @@
         </section>
 
         <!-- FORM SECTION -->
-        <section class="home-section">
+        <section class="new-section">
           <div class="section-title">Оставить заявку</div>
-        </section>
-        <section class="event-section5">
+
             <form id="event-form" class="event-info" action="send-event-form.php" method="post" lang="ru" accept-charset="UTF-8">
 
             <?php include "_training-form.php"; ?>

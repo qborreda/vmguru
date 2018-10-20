@@ -23,9 +23,9 @@
   <!-- MAIN HEADER -->
   <?php include "header.php"; ?>
 
-  <div class="wrapper">
+  <div class="short_wrapper">
 
-    <section class="home-section">
+    <section class="new-section">
       <div class="section-title">Наши услуги</div>
     </section>
     <section class="consulting-section1">
@@ -63,7 +63,11 @@
             <li>Дизайн-проект торгового оборудования и зон примерочных (с размерами и материалами торгового оборудования </li>
             <li>Подбор декоративных ВМ элементов (манекены, торсы и пр.)</li>
           </ul>
-          <a class="project-link" href="http://www.vmguru.ru/projects/project-promenade.php" style="color: white; margin-top: 1rem;">посмотри проект</a>
+          <a class="hex-project-link no-border" href="http://www.vmguru.ru/projects/project-promenade.php">
+            <div class="project-link">
+              показать проект ›
+            </div>
+          </a>
         </div>
       </article>
 
@@ -88,7 +92,11 @@
             <li>Разработка стандатов визуального мерчандайзинга индивидуально под бренд</li>
             <li>Формализация и оформление стандартов в виде мерчандайзинг-бук бренда</li>
           </ul>
-          <a class="project-link" href="http://www.vmguru.ru/projects/project-incanto.php" style="color: white; margin-top: 1rem;">посмотри проект</a>
+          <a class="hex-project-link no-border" href="http://www.vmguru.ru/projects/project-incanto.php">
+            <div class="project-link">
+              показать проект ›
+            </div>
+          </a>
         </div>
       </article>
 
@@ -110,7 +118,11 @@
             <li>Коучинг персонала ВМ клиента (теория и практика в торговом зале)</li>
             <li>Кастомизированные ВМ рекомендации «под бренд» – отчетный документ</li>
           </ul>
-          <a class="project-link" href="http://www.vmguru.ru/projects/project-unichel.php" style="color: white; margin-top: 1rem;">посмотри проект</a>
+          <a class="hex-project-link no-border" href="http://www.vmguru.ru/projects/project-unichel.php">
+            <div class="project-link">
+              показать проект ›
+            </div>
+          </a>
         </div>
       </article>
 
@@ -129,7 +141,11 @@
             <li>Двухдневное и экспресс (1 день) обучение<br/>Интерактивное обучение прикладным методикам коммерческого ВМ и витринистики с практикумом редрессинга в магазине Заказчика</li>
             <li>Кастомизированный ВМ тренинг под запрос <br/>В данном случае структура обучения разбатывается индивидуально с учетом требований ЗАКАЗЧИКА либо на основе экспертного ВМ аудита магазинов клиента</li>
           </ul>
-          <a class="project-link" href="http://www.vmguru.ru/training.php" style="color: white; margin-top: 1rem;">посмотри проект</a>
+          <a class="hex-project-link no-border" href="http://www.vmguru.ru/training.php">
+            <div class="project-link">
+              показать проект ›
+            </div>
+          </a>
         </div>
       </article>
 
@@ -156,7 +172,11 @@
             <li>Рекомендации для сети в виде отчетного документа</li>
             <li>Практическое обучение сотрудников ВМ бренда</li>
           </ul>
-          <a class="project-link" href="http://www.vmguru.ru/projects/project-modis.php" style="color: white; margin-top: 1rem;">посмотри проект</a>
+          <a class="hex-project-link no-border" href="http://www.vmguru.ru/projects/project-modis.php">
+            <div class="project-link">
+              показать проект ›
+            </div>
+          </a>
         </div>
       </article>
 
@@ -202,7 +222,11 @@
             <li>Непосредственное оформление витрин (выставление декораций, света, манекенов, подбор луков)</li>
             <li>Создание сетевой презентации – инструкции по деталям оформления витрин для магазинов сети</li>
           </ul>
-          <a class="project-link" href="http://www.vmguru.ru/projects/project-xitzona.php" style="color: white; margin-top: 1rem;">посмотри проект</a>
+          <a class="hex-project-link no-border" href="http://www.vmguru.ru/projects/project-xitzona.php">
+            <div class="project-link">
+              показать проект ›
+            </div>
+          </a>
         </div>
       </article>
 
@@ -230,7 +254,11 @@
             <li>Отбор и обучение ВМ группы бренда работе с MS проектом и супервайзингу “обратной связи сети”</li>
             <li>Внедрение полномасштабного проекта Мodel Store в розничную сеть клиента; контроль качества</li>
           </ul>
-          <a class="project-link" href="http://www.vmguru.ru/projects/project-unichel.php" style="color: white; margin-top: 1rem;">посмотри проект</a>
+          <a class="hex-project-link no-border" href="http://www.vmguru.ru/projects/project-unichel.php">
+            <div class="project-link">
+              показать проект ›
+            </div>
+          </a>
         </div>
       </article>
 
@@ -253,7 +281,11 @@
             <li>Бонусная карта</li>
             <li>Дополнительные элементы по требованию заказчика</li>
           </ul>
-          <a class="project-link" href="http://www.vmguru.ru/projects/project-promenade.php" style="color: white; margin-top: 1rem;">посмотри проект</a>
+          <a class="hex-project-link no-border" href="http://www.vmguru.ru/projects/project-promenade.php">
+            <div class="project-link">
+              показать проект ›
+            </div>
+          </a>
         </div>
       </article>
 
@@ -273,12 +305,16 @@
             <li>Комплект  POS материалов в торговый зал: "Новая Коллекция", "Распродажа", Sale до 30%, Sale до 50%, Sale до 70% либо другие по требованию Заказчика</li>
             <li>Баннеры  "распродажа" на витрины</li>
           </ul>
-          <a class="project-link" href="http://www.vmguru.ru/projects/project-promenade.php" style="color: white; margin-top: 1rem;">посмотри проект</a>
+          <a class="hex-project-link no-border" href="http://www.vmguru.ru/projects/project-promenade.php">
+            <div class="project-link">
+              показать проект ›
+            </div>
+          </a>
         </div>
       </article>
     </section>
 
-    <section class="home-section">
+    <section class="new-section">
       <div class="section-title">Клиенты</div>
     </section>
     <section class="consulting-section2">

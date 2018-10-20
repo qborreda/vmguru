@@ -24,9 +24,9 @@
     <?php include "header.php"; ?>
 
     <!-- WRAPPER -->
-    <div class="wrapper">
+    <div class="short_wrapper">
 
-        <section class="home-section">
+        <section class="new-section">
           <div class="section-title">Наш адрес</div>
         </section>
         <section class="contact-section1">

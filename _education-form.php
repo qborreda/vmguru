@@ -1,10 +1,10 @@
     <div class="form-inputs">
         <div class="double">
-            <input type="text" name="name" placeholder="ИМЯ, ФАМИЛИЯ"/>
-            <input type="text" name="company" placeholder="КОМПАНИЯ"/>
+            <input type="text" name="name" placeholder="Имя фамилия"/>
+            <input type="text" name="company" placeholder="Компания"/>
         </div>
         <div class="double">
-            <input type="phone" name="phone" placeholder="ТЕЛЕФОН"/>
-            <input type="email" name="email" placeholder="EMAIL"/>
+            <input type="phone" name="phone" placeholder="Телефон"/>
+            <input type="email" name="email" placeholder="Email"/>
         </div>
     </div>
