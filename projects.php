@@ -34,6 +34,35 @@
             <br/>под руководством и при участии А. Баландиной</div>
 
             <ul class="hex-grid clr">
+                <li class="hex-item" data-link="/projects/project-oscar.php">
+                    <div>
+                        <img class="hex-content" src="/imgs/bkgr_hex_project27.jpg" alt="" />
+                        <!-- <div class="hex-title">Oscar 1</div> -->
+                        <p class="hex-description white-text is-little-text">
+                            ДИЗАЙН-ПРОЕКТ МАГАЗИНА;
+                            <br />РАЗРАБОТКА ОБОРУДОВАНИЯ
+                        </p>
+                    </div>
+                </li>
+                <li class="hex-item" data-link="/projects/project-oscar.php">
+                    <div>
+                        <img class="hex-content" src="/imgs/bkgr_hex_project28.jpg" alt="" />
+                        <!-- <div class="hex-title">Oscar 2</div> -->
+                        <p class="hex-description white-text is-little-text">
+                            СЕЗОННЫЙ РЕМЕРЧАНДАЙЗИНГ И ОБУЧЕНИЕ
+                        </p>
+                    </div>
+                </li>
+                <li class="hex-item" data-link="/projects/project-xitzona.php">
+                    <div>
+                        <img class="hex-content" src="/imgs/bkgr_hex_project8.jpg" alt="" />
+                        <!-- <div class="hex-title">XNT Zona</div> -->
+                        <p class="hex-description is-little-text">
+                            РАЗРАБОТКА ВИТРИННЫХ КОНЦЕПЦИЙ;
+                            <br/>ОФОРМЛЕНИЕ ВИТРИН
+                        </p>
+                    </div>
+                </li>
                 <li class="hex-item" data-link="/projects/project-promenade.php">
                     <div class="white-icon">
                         <img class="hex-content" src="/imgs/bkgr_hex_project_promenade1.jpg" alt="" />
@@ -52,29 +81,6 @@
                             полный брендинг-проект;
                             <br/>разработка комплекта роs sale
                         </p>
-                    </div>
-                </li>
-                <li class="hex-item" data-link="/projects/project-xitzona.php">
-                    <div>
-                        <img class="hex-content" src="/imgs/bkgr_hex_project8.jpg" alt="" />
-                        <!-- <div class="hex-title">XNT Zona</div> -->
-                        <p class="hex-description is-little-text">
-                            РАЗРАБОТКА ВИТРИННЫХ КОНЦЕПЦИЙ;
-                            <br/>ОФОРМЛЕНИЕ ВИТРИН
-                        </p>
-                    </div>
-                </li>
-                <li class="hex-item" data-link="/projects/project-incanto.php">
-                    <div>
-                        <img class="hex-content" src="/imgs/bkgr_hex_project1.jpg" alt="" />
-                        <!-- <div class="hex-title">INCANTO 1</div> --><p class="hex-description is-little-text">мерчандайзинг бук для концепта vanilla sky</p>
-                    </div>
-                </li>
-                <li class="hex-item" data-link="/projects/project-incanto.php">
-                    <div>
-                        <img class="hex-content" src="/imgs/bkgr_hex_project2.jpg" alt="" />
-                        <!-- <div class="hex-title">INCANTO 2</div> -->
-                        <p class="hex-description is-little-text">аудит торговых концептов бренда</p>
                     </div>
                 </li>
                 <li class="hex-item" data-link="/projects/project-unichel.php">
@@ -105,29 +111,17 @@
                         </p>
                     </div>
                 </li>
-
-                <li class="hex-item"  data-link="/projects/project-modis.php">
-                    <div class="white-icon">
-                        <img class="hex-content" src="/imgs/bkgr_hex_project6.jpg" alt="" />
-                        <!-- <div class="hex-title">Modis 1</div> -->
-                        <p class="hex-description white-text">
-                            АУДИТ СТАНДАРТОВ ВМ;
-                            <br/>РЕДРЕССИНГ МАГАЗИНОВ С
-                            <br/>ЗАМЕРОМ ЭФФЕКТИВНОСТИ;
-                            <br/>РЕКОМЕНДАЦИИ ПО ОПТИМИЗАЦИИ
-                            <br/>ВМ СТАНДАРТОВ
-                        </p>
+                <li class="hex-item" data-link="/projects/project-incanto.php">
+                    <div>
+                        <img class="hex-content" src="/imgs/bkgr_hex_project1.jpg" alt="" />
+                        <!-- <div class="hex-title">INCANTO 1</div> --><p class="hex-description is-little-text">мерчандайзинг бук для концепта vanilla sky</p>
                     </div>
                 </li>
-                <li class="hex-item" data-link="/projects/project-modis.php">
+                <li class="hex-item" data-link="/projects/project-incanto.php">
                     <div>
-                        <img class="hex-content" src="/imgs/bkgr_hex_project7.jpg" alt="" />
-                        <!-- <div class="hex-title">Modis 2</div> -->
-                        <p class="hex-description">
-                            РАЗРАБОТКА И ВНЕДРЕНИЕ
-                            <br/>ПРОЕКТА MODEL STORE – ВИТРИНЫ И «ГОРЯЧИЕ ЗОНЫ»;
-                            <br/>КОРПОРАТИВНОЕ ОБУЧЕНИЕ
-                        </p>
+                        <img class="hex-content" src="/imgs/bkgr_hex_project2.jpg" alt="" />
+                        <!-- <div class="hex-title">INCANTO 2</div> -->
+                        <p class="hex-description is-little-text">аудит торговых концептов бренда</p>
                     </div>
                 </li>
                 <li class="hex-item" data-link="/projects/project-sportdepo.php">
@@ -159,24 +153,26 @@
                         </p>
                     </div>
                 </li>
-                <li class="hex-item" data-link="/projects/project-sneznaia-koroleva.php">
-                    <div>
-                        <img class="hex-content" src="/imgs/bkgr_hex_project9.jpg" alt="" />
-                        <!-- <div class="hex-title">Sneznaia 1</div> -->
-                        <p class="hex-description">
-                            РАЗРАБОТКА СТАНДАРТОВ ПРЕЗЕНТАЦИИ
-                            <br/>АКСЕССУАРОВ;
-                            <br/>КОРПОРАТИВНОЕ ОБУЧЕНИЕ
+                <li class="hex-item"  data-link="/projects/project-modis.php">
+                    <div class="white-icon">
+                        <img class="hex-content" src="/imgs/bkgr_hex_project6.jpg" alt="" />
+                        <!-- <div class="hex-title">Modis 1</div> -->
+                        <p class="hex-description white-text">
+                            АУДИТ СТАНДАРТОВ ВМ;
+                            <br/>РЕДРЕССИНГ МАГАЗИНОВ С
+                            <br/>ЗАМЕРОМ ЭФФЕКТИВНОСТИ;
+                            <br/>РЕКОМЕНДАЦИИ ПО ОПТИМИЗАЦИИ
+                            <br/>ВМ СТАНДАРТОВ
                         </p>
                     </div>
                 </li>
-                <li class="hex-item" data-link="/projects/project-sneznaia-koroleva.php">
+                <li class="hex-item" data-link="/projects/project-modis.php">
                     <div>
-                        <img class="hex-content" src="/imgs/bkgr_hex_project10.jpg" alt="" />
-                        <!-- <div class="hex-title">Sneznaia 2</div> -->
+                        <img class="hex-content" src="/imgs/bkgr_hex_project7.jpg" alt="" />
+                        <!-- <div class="hex-title">Modis 2</div> -->
                         <p class="hex-description">
                             РАЗРАБОТКА И ВНЕДРЕНИЕ
-                            <br/>ПРОЕКТА MODEL STORE – ВИТРИНЫ;
+                            <br/>ПРОЕКТА MODEL STORE – ВИТРИНЫ И «ГОРЯЧИЕ ЗОНЫ»;
                             <br/>КОРПОРАТИВНОЕ ОБУЧЕНИЕ
                         </p>
                     </div>
@@ -212,6 +208,28 @@
                             МЕРЧАНДАЙЗИНГ БУК;
                             <br/>РАЗРАБОТКА И ВНЕДРЕНИЕ  ДИСТАНЦИОННОГО ВМ;
                             <br/>СЕЗОННАЯ ПОДДЕРЖКА И ОБУЧЕНИЕ
+                        </p>
+                    </div>
+                </li>
+                <li class="hex-item" data-link="/projects/project-sneznaia-koroleva.php">
+                    <div>
+                        <img class="hex-content" src="/imgs/bkgr_hex_project9.jpg" alt="" />
+                        <!-- <div class="hex-title">Sneznaia 1</div> -->
+                        <p class="hex-description">
+                            РАЗРАБОТКА СТАНДАРТОВ ПРЕЗЕНТАЦИИ
+                            <br/>АКСЕССУАРОВ;
+                            <br/>КОРПОРАТИВНОЕ ОБУЧЕНИЕ
+                        </p>
+                    </div>
+                </li>
+                <li class="hex-item" data-link="/projects/project-sneznaia-koroleva.php">
+                    <div>
+                        <img class="hex-content" src="/imgs/bkgr_hex_project10.jpg" alt="" />
+                        <!-- <div class="hex-title">Sneznaia 2</div> -->
+                        <p class="hex-description">
+                            РАЗРАБОТКА И ВНЕДРЕНИЕ
+                            <br/>ПРОЕКТА MODEL STORE – ВИТРИНЫ;
+                            <br/>КОРПОРАТИВНОЕ ОБУЧЕНИЕ
                         </p>
                     </div>
                 </li>
@@ -332,25 +350,6 @@
                             СТАНДАРТЫ ПРЕЗЕНТАЦИИ
                             <br/>В ОБУВНОМ СЕГМЕНТЕ -
                             <br/>КОРПОРАТИВНОЕ ОБУЧЕНИЕ
-                        </p>
-                    </div>
-                </li>
-                <li class="hex-item" data-link="/projects/project-oscar.php">
-                    <div>
-                        <img class="hex-content" src="/imgs/bkgr_hex_project27.jpg" alt="" />
-                        <!-- <div class="hex-title">Oscar 1</div> -->
-                        <p class="hex-description white-text is-little-text">
-                            ДИЗАЙН-ПРОЕКТ МАГАЗИНА;
-                            <br />РАЗРАБОТКА ОБОРУДОВАНИЯ
-                        </p>
-                    </div>
-                </li>
-                <li class="hex-item" data-link="/projects/project-oscar.php">
-                    <div>
-                        <img class="hex-content" src="/imgs/bkgr_hex_project28.jpg" alt="" />
-                        <!-- <div class="hex-title">Oscar 2</div> -->
-                        <p class="hex-description white-text is-little-text">
-                            СЕЗОННЫЙ РЕМЕРЧАНДАЙЗИНГ И ОБУЧЕНИЕ
                         </p>
                     </div>
                 </li>
