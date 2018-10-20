@@ -107,22 +107,29 @@
           <div class="section-title">Итоги проекта</div>
         </section>
         <section class="project-details">
-            <div class="project-carrusel">
-                <div class="js-carrusel-2">
-                    <div class="carr-item"><img src="/imgs/projects/incanto-2-01.jpg" alt=""></div>
-                    <div class="carr-item"><img src="/imgs/projects/incanto-2-02.jpg" alt=""></div>
-                    <div class="carr-item"><img src="/imgs/projects/incanto-2-03.jpg" alt=""></div>
-                    <div class="carr-item"><img src="/imgs/projects/incanto-2-04.jpg" alt=""></div>
-                    <div class="carr-item"><img src="/imgs/projects/incanto-2-05.jpg" alt=""></div>
-                    <div class="carr-item"><img src="/imgs/projects/incanto-2-06.jpg" alt=""></div>
-                    <div class="carr-item"><img src="/imgs/projects/incanto-2-07.jpg" alt=""></div>
-                    <div class="carr-item"><img src="/imgs/projects/incanto-2-08.jpg" alt=""></div>
+
+            <div class="project-carrusel project-carrusel-main">
+                <img class="btn-arrows btn-arrows-left" src="/imgs/btn_arrow_left.png" />
+
+                <div class="js-main-carrusel">
+                    <div class="carr-item"><img src="/imgs/projects/oscar-1-01.jpg" alt=""></div>
+                    <div class="carr-item"><img src="/imgs/projects/oscar-1-02.jpg" alt=""></div>
+                    <div class="carr-item"><img src="/imgs/projects/oscar-1-03.jpg" alt=""></div>
+                    <div class="carr-item"><img src="/imgs/projects/oscar-1-04.jpg" alt=""></div>
+                    <div class="carr-item"><img src="/imgs/projects/oscar-1-05.jpg" alt=""></div>
+                    <div class="carr-item"><img src="/imgs/projects/oscar-1-06.jpg" alt=""></div>
+                    <div class="carr-item"><img src="/imgs/projects/oscar-1-07.jpg" alt=""></div>
+                    <div class="carr-item"><img src="/imgs/projects/oscar-1-08.jpg" alt=""></div>
+                    <div class="carr-item"><img src="/imgs/projects/oscar-1-09.jpg" alt=""></div>
+                    <div class="carr-item"><img src="/imgs/projects/oscar-1-10.jpg" alt=""></div>
+                    <div class="carr-item"><img src="/imgs/projects/oscar-1-11.jpg" alt=""></div>
+                    <div class="carr-item"><img src="/imgs/projects/oscar-1-12.jpg" alt=""></div>
                 </div>
 
-                <img class="btn-arrows btn-arrows-left" src="/imgs/btn_arrow_left.png" />
                 <img class="btn-arrows btn-arrows-right" src="/imgs/btn_arrow_right.png" />
             </div>
-            <div class="carrusel-legend">/ проект реализован: ноябрь 2014 / выборочные страницы отчетных документов /</div>
+
+            <div class="carrusel-main-legend">/ проект реализован: декабрь 2017 – сентябрь 2018 /</div>
         </section>
 
         <!-- <section class="new-section">
