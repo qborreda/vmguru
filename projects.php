@@ -54,7 +54,7 @@
                         </p>
                     </div>
                 </li>
-                <li class="hex-item" data-link="/projects/project-promenade.php">
+                <li class="hex-item" data-link="/projects/project-commedesgarsons.php">
                     <div>
                         <img class="hex-content" src="/imgs/bkgr_hex_project29.jpg" alt="" />
                         <!-- <div class="hex-title">Comme des Garsons</div> -->
