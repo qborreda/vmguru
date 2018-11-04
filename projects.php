@@ -44,23 +44,23 @@
                         </p>
                     </div>
                 </li>
-                    <li class="hex-item" data-link="/projects/project-promenade.php">
-                        <div class="white-icon">
-                            <img class="hex-content" src="/imgs/bkgr_hex_project_promenade1.jpg" alt="" />
-                            <!-- <div class="hex-title white-text">Promenade</div> -->
-                            <p class="hex-description is-little-text">
-                                дизайн-проект магазина;
-                                <br/>тех. сопровождение
-                            </p>
-                        </div>
-                    </li>
-                <li class="hex-item" data-link="/projects/project-xitzona.php">
+                <li class="hex-item" data-link="/projects/project-promenade.php">
+                    <div class="white-icon">
+                        <img class="hex-content" src="/imgs/bkgr_hex_project_promenade1.jpg" alt="" />
+                        <!-- <div class="hex-title white-text">Promenade</div> -->
+                        <p class="hex-description white-text is-little-text">
+                            дизайн-проект магазина;
+                            <br/>тех. сопровождение
+                        </p>
+                    </div>
+                </li>
+                <li class="hex-item" data-link="/projects/project-promenade.php">
                     <div>
-                        <img class="hex-content" src="/imgs/bkgr_hex_project8.jpg" alt="" />
-                        <!-- <div class="hex-title">XNT Zona</div> -->
+                        <img class="hex-content" src="/imgs/bkgr_hex_project29.jpg" alt="" />
+                        <!-- <div class="hex-title">Comme des Garsons</div> -->
                         <p class="hex-description is-little-text">
-                            РАЗРАБОТКА ВИТРИННЫХ КОНЦЕПЦИЙ;
-                            <br/>ОФОРМЛЕНИЕ ВИТРИН
+                            КОНЦЕПЦИЯ ВМ ПРЕЗЕНТАЦИИ;
+                            <br />МЕРЧАНДАЙЗИНГ НА ОТКРЫТИЕ
                         </p>
                     </div>
                 </li>
@@ -143,13 +143,13 @@
                         </p>
                     </div>
                 </li>
-                <li class="hex-item">
+                <li class="hex-item" data-link="/projects/project-xitzona.php">
                     <div>
-                        <img class="hex-content" src="/imgs/bkgr_hex_project19.jpg" alt="" />
-                        <!-- <div class="hex-title">Ikopolis</div> -->
+                        <img class="hex-content" src="/imgs/bkgr_hex_project8.jpg" alt="" />
+                        <!-- <div class="hex-title">XNT Zona</div> -->
                         <p class="hex-description is-little-text">
-                            КОРПОРАТИВНОЕ ОБУЧЕНИЕ
-                            <br/>И ВМ КОНСАЛТИНГ ДЛЯ АРЕНДАТОРОВ ТЦ
+                            РАЗРАБОТКА ВИТРИННЫХ КОНЦЕПЦИЙ;
+                            <br/>ОФОРМЛЕНИЕ ВИТРИН
                         </p>
                     </div>
                 </li>
@@ -253,6 +253,16 @@
                             <br/>РЕКЛАМНОЙ ФОТОСЕССИИ;
                             <br/>РАЗРАБОТКА СТАНДАРТОВ ПРЕЗЕНТАЦИИ
                             <br/>POS МАТЕРИАЛОВ
+                        </p>
+                    </div>
+                </li>
+                <li class="hex-item">
+                    <div>
+                        <img class="hex-content" src="/imgs/bkgr_hex_project19.jpg" alt="" />
+                        <!-- <div class="hex-title">Ikopolis</div> -->
+                        <p class="hex-description is-little-text">
+                            КОРПОРАТИВНОЕ ОБУЧЕНИЕ
+                            <br/>И ВМ КОНСАЛТИНГ ДЛЯ АРЕНДАТОРОВ ТЦ
                         </p>
                     </div>
                 </li>
