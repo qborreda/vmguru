@@ -29,7 +29,7 @@
       <section class="hero_section">
           <div class="hero_image shops">
             <div class="hero_contents">
-              <div class="hero_dates">19 октября</div>
+              <div class="hero_dates">... февраль</div>
               <div class="hero_title">Cоздание эффективного магазина фэшн сегмента: планировки, зонирование, оптимальная вместимость, ВМ-дизайн</div>
               <p class="hero_description">
                   Узнаете как спланировать эффективно «продающий» магазин
