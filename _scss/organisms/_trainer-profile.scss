@@ -49,6 +49,39 @@
     }
   }
 
+  .quotes {
+    margin: 0 15px 15px 0;
+  }
+
+  .about-anna {
+    font-size: 17px;
+    font-weight: 300;
+    line-height: 1.2rem;
+    max-width: 450px;
+
+    p {
+      display: block;
+      margin-bottom: 10px;
+    }
+  }
+  .about-anna-footer {
+
+    .footer-author {
+      margin: 0;
+      padding: 0;
+      font-size: 18px;
+      font-weight: 900;
+      line-height: 1.1;
+    }
+    .footer-title {
+      margin: 0;
+      padding: 0;
+      font-size: 14px;
+      color: $DETAIL-ORANGE;
+      line-height: 1.2;
+    }
+  }
+
   &-title {
     font-size: 16px;
     font-weight: 600;
