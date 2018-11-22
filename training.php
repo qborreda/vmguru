@@ -56,20 +56,42 @@
               <br />Получить консультацию и заказать обучение для своего бренда вы можете у нас в любое время.
               <br />Основные форматы:</div>
         </section>
-        <section class="trainings-section1">
+        <section class="new-section event-section2">
+            <div class="more-info">
+                <div class="more-info-left">
+                    <img class="info-icon" src="/imgs/ico-for-whom.svg" alt="для кого?">
+                    <h3 class="info-title"><span></span>Ремерчандайзинг магазина с практическим обучением</h3>
+                    <p class="info-description">В основе обучения – ремерчандайзинг торгового зала и витрин магазина Заказчика. Сопровождается практическим тренингом персонала бренда с отработкой приемов ВМ «под бренд».</p>
+                    <p class="info-description">Ремерчандайзинг осуществляется после экспертного ВМ аудита и на основе сводных данных продаж.</p>
+                    <p class="info-description">Продолжительность:  два дня и экспресс (1 день).</p>
+                </div>
+                <div class="more-info-right">
+                    <img class="info-icon" src="/imgs/ico-format.svg" alt="формат">
+                    <h3 class="info-title"><span></span>Тренинг или система тернингов од запрос</h3>
+                    <p class="info-description">Структура обучения разрабатывается под запрос Заказчика.</p>
+                    <p class="info-description">Обычно включает:
+                      <br />· обучение прикладным методикам коммерческого ВМ и витринистики
+                      <br />· практикум в магазине Заказчика под задачи
+                      <br />· консалтинг клиента по его конкретным ВМ задачам
+                    </p>
+                    <p class="info-description">Продолжительность: oдин день и более; возможно сезонное обучение.</p>
+                </div>
+            </div>
+        </section>
+        <!-- <section class="trainings-section1">
             <article class="hex-content clearfix">
                 <div class="hex-content-left">
-                    <!-- <p class="hex-content-name">ФОРМАТЫ
+                    <p class="hex-content-name">ФОРМАТЫ
                         <br/>КОРПОРАТИВНОГО
-                        <br/>ОБУЧЕНИЯ</p> -->
+                        <br/>ОБУЧЕНИЯ</p>
                     <div class="hex-content-image">
                         <img src="imgs/trainings-img1.jpg" alt="" />
                     </div>
                 </div>
                 <div class="hex-content-right">
-                    <!-- <p class="hex-content-name">ФОРМАТЫ
+                    <p class="hex-content-name">ФОРМАТЫ
                         <br/>КОРПОРАТИВНОГО
-                        <br/>ОБУЧЕНИЯ</p> -->
+                        <br/>ОБУЧЕНИЯ</p>
                     <p class="hex-content-description" style="margin-bottom: 10px;"><span class="bkgr-hi">РЕМЕРЧАНДАЙЗИНГ МАГАЗИНА С ПРАКТИЧЕСКИМ ОБУЧЕНИЕМ:</span></p>
                     <p class="hex-content-paragraph">В основе обучения – ремерчандайзинг торгового зала и витрин магазина Заказчика.
                         <br />Сопровождается практическим тренингом персонала бренда с отработкой приемов ВМ «под бренд».</p>
@@ -87,25 +109,7 @@
                     <p class="hex-content-paragraph" style="margin-bottom: 20px;"><strong>Форматы:</strong> oдин день и более; возможно сезонное обучение.</p>
                 </div>
             </article>
-
-            <!-- <article class="hex-content clearfix">
-                <div class="hex-content-left">
-                    <p class="hex-content-name">Групповые
-                    <br/>тренинги</p>
-                    <div class="hex-content-image">
-                        <img src="imgs/trainings-img2.jpg" alt="" />
-                    </div>
-                </div>
-                <div class="hex-content-right">
-                    <p class="hex-content-name">Групповые
-                    <br/>тренинги</p>
-                    <p class="hex-content-description"></p>
-                    <ul class="hex-content-list">
-                        <li>Oбучение специалистов в формате интерактивного тренинга-практикума в группе до 14 человек по утвержденной программе с возможностью блиц-консалтинга в нашем офисе и на нашей торговой площадке.</li>
-                    </ul>
-                </div>
-            </article> -->
-        </section>
+        </section> -->
 
         <section class="new-section">
           <div class="section-title">Групповые тренинги</div>
