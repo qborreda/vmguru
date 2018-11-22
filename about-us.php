@@ -107,11 +107,11 @@
                 </div>
             </div>
             <div class="person">
-                <img src="imgs/about-picture-annan.jpg" alt="Анна Никифорова-Коротаева">
+                <img src="imgs/about-picture-svetlanav.jpg" alt="Светлана Васильева">
                 <div class="person-text-layout">
-                    <h4 class="person-name">АННА НИКИФОРОВА-КОРОТАЕВА</h4>
+                    <h4 class="person-name">СВЕТЛАНА ВАСИЛЬЕВА</h4>
                     <span class="person-position bkgr-hi">Ведущий архитектор</span><br/>
-                    <a class="person-email" href="mailto:anna.nikiforova@vmguru.ru">anna.nikiforova@vmguru.ru</a>
+                    <a class="person-email" href="mailto:svetlana.vasilieva@vmguru.ru">svetlana.vasilieva@vmguru.ru</a>
                 </div>
             </div>
         </section>
