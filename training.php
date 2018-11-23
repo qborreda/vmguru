@@ -28,7 +28,7 @@
           <div class="section-title">Обучение</div>
           <div class="section-intro-text">
               <p>Мы обучаем специалистов компаний
-              <br/>по следующим направлениям:</p>
+                  <br />по следующим направлениям Визуального мерчандайзинга (ВМ):</p>
           </div>
         </section>
         <section class="trainings-section1">
@@ -36,14 +36,18 @@
             <br/>по следующим направлениям:</div> -->
             <div class="trainings-section1-lists">
                 <ul class="left">
-                    <li><img src="imgs/ico-hex-nav.png" alt=""> Визуальный мерчандайзинг для магазинов одежды</li>
-                    <li><img src="imgs/ico-hex-nav.png" alt=""> Визуальный мерчандайзинг для магазинов обуви и аксессуаров </li>
+                    <li><img src="imgs/ico-hex-nav.png" alt=""> ВМ для магазинов одежды</li>
+                    <li><img src="imgs/ico-hex-nav.png" alt=""> ВМ для магазинов обуви и аксессуаров </li>
                 </ul>
                 <ul class="right">
                     <li><img src="imgs/ico-hex-nav.png" alt=""> Создание эффективного фэшн магазина</li>
                     <li><img src="imgs/ico-hex-nav.png" alt=""> Коммерческая витринистика</li>
                 </ul>
             </div>
+            <!-- <div style="text-align:center;">
+              <img src="imgs/ico-detail-eye.png" width="auto" height="80" alt="The eye"/>
+              <p>ВМ обучение проходит в двух форматах</p>
+            </div> -->
 
             <div class="crossed-box">
                 ВМ обучение проходит в двух форматах
@@ -63,18 +67,18 @@
                     <h3 class="info-title"><span></span>Ремерчандайзинг магазина с практическим обучением</h3>
                     <p class="info-description">В основе обучения – ремерчандайзинг торгового зала и витрин магазина Заказчика. Сопровождается практическим тренингом персонала бренда с отработкой приемов ВМ «под бренд».</p>
                     <p class="info-description">Ремерчандайзинг осуществляется после экспертного ВМ аудита и на основе сводных данных продаж.</p>
-                    <p class="info-description">Продолжительность:  два дня и экспресс (1 день).</p>
+                    <p class="info-description"><strong class="is-orange">Продолжительность:</strong>  два дня и экспресс (1 день).</p>
                 </div>
                 <div class="more-info-right">
                     <img class="info-icon" src="/imgs/ico-format.svg" alt="формат">
-                    <h3 class="info-title"><span></span>Тренинг или система тернингов од запрос</h3>
+                    <h3 class="info-title"><span></span>Тренинг или система тернингов под запрос</h3>
                     <p class="info-description">Структура обучения разрабатывается под запрос Заказчика.</p>
                     <p class="info-description">Обычно включает:
                       <br />· обучение прикладным методикам коммерческого ВМ и витринистики
                       <br />· практикум в магазине Заказчика под задачи
                       <br />· консалтинг клиента по его конкретным ВМ задачам
                     </p>
-                    <p class="info-description">Продолжительность: oдин день и более; возможно сезонное обучение.</p>
+                    <p class="info-description"><strong class="is-orange">Продолжительность:</strong> oдин день и более; возможно сезонное обучение.</p>
                 </div>
             </div>
         </section>
@@ -128,7 +132,7 @@
         </section>
 
         <section class="new-section">
-          <div class="section-title">Y нас обучались</div>
+          <div class="section-title">У нас обучались</div>
           <?php include "_client-grid.php"; ?>
         </section>
 
