@@ -23,7 +23,8 @@
       <span class="client-grid-logo"><img src="imgs/client-calvinklein.jpg" alt="Calvin Klein Jeans"></span>
       <span class="client-grid-logo"><img src="imgs/client-gloriajeans.jpg" alt="Gloria Jeans"></span>
       <span class="client-grid-logo"><img src="imgs/client-converse.jpg" alt="Converse"></span>
-      <span class="client-grid-logo"><img src="imgs/client-ilquattro.jpg" alt="il Quattro"></span>
+      <!-- <span class="client-grid-logo"><img src="imgs/client-ilquattro.jpg" alt="il Quattro"></span> -->
+      <span class="client-grid-logo"><img src="imgs/client-medi.jpg" alt="Medi"></span>
       <span class="client-grid-logo"><img src="imgs/client-normann.jpg" alt="Normann"></span>
       <span class="client-grid-logo"><img src="imgs/client-sintagamma.jpg" alt="Sinta Gamma"></span>
 
@@ -35,7 +36,8 @@
       <span class="client-grid-logo"><img src="imgs/client-dijeans.jpg" alt="Di Jeans"></span>
 
       <span class="client-grid-logo"><img src="imgs/client-mreason.jpg" alt="M. Reason"></span>
-      <span class="client-grid-logo"><img src="imgs/client-sportdepo.jpg" alt="Sport Depo"></span>
+      <span class="client-grid-logo"><img src="imgs/client-sportdepo.jpg" alt="SportDepo"></span>
+      <span class="client-grid-logo"><img src="imgs/client-sportmaster.jpg" alt="SportMaster"></span>
       <span class="client-grid-logo"><img src="imgs/client-ilovemum.jpg" alt="I love mum"></span>
       <span class="client-grid-logo"><img src="imgs/client-oscar.jpg" alt="Oscar"></span>
       <span class="client-grid-logo"><img src="imgs/client-promenade.jpg" alt="Promenade"></span>
