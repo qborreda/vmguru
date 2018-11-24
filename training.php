@@ -82,38 +82,26 @@
                 </div>
             </div>
         </section>
-        <!-- <section class="trainings-section1">
-            <article class="hex-content clearfix">
-                <div class="hex-content-left">
-                    <p class="hex-content-name">ФОРМАТЫ
-                        <br/>КОРПОРАТИВНОГО
-                        <br/>ОБУЧЕНИЯ</p>
-                    <div class="hex-content-image">
-                        <img src="imgs/trainings-img1.jpg" alt="" />
-                    </div>
-                </div>
-                <div class="hex-content-right">
-                    <p class="hex-content-name">ФОРМАТЫ
-                        <br/>КОРПОРАТИВНОГО
-                        <br/>ОБУЧЕНИЯ</p>
-                    <p class="hex-content-description" style="margin-bottom: 10px;"><span class="bkgr-hi">РЕМЕРЧАНДАЙЗИНГ МАГАЗИНА С ПРАКТИЧЕСКИМ ОБУЧЕНИЕМ:</span></p>
-                    <p class="hex-content-paragraph">В основе обучения – ремерчандайзинг торгового зала и витрин магазина Заказчика.
-                        <br />Сопровождается практическим тренингом персонала бренда с отработкой приемов ВМ «под бренд».</p>
-                    <p class="hex-content-paragraph">Ремерчандайзинг осуществляется после экспертного ВМ аудита на основе сводных данных продаж коллекций по линиям, с учетом приоритетной презентации моделей сезонных хитов и драйверов объема.
-                    <br/><br /><strong>Форматы:</strong>  два дня и экспресс (1 день).</p>
 
-                    <p class="hex-content-description" style="margin: 30px 0 10px 0;"><span class="bkgr-hi">ВМ ТРЕНИНГ ИЛИ СИСТЕМА ТРЕНИНГОВ ПОД ЗАПРОС</span></p>
-                    <p class="hex-content-paragraph">Структура обучения разрабатывается под запрос Заказчика.
-                        <br/>Обычно включает:</p>
-                    <ul class="hex-content-list">
-                      <li>обучение прикладным методикам коммерческого ВМ и витринистики</li>
-                      <li>практикум в магазине Заказчика под задачи</li>
-                      <li>консалтинг клиента по его конкретным ВМ задачам</li>
-                    </ul>
-                    <p class="hex-content-paragraph" style="margin-bottom: 20px;"><strong>Форматы:</strong> oдин день и более; возможно сезонное обучение.</p>
+        <section class="new-section" style="margin-top: -40px;">
+          <div class="trainer">
+              <div class="trainer-picture">
+                  <img src="imgs/trainer-anna-balandina-v2.png" alt="Анна Баландина" class="lazy">
+              </div>
+              <div class="trainer-resume">
+                <img class="quotes" src="imgs/ico-quotes.svg" alt="quotes" width="70">
+                <div class="about-anna">
+                    <p>Сегодня покупатели хотят не просто прийти в магазин за новой покупкой, они хотят получить эмоции, зарядиться атмосферой и найти свой товар на уровне подсознания.  Все это может обеспечить грамотная организация торгового пространства и презентация в нем товара, а также созданный «под бренд» и его покупателей дизайн магазина</p>
+                    <p>Мы обучим этому вас и ваш бренд.</p>
                 </div>
-            </article>
-        </section> -->
+                <div class="about-anna-footer">
+                  <p class="footer-author">Анна Баландина</p>
+                  <p class="footer-title">Основатель, VM Guru</p>
+                </div>
+
+              </div>
+          </div>
+        </section>
 
         <section class="new-section">
           <div class="section-title">Групповые тренинги</div>
