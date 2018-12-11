@@ -7,7 +7,7 @@
         <div class="article-stripe">
             <div class="article-dates">
                 <span class="month">февраль</span>
-                <span class="date">...</span>
+                <span class="date">24 - 25</span>
             </div>
             <p class="description">Визуальный мерчандайзинг для магазинов обуви и аксессуаров</p>
         </div>
@@ -20,8 +20,8 @@
         <img src="imgs/bkgr_skew_placeholder.jpg" data-src="imgs/bkgr_event4.jpg" class="lazy">
         <div class="article-stripe">
             <div class="article-dates">
-                <span class="month">февраль</span>
-                <span class="date">...</span>
+                <span class="month">марта</span>
+                <span class="date">4 - 5</span>
             </div>
             <p class="description">Витринистика: создание эффективных витрин. Большой эффект без больших расходов</p>
         </div>
@@ -34,8 +34,8 @@
         <img src="imgs/bkgr_skew_placeholder.jpg" data-src="imgs/bkgr_event1.jpg" class="lazy">
         <div class="article-stripe">
             <div class="article-dates">
-                <span class="month">февраль</span>
-                <span class="date">...</span>
+                <span class="month">марта</span>
+                <span class="date">6</span>
             </div>
             <p class="description">Cоздание эффективного магазина фэшн сегмента: планировки, зонирование, оптимальная вместимость, ВМ-дизайн</p>
         </div>
@@ -48,8 +48,8 @@
         <img src="imgs/bkgr_skew_placeholder.jpg" data-src="imgs/bkgr_event2.jpg" class="lazy">
         <div class="article-stripe">
             <div class="article-dates">
-                <span class="month">февраль</span>
-                <span class="date">...</span>
+                <span class="month">28 февраль</span>
+                <span class="date">1 марта</span>
             </div>
             <p class="description">Коммерческий визуальный мерчандайзинг; прикладные техники «от А до Я»</p>
         </div>
