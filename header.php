@@ -17,10 +17,10 @@
     <div class="secondary">
         <div class="phone-number">+7 495 741-17-84</div>
         <div class="social-links">
-            <a class="no-border" href="https://www.instagram.com/anna_balandina_vmguru/" target="_blank">
+            <a class="no-border" href="https://www.instagram.com/vm_guru/" target="_blank">
                 <img src="/imgs/ico-instagram.svg" width="30"/>
             </a>
-            <a class="no-border" href="https://www.facebook.com/VMGURU.Russia/" target="_blank">
+            <a class="no-border" href="https://www.facebook.com/VMGURU.agency/" target="_blank">
                 <img src="/imgs/ico-facebook.svg" width="30"/>
             </a>
             <a class="no-border" href="https://www.youtube.com/channel/UC3wAc98I2O_bcAK8OD3koQQ/featured" target="_blank">
