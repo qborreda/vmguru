@@ -143,7 +143,7 @@
 
         <!-- SEMINARS -->
         <section class="new-section">
-          <div class="section-title">Семинары и мастер классы</div>
+          <div class="section-title">Семинары и мастер-классы</div>
           <div class="section-intro-text">
             <p>на выставках, форумах и конференциях</p>
           </div>
