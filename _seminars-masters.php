@@ -25,6 +25,14 @@
     <p class="description">Как создать эффективный детский магазин без ошибок с самого начала; Мировые тенденции в оформлении детских магазинов</p>
   </article>
 
+  <article class="seminar-item">
+    <img class="logo lazy" src="/imgs/img-seminar-placeholder.jpg" data-src="/imgs/img-seminar-default.jpg">
+    <p class="title">Конференция. Маркетинг торговых центров 3.0</p>
+    <p class="subtitle">28 сентября 2018</p>
+    <p class="speaker">Семинар<br />Анны Баландиной</p>
+    <p class="description">Витринистика и ВМ - волшебные инструменты увеличения трафика. Создание центра притяжения для покупателей</p>
+  </article>
+
 </div>
 
 <div class="expand-trigger js-trigger-toggle"  data-target=".expanded-seminars">
@@ -37,14 +45,6 @@
 
 <!-- EXPANDED -->
 <div class="expanded-seminars js-toggle-content">
-
-  <article class="seminar-item">
-    <img class="logo lazy" src="/imgs/img-seminar-placeholder.jpg" data-src="/imgs/img-seminar-default.jpg">
-    <p class="title">Конференция. Маркетинг торговых центров 3.0</p>
-    <p class="subtitle">28 сентября 2018</p>
-    <p class="speaker">Семинар<br />Анны Баландиной</p>
-    <p class="description">Витринистика и ВМ - волшебные инструменты увеличения трафика. Создание центра притяжения для покупателей</p>
-  </article>
 
   <article class="seminar-item">
     <img class="logo lazy" src="/imgs/img-seminar-placeholder.jpg" data-src="/imgs/img-seminar-mosshoes.jpg">
@@ -100,5 +100,14 @@
     <p class="subtitle">22 февраля 2018</p>
     <p class="speaker">Семинар<br />Анны Баландиной</p>
     <p class="description">Современные технологии визуального мерчандайзинга (ВМ) для магазинов обуви и аксессуаров. Как поднять продажи в магазине средствами ВМ?</p>
+  </article>
+
+
+  <article class="seminar-item">
+    <img class="logo lazy" src="/imgs/img-seminar-placeholder.jpg" data-src="/imgs/img-seminar-cpm.jpg">
+    <p class="title">Collection Premiere Moscow</p>
+    <p class="subtitle">6 февраля 2018</p>
+    <p class="speaker">Семинар<br />Анны Баландиной</p>
+    <p class="description">Семь способов увеличения продаж с помощью инструментов визуального мерандайзинга</p>
   </article>
 </div>
