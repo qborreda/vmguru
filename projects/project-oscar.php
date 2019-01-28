@@ -132,22 +132,26 @@
             <div class="carrusel-main-legend">/ проект реализован: декабрь 2017 – сентябрь 2018 /</div>
         </section>
 
-        <!-- <section class="new-section">
+        <section class="new-section">
           <div class="section-title">Отзыв клиента</div>
         </section>
         <section class="project-testimonials">
             <div class="person">
-                <img src="/imgs/projects/incanto-testimonial.jpg" alt="Марина Афанасьева">
+                <img src="/imgs/projects/oscar-testimonial.jpg" alt="Владимир Болдышев">
                 <div class="person-text-layout">
-                    <h4 class="person-name">МАРИНА АФАНАСЬЕВА</h4>
-                    <span class="person-position bkgr-hi">Руководитель Отдела Мерчандайзинга
-                    <br/>«INCANTO Fashion Group»</span>
+                    <h4 class="person-name">ВЛАДИМИР БОЛДЫШЕВ</h4>
+                    <span class="person-position bkgr-hi">Владелец сети магазинов OSCAR</span>
                 </div>
             </div>
             <div class="testimonial-text">
-                <p>Видео магазина и видео отзыв Владимира Болдышева можно посмотреть на канале IGTV в инстаграме агентства @VM_guru</p>
+                <p>У меня сеть мультибрендовых магазинов в г. Новороссийск.</p>
+                <p>До проекта я  посетил тренинги Анны, применил знания в своих магазинах. Получил увеличения продаж, понял, что ВМ и эффективный дизайн магазина реально работают! Понял, что именно в ее агентство мне нужно обратиться, чтобы получить флагманский магазин современный, модный и успешный.</p>
+                <p>Разработка дизайн- проекта заняла 2 месяца активной работы. В начале у меня запросили статистику продаж по линиям, ассортиментную структуру, портрет ЦА, чтобы правильно и точно сделать пре-концепцию, определить и выделить зоны.
+                <br />С Анной работает очень сильная команда, архитекторы, мебельщики.
+                <br />И в результате у нас получился самый красивый магазин в торговом центре и самый эффективный магазин в нашей сети!</p>
+                <p><em>Видео магазина и видео отзыв В. Болдышева можно посмотреть на канале IGTV в инстаграме агентства <a href="https://www.instagram.com/vm_guru/" target="_blank">@VM_guru</a> </em></p>
             </div>
-        </section> -->
+        </section>
 
         <!-- FOOTER -->
         <?php include "../footer.php"; ?>
