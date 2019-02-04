@@ -55,6 +55,22 @@
         </section>
 
         <section class="new-section">
+          <div class="section-title">Групповые тренинги</div>
+          <div class="section-intro-text">
+              <p>Oбучение в формате интерактивного тренинга-практикума в группе до 14 человек по утвержденной программе в нашем офисе и на нашей торговой площадке.</p>
+          </div>
+        </section>
+        <section class="trainings-section2">
+          <!-- <div class="trainings-intro">Oбучение в формате интерактивного тренинга-практикума в группе до 14 человек по утвержденной программе в нашем офисе и на нашей торговой площадке.</div> -->
+          <div class="" style="max-width: 700px; margin: 0 auto 20px; text-align: center;">
+              <p style="padding-left: 20px; text-align: center;">При информационной поддержке</p>
+              <img src="/imgs/logo-newretail.jpg" alt="">
+              <img src="/imgs/logo-fashionunited.jpg" alt="">
+          </div>
+          <?php include "_training-events.php"; ?>
+        </section>
+
+        <section class="new-section">
           <div class="section-title">Корпоративное обучение</div>
           <div class="section-intro-text">Проводит эксперт-практик европейского уровня Анна Баландина.
               <br />Получить консультацию и заказать обучение для своего бренда вы можете у нас в любое время.
@@ -102,22 +118,6 @@
 
               </div>
           </div>
-        </section>
-
-        <section class="new-section">
-          <div class="section-title">Групповые тренинги</div>
-          <div class="section-intro-text">
-              <p>Oбучение в формате интерактивного тренинга-практикума в группе до 14 человек по утвержденной программе в нашем офисе и на нашей торговой площадке.</p>
-          </div>
-        </section>
-        <section class="trainings-section2">
-          <!-- <div class="trainings-intro">Oбучение в формате интерактивного тренинга-практикума в группе до 14 человек по утвержденной программе в нашем офисе и на нашей торговой площадке.</div> -->
-          <div class="" style="max-width: 700px; margin: 0 auto 20px; text-align: center;">
-              <p style="padding-left: 20px; text-align: center;">При информационной поддержке</p>
-              <img src="/imgs/logo-newretail.jpg" alt="">
-              <img src="/imgs/logo-fashionunited.jpg" alt="">
-          </div>
-          <?php include "_training-events.php"; ?>
         </section>
 
         <section class="new-section">
