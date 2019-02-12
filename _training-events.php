@@ -21,9 +21,9 @@
         <div class="article-stripe">
             <div class="article-dates">
                 <span class="month">марта</span>
-                <span class="date">6</span>
+                <span class="date">25</span>
             </div>
-            <p class="description">Cоздание эффективного магазина фэшн сегмента: планировки, зонирование, оптимальная вместимость, ВМ-дизайн</p>
+            <p class="description">Как создать эффективный фэшн магазин: планировки, зонирование, расчет вместимости, ВМ-дизайн</p>
         </div>
         <div class="cta-button">Узнать больше ›</div>
         </a>
@@ -49,7 +49,7 @@
         <div class="article-stripe">
             <div class="article-dates">
                 <span class="month">марта</span>
-                <span class="date">22 - 23</span>
+                <span class="date">21 - 22</span>
             </div>
             <p class="description">Визуальный мерчандайзинг для магазинов обуви и аксессуаров</p>
         </div>
