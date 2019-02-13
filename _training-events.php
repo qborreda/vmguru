@@ -14,34 +14,6 @@
         <div class="cta-button">Узнать больше ›</div>
         </a>
     </article>
-    <!-- SHOPS -->
-    <article class="container">
-        <a class="no-border" href="/sozdanie-magazine-fashion-segments-training.php">
-        <img src="imgs/bkgr_skew_placeholder.jpg" data-src="imgs/bkgr_event1.jpg" class="lazy">
-        <div class="article-stripe">
-            <div class="article-dates">
-                <span class="month">марта</span>
-                <span class="date">25</span>
-            </div>
-            <p class="description">Как создать эффективный фэшн магазин: планировки, зонирование, расчет вместимости, ВМ-дизайн</p>
-        </div>
-        <div class="cta-button">Узнать больше ›</div>
-        </a>
-    </article>
-    <!-- VM -->
-    <article class="container">
-        <a class="no-border" href="/kommercheskii-visual-merchandising-training.php">
-        <img src="imgs/bkgr_skew_placeholder.jpg" data-src="imgs/bkgr_event2.jpg" class="lazy">
-        <div class="article-stripe">
-            <div class="article-dates">
-                <span class="month">28 февраль</span>
-                <span class="date">1 марта</span>
-            </div>
-            <p class="description">Коммерческий визуальный мерчандайзинг; прикладные техники «от А до Я»</p>
-        </div>
-      <div class="cta-button">Узнать больше ›</div>
-    </a>
-    </article>
     <!-- SHOES -->
     <article class="container">
         <a class="no-border" href="/visual-merchandising-dlia-magazinov-obuvi-training.php">
@@ -52,6 +24,34 @@
                 <span class="date">21 - 22</span>
             </div>
             <p class="description">Визуальный мерчандайзинг для магазинов обуви и аксессуаров</p>
+        </div>
+        <div class="cta-button">Узнать больше ›</div>
+        </a>
+    </article>
+    <!-- VM -->
+    <article class="container">
+        <a class="no-border" href="/kommercheskii-visual-merchandising-training.php">
+        <img src="imgs/bkgr_skew_placeholder.jpg" data-src="imgs/bkgr_event2.jpg" class="lazy">
+        <div class="article-stripe">
+            <div class="article-dates">
+                <span class="month">марта</span>
+                <span class="date">25 - 26</span>
+            </div>
+            <p class="description">Коммерческий визуальный мерчандайзинг; прикладные техники «от А до Я»</p>
+        </div>
+      <div class="cta-button">Узнать больше ›</div>
+    </a>
+    </article>
+    <!-- SHOPS -->
+    <article class="container">
+        <a class="no-border" href="/sozdanie-magazine-fashion-segments-training.php">
+        <img src="imgs/bkgr_skew_placeholder.jpg" data-src="imgs/bkgr_event1.jpg" class="lazy">
+        <div class="article-stripe">
+            <div class="article-dates">
+                <span class="month">марта</span>
+                <span class="date">27</span>
+            </div>
+            <p class="description">Как создать эффективный фэшн магазин: планировки, зонирование, расчет вместимости, ВМ-дизайн</p>
         </div>
         <div class="cta-button">Узнать больше ›</div>
         </a>
