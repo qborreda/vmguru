@@ -2,9 +2,17 @@
 <div class="seminar-list">
 
   <article class="seminar-item">
+    <img class="logo lazy" src="/imgs/img-seminar-placeholder.jpg" data-src="/imgs/img-seminar-mosshoes.jpg">
+    <p class="title">MOSSHOES</p>
+    <p class="subtitle">14 марта, 13:00</p>
+    <p class="speaker">Семинар<br />Анны Баландиной</p>
+    <p class="description">Сегодня и завтра визуального мерчандайзинга. Как создать магазин-магнит для покупателей</p>
+  </article>
+
+  <article class="seminar-item">
     <img class="logo lazy" src="/imgs/img-seminar-placeholder.jpg" data-src="/imgs/img-seminar-caf.jpg">
     <p class="title">Central Asia Fashion, Алматы</p>
-    <p class="subtitle">18 февраля, 12:10</p>
+    <p class="subtitle">18 марта, 12:10</p>
     <p class="speaker">мастер-класс<br />Анны Баландиной</p>
     <p class="description">Глобальные и локальные тренды коммерческой фэшн витринистики</p>
   </article>
@@ -12,10 +20,31 @@
   <article class="seminar-item">
     <img class="logo lazy" src="/imgs/img-seminar-placeholder.jpg" data-src="/imgs/img-seminar-caf.jpg">
     <p class="title">Central Asia Fashion, Алматы</p>
-    <p class="subtitle">18 февраля, 13:00</p>
+    <p class="subtitle">18 марта, 13:00</p>
     <p class="speaker">мастер-класс<br />Анны Баландиной</p>
     <p class="description">Новый-старый магазин. Как создать торговое пространство без ошибок</p>
   </article>
+
+  <article class="seminar-item">
+    <img class="logo lazy" src="/imgs/img-seminar-placeholder.jpg" data-src="/imgs/img-seminar-omk.jpg">
+    <p class="title">Обувь. Мир кожи-2019. Весна</p>
+    <p class="subtitle">20 марта, 14.00</p>
+    <p class="speaker">Семинар<br />Анны Баландиной</p>
+    <p class="description">Современные технологии визуального мерчандайзинга для магазинов обуви и аксессуаров</p>
+  </article>
+
+</div>
+
+<div class="expand-trigger js-trigger-toggle"  data-target=".expanded-seminars">
+  <span>Больше событий
+    <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30px" viewBox="0 0 111 32" enable-background="new 0 0 111 32" xml:space="preserve">
+       <polyline fill="none" stroke-width="3" stroke-miterlimit="10" points="0.729,1.342 52.597,30.157 110.229,1.342"/>
+    </svg>
+  </span>
+</div>
+
+<!-- EXPANDED -->
+<div class="expanded-seminars js-toggle-content">
 
   <article class="seminar-item">
     <img class="logo lazy" src="/imgs/img-seminar-placeholder.jpg" data-src="/imgs/img-seminar-lingerie.jpg">
@@ -32,19 +61,6 @@
     <p class="speaker">Семинар<br />Анны Баландиной</p>
     <p class="description">Как сделать магазин магнитом для покупателей. Лайвхаки визуального мерчандайзинга</p>
   </article>
-
-</div>
-
-<div class="expand-trigger js-trigger-toggle"  data-target=".expanded-seminars">
-  <span>Больше событий
-    <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30px" viewBox="0 0 111 32" enable-background="new 0 0 111 32" xml:space="preserve">
-       <polyline fill="none" stroke-width="3" stroke-miterlimit="10" points="0.729,1.342 52.597,30.157 110.229,1.342"/>
-    </svg>
-  </span>
-</div>
-
-<!-- EXPANDED -->
-<div class="expanded-seminars js-toggle-content">
 
   <article class="seminar-item">
     <img class="logo lazy" src="/imgs/img-seminar-placeholder.jpg" data-src="/imgs/img-seminar-cjf.jpg">
@@ -112,7 +128,7 @@
 
   <article class="seminar-item">
     <img class="logo lazy" src="/imgs/img-seminar-placeholder.jpg" data-src="/imgs/img-seminar-omk.jpg">
-    <p class="title">Обувь. Мир кожи-2017. Весна</p>
+    <p class="title">Обувь. Мир кожи-2018. Весна</p>
     <p class="subtitle">22 февраля 2018</p>
     <p class="speaker">Семинар<br />Анны Баландиной</p>
     <p class="description">Современные технологии визуального мерчандайзинга (ВМ) для магазинов обуви и аксессуаров. Как поднять продажи в магазине средствами ВМ?</p>
