@@ -26,7 +26,7 @@
   <div class="short_wrapper">
 
     <section class="new-section">
-      <div class="section-title">Наши публикации 2016 - 2018</div>
+      <div class="section-title">Наши публикации 2016 - 2019</div>
     </section>
     <section class="publications-section1">
 
@@ -85,6 +85,9 @@
         </div>
       </div>
       <ul class="publication-article-list">
+        <li><span class="month">февраль 2019</span><span class="title"><a href="pdfs/Millenials-shopping-trends_Anna-Balandina_ShoesReport.pdf" target="_blank">Покупатели миллениалы. Как престраиваться брендам</a> — <span class="media">Shoes Report</span></span>
+        </li>
+
         <li><span class="month">июнь 2018</span><span class="title"><a href="https://fashionunited.ru/novostee/beeznyes/moda-i-sport-osobennosti-sportivnogo-vizualnogo-merchandajzinga/2018061822186" target="_blank">Мода и спорт: особенности спортивного ВМ</a> — <span class="media">FASHIONUNITED</span></span>
         </li>
 
@@ -155,6 +158,8 @@
         </div>
       </div>
       <ul class="publication-article-list">
+        <li><span class="month">февраль 2019</span><span class="title"><a href="pdfs/Millenials-shopping-trends_Anna-Balandina_ShoesReport.pdf" target="_blank">Покупатели миллениалы. Как престраиваться брендам</a> — <span class="media">Shoes Report</span></span>
+        </li>
 
         <li><span class="month">апрель 2018</span><span class="title"><a href="pdfs/zatiagivausie_texnologii_visual_merchandasing_Balandina-ShoesReport.pdf" target="_blank">Затягивающие технологии ВМ.</a> — <span class="media">Shoes Report</span></span>
         </li>
