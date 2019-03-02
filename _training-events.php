@@ -1,15 +1,15 @@
 <!-- TRAINING EVENTS -->
 <div class="skewed-items">
-    <!-- WINDOWS -->
+    <!-- SHOES -->
     <article class="container">
-        <a class="no-border" href="/vitrinistika-texniki-sozdania-kommercheskix-vitrin.php">
-        <img src="imgs/bkgr_skew_placeholder.jpg" data-src="imgs/bkgr_event4.jpg" class="lazy">
+        <a class="no-border" href="/visual-merchandising-dlia-magazinov-obuvi-training.php">
+        <img src="imgs/bkgr_skew_placeholder.jpg" data-src="imgs/bkgr_event3.jpg" class="lazy">
         <div class="article-stripe">
             <div class="article-dates">
                 <span class="month">марта</span>
-                <span class="date">4 - 5</span>
+                <span class="date">21 - 22</span>
             </div>
-            <p class="description">Витринистика: создание эффективных витрин. Большой эффект без больших расходов</p>
+            <p class="description">Визуальный мерчандайзинг для магазинов обуви и аксессуаров</p>
         </div>
         <div class="cta-button">Узнать больше ›</div>
         </a>
@@ -42,16 +42,16 @@
         <div class="cta-button">Узнать больше ›</div>
         </a>
     </article>
-    <!-- SHOES -->
+    <!-- WINDOWS -->
     <article class="container">
-        <a class="no-border" href="/visual-merchandising-dlia-magazinov-obuvi-training.php">
-        <img src="imgs/bkgr_skew_placeholder.jpg" data-src="imgs/bkgr_event3.jpg" class="lazy">
+        <a class="no-border" href="/vitrinistika-texniki-sozdania-kommercheskix-vitrin.php">
+        <img src="imgs/bkgr_skew_placeholder.jpg" data-src="imgs/bkgr_event4.jpg" class="lazy">
         <div class="article-stripe">
             <div class="article-dates">
                 <span class="month">апреля</span>
                 <span class="date">11 - 12</span>
             </div>
-            <p class="description">Визуальный мерчандайзинг для магазинов обуви и аксессуаров</p>
+            <p class="description">Витринистика: создание эффективных витрин. Большой эффект без больших расходов</p>
         </div>
         <div class="cta-button">Узнать больше ›</div>
         </a>

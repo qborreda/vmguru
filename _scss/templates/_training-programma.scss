@@ -103,6 +103,13 @@
       }
     }
 
+    &.is-trend {
+      font-weight: 300;
+      span {
+        font-weight: 600;
+      }
+    }
+
     .event-journey-bullets {
       font-size: 16px;
       font-weight: 300;

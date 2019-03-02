@@ -29,7 +29,7 @@
       <section class="hero_section">
           <div class="hero_image windows">
             <div class="hero_contents">
-              <div class="hero_dates">4 - 5 марта</div>
+              <div class="hero_dates">11 - 12 апреля</div>
               <div class="hero_title">Витринистика: создание эффективных витрин. Большой эффект без больших расходов</div>
               <p class="hero_description">
                   Научитесь техникам создания эффективных витрин под задачи бренда
@@ -90,7 +90,7 @@
             </div>
             <div class="text-column">
               <div class="event-journey-description">
-                  1. Какие витрины «затягивают» покупателя в магазин
+                  Какие витрины «затягивают» покупателя в магазин
                   <ul class="event-journey-bullets">
                     <li>Критерии эффективности; способы корректировки/ практика</li>
                     <li>Изменение коммерческих задач витрины: от сознания к подсознанию</li>
@@ -99,7 +99,7 @@
                   </ul>
               </div>
               <div class="event-journey-description">
-                  2. Наружная и Внутренняя витрины
+                  Наружная и Внутренняя витрины
                   <ul class="event-journey-bullets">
                     <li>
                       Инструменты создания наружной и внутренней витрины; их взаимосвязь/ практические решения
@@ -116,7 +116,7 @@
                   </ul>
               </div>
               <div class="event-journey-description">
-                  3. Презентация товара в витрине
+                  Презентация товара в витрине
                   <ul class="event-journey-bullets">
                     <li>
                       Витрина как торговое пространство: правила ВМ
@@ -133,7 +133,7 @@
                   </ul>
               </div>
               <div class="event-journey-description">
-                  4. Методы создания коммерческих витринных концепций
+                  Методы создания коммерческих витринных концепций
                   <ul class="event-journey-bullets">
                     <li>
                       Алгоритм эффективной концепции: ДНК бренда - фирменные стандарты- тема коллекции- рамочный бюджет
@@ -147,7 +147,7 @@
                   </ul>
               </div>
               <div class="event-journey-description">
-                  5. Бюджетирование; Низкобюджетные витрины
+                  Бюджетирование; Низкобюджетные витрины
                   <ul class="event-journey-bullets">
                     <li>
                       Годовой график «смены витрин»: ключевые даты; приоритеты
@@ -164,7 +164,7 @@
                   </ul>
               </div>
               <div class="event-journey-description">
-                  6. Витрины распродаж
+                  Витрины распродаж
                   <ul class="event-journey-bullets">
                     <li>
                       Правила создания и критерии эффективности
@@ -175,9 +175,9 @@
                   </ul>
               </div>
 
-              <div class="event-journey-description is-highlight">
-                  <span>Мировые тенденции коммерческой витринистики</span><br/>
-                  / по материалам международного тренд-бюро TrendUnion /
+              <div class="event-journey-description is-trend">
+                  <span>Мировые тенденции коммерческой витринистики</span>
+                  <br/>/ по материалам международного тренд-бюро TrendUnion /
               </div>
             </div>
           </div>
