@@ -50,6 +50,9 @@
       font-size: 22px;
       font-weight: 400;
       color: $DETAIL-ORANGE;
+      &.is-black {
+        color: $BLACK;
+      }
     }
   }
 
