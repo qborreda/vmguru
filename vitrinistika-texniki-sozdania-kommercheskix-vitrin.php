@@ -86,7 +86,7 @@
               <h6 class="session">Теоретическая подготовка</h6>
             </div>
             <div class="logo-column">
-              <img src="/imgs/ico-programma-1.svg" width="100%" alt="ДЕНЬ 1">
+              <img src="/imgs/ico-programma-5.svg" width="100%" alt="ДЕНЬ 1">
             </div>
             <div class="text-column">
               <div class="event-journey-description">
@@ -201,26 +201,16 @@
               <h6 class="session">Практика в магазине</h6>
             </div>
             <div class="logo-column">
-              <img src="/imgs/ico-programma-3.svg" width="100%" alt="ДЕНЬ 1">
+              <img src="/imgs/ico-programma-4.svg" width="100%" alt="ДЕНЬ 1">
             </div>
             <div class="text-column">
               <div class="event-journey-description">
                   <ul class="event-journey-bullets">
-                    <li>
-                    	Подбор коммерческих витринных комплектов под задачи
-                    </li>
-                    <li>
-                    	Оформление манекенных групп; 3D группировки
-                    </li>
-                    <li>
-                    	Работа с презентацией товара в витрине
-                    </li>
-                    <li>
-                    	Создание рабочей витрины в мультибрендовом универмаге
-                    </li>
-                    <li>
-                    	Анализ сезонных витрин брендов в ТЦ
-                    </li>
+                    <li>Подбор коммерческих витринных комплектов под задачи</li>
+                    <li>Оформление манекенных групп; 3D группировки</li>
+                    <li>Работа с презентацией товара в витрине</li>
+                    <li>Создание рабочей витрины в мультибрендовом универмаге</li>
+                    <li>Анализ сезонных витрин брендов в ТЦ</li>
                   </ul>
               </div>
             </div>
