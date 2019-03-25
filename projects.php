@@ -34,16 +34,6 @@
             <br/>под руководством и при участии А. Баландиной</div>
 
             <ul class="hex-grid clr">
-              <li class="hex-item" data-link="/projects/project-medi.php">
-                  <div>
-                      <img class="hex-content" src="/imgs/bkgr_hex_project30.jpg" alt="" />
-                      <!-- <div class="hex-title">Medi</div> -->
-                      <p class="hex-description is-little-text">
-                        КОРПОРАТИВНОЕ ВМ ОБУЧЕНИЕ
-                        <br />ПРАКТИЧЕСКИЙ КОНСАЛТИНГ
-                      </p>
-                  </div>
-              </li>
 
                 <li class="hex-item" data-link="/projects/project-promenade.php">
                     <div class="white-icon">
@@ -185,6 +175,16 @@
                             РАЗРАБОТКА И ВНЕДРЕНИЕ
                             <br/>ПРОЕКТА MODEL STORE – ВИТРИНЫ И «ГОРЯЧИЕ ЗОНЫ»;
                             <br/>КОРПОРАТИВНОЕ ОБУЧЕНИЕ
+                        </p>
+                    </div>
+                </li>
+                <li class="hex-item" data-link="/projects/project-medi.php">
+                    <div>
+                        <img class="hex-content" src="/imgs/bkgr_hex_project30.jpg" alt="" />
+                        <!-- <div class="hex-title">Medi</div> -->
+                        <p class="hex-description is-little-text">
+                          КОРПОРАТИВНОЕ ВМ ОБУЧЕНИЕ
+                          <br />ПРАКТИЧЕСКИЙ КОНСАЛТИНГ
                         </p>
                     </div>
                 </li>
