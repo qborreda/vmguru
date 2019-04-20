@@ -1,19 +1,5 @@
 <!-- TRAINING EVENTS -->
 <div class="skewed-items">
-    <!-- SHOPS -->
-    <article class="container">
-        <a class="no-border" href="/sozdanie-magazine-fashion-segments-training.php">
-        <img src="imgs/bkgr_skew_placeholder.jpg" data-src="imgs/bkgr_event1.jpg" class="lazy">
-        <div class="article-stripe">
-            <div class="article-dates">
-                <span class="month">марта</span>
-                <span class="date">27</span>
-            </div>
-            <p class="description">Как создать эффективный фэшн магазин: планировки, зонирование, расчет вместимости, ВМ-дизайн</p>
-        </div>
-        <div class="cta-button">Узнать больше ›</div>
-        </a>
-    </article>
     <!-- WINDOWS -->
     <article class="container">
         <a class="no-border" href="/vitrinistika-texniki-sozdania-kommercheskix-vitrin.php">
@@ -55,5 +41,19 @@
         </div>
       <div class="cta-button">Узнать больше ›</div>
     </a>
+    </article>
+    <!-- SHOPS -->
+    <article class="container">
+        <a class="no-border" href="/sozdanie-magazine-fashion-segments-training.php">
+        <img src="imgs/bkgr_skew_placeholder.jpg" data-src="imgs/bkgr_event1.jpg" class="lazy">
+        <div class="article-stripe">
+            <div class="article-dates">
+                <span class="month">августа</span>
+                <span class="date">28</span>
+            </div>
+            <p class="description">Как создать эффективный фэшн магазин: планировки, зонирование, расчет вместимости, ВМ-дизайн</p>
+        </div>
+        <div class="cta-button">Узнать больше ›</div>
+        </a>
     </article>
 </div>

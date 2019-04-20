@@ -29,7 +29,7 @@
       <section class="hero_section">
           <div class="hero_image shops">
             <div class="hero_contents">
-              <div class="hero_dates">27 марта</div>
+              <div class="hero_dates">28 августа</div>
               <div class="hero_title">Как создать эффективный фэшн магазин: планировки, зонирование, расчет вместимости, ВМ-дизайн</div>
               <p class="hero_description">
                   Узнаете как спланировать эффективно «продающий» магазин
@@ -274,6 +274,37 @@
             </div>
             </div>
             <div class="trigger js-trigger-toggle" data-target=".js-toggle-03">
+              <span>читать подробнее
+                <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30px" viewBox="0 0 111 32" enable-background="new 0 0 111 32" xml:space="preserve">
+                   <polyline fill="none" stroke-width="3" stroke-miterlimit="10" points="0.729,1.342 52.597,30.157 110.229,1.342"/>
+                </svg>
+              </span>
+            </div>
+          </div>
+        </div>
+        <!-- 04 -->
+        <div class="testimonial">
+          <div class="testimonial-intro-text">
+            <p>Специалисты @factory_trade прошли обучение у гуру ВМ Анны Баландиной! Новые тренды в создании продающих магазинов, зонирование с учетом классовых группировок товаров, характеристики эффективного торгового оборудования и многое- многое другое изучили мы на этом авторском курсе.</p>
+          </div>
+          <div class="testimonial-full-text js-toggle-content js-toggle-04">
+            <p>Хочется выразить огромную благодарность Анне @anna_balandina_vmguru за организацию данного обучения и за индивидуальный подход к каждому из нас!</p>
+            <p>Практический разбор ошибок и сильных сторон наших работ Анной еще раз доказал, что наша компания движется в правильном направлении.</p>
+            <p>Анна, дня нас честь учиться у таких профи как Вы, до новых встреч.</p>
+            <!-- <a href="/projects/project-oscar.php" class="no-border">
+              <div class="cta-button">
+                показать проект ›
+              </div>
+            </a> -->
+          </div>
+          <div class="testimonial-footer">
+            <div class="testimonial-author">
+              Зверева Ольга,
+              <div class="testimonial-title">Коммерческий директор,
+              <br />ООО «Фабрика торговли», г. Владивосток
+            </div>
+            </div>
+            <div class="trigger js-trigger-toggle" data-target=".js-toggle-04">
               <span>читать подробнее
                 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30px" viewBox="0 0 111 32" enable-background="new 0 0 111 32" xml:space="preserve">
                    <polyline fill="none" stroke-width="3" stroke-miterlimit="10" points="0.729,1.342 52.597,30.157 110.229,1.342"/>
