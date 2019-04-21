@@ -188,6 +188,16 @@
                         </p>
                     </div>
                 </li>
+                <li class="hex-item" data-link="/projects/project-waltervonbierendonck.php">
+                    <div>
+                        <img class="hex-content" src="/imgs/bkgr_hex_project31.jpg" alt="" />
+                        <!-- <div class="hex-title">Walter von Bierendonck</div> -->
+                        <p class="hex-description is-little-text">
+                          POP-UP WALTER VON BIERENDONCK
+                          <br/>КОНЦЕПЦИЯ И ОФОРМЛЕНИЕ
+                        </p>
+                    </div>
+                </li>
                 <li class="hex-item">
                     <div>
                         <img class="hex-content" src="/imgs/bkgr_hex_project11.jpg" alt="" />
