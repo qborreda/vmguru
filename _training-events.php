@@ -1,27 +1,13 @@
 <!-- TRAINING EVENTS -->
 <div class="skewed-items">
-    <!-- WINDOWS -->
-    <article class="container">
-        <a class="no-border" href="/vitrinistika-texniki-sozdania-kommercheskix-vitrin.php">
-        <img src="imgs/bkgr_skew_placeholder.jpg" data-src="imgs/bkgr_event4.jpg" class="lazy">
-        <div class="article-stripe">
-            <div class="article-dates">
-                <span class="month">апреля</span>
-                <span class="date">11 - 12</span>
-            </div>
-            <p class="description">Витринистика: создание эффективных витрин. Большой эффект без больших расходов</p>
-        </div>
-        <div class="cta-button">Узнать больше ›</div>
-        </a>
-    </article>
     <!-- SHOES -->
     <article class="container">
         <a class="no-border" href="/visual-merchandising-dlia-magazinov-obuvi-training.php">
         <img src="imgs/bkgr_skew_placeholder.jpg" data-src="imgs/bkgr_event3.jpg" class="lazy">
         <div class="article-stripe">
             <div class="article-dates">
-                <span class="month">апреля</span>
-                <span class="date">15 - 16</span>
+                <span class="month">июня</span>
+                <span class="date">16 - 17</span>
             </div>
             <p class="description">Визуальный мерчандайзинг для магазинов обуви и аксессуаров</p>
         </div>
@@ -34,8 +20,8 @@
         <img src="imgs/bkgr_skew_placeholder.jpg" data-src="imgs/bkgr_event2.jpg" class="lazy">
         <div class="article-stripe">
             <div class="article-dates">
-                <span class="month">апреля</span>
-                <span class="date">25 - 26</span>
+                <span class="month">августа</span>
+                <span class="date">26 - 27</span>
             </div>
             <p class="description">Коммерческий визуальный мерчандайзинг; прикладные техники «от А до Я»</p>
         </div>
@@ -52,6 +38,20 @@
                 <span class="date">28</span>
             </div>
             <p class="description">Как создать эффективный фэшн магазин: планировки, зонирование, расчет вместимости, ВМ-дизайн</p>
+        </div>
+        <div class="cta-button">Узнать больше ›</div>
+        </a>
+    </article>
+    <!-- WINDOWS -->
+    <article class="container">
+        <a class="no-border" href="/vitrinistika-texniki-sozdania-kommercheskix-vitrin.php">
+        <img src="imgs/bkgr_skew_placeholder.jpg" data-src="imgs/bkgr_event4.jpg" class="lazy">
+        <div class="article-stripe">
+            <div class="article-dates">
+                <span class="month">сентября</span>
+                <span class="date">5 - 6</span>
+            </div>
+            <p class="description">Витринистика: создание эффективных витрин. Большой эффект без больших расходов</p>
         </div>
         <div class="cta-button">Узнать больше ›</div>
         </a>

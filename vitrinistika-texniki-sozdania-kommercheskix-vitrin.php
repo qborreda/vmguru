@@ -29,7 +29,7 @@
       <section class="hero_section">
           <div class="hero_image windows">
             <div class="hero_contents">
-              <div class="hero_dates">11 - 12 апреля</div>
+              <div class="hero_dates">5 - 6 сентября</div>
               <div class="hero_title">Витринистика: создание эффективных витрин. Большой эффект без больших расходов</div>
               <p class="hero_description">
                   Научитесь техникам создания эффективных витрин под задачи бренда
