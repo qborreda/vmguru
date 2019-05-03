@@ -35,6 +35,16 @@
 
             <ul class="hex-grid clr">
 
+              <li class="hex-item" data-link="/projects/project-nomination.php">
+                  <div>
+                      <img class="hex-content" src="/imgs/bkgr_hex_project32.jpg" alt="" />
+                      <!-- <div class="hex-title">Nomination</div> -->
+                      <p class="hex-description is-little-text">
+                          <br/>«МАГАЗИН – МАГНИТ ДЛЯ ПОКУПАТЕЛЕЙ»
+                          <br/>ежегодная премия
+                      </p>
+                  </div>
+              </li>
               <li class="hex-item" data-link="/projects/project-commedesgarsons.php">
                   <div>
                       <img class="hex-content" src="/imgs/bkgr_hex_project29.jpg" alt="" />
@@ -52,15 +62,6 @@
                       <p class="hex-description is-little-text">
                         POP-UP WALTER VON BIERENDONCK
                         <br/>КОНЦЕПЦИЯ И ОФОРМЛЕНИЕ
-                      </p>
-                  </div>
-              </li>
-              <li class="hex-item" data-link="/projects/project-sportdepo.php">
-                  <div>
-                      <img class="hex-content" src="/imgs/bkgr_hex_project26.jpg" alt="" />
-                      <!-- <div class="hex-title">Sportdepo</div> -->
-                      <p class="hex-description is-little-text">
-                          КОРПОРАТИВНОЕ ВМ ОБУЧЕНИЕ
                       </p>
                   </div>
               </li>
@@ -232,13 +233,12 @@
                       </p>
                   </div>
               </li>
-              <li class="hex-item">
+              <li class="hex-item" data-link="/projects/project-sportdepo.php">
                   <div>
-                      <img class="hex-content" src="/imgs/bkgr_hex_project19.jpg" alt="" />
-                      <!-- <div class="hex-title">Ikopolis</div> -->
+                      <img class="hex-content" src="/imgs/bkgr_hex_project26.jpg" alt="" />
+                      <!-- <div class="hex-title">Sportdepo</div> -->
                       <p class="hex-description is-little-text">
-                          КОРПОРАТИВНОЕ ОБУЧЕНИЕ
-                          <br/>И ВМ КОНСАЛТИНГ ДЛЯ АРЕНДАТОРОВ ТЦ
+                          КОРПОРАТИВНОЕ ВМ ОБУЧЕНИЕ
                       </p>
                   </div>
               </li>
@@ -321,11 +321,21 @@
                 </li>
                 <li class="hex-item">
                     <div>
-                        <img class="hex-content" src="/imgs/bkgr_hex_project18.jpg" alt="" />
-                        <!-- <div class="hex-title">Ikonica</div> -->
+                        <img class="hex-content" src="/imgs/bkgr_hex_project21.jpg" alt="" />
+                        <!-- <div class="hex-title">Marccain</div> -->
+                        <p class="hex-description">
+                            СТАНДАРТЫ ПРЕЗЕНТАЦИИ ПРЕМИУМ КОЛЛЕКЦИЙ -
+                            <br/>КОРПОРАТИВНОЕ ОБУЧЕНИЕ / ФРАНЧАЙЗИНГ. КОНФ.
+                        </p>
+                    </div>
+                </li>
+                <li class="hex-item">
+                    <div>
+                        <img class="hex-content" src="/imgs/bkgr_hex_project19.jpg" alt="" />
+                        <!-- <div class="hex-title">Ikopolis</div> -->
                         <p class="hex-description is-little-text">
-                            РАЗРАБОТКА ВИТРИННОЙ КОНЦЕПЦИИ;
-                            <br/>ОФОРМЛЕНИЕ ПИЛОТНЫХ ВИТРИН
+                            КОРПОРАТИВНОЕ ОБУЧЕНИЕ
+                            <br/>И ВМ КОНСАЛТИНГ ДЛЯ АРЕНДАТОРОВ ТЦ
                         </p>
                     </div>
                 </li>
@@ -343,11 +353,11 @@
                 </li>
                 <li class="hex-item">
                     <div>
-                        <img class="hex-content" src="/imgs/bkgr_hex_project21.jpg" alt="" />
-                        <!-- <div class="hex-title">Marccain</div> -->
-                        <p class="hex-description">
-                            СТАНДАРТЫ ПРЕЗЕНТАЦИИ ПРЕМИУМ КОЛЛЕКЦИЙ -
-                            <br/>КОРПОРАТИВНОЕ ОБУЧЕНИЕ / ФРАНЧАЙЗИНГ. КОНФ.
+                        <img class="hex-content" src="/imgs/bkgr_hex_project18.jpg" alt="" />
+                        <!-- <div class="hex-title">Ikonica</div> -->
+                        <p class="hex-description is-little-text">
+                            РАЗРАБОТКА ВИТРИННОЙ КОНЦЕПЦИИ;
+                            <br/>ОФОРМЛЕНИЕ ПИЛОТНЫХ ВИТРИН
                         </p>
                     </div>
                 </li>
