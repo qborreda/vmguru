@@ -7,7 +7,7 @@
         <div class="article-stripe">
             <div class="article-dates">
                 <span class="month">июня</span>
-                <span class="date">16 - 17</span>
+                <span class="date">13 - 14</span>
             </div>
             <p class="description">Визуальный мерчандайзинг для магазинов обуви и аксессуаров</p>
         </div>
