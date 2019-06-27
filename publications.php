@@ -42,7 +42,7 @@
         <li><span class="month">aпрель 2018</span><span class="title"><a href="https://fashionunited.ru/novostee/moda/kollaboratsii-v-feshn-vitrinistike-eto-novaya-krov-i-interes-k-brendu/2018041221473" target="_blank">Коллаборации в витринистике: "новая кровь" и интерес к бренду</a> — <span class="media">FASHIONUNITED</span></span>
         </li>
 
-        <li><span class="month">декабрь 2017</span><span class="title"><a href="https://new-retail.ru/magaziny/novogodnyaya_feshn_vitrinistika_glavnye_pravila_nedorogogo_prazdnichnogo_oformleniya3387/?sphrase_id=235771" target="_blank">Новогодняя фэшн витринистика: главные правила недорогого праздничного оформления</a> — <span class="media">New-retail.ru</span></span>
+        <li><span class="month">декабрь 2017</span><span class="title"><a href="https://new-retail.ru/magaziny/novogodnyaya_feshn_vitrinistika_glavnye_pravila_nedorogogo_prazdnichnogo_oformleniya3387/?sphrase_id=235771" target="_blank">Новогодняя фэшн витринистика: главные правила недорогого праздничного оформления</a> — <span class="media">New Retail</span></span>
         </li>
 
         <li><span class="month">декабрь 2017</span><span class="title"><a href="https://fashionunited.ru/novostee/moda/kakimi-budut-novogodnie-vitriny-etogo-sezona-anna-balandina-spetsialist-po-kommercheskoj-vitrinistike-rukovoditel-vm-guru/2017111619849" target="_blank">Какими будут новогодние витрины сезона FW 2018</a> — <span class="media">FASHIONUNITED</span></span>
@@ -57,10 +57,10 @@
         <li><span class="month">ноябрь 2016</span><span class="title"><a href="pdfs/emotionalnii shopping.pdf" target="_blank">«Эмоциональный шопинг и новогодняя витринистика»</a> — <span class="media">Shoes Report</span></span>
         </li>
 
-        <!-- <li><span class="month">август 2015</span><span class="title"><a href="pdfs/kolonka-fashion-consulting-group-nizkobyudzhetnaya-vitrina-ne-znachit-plokhaya.pdf" target="_blank">Низкобюджетная витрина не значит плохая</a> — <span class="media">портал FashionUnited</span></span>
+        <!-- <li><span class="month">август 2015</span><span class="title"><a href="pdfs/kolonka-fashion-consulting-group-nizkobyudzhetnaya-vitrina-ne-znachit-plokhaya.pdf" target="_blank">Низкобюджетная витрина не значит плохая</a> — <span class="media">FASHIONUNITED</span></span>
               </li> -->
 
-        <li><span class="month">апрель 2015</span><span class="title"><a href="https://new-retail.ru/magaziny/dizayn/za_steklom_mirovye_trendy_vitrinistiki6275/" target="_blank">За стеклом: мировые тренды витринистики</a> — <span class="media">New-retail.ru</span></span>
+        <li><span class="month">апрель 2015</span><span class="title"><a href="https://new-retail.ru/magaziny/dizayn/za_steklom_mirovye_trendy_vitrinistiki6275/" target="_blank">За стеклом: мировые тренды витринистики</a> — <span class="media">New Retail</span></span>
         </li>
 
         <!-- <li><span class="month">декабрь 2014</span><span class="title"><a href="pdfs/vitriny-magazinov-stanovyatsya-vse-pragmatichnee.pdf" target="_blank">Витрины магазинов становятся все прагматичнее и информативнее</a> — <span class="media">Газета Ведомости</span></span>
@@ -97,7 +97,7 @@
         <li><span class="month">август 2017</span><span class="title"><a href="pdfs/pazl_effective_shop_Balandina_Profashion.pdf" target="_blank">Пазл для сборки эффективного магазина одежды</a> — <span class="media">profashion</span></span>
         </li>
 
-        <li><span class="month">август 2017</span><span class="title"><a href="https://fashionunited.ru/novostee/beeznyes/vm-guru-kak-prezentovat-tovar-maksimalno-kommercheski/2017080118767" target="_blank">VM Guru: как презентовать товар максимально коммерчески</a> — <span class="media">FashionUnited</span></span>
+        <li><span class="month">август 2017</span><span class="title"><a href="https://fashionunited.ru/novostee/beeznyes/vm-guru-kak-prezentovat-tovar-maksimalno-kommercheski/2017080118767" target="_blank">VM Guru: как презентовать товар максимально коммерчески</a> — <span class="media">FASHIONUNITED</span></span>
         </li>
 
         <li><span class="month">сентябрь 2016</span><span class="title"><a href="pdfs/instrument-bistrogo-reagirovania-profashion.pdf" target="_blank">«Инструмент быстрого реагирования»</a> — <span class="media">profashion</span></span>
@@ -118,7 +118,7 @@
         <!-- <li><span class="month">декабрь 2015</span><span class="title"><a href="/pdfs/onko_v_prodazi_balandina.pdf" target="_blank">«ОКНО В ПРОДАЖИ»</a> — <span class="media">profashion</span></span>
         </li> -->
 
-        <!-- <li><span class="month">май 2016</span><span class="title"><a href="pdfs/anna-balandina-vizualnyi-merchandai-zing-mozhno-postich-tolko-na-praktike.pdf" target="_blank">«Визуальный мерчандайзинг возможно постичь только на практике!»</a> — <span class="media">портал FashionUnited</span></span>
+        <!-- <li><span class="month">май 2016</span><span class="title"><a href="pdfs/anna-balandina-vizualnyi-merchandai-zing-mozhno-postich-tolko-na-praktike.pdf" target="_blank">«Визуальный мерчандайзинг возможно постичь только на практике!»</a> — <span class="media">FASHIONUNITED</span></span>
         </li> -->
       </ul>
 
@@ -127,10 +127,13 @@
         <img src="imgs/publications-picture2.jpg" alt="">
         <div class="publication-text-layout">
           <h4 class="publication-name bkgr-hi">ДИЗАЙН МАГАЗИНОВ
-                    <br/>И ТОРГОВЫЕ КОНЦЕПЦИИ БРЕНДОВ</h4>
+            <br/>И ТОРГОВЫЕ КОНЦЕПЦИИ БРЕНДОВ</h4>
         </div>
       </div>
       <ul class="publication-article-list">
+        <li><span class="month">июль 2019</span><span class="title"><a href="https://new-retail.ru/business/eko_frendli_brend_marketingovyy_khod_ili_realnyy_standart8285/?fbclid=IwAR0-rLZZCNOxIyjpzoPzblZz1FECj8-nlzoqWcNreB-e0xg-4Ex5PY1vJ9M" target="_blank">ЭКО-френдли бренд это маркетинговый ход или реальный стандарт</a> — <span class="media">New Retail</span></span>
+        </li>
+
         <li><span class="month">август 2017</span><span class="title"><a href="pdfs/pazl_effective_shop_Balandina_Profashion.pdf" target="_blank">Пазл для сборки эффективного магазина одежды</a> — <span class="media">profashion</span></span>
         </li>
 
