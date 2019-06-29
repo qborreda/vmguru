@@ -2,35 +2,35 @@
 <div class="seminar-list">
 
   <article class="seminar-item">
+    <img class="logo lazy" src="/imgs/img-seminar-placeholder.jpg" data-src="/imgs/img-seminar-euroshoes.jpg">
+    <p class="title">Euro Shoes Collection Premier</p>
+    <p class="subtitle">28 августа, 15.00</p>
+    <p class="speaker">Семинар<br />Анны Баландиной</p>
+    <p class="description">Визуальный мерчандайзинг и дизайн магазинов обуви и аксессуаров. Как понравиться и продавать товары новым поколения покупателей</p>
+  </article>
+
+  <article class="seminar-item">
+    <img class="logo lazy" src="/imgs/img-seminar-placeholder.jpg" data-src="/imgs/img-seminar-lingerie.jpg">
+    <p class="title">Lingerie Show-Forum</p>
+    <p class="subtitle">4 сентября, 13.00</p>
+    <p class="speaker">Семинар<br />Анны Баландиной</p>
+    <p class="description">Как продавать модные товары новым поколениям потребителей; современные технологиии визуального мерчандайзинга</p>
+  </article>
+
+  <article class="seminar-item">
     <img class="logo lazy" src="/imgs/img-seminar-placeholder.jpg" data-src="/imgs/img-seminar-mosshoes.jpg">
     <p class="title">MOSSHOES</p>
-    <p class="subtitle">14 марта, 13:00</p>
+    <p class="subtitle">12 сентября, 13:00</p>
     <p class="speaker">Семинар<br />Анны Баландиной</p>
-    <p class="description">Сегодня и завтра визуального мерчандайзинга. Как создать магазин-магнит для покупателей</p>
+    <p class="description">Коммерческий визуальный мерчандайзинг и дизайн магазинов. Прикладные техники повышения продаж в модном ретейле</p>
   </article>
 
   <article class="seminar-item">
-    <img class="logo lazy" src="/imgs/img-seminar-placeholder.jpg" data-src="/imgs/img-seminar-caf.jpg">
-    <p class="title">Central Asia Fashion, Алматы</p>
-    <p class="subtitle">18 марта, 12:10</p>
-    <p class="speaker">мастер-класс<br />Анны Баландиной</p>
-    <p class="description">Глобальные и локальные тренды коммерческой фэшн витринистики</p>
-  </article>
-
-  <article class="seminar-item">
-    <img class="logo lazy" src="/imgs/img-seminar-placeholder.jpg" data-src="/imgs/img-seminar-caf.jpg">
-    <p class="title">Central Asia Fashion, Алматы</p>
-    <p class="subtitle">18 марта, 13:00</p>
-    <p class="speaker">мастер-класс<br />Анны Баландиной</p>
-    <p class="description">Новый-старый магазин. Как создать торговое пространство без ошибок</p>
-  </article>
-
-  <article class="seminar-item">
-    <img class="logo lazy" src="/imgs/img-seminar-placeholder.jpg" data-src="/imgs/img-seminar-omk.jpg">
-    <p class="title">Обувь. Мир кожи-2019. Весна</p>
-    <p class="subtitle">20 марта, 14.00</p>
+    <img class="logo lazy" src="/imgs/img-seminar-placeholder.jpg" data-src="/imgs/img-seminar-cjf.jpg">
+    <p class="title">CJF – Детская Мода</p>
+    <p class="subtitle">26 сентября, 16.00</p>
     <p class="speaker">Семинар<br />Анны Баландиной</p>
-    <p class="description">Современные технологии визуального мерчандайзинга для магазинов обуви и аксессуаров</p>
+    <p class="description">Современные технологии визуального мерчандайзинга: как поднять продажи в детском магазине и создать магазин-магнит для покупателей</p>
   </article>
 
 </div>
@@ -47,27 +47,27 @@
 <div class="expanded-seminars js-toggle-content">
 
   <article class="seminar-item">
-    <img class="logo lazy" src="/imgs/img-seminar-placeholder.jpg" data-src="/imgs/img-seminar-lingerie.jpg">
-    <p class="title">Lingerie Show-Forum</p>
-    <p class="subtitle">23 февраля, 13.00</p>
+    <img class="logo lazy" src="/imgs/img-seminar-placeholder.jpg" data-src="/imgs/img-seminar-mosshoes.jpg">
+    <p class="title">MOSSHOES</p>
+    <p class="subtitle">14 марта 2019</p>
     <p class="speaker">Семинар<br />Анны Баландиной</p>
-    <p class="description">Как сделать ваш магазин магнитом для покупателей. Лайвхаки визуального мерчандайзинга</p>
+    <p class="description">Сегодня и завтра визуального мерчандайзинга. Как создать магазин-магнит для покупателей</p>
   </article>
 
   <article class="seminar-item">
-    <img class="logo lazy" src="/imgs/img-seminar-placeholder.jpg" data-src="/imgs/img-seminar-euroshoes.jpg">
-    <p class="title">Euro Shoes Collection Premier</p>
-    <p class="subtitle">26 февраля, 14.00 - 15.00</p>
-    <p class="speaker">Семинар<br />Анны Баландиной</p>
-    <p class="description">Как сделать магазин магнитом для покупателей. Лайвхаки визуального мерчандайзинга</p>
+    <img class="logo lazy" src="/imgs/img-seminar-placeholder.jpg" data-src="/imgs/img-seminar-caf.jpg">
+    <p class="title">Central Asia Fashion, Алматы</p>
+    <p class="subtitle">18 марта 2019</p>
+    <p class="speaker">мастер-класс<br />Анны Баландиной</p>
+    <p class="description">Глобальные и локальные тренды коммерческой фэшн витринистики</p>
   </article>
 
   <article class="seminar-item">
-    <img class="logo lazy" src="/imgs/img-seminar-placeholder.jpg" data-src="/imgs/img-seminar-cjf.jpg">
-    <p class="title">CJF – Детская Мода</p>
-    <p class="subtitle">27 февраля, 16.00</p>
+    <img class="logo lazy" src="/imgs/img-seminar-placeholder.jpg" data-src="/imgs/img-seminar-omk.jpg">
+    <p class="title">Обувь. Мир кожи-2019. Весна</p>
+    <p class="subtitle">20 марта 2019</p>
     <p class="speaker">Семинар<br />Анны Баландиной</p>
-    <p class="description">Как создать эффективный детский магазин без ошибок с самого начала; Мировые тенденции в оформлении детских магазинов</p>
+    <p class="description">Современные технологии визуального мерчандайзинга для магазинов обуви и аксессуаров</p>
   </article>
 
   <article class="seminar-item">
@@ -76,14 +76,6 @@
     <p class="subtitle">28 сентября 2018</p>
     <p class="speaker">Семинар<br />Анны Баландиной</p>
     <p class="description">Витринистика и ВМ - волшебные инструменты увеличения трафика. Создание центра притяжения для покупателей</p>
-  </article>
-
-  <article class="seminar-item">
-    <img class="logo lazy" src="/imgs/img-seminar-placeholder.jpg" data-src="/imgs/img-seminar-mosshoes.jpg">
-    <p class="title">MOSSHOES</p>
-    <p class="subtitle">12 сентября 2018</p>
-    <p class="speaker">Семинар<br />Анны Баландиной</p>
-    <p class="description">Пазл для сборки эффективного магазина; как создать эффективный магазин обуви и аксессуаров и избежать ошибок с самого начала</p>
   </article>
 
   <article class="seminar-item">
