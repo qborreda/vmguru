@@ -57,6 +57,29 @@
             </article>
         </section>
 
+        <!-- EXPERTS -->
+        <section class="new-section">
+          <div class="section-title">Экспертное Жюри:</div>
+        </section>
+
+        <section class="project-details">
+            <div class="hex-content clearfix">
+                <div class="hex-content-left">
+                    <div class="hex-content-image"></div>
+                </div>
+                <div class="hex-content-right">
+                    <ul class="hex-content-list no-bullets">
+                      <li><strong class="is-orange">Ирина Агатова</strong>, генеральный директор компании Project Line.</li>
+                      <li><strong class="is-orange">Мария Герасименко</strong>, генеральный директор Fashion Advisers; совладелец магазинов детской одежды Boka Boka и мультибрендов Рotis & Verso; эксперт в области развития фэшн бизнеса.</li>
+                      <li><strong class="is-orange">Деми Густавсон</strong>, владелец  компании «Рус манекен».</li>
+                      <li><strong class="is-orange">Ольга Болкунова</strong>, основатель и руководитель Студии дизайна Ольги Бoлкуновой.</li>
+                      <li><strong class="is-orange">Анна Баландина</strong>, основатель VM Guru, эксперт по визуальному мерчандайзингу и дизайну магазинов.</li>
+                      <li><strong class="is-orange">Станислава Нажмитдинова</strong>, основатель компании «Штаб», эксперт по масштабированию бизнеса в фэшн индустрии.</li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+
         <!-- FORM SECTION -->
         <section class="new-section">
           <div class="section-title">Хочу участвовать:</div>

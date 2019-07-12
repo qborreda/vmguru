@@ -11,6 +11,7 @@
   }
   .hex-content-right {
     @include flex_flex(1 1 100%);
+    max-width: 860px;
     position: relative;
   }
 
@@ -152,7 +153,14 @@
 
     li {
       margin-left: 20px;
-      line-height: 1.3;
+      line-height: 1.4;
+    }
+
+    &.no-bullets {
+      li {
+        list-style: none;
+        margin-left: 0;
+      }
     }
   }
 
