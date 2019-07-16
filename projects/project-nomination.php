@@ -69,7 +69,7 @@
                 </div>
                 <div class="hex-content-right">
                     <ul class="hex-content-list no-bullets">
-                      <li><strong class="is-orange">Ирина Агатова</strong>, генеральный директор компании Project Line.</li>
+                      <li><strong class="is-orange">Екатерина Агатова</strong>, генеральный директор компании Project Line.</li>
                       <li><strong class="is-orange">Мария Герасименко</strong>, генеральный директор Fashion Advisers; совладелец магазинов детской одежды Boka Boka и мультибрендов Рotis & Verso; эксперт в области развития фэшн бизнеса.</li>
                       <li><strong class="is-orange">Деми Густавсон</strong>, владелец  компании «Рус манекен».</li>
                       <li><strong class="is-orange">Ольга Болкунова</strong>, основатель и руководитель Студии дизайна Ольги Бoлкуновой.</li>
