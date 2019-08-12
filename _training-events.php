@@ -21,23 +21,9 @@
         <div class="article-stripe">
             <div class="article-dates">
                 <span class="month">сентября</span>
-                <span class="date">5 - 6</span>
+                <span class="date">19 - 20</span>
             </div>
             <p class="description">Витринистика: создание эффективных витрин. Большой эффект без больших расходов</p>
-        </div>
-        <div class="cta-button">Узнать больше ›</div>
-        </a>
-    </article>
-    <!-- SHOPS -->
-    <article class="container">
-        <a class="no-border" href="/sozdanie-magazine-fashion-segments-training.php">
-        <img src="imgs/bkgr_skew_placeholder.jpg" data-src="imgs/bkgr_event1.jpg" class="lazy">
-        <div class="article-stripe">
-            <div class="article-dates">
-                <span class="month">сентября</span>
-                <span class="date">20</span>
-            </div>
-            <p class="description">Как создать эффективный фэшн магазин: планировки, зонирование, расчет вместимости, ВМ-дизайн</p>
         </div>
         <div class="cta-button">Узнать больше ›</div>
         </a>
@@ -55,5 +41,19 @@
         </div>
       <div class="cta-button">Узнать больше ›</div>
     </a>
+    </article>
+    <!-- SHOPS -->
+    <article class="container">
+        <a class="no-border" href="/sozdanie-magazine-fashion-segments-training.php">
+        <img src="imgs/bkgr_skew_placeholder.jpg" data-src="imgs/bkgr_event1.jpg" class="lazy">
+        <div class="article-stripe">
+            <div class="article-dates">
+                <span class="month">сентября</span>
+                <span class="date">27</span>
+            </div>
+            <p class="description">Как создать эффективный фэшн магазин: планировки, зонирование, расчет вместимости, ВМ-дизайн</p>
+        </div>
+        <div class="cta-button">Узнать больше ›</div>
+        </a>
     </article>
 </div>
