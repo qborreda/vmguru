@@ -41,4 +41,6 @@
       <span class="client-grid-logo"><img src="imgs/client-ilovemum.jpg" alt="I love mum"></span>
       <span class="client-grid-logo"><img src="imgs/client-oscar.jpg" alt="Oscar"></span>
       <span class="client-grid-logo"><img src="imgs/client-promenade.jpg" alt="Promenade"></span>
+
+      <span class="client-grid-logo"><img src="imgs/client-modoza.jpg" alt="Modoza"></span>
   </div>
