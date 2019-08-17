@@ -14,20 +14,6 @@
         <div class="cta-button">Узнать больше ›</div>
         </a>
     </article>
-    <!-- WINDOWS -->
-    <article class="container">
-        <a class="no-border" href="/vitrinistika-texniki-sozdania-kommercheskix-vitrin.php">
-        <img src="imgs/bkgr_skew_placeholder.jpg" data-src="imgs/bkgr_event4.jpg" class="lazy">
-        <div class="article-stripe">
-            <div class="article-dates">
-                <span class="month">сентября</span>
-                <span class="date">19 - 20</span>
-            </div>
-            <p class="description">Витринистика: создание эффективных витрин. Большой эффект без больших расходов</p>
-        </div>
-        <div class="cta-button">Узнать больше ›</div>
-        </a>
-    </article>
     <!-- VM -->
     <article class="container">
         <a class="no-border" href="/kommercheskii-visual-merchandising-training.php">
@@ -52,6 +38,20 @@
                 <span class="date">27</span>
             </div>
             <p class="description">Как создать эффективный фэшн магазин: планировки, зонирование, расчет вместимости, ВМ-дизайн</p>
+        </div>
+        <div class="cta-button">Узнать больше ›</div>
+        </a>
+    </article>
+    <!-- WINDOWS -->
+    <article class="container">
+        <a class="no-border" href="/vitrinistika-texniki-sozdania-kommercheskix-vitrin.php">
+        <img src="imgs/bkgr_skew_placeholder.jpg" data-src="imgs/bkgr_event4.jpg" class="lazy">
+        <div class="article-stripe">
+            <div class="article-dates">
+                <span class="month">октября</span>
+                <span class="date">30 - 1</span>
+            </div>
+            <p class="description">Витринистика: создание эффективных витрин. Большой эффект без больших расходов</p>
         </div>
         <div class="cta-button">Узнать больше ›</div>
         </a>
