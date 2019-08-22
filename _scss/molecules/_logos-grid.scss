@@ -1,11 +1,12 @@
-.client-grid {
+.client-grid,
+.partner-grid {
   @include display_flex();
   @include flex_flex-wrap(wrap);
   @include flex_flex-direction(row);
   @include flex_justify-content(space-around);
   @include flex_align-items(center);
 
-  .client-grid-logo {
+  .grid-logo {
     margin: 0 auto;
     padding: 0;
     text-align: center;
@@ -23,5 +24,16 @@
       height: auto;
       margin: 0;
     }
+  }
+}
+
+.partner-grid .grid-logo {
+  @include flex_flex(0 1 25%);
+
+  @include mq($from: tablet) {
+    @include flex_flex(0 1 20%);
+  }
+  @include mq($from: desktop) {
+    @include flex_flex(0 1 20%);
   }
 }

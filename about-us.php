@@ -116,6 +116,12 @@
             </div>
         </section>
 
+        <!-- PARTNERS -->
+        <section class="new-section">
+          <div class="section-title">Наши партнеры</div>
+          <?php include "_partners-grid.php"; ?>
+        </section>
+
         <!-- FOOTER -->
         <?php include "footer.php"; ?>
 
