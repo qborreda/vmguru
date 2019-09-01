@@ -116,6 +116,12 @@
             </div>
         </section>
 
+        <!-- CLIENTS -->
+        <section class="new-section">
+          <div class="section-title">Наши клиенты</div>
+          <?php include "_client-grid.php"; ?>
+        </section>
+
         <!-- PARTNERS -->
         <section class="new-section">
           <div class="section-title">Наши партнеры</div>
