@@ -1,29 +1,29 @@
 <!-- TRAINING EVENTS -->
 <div class="skewed-items">
-    <!-- SHOPS -->
-    <article class="container">
-        <a class="no-border" href="/sozdanie-magazine-fashion-segments-training.php">
-        <img src="imgs/bkgr_skew_placeholder.jpg" data-src="imgs/bkgr_event1.jpg" class="lazy">
-        <div class="article-stripe">
-            <div class="article-dates">
-                <span class="month">сентября</span>
-                <span class="date">27</span>
-            </div>
-            <p class="description">Как создать эффективный фэшн магазин: планировки, зонирование, расчет вместимости, ВМ-дизайн</p>
-        </div>
-        <div class="cta-button">Узнать больше ›</div>
-        </a>
-    </article>
     <!-- WINDOWS -->
     <article class="container">
         <a class="no-border" href="/vitrinistika-texniki-sozdania-kommercheskix-vitrin.php">
         <img src="imgs/bkgr_skew_placeholder.jpg" data-src="imgs/bkgr_event4.jpg" class="lazy">
         <div class="article-stripe">
             <div class="article-dates">
-                <span class="month">октября</span>
-                <span class="date">30 - 01</span>
+                <span class="month">ноября</span>
+                <span class="date">05 - 06</span>
             </div>
             <p class="description">Витринистика: создание эффективных витрин. Большой эффект без больших расходов</p>
+        </div>
+        <div class="cta-button">Узнать больше ›</div>
+        </a>
+    </article>
+    <!-- SHOPS -->
+    <article class="container">
+        <a class="no-border" href="/sozdanie-magazine-fashion-segments-training.php">
+        <img src="imgs/bkgr_skew_placeholder.jpg" data-src="imgs/bkgr_event1.jpg" class="lazy">
+        <div class="article-stripe">
+            <div class="article-dates">
+                <span class="month">ноября</span>
+                <span class="date">08</span>
+            </div>
+            <p class="description">Как создать эффективный фэшн магазин: планировки, зонирование, расчет вместимости, ВМ-дизайн</p>
         </div>
         <div class="cta-button">Узнать больше ›</div>
         </a>
@@ -34,8 +34,8 @@
         <img src="imgs/bkgr_skew_placeholder.jpg" data-src="imgs/bkgr_event2.jpg" class="lazy">
         <div class="article-stripe">
             <div class="article-dates">
-                <span class="month">октября</span>
-                <span class="date">03 - 04</span>
+                <span class="month">ноября</span>
+                <span class="date">11 - 12</span>
             </div>
             <p class="description">Коммерческий визуальный мерчандайзинг; прикладные техники «от А до Я»</p>
         </div>

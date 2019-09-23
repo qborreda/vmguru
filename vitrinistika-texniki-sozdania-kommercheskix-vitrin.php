@@ -29,7 +29,7 @@
       <section class="hero_section">
           <div class="hero_image windows">
             <div class="hero_contents">
-              <div class="hero_dates">30 сентября - 01 октября</div>
+              <div class="hero_dates">05 - 06 ноября</div>
               <div class="hero_title">Витринистика: создание эффективных витрин. Большой эффект без больших расходов</div>
               <p class="hero_description">
                   Научитесь техникам создания эффективных витрин под задачи бренда
