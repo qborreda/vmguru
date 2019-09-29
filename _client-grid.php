@@ -43,4 +43,6 @@
       <span class="grid-logo"><img src="imgs/client-promenade.jpg" alt="Promenade"></span>
 
       <span class="grid-logo"><img src="imgs/client-modoza.jpg" alt="Modoza"></span>
+      <span class="grid-logo"><img src="imgs/client-atakent.jpg" alt="Atakent"></span>
+      <span class="grid-logo"><img src="imgs/client-lanett.jpg" alt="Lanett"></span>
   </div>
