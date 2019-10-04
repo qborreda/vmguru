@@ -29,6 +29,46 @@
       <div class="section-title">Наши услуги</div>
     </section>
     <section class="consulting-section1">
+
+      <article class="hex-content clearfix">
+        <div class="hex-content-left">
+          <p class="hex-content-name">ОБУЧЕНИЕ ФЭШН АРЕНДАТОРОВ ТЦ/
+            <br/>ТРЦ ПРАКТИЧЕСКИМ ИНСТРУМЕНТАМ
+            <br/>ВИТРИНИСТИКИ И ВМ
+          </p>
+          <div class="hex-content-image">
+            <img src="imgs/bkgr_consulting11.jpg" alt="" />
+          </div>
+        </div>
+        <div class="hex-content-right">
+          <p class="hex-content-name">ОБУЧЕНИЕ ФЭШН АРЕНДАТОРОВ ТЦ/
+            <br/>ТРЦ ПРАКТИЧЕСКИМ ИНСТРУМЕНТАМ
+            <br/>ВИТРИНИСТИКИ И ВМ
+          </p>
+          <p class="hex-content-description">Комплексная программа обучения и аттестации фэшн Арендаторов ТРЦ по трем направлениям – это комбинация Теории и Практических сессий в магазинах арендаторов.</p>
+          <p class="hex-content-description">ПРОГРАММА ОБУЧЕНИЯ состоит из трех блоков:</p>
+          <ul class="hex-content-list">
+            <li>Витринистика</li>
+            <li>Визуальный мерчандайзинг</li>
+            <li>Эффективный магазин</li>
+          </ul>
+          <p class="hex-content-description">ПРОДОЛЖИТЕЛЬНОСТЬ И ФОРМАТ
+            <br/>каждого из блоков обучения зависят от задач ТРЦ и количества участников, обычно включают:</p>
+          <ul class="hex-content-list">
+            <li>ДЕНЬ 1 – теоретическое обучение "под сегменты"</li>
+            <li>ДНИ 2 – 5 – практические ВМ консультации групповые/индивидуальные</li>
+            <li>Эффективный магазин</li>
+          </ul>
+          <p class="hex-content-description" style="margin-bottom: 10px;">Возможен заказ только одного блока обучения.
+            <br/>Подробные программы обучения и отзывы клиентов - под запрос.</p>
+          <a class="hex-project-link no-border" href="http://www.vmguru.ru/projects/project-meganom.php">
+            <div class="project-link">
+              показать проект ›
+            </div>
+          </a>
+        </div>
+      </article>
+
       <article class="hex-content clearfix">
         <div class="hex-content-left">
           <p class="hex-content-name">Pазработка
