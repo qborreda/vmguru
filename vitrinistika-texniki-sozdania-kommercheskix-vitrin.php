@@ -30,7 +30,7 @@
           <div class="hero_image windows">
             <div class="hero_contents">
               <div class="hero_dates">05 - 06 ноября</div>
-              <div class="hero_title">Витринистика: создание эффективных витрин. Большой эффект без больших расходов</div>
+              <div class="hero_title"><strong class="is-cyan">NEW!</strong> Витринистика: создание эффективных витрин. Большой эффект без больших расходов</div>
               <p class="hero_description">
                   Научитесь техникам создания эффективных витрин под задачи бренда
                   <br/>Узнаете о всех тонкостях коммерческой презентации товара в витрине и закрепите их на практике
@@ -182,18 +182,43 @@
             </div>
           </div>
 
-          <!-- <div class="training-programma">
+          <div class="training-programma">
+            <div class="days-column no-border">
+              <h6 class="session">Дополнительный модуль /только в ноябре</h6>
+            </div>
+            <div class="logo-column">
+              <img src="/imgs/ico-programma-6.svg" width="100%" alt="ДЕНЬ 1">
+            </div>
+            <div class="text-column no-border">
+              <div class="event-journey-description">
+                  Новогодняя витринистика
+                  <ul class="event-journey-bullets">
+                    <li>Особенности новогодней витринистики</li>
+                    <li>Мировые тенды новогодней витристики</li>
+                    <li>Бюджетные решения</li>
+                  </ul>
+              </div>
+            </div>
+          </div>
+
+          <div class="training-programma">
             <div class="days-column">
-              <h3 class="day">День 1</h3>
+              <!-- <h3 class="day">День 1</h3> -->
               <h6 class="session">Часть 2<br />Блиц консалтинг</h6>
             </div>
             <div class="logo-column">
               <img src="/imgs/ico-programma-2.svg" width="100%" alt="ДЕНЬ 1">
             </div>
             <div class="text-column">
-
+              <div class="event-journey-description">
+                  Краткая консультация участников семинара по вопросам оформления витрин их магазинов. Проходит в открытом режиме перед всей аудиторией.
+                  <p>
+                    <br/>Для участия в Блиц консалтинге необходимо:
+                    <br/>Сформулировать вопросы максимально конкретно.
+                    <br/>Подготовить материал для иллюстрации вопросов в виде фото-отчета на электронном носителе</p>
+              </div>
             </div>
-          </div> -->
+          </div>
 
           <div class="training-programma">
             <div class="days-column">
@@ -318,14 +343,14 @@
           <div class="section-title">Стоимость</div>
 
             <ul class="event-data">
-                <li><span class="title">продолжительность</span><span class="item">2 дня (14 академических часов)</span>
+                <li><span class="title">продолжительность</span><span class="item">2 дня (16 академических часов)</span>
                 </li>
                 <li>
                   <span class="title">стоимость</span>
                   <span class="item">
-                     22 500 руб.<br/>
-                    <!-- / <span class="is-highlighted">19 000 руб - ранние продажи до 25.08</span>
-                  </span> -->
+                     24 500 руб.<br/>
+                    / <span class="is-highlighted">22 500 руб - при оплате до 12.10</span>
+                  </span>
                 </li>
                 <li><span class="title">место проведения день 1</span><span class="item">Москва, Трубная ул., д 12, бизнес-центр «Миллениум Хаус»</span>
                 </li>

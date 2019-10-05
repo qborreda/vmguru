@@ -163,7 +163,7 @@
           <div class="training-programma">
             <div class="days-column">
               <!-- <h3 class="day">День 1</h3> -->
-              <h6 class="session is-black">Часть 2<br />Блиц консалтинг</h6>
+              <h6 class="session">Часть 2<br />Блиц консалтинг</h6>
             </div>
             <div class="logo-column">
               <img src="/imgs/ico-programma-2.svg" width="100%" alt="ДЕНЬ 1">

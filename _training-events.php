@@ -9,7 +9,7 @@
                 <span class="month">ноября</span>
                 <span class="date">05 - 06</span>
             </div>
-            <p class="description">Витринистика: создание эффективных витрин. Большой эффект без больших расходов</p>
+            <p class="description"><strong class="is-cyan">NEW!</strong> Витринистика: создание эффективных витрин. Большой эффект без больших расходов</p>
         </div>
         <div class="cta-button">Узнать больше ›</div>
         </a>
