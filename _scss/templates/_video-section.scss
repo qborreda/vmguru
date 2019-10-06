@@ -11,6 +11,7 @@
     @include display_flex();
     @include flex_flex-wrap(wrap);
     @include flex_flex-direction(row);
+    @include flex_align-items(center);
     @include flex_justify-content(stretch);
     width: 100%;
 
@@ -21,7 +22,9 @@
 
   .video-container {
     @include flex_flex(1 0 90%);
+    text-align: center;
     min-width: 280px;
+    min-height: 200px;
     margin: 1rem;
 
     @include mq($from: tablet) {
