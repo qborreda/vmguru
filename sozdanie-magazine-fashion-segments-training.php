@@ -313,7 +313,16 @@
             </div>
           </div>
         </div>
+      </section>
 
+      <!-- VIDEO -->
+      <section class="video-section">
+          <div class="videos">
+            <div class="video-container">
+              <iframe width="560" height="315" src="https://www.youtube.com/embed/vpaGcs71SSo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+          </div>
+          <p>Другие ВМ видео на <a href="https://www.youtube.com/channel/UC3wAc98I2O_bcAK8OD3koQQ" target="_blank">канале VM Guru</a></p>
       </section>
 
       <!-- PRICES & DETAILS -->
