@@ -6,8 +6,8 @@
         <img src="imgs/bkgr_skew_placeholder.jpg" data-src="imgs/bkgr_event4.jpg" class="lazy">
         <div class="article-stripe">
             <div class="article-dates">
-                <span class="month">ноября</span>
-                <span class="date">05 - 06</span>
+                <span class="month">февраль</span>
+                <span class="date">-</span>
             </div>
             <p class="description"><strong class="is-cyan">NEW!</strong> Витринистика: создание эффективных витрин. Большой эффект без больших расходов</p>
         </div>
@@ -20,8 +20,8 @@
         <img src="imgs/bkgr_skew_placeholder.jpg" data-src="imgs/bkgr_event1.jpg" class="lazy">
         <div class="article-stripe">
             <div class="article-dates">
-                <span class="month">ноября</span>
-                <span class="date">08</span>
+                <span class="month">февраль</span>
+                <span class="date">-</span>
             </div>
             <p class="description">Как создать эффективный фэшн магазин: планировки, зонирование, расчет вместимости, ВМ-дизайн</p>
         </div>
@@ -34,8 +34,8 @@
         <img src="imgs/bkgr_skew_placeholder.jpg" data-src="imgs/bkgr_event2.jpg" class="lazy">
         <div class="article-stripe">
             <div class="article-dates">
-                <span class="month">ноября</span>
-                <span class="date">11 - 12</span>
+                <span class="month">февраль</span>
+                <span class="date">-</span>
             </div>
             <p class="description">Коммерческий визуальный мерчандайзинг; прикладные техники «от А до Я»</p>
         </div>
@@ -48,7 +48,7 @@
         <img src="imgs/bkgr_skew_placeholder.jpg" data-src="imgs/bkgr_event3.jpg" class="lazy">
         <div class="article-stripe">
             <div class="article-dates">
-                <span class="month">под запрос</span>
+                <span class="month">февраль</span>
                 <span class="date"></span>
             </div>
             <p class="description">Визуальный мерчандайзинг для магазинов обуви и аксессуаров</p>

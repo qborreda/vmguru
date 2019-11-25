@@ -29,7 +29,7 @@
       <section class="hero_section">
           <div class="hero_image shoes">
             <div class="hero_contents">
-              <div class="hero_dates">под запрос</div>
+              <div class="hero_dates">февраль ...</div>
               <div class="hero_title">Визуальный мерчандайзинг для магазинов обуви и аксессуаров</div>
               <p class="hero_description">
                   Узнаете правила ВМ для магазинов обуви и аксессуаров
