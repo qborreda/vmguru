@@ -72,7 +72,7 @@
         </section>
         <section class="project-testimonials">
             <div class="person">
-                <img src="/imgs/projects/atakent-testimonial-01.jpg" alt="Гульдана Джулумбетова">
+                <img src="/imgs/projects/atakent-testimonial-02.jpg" alt="Гульдана Джулумбетова">
                 <div class="person-text-layout">
                     <h4 class="person-name">ГУЛЬДАНА ДЖУЛУМБЕТОВА</h4>
                     <span class="person-position bkgr-hi">генеральный директор ТРЦ «Атакент Молл»
@@ -91,7 +91,7 @@
         </section>
         <section class="project-testimonials">
             <div class="person">
-                <img src="/imgs/projects/atakent-testimonial-02.jpg" alt="Динара Чишанло">
+                <img src="/imgs/projects/atakent-testimonial-01.jpg" alt="Динара Чишанло">
                 <div class="person-text-layout">
                     <h4 class="person-name">ДИНАРА ЧИШАНЛО</h4>
                     <span class="person-position bkgr-hi">Владелица бутика «Лемо»,
