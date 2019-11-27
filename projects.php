@@ -34,7 +34,16 @@
             <br/>под руководством и при участии А. Баландиной</div>
 
             <ul class="hex-grid clr">
-
+                <li class="hex-item" data-link="/projects/project-atakent.php">
+                    <div>
+                        <img class="hex-content" src="/imgs/bkgr_hex_project33.jpg" alt="" />
+                        <!-- <div class="hex-title">Nomination</div> -->
+                        <p class="hex-description is-little-text">
+                          <br/>КОРПОРАТИВНОЕ ОБУЧЕНИЕ
+                          <br/>И ВМ КОНСАЛТИНГ ДЛЯ АРЕНДАТОРОВ ТPЦ
+                        </p>
+                    </div>
+                </li>
               <li class="hex-item" data-link="/projects/project-nomination.php">
                   <div>
                       <img class="hex-content" src="/imgs/bkgr_hex_project32.jpg" alt="" />
