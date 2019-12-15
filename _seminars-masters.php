@@ -2,35 +2,35 @@
 <div class="seminar-list">
 
   <article class="seminar-item">
-    <img class="logo lazy" src="/imgs/img-seminar-placeholder.jpg" data-src="/imgs/img-seminar-euroshoes.jpg">
-    <p class="title">Euro Shoes Collection Premier</p>
-    <p class="subtitle">28 августа, 15.00</p>
-    <p class="speaker">Семинар<br />Анны Баландиной</p>
-    <p class="description">Визуальный мерчандайзинг и дизайн магазинов обуви и аксессуаров. Как понравиться и продавать товары новым поколения покупателей</p>
-  </article>
-
-  <article class="seminar-item">
     <img class="logo lazy" src="/imgs/img-seminar-placeholder.jpg" data-src="/imgs/img-seminar-lingerie.jpg">
     <p class="title">Lingerie Show-Forum</p>
-    <p class="subtitle">4 сентября, 13.00</p>
+    <p class="subtitle">22 февраля 16:00 – 16:45</p>
     <p class="speaker">Семинар<br />Анны Баландиной</p>
-    <p class="description">Как продавать модные товары новым поколениям потребителей; современные технологиии визуального мерчандайзинга</p>
-  </article>
-
-  <article class="seminar-item">
-    <img class="logo lazy" src="/imgs/img-seminar-placeholder.jpg" data-src="/imgs/img-seminar-mosshoes.jpg">
-    <p class="title">MOSSHOES</p>
-    <p class="subtitle">12 сентября, 13:00</p>
-    <p class="speaker">Семинар<br />Анны Баландиной</p>
-    <p class="description">Коммерческий визуальный мерчандайзинг и дизайн магазинов. Прикладные техники повышения продаж в модном ретейле</p>
+    <p class="description">Визуальный мерчандайзинг против онлайн.Как повысить продажи и привлечь в магазин покупателей новых поколений</p>
   </article>
 
   <article class="seminar-item">
     <img class="logo lazy" src="/imgs/img-seminar-placeholder.jpg" data-src="/imgs/img-seminar-cjf.jpg">
     <p class="title">CJF – Детская Мода</p>
-    <p class="subtitle">26 сентября, 16.00</p>
+    <p class="subtitle">25 февраля 13:00</p>
     <p class="speaker">Семинар<br />Анны Баландиной</p>
-    <p class="description">Современные технологии визуального мерчандайзинга: как поднять продажи в детском магазине и создать магазин-магнит для покупателей</p>
+    <p class="description">Новые вызовы офлайн розницы. Технологии ВМ для увеличения продаж в детском магазине</p>
+  </article>
+
+  <article class="seminar-item">
+    <img class="logo lazy" src="/imgs/img-seminar-placeholder.jpg" data-src="/imgs/img-seminar-euroshoes.jpg">
+    <p class="title">Euro Shoes Collection Premier</p>
+    <p class="subtitle">27 февраля 13:00</p>
+    <p class="speaker">Семинар<br />Анны Баландиной</p>
+    <p class="description">Новая реальность офлайн розницы. Как привлечь и продать</p>
+  </article>
+
+  <article class="seminar-item">
+    <img class="logo lazy" src="/imgs/img-seminar-placeholder.jpg" data-src="/imgs/img-seminar-mosshoes.jpg">
+    <p class="title">MOSSHOES</p>
+    <p class="subtitle">12 марта 13:00</p>
+    <p class="speaker">Семинар<br />Анны Баландиной</p>
+    <p class="description">Магазин как центр притяжения покупателей. Как повысить продажи офлайн</p>
   </article>
 
 </div>
@@ -45,6 +45,14 @@
 
 <!-- EXPANDED -->
 <div class="expanded-seminars js-toggle-content">
+
+  <article class="seminar-item">
+    <img class="logo lazy" src="/imgs/img-seminar-placeholder.jpg" data-src="/imgs/img-seminar-rush.jpg">
+    <p class="title">RUSH. Форум Инновационных Технологий В Моде</p>
+    <p class="subtitle">28 ноября 2019</p>
+    <p class="speaker">Мастер-класс<br />Анны Баландиной</p>
+    <p class="description">Визуальный мерчандайзинг – зона роста офлайн ритейла</p>
+  </article>
 
   <article class="seminar-item">
     <img class="logo lazy" src="/imgs/img-seminar-placeholder.jpg" data-src="/imgs/img-seminar-mosshoes.jpg">
