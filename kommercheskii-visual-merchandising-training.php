@@ -29,7 +29,7 @@
       <section class="hero_section">
           <div class="hero_image vm">
             <div class="hero_contents">
-              <div class="hero_dates">февраль ...</div>
+              <div class="hero_dates">2-3 марта</div>
               <div class="hero_title">Коммерческий визуальный мерчандайзинг; прикладные техники «от А до Я»</div>
               <p class="hero_description">
                 Изучите и отработаете на практике законы презентации коллекций в торговом зале с адаптацией «под бренд»
@@ -295,8 +295,10 @@
                 </li>
                 <li><span class="title">стоимость</span>
                   <span class="item">
-                    22 500 руб.<br />
-                    <!-- / <span class="is-highlighted">19 000 руб - ранние продажи до 25.07</span> -->
+                    26 500 рубрей<br />
+                    <span class="is-highlighted">Новогодняя скидка - 25 % Всего три дня!<br />
+                    При регистрации: 30 - 31 декабря и 9 января<br/>
+                    (оплата до 30.01)</span>
                   </span>
                 </li>
                 <li><span class="title">место проведения день 1</span><span class="item">Москва, Трубная ул., д 12, бизнес-центр «Миллениум Хаус»</span>

@@ -29,7 +29,7 @@
       <section class="hero_section">
           <div class="hero_image windows">
             <div class="hero_contents">
-              <div class="hero_dates">февраль ...</div>
+              <div class="hero_dates">4-5 марта</div>
               <div class="hero_title"><strong class="is-cyan">NEW!</strong> Витринистика: создание эффективных витрин. Большой эффект без больших расходов</div>
               <p class="hero_description">
                   Научитесь техникам создания эффективных витрин под задачи бренда
@@ -404,8 +404,10 @@
                 <li>
                   <span class="title">стоимость</span>
                   <span class="item">
-                     24 500 руб.<br/>
-                    / <span class="is-highlighted">22 500 руб - при оплате до 12.10</span>
+                    26 500 рубрей<br />
+                    <span class="is-highlighted">Новогодняя скидка - 25 % Всего три дня!<br />
+                    При регистрации: 30 - 31 декабря и 9 января<br/>
+                    (оплата до 30.01)</span>
                   </span>
                 </li>
                 <li><span class="title">место проведения день 1</span><span class="item">Москва, Трубная ул., д 12, бизнес-центр «Миллениум Хаус»</span>
