@@ -39,6 +39,9 @@
       </div>
       <ul class="publication-article-list">
 
+        <li><span class="month">декабрь 2019</span><span class="title"><a href="https://www.shoes-magazine.com/post/holiday-shop-windows-2019" target="_blank">Оформляем или экономим? Праздничное оформление</a> — <span class="media">Shoes Magazine</span></span>
+        </li>
+
         <li><span class="month">aпрель 2018</span><span class="title"><a href="https://fashionunited.ru/novostee/moda/kollaboratsii-v-feshn-vitrinistike-eto-novaya-krov-i-interes-k-brendu/2018041221473" target="_blank">Коллаборации в витринистике: "новая кровь" и интерес к бренду</a> — <span class="media">FASHIONUNITED</span></span>
         </li>
 
@@ -57,11 +60,11 @@
         <li><span class="month">ноябрь 2016</span><span class="title"><a href="pdfs/emotionalnii shopping.pdf" target="_blank">«Эмоциональный шопинг и новогодняя витринистика»</a> — <span class="media">Shoes Report</span></span>
         </li>
 
-        <!-- <li><span class="month">август 2015</span><span class="title"><a href="pdfs/kolonka-fashion-consulting-group-nizkobyudzhetnaya-vitrina-ne-znachit-plokhaya.pdf" target="_blank">Низкобюджетная витрина не значит плохая</a> — <span class="media">FASHIONUNITED</span></span>
-              </li> -->
-
         <li><span class="month">апрель 2015</span><span class="title"><a href="https://new-retail.ru/magaziny/dizayn/za_steklom_mirovye_trendy_vitrinistiki6275/" target="_blank">За стеклом: мировые тренды витринистики</a> — <span class="media">New Retail</span></span>
         </li>
+
+        <!-- <li><span class="month">август 2015</span><span class="title"><a href="pdfs/kolonka-fashion-consulting-group-nizkobyudzhetnaya-vitrina-ne-znachit-plokhaya.pdf" target="_blank">Низкобюджетная витрина не значит плохая</a> — <span class="media">FASHIONUNITED</span></span>
+              </li> -->
 
         <!-- <li><span class="month">декабрь 2014</span><span class="title"><a href="pdfs/vitriny-magazinov-stanovyatsya-vse-pragmatichnee.pdf" target="_blank">Витрины магазинов становятся все прагматичнее и информативнее</a> — <span class="media">Газета Ведомости</span></span>
               </li>
@@ -81,10 +84,13 @@
         <img src="imgs/publications-picture1.jpg" alt="">
         <div class="publication-text-layout">
           <h4 class="publication-name bkgr-hi">КОММЕРЧЕСКИЙ
-                  <br/>ВИЗУАЛЬНЫЙ МЕРЧАНДАЙЗИНГ</h4>
+            <br/>ВИЗУАЛЬНЫЙ МЕРЧАНДАЙЗИНГ</h4>
         </div>
       </div>
       <ul class="publication-article-list">
+        <li><span class="month">декабрь 2019</span><span class="title"><a href="https://new-retail.ru/persony/serye_myshki_ne_rabotayut_anna_balandina_ob_imidzhe_trts_i_o_printsipakh_vizualnogo_merchendayzinga9158/" target="_blank">Серые мышки больше не работают</a> — <span class="media">New Retail</span></span>
+        </li>
+
         <li><span class="month">февраль 2019</span><span class="title"><a href="pdfs/Millenials-shopping-trends_Anna-Balandina_ShoesReport.pdf" target="_blank">Покупатели миллениалы. Как престраиваться брендам</a> — <span class="media">Shoes Report</span></span>
         </li>
 
@@ -131,6 +137,9 @@
         </div>
       </div>
       <ul class="publication-article-list">
+        <li><span class="month">ноябрь 2019</span><span class="title"><a href="pdfs/visual_merchandaising_and_hard_fashion_retail_Balandina_SH.pdf" target="_blank">ВМ в период кризиса и низких продаж</a> — <span class="media">Shoes Report</span></span>
+        </li>
+
         <li><span class="month">июль 2019</span><span class="title"><a href="https://new-retail.ru/business/eko_frendli_brend_marketingovyy_khod_ili_realnyy_standart8285/?fbclid=IwAR0-rLZZCNOxIyjpzoPzblZz1FECj8-nlzoqWcNreB-e0xg-4Ex5PY1vJ9M" target="_blank">ЭКО-френдли бренд это маркетинговый ход или реальный стандарт</a> — <span class="media">New Retail</span></span>
         </li>
 
@@ -161,6 +170,9 @@
         </div>
       </div>
       <ul class="publication-article-list">
+        <li><span class="month">сентябрь 2019</span><span class="title"><a href="pdfs/visual_merchandising_accessories_stores_Balandina.pdf" target="_blank">Семейные связи - презентация аксессуарных коллекций</a> — <span class="media">Shoes Magazine</span></span>
+        </li>
+
         <li><span class="month">февраль 2019</span><span class="title"><a href="pdfs/Millenials-shopping-trends_Anna-Balandina_ShoesReport.pdf" target="_blank">Покупатели миллениалы. Как престраиваться брендам</a> — <span class="media">Shoes Report</span></span>
         </li>
 
