@@ -65,6 +65,8 @@
                 </div>
             </article>
 
+            <div class="carrusel-main-legend">/ рекомендуем прочитать интервью А. Баландиной "<a href="https://new-retail.ru/persony/serye_myshki_ne_rabotayut_anna_balandina_ob_imidzhe_trts_i_o_printsipakh_vizualnogo_merchendayzinga9158/?sphrase_id=361826" target="_blank">Серый мышки уже не работают</a>" 12.2019 New Retail /</div>
+
         </section>
 
         <section class="new-section">
