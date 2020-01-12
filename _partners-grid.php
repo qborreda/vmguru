@@ -16,4 +16,7 @@
       <span class="grid-logo"><img src="imgs/partner-profashion.jpg" alt="ProFashion"></span>
       <span class="grid-logo"><img src="imgs/partner-slavianka.jpg" alt="Hotel Slavianka"></span>
       <span class="grid-logo"><img src="imgs/partner-shoesandleather.jpg" alt="Shoes and Leather Fair"></span>
+
+      <span class="grid-logo"><img src="imgs/partner-rush.jpg" alt="Rush"></span>
+      <span class="grid-logo"><img src="imgs/partner-shoesmagazine.jpg" alt="Shoes Magazine"></span>
   </div>
