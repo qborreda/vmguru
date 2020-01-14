@@ -66,4 +66,33 @@
         <div class="cta-button">Узнать больше ›</div>
         </a>
     </article>
+    <!-- 5 -->
+    <article class="container">
+        <a class="no-border" href="/consulting.php">
+        <img src="imgs/bkgr_skew_placeholder.jpg" data-src="imgs/bkgr_skew_consulting5.jpg" class="lazy">
+        <div class="dark-stripe">
+          <div class="title">ОБУЧЕНИЕ АРЕНДАТОРОВ<br />ТОРГОВЫХ ЦЕНТРОВ</div>
+          <ul class="bullet-list">
+            <li>витринистика</li>
+            <li>выкладка товара</li>
+            <li>эффективный магазин</li>
+          </ul>
+        </div>
+        <div class="cta-button">Узнать больше ›</div>
+        </a>
+    </article>
+    <!-- 6 -->
+    <article class="container">
+        <a class="no-border" href="/consulting.php">
+        <img src="imgs/bkgr_skew_placeholder.jpg" data-src="imgs/bkgr_skew_consulting6.jpg" class="lazy">
+        <div class="dark-stripe">
+          <div class="title">ОНЛАЙН<br />УСЛУГИ</div>
+          <ul class="bullet-list">
+            <li>Онлайн курс "Эффективный магазин"</li>
+            <li>Экспресс аудит магазина</li>
+          </ul>
+        </div>
+        <div class="cta-button">Узнать больше ›</div>
+        </a>
+    </article>
 </div>
