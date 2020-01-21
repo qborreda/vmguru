@@ -29,7 +29,7 @@
       <section class="hero_section">
           <div class="hero_image shoes">
             <div class="hero_contents">
-              <div class="hero_dates">19-20 марта</div>
+              <div class="hero_dates">23-24 марта</div>
               <div class="hero_title">Визуальный мерчандайзинг для магазинов обуви и аксессуаров</div>
               <p class="hero_description">
                   Узнаете правила ВМ для магазинов обуви и аксессуаров
@@ -326,10 +326,7 @@
                 </li>
                 <li><span class="title">Стоимость обучения</span>
                   <span class="item">
-                    26 500 рубрей<br />
-                    <span class="is-highlighted">Новогодняя скидка - 25 % Всего три дня!<br />
-                    При регистрации: 30 - 31 декабря и 9 января<br/>
-                    (оплата до 30.01)</span>
+                    26 500 рубрей<br/>
                   </span>
                 </li>
                 <li><span class="title">Стоимость одного дня (теория)</span><span class="item">14 500 руб.</span>

@@ -50,7 +50,7 @@
         <div class="article-stripe">
             <div class="article-dates">
                 <span class="month">марта</span>
-                <span class="date">19 - 20</span>
+                <span class="date">23 - 24</span>
             </div>
             <p class="description">Визуальный мерчандайзинг для магазинов обуви и аксессуаров</p>
         </div>

@@ -333,7 +333,7 @@
               <li>
                 <span class="title">стоимость</span>
                 <span class="item">
-                  29 900 руб.<br/>
+                  19 500 руб.<br/>
                   <!-- <span class="is-highlighted">Только в октябре:<br/>
                   ПРИ ПОКУПКЕ ТРЕХ ТРЕНИНГОВ - СКИДКА 20%</span> -->
                 </span>
