@@ -26,8 +26,7 @@
   <div class="short_wrapper">
 
     <section class="new-section">
-      <div class="section-title">ДИЗАЙН МАГАЗИНОВ.
-        <br/>БРЕНД ПОД КЛЮЧ</div>
+      <div class="section-title">Дизайн магазинов. бренд под ключ</div>
       <div class="section-intro-text">Разработка дизайн-проект магазина.
         <br/>Техническое сопровождение</div>
     </section>
