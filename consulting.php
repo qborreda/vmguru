@@ -25,9 +25,18 @@
 
   <div class="short_wrapper">
 
+    <!-- CONSULTING -->
     <section class="new-section">
       <div class="section-title">Наши услуги</div>
+      <div class="section-intro-text">
+        <p>Мы готовы помочь на любом этапе создания вашего бренда: от разработки стандартов визуального мерчандайзинга  до обучения персонала. Нам вы можете доверить всё!</p>
+        <p>Мы создаем «магазины под ключ» и гарантируем максимальную коммерческую привлекательность своим проектам.</p>
+      </div>
+      <?php include "_consulting-elements.php"; ?>
     </section>
+
+
+    <!-- CONSULTING CONTENT -->
     <section class="consulting-section1">
 
       <article class="hex-content clearfix">
