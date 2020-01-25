@@ -50,6 +50,18 @@
                 <li>ВМ рекомендации – отчетный документ</li>
               </ul>
             </div>
+            <div class="text" style="margin-top: 30px;">
+              <a class="hex-project-link no-border" href="/projects/project-incanto.php">
+                <div class="project-link">
+                  показать проект ›
+                </div>
+              </a>
+              <a class="hex-project-link no-border" href="/projects/project-unichel.php">
+                <div class="project-link">
+                  показать проект ›
+                </div>
+              </a>
+            </div>
           </div>
       </div>
     </section>

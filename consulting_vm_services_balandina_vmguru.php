@@ -50,6 +50,18 @@
                   <li>Создание инструкции  для сетевого бренда по деталям оформления</li>
                 </ul>
             </div>
+            <div class="text" style="margin-top: 30px;">
+              <a class="hex-project-link no-border" href="/project-commedesgarsons.php">
+                <div class="project-link">
+                  показать проект ›
+                </div>
+              </a>
+              <a class="hex-project-link no-border" href="/project-modis.php">
+                <div class="project-link">
+                  показать проект ›
+                </div>
+              </a>
+            </div>
           </div>
       </div>
     </section>

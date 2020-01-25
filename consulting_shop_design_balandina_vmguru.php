@@ -56,6 +56,18 @@
                 <p class="highlighted">Пакет тех. документации инженерных разделов
                   <br/>Архитектурный надзор</p>
             </div>
+            <div class="text" style="margin-top: 30px;">
+              <a class="hex-project-link no-border" href="/projects/project-promenade.php">
+                <div class="project-link">
+                  показать проект ›
+                </div>
+              </a>
+              <a class="hex-project-link no-border" href="/projects/project-oscar.php">
+                <div class="project-link">
+                  показать проект ›
+                </div>
+              </a>
+            </div>
           </div>
       </div>
       <div class="section-intro-text" style="margin:20px auto;">Брендинг-проект.
