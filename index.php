@@ -53,23 +53,13 @@
       </section>
 
       <!-- TRAININGS -->
-      <!-- <section class="new-section">
+      <section class="new-section">
           <div class="section-title">Ближайшие тренинги</div>
           <div class="section-intro-text">
             <p>Эффективная организация торгового пространства, грамотная презентация товара и привлекательные витрины способны увеличить продажи в магазине минимум на 50 %.</p>
             <p>Мы научим этому вас и ваш бренд!</p>
           </div>
-          <?php /* include "_training-events.php"; */ ?>
-      </section> -->
-
-      <!-- CONSULTING -->
-      <section class="new-section">
-        <div class="section-title">Наши услуги</div>
-        <div class="section-intro-text">
-          <p>Мы готовы помочь на любом этапе создания вашего бренда: от разработки стандартов визуального мерчандайзинга  до обучения персонала. Нам вы можете доверить всё!</p>
-          <p>Мы создаем «магазины под ключ» и гарантируем максимальную коммерческую привлекательность своим проектам.</p>
-        </div>
-        <?php include "_consulting-elements.php"; ?>
+          <?php include "_training-events.php"; ?>
       </section>
 
       <!-- SEMINARS -->

@@ -2,7 +2,7 @@
 <div class="skewed-items">
     <!-- 1 -->
     <article class="container">
-        <a class="no-border" href="/consulting.php">
+        <a class="no-border" href="/consulting_shop_design_balandina_vmguru.php">
         <img src="imgs/bkgr_skew_placeholder.jpg" data-src="imgs/bkgr_skew_consulting1.jpg" class="lazy">
 
         <div class="dark-stripe">
@@ -19,7 +19,7 @@
     </article>
     <!-- 2 -->
     <article class="container">
-        <a class="no-border" href="/consulting.php">
+        <a class="no-border" href="/consulting_visual_merchandasing_balandina_vmguru.php">
         <img src="imgs/bkgr_skew_placeholder.jpg" data-src="imgs/bkgr_skew_consulting2.jpg" class="lazy">
 
         <div class="dark-stripe">
@@ -36,7 +36,7 @@
     </article>
     <!-- 3 -->
     <article class="container">
-        <a class="no-border" href="/consulting.php">
+        <a class="no-border" href="/consulting_vm_services_balandina_vmguru.php">
         <img src="imgs/bkgr_skew_placeholder.jpg" data-src="imgs/bkgr_skew_consulting3.jpg" class="lazy">
         <div class="dark-stripe">
           <div class="title">Практические<br />ВМ услуги</div>
@@ -68,7 +68,7 @@
     </article>
     <!-- 5 -->
     <article class="container">
-        <a class="no-border" href="/consulting.php">
+        <a class="no-border" href="/projects/project-atakent.php">
         <img src="imgs/bkgr_skew_placeholder.jpg" data-src="imgs/bkgr_skew_consulting5.jpg" class="lazy">
         <div class="dark-stripe">
           <div class="title">ОБУЧЕНИЕ АРЕНДАТОРОВ<br />ТОРГОВЫХ ЦЕНТРОВ</div>
@@ -83,7 +83,7 @@
     </article>
     <!-- 6 -->
     <article class="container">
-        <a class="no-border" href="/consulting.php">
+        <a class="no-border" href="/consulting_online_services_balandina_vmguru.php">
         <img src="imgs/bkgr_skew_placeholder.jpg" data-src="imgs/bkgr_skew_consulting6.jpg" class="lazy">
         <div class="dark-stripe">
           <div class="title">ОНЛАЙН<br />УСЛУГИ</div>

@@ -1,0 +1,77 @@
+.consulting-bullet {
+  position: relative;
+  display: block;
+  background-color: #EFEFEF;
+  min-height: 330px;
+  margin-top: 30px;
+
+  @include mq($from: tablet) {
+    min-height: 330px;
+    margin-top: 125px;
+  }
+
+  &-picture {
+    position: absolute;
+    top: 0;
+    left: 0;
+    transform: translate(-25%, -20%);
+
+    img {
+      max-width: 450px;
+
+      @include mq($from: tablet) {
+        width: unset;
+      }
+    }
+  }
+
+  &-info {
+    position: relative;
+    padding: 190px 30px 20px 30px;
+
+    @include mq($from: tablet) {
+      margin-left: 350px;
+      padding: 30px;
+    }
+
+    @include mq($from: desktop) {
+      margin-left: 400px;
+    }
+
+    @include mq($from: wide) {
+      margin-left: 500px;
+    }
+
+    li {
+      margin-bottom: 0.5rem;
+      font-style: italic;
+      list-style: none;
+    }
+  }
+
+  .text {
+    font-size: 17px;
+    font-weight: 300;
+    line-height: 1.2rem;
+    max-width: 450px;
+
+    p {
+      margin-bottom: 10px;
+
+      &.highlighted {
+        font-weight: 600;
+      }
+    }
+    ul {
+      list-style: none;
+      margin-bottom: 10px;
+
+      li {
+        padding-left: 20px;
+        margin-bottom: 3px;
+      }
+    }
+  }
+
+
+}
