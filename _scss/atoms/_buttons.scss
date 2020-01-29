@@ -18,4 +18,15 @@
     background-color: $WHITE;
     color: $PRIMARY-TEXT-COLOR;
   }
+
+  &.alternative {
+    border: 1px solid $DETAIL-ORANGE;
+    background-color: $WHITE;
+    color: $PRIMARY-TEXT-COLOR;
+
+    &:hover {
+      background-color: $DETAIL-ORANGE;
+      color: $WHITE;
+    }
+  }
 }

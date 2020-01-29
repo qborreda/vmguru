@@ -57,7 +57,7 @@
                 </div>
               </a>
               <a class="hex-project-link no-border" href="/projects/project-modis.php">
-                <div class="project-link">
+                <div class="project-link alternative">
                   показать проект ›
                 </div>
               </a>
@@ -67,7 +67,7 @@
                 </div>
               </a>
               <a class="hex-project-link no-border" href="/projects/project-xitzona.php">
-                <div class="project-link">
+                <div class="project-link alternative">
                   показать проект ›
                 </div>
               </a>

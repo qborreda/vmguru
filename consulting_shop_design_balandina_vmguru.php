@@ -62,7 +62,7 @@
                 </div>
               </a>
               <a class="hex-project-link no-border" href="/projects/project-oscar.php">
-                <div class="project-link">
+                <div class="project-link alternative">
                   показать проект ›
                 </div>
               </a>
