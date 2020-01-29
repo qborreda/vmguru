@@ -51,12 +51,22 @@
                 </ul>
             </div>
             <div class="text" style="margin-top: 30px;">
-              <a class="hex-project-link no-border" href="/project-commedesgarsons.php">
+              <a class="hex-project-link no-border" href="/projects/project-commedesgarsons.php">
                 <div class="project-link">
                   показать проект ›
                 </div>
               </a>
-              <a class="hex-project-link no-border" href="/project-modis.php">
+              <a class="hex-project-link no-border" href="/projects/project-modis.php">
+                <div class="project-link">
+                  показать проект ›
+                </div>
+              </a>
+              <a class="hex-project-link no-border" href="/projects/project-waltervonbierendonck.php">
+                <div class="project-link">
+                  показать проект ›
+                </div>
+              </a>
+              <a class="hex-project-link no-border" href="/projects/project-xitzona.php">
                 <div class="project-link">
                   показать проект ›
                 </div>
