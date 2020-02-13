@@ -29,7 +29,7 @@
       <section class="hero_section">
           <div class="hero_image shops">
             <div class="hero_contents">
-              <div class="hero_dates">28 февраля</div>
+              <div class="hero_dates">28 марта</div>
               <div class="hero_title">ЭФФЕКТИВНЫЙ FASHION-МАГАЗИН.<br />
                 Создайте торговое пространство, которое продает само</div>
               <p class="hero_description">
