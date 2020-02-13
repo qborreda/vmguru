@@ -183,25 +183,6 @@
           </div>
 
           <div class="training-programma">
-            <div class="days-column no-border">
-              <h6 class="session">Дополнительный модуль /только в ноябре</h6>
-            </div>
-            <div class="logo-column">
-              <img src="/imgs/ico-programma-6.svg" width="100%" alt="ДЕНЬ 1">
-            </div>
-            <div class="text-column no-border">
-              <div class="event-journey-description">
-                  Новогодняя витринистика
-                  <ul class="event-journey-bullets">
-                    <li>Особенности новогодней витринистики</li>
-                    <li>Мировые тенды новогодней витристики</li>
-                    <li>Бюджетные решения</li>
-                  </ul>
-              </div>
-            </div>
-          </div>
-
-          <div class="training-programma">
             <div class="days-column">
               <!-- <h3 class="day">День 1</h3> -->
               <h6 class="session">Часть 2<br />Блиц консалтинг</h6>
