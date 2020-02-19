@@ -1,20 +1,5 @@
 <!-- TRAINING EVENTS -->
 <div class="skewed-items">
-    <!-- SHOPS -->
-    <article class="container">
-        <a class="no-border" href="/sozdanie-magazine-fashion-segments-training.php">
-        <img src="imgs/bkgr_skew_placeholder.jpg" data-src="imgs/bkgr_event1.jpg" class="lazy">
-        <div class="article-stripe">
-            <div class="article-dates">
-                <span class="month">февраля</span>
-                <span class="date">28</span>
-            </div>
-            <p class="description">ЭФФЕКТИВНЫЙ FASHION-МАГАЗИН.<br />
-                Создайте торговое пространство, которое продает само</p>
-        </div>
-        <div class="cta-button">Узнать больше ›</div>
-        </a>
-    </article>
     <!-- SHOES -->
     <article class="container">
         <a class="no-border" href="/visual-merchandising-dlia-magazinov-obuvi-training.php">
@@ -42,6 +27,21 @@
         </div>
       <div class="cta-button">Узнать больше ›</div>
     </a>
+    </article>
+    <!-- SHOPS -->
+    <article class="container">
+        <a class="no-border" href="/sozdanie-magazine-fashion-segments-training.php">
+        <img src="imgs/bkgr_skew_placeholder.jpg" data-src="imgs/bkgr_event1.jpg" class="lazy">
+        <div class="article-stripe">
+            <div class="article-dates">
+                <span class="month">марта</span>
+                <span class="date">28</span>
+            </div>
+            <p class="description">ЭФФЕКТИВНЫЙ FASHION-МАГАЗИН.<br />
+                Создайте торговое пространство, которое продает само</p>
+        </div>
+        <div class="cta-button">Узнать больше ›</div>
+        </a>
     </article>
     <!-- WINDOWS -->
     <article class="container">
