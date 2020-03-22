@@ -6,8 +6,8 @@
         <img src="imgs/bkgr_skew_placeholder.jpg" data-src="imgs/bkgr_event3.jpg" class="lazy">
         <div class="article-stripe">
             <div class="article-dates">
-                <span class="month">марта</span>
-                <span class="date">23 - 24</span>
+                <span class="month">онлайн</span>
+                <span class="date">01 апреля</span>
             </div>
             <p class="description">Визуальный мерчандайзинг для магазинов обуви и аксессуаров</p>
         </div>
