@@ -7,7 +7,7 @@
         <div class="article-stripe">
             <div class="article-dates">
                 <span class="month">онлайн</span>
-                <span class="date">01 апреля</span>
+                <span class="date">03 апреля</span>
             </div>
             <p class="description">Антикризисный визуальный мерчандайзинг для магазинов обуви и аксессуаров</p>
         </div>
@@ -21,7 +21,7 @@
         <div class="article-stripe">
             <div class="article-dates">
                 <span class="month">онлайн</span>
-                <span class="date">03 апреля</span>
+                <span class="date">07 апреля</span>
             </div>
             <p class="description">ЭФФЕКТИВНЫЙ FASHION-МАГАЗИН.<br />
                 Создайте торговое пространство, которое продает само</p>
@@ -35,8 +35,8 @@
         <img src="imgs/bkgr_skew_placeholder.jpg" data-src="imgs/bkgr_event2.jpg" class="lazy">
         <div class="article-stripe">
             <div class="article-dates">
-                <span class="month">марта</span>
-                <span class="date">26 - 27</span>
+                <span class="month"> </span>
+                <span class="date">... апреля</span>
             </div>
             <p class="description">Коммерческий визуальный мерчандайзинг; прикладные техники «от А до Я»</p>
         </div>
@@ -49,8 +49,8 @@
         <img src="imgs/bkgr_skew_placeholder.jpg" data-src="imgs/bkgr_event4.jpg" class="lazy">
         <div class="article-stripe">
             <div class="article-dates">
-                <span class="month">марта</span>
-                <span class="date">30 - 31</span>
+                <span class="month"> </span>
+                <span class="date">... апреля</span>
             </div>
             <p class="description"><strong class="is-cyan">NEW!</strong> Витринистика: создание эффективных витрин. Большой эффект без больших расходов</p>
         </div>
