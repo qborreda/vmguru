@@ -334,15 +334,13 @@
               <li>
                 <span class="title">стоимость</span>
                 <span class="item">
-                  19 500 руб.<br/>
-                  <!-- <span class="is-highlighted">Только в октябре:<br/>
-                  ПРИ ПОКУПКЕ ТРЕХ ТРЕНИНГОВ - СКИДКА 20%</span> -->
+                  <strike>19 500 рублей</strike><br/>
+                  <span class="is-highlighted">14 500 рублей / скидка действительна до 01.05.2020</span>
                 </span>
               </li>
-              <li><span class="title">место проведения</span><span class="item">Москва, Трубная ул., д 12, бизнес-центр «Миллениум Хаус»</span>
-              </li>
-              <li><span class="title">контакты</span><span class="item">+7 495 741 1784; irina.akimova@vmguru.ru</span>
-              </li>
+              <li><span class="title">место проведения</span><span class="item">ОНЛАЙН  до 01.05.2020</span>
+              <!-- <li><span class="title">место проведения</span><span class="item">Москва, Трубная ул., д 12, бизнес-центр «Миллениум Хаус»</span></li> -->
+              <li><span class="title">WhatsApp / Email</span><span class="item">+7 925 827 1215 / hello@vmguru.ru</span></li>
           </ul>
       </section>
 

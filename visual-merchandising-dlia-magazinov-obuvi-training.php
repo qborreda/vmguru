@@ -163,8 +163,7 @@
               <div class="event-journey-description">
                   Антикризисный визуальный мерчандайзинг
                   <ul class="event-journey-bullets">
-                  <li>Как и какие модели могут стать драйверами продаж всей коллекции</li>
-                  <li>В период спада продаж</li>
+                  <li>Как и какие модели могут стать драйверами продаж всей коллекции в период спада продаж; особенности презентации</li>
                   <li>Как усилить продажи моделей Слоу Муверов</li>
                   <li>Как управлять презентацией в магазине не имея мерчандайзера</li>
                   </ul>
@@ -339,16 +338,15 @@
                 <li><span class="title">Стоимость обучения</span>
                   <span class="item">
                     <strike>17 500 рублей</strike><br/>
-                    <span class="is-highlighted">13 500 рублей / скидка действительна до 01.04.2020</span>
+                    <span class="is-highlighted">12 500 рублей / скидка действительна до 01.05.2020</span>
                   </span>
                 </li>
-                <li><span class="title">Стоимость обучения без Блиц Консалтинга</span><span class="item is-highlighted">9 000 рублей / действительна до 01.04.2020</span>
+                <li><span class="title">Стоимость обучения без Блиц Консалтинга</span><span class="item is-highlighted">8 500 рублей / действительна до 01.05.2020</span>
                 </li>
-                <li><span class="title">место проведения</span><span class="item">ОНЛАЙН  до 01.04.2020</span>
+                <li><span class="title">место проведения</span><span class="item">ОНЛАЙН  до 01.05.2020</span>
                 <!-- <li><span class="title">место проведения</span><span class="item">Москва, Трубная ул., д 12, бизнес-центр «Миллениум Хаус»</span> -->
                 </li>
-                <li><span class="title">контакты</span><span class="item">+7 495 741 1784; irina.akimova@vmguru.ru</span>
-                </li>
+                <li><span class="title">WhatsApp / Email</span><span class="item">+7 925 827 1215 / hello@vmguru.ru</span></li>
             </ul>
         </section>
 
