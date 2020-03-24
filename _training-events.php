@@ -9,7 +9,7 @@
                 <span class="month">онлайн</span>
                 <span class="date">01 апреля</span>
             </div>
-            <p class="description">Визуальный мерчандайзинг для магазинов обуви и аксессуаров</p>
+            <p class="description">Антикризисный визуальный мерчандайзинг для магазинов обуви и аксессуаров</p>
         </div>
         <div class="cta-button">Узнать больше ›</div>
         </a>
