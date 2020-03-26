@@ -392,7 +392,7 @@
                 </li>
                 <li><span class="title">место проведения день 2</span><span class="item">Мультибрендовый магазин одежды</span>
                 </li>
-                <li><span class="title">контакты</span><span class="item">+7 495 741 1784; irina.akimova@vmguru.ru</span>
+                <li><span class="title">контакты</span><span class="item">+7 925 827 1215 / hello@vmguru.ru</span>
                 </li>
             </ul>
         </section>

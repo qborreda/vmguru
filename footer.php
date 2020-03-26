@@ -4,7 +4,7 @@
         &copy; агентство VM GURU 2017
         <br/>
         <div class="contact">
-            +7 495 741 1784
+            +7 925 827 1215
             <br/>
             <a href="mailto:hello@vmguru.ru">hello@vmguru.ru</a>
             <br/><br/>
@@ -41,7 +41,7 @@
         </div>
     </div> -->
     <div class="footer-contact">
-        +7 495 741 1784
+        +7 925 827 1215
         <br/>
         <a href="mailto:hello@vmguru.ru">hello@vmguru.ru</a>
         <br/><br/>
