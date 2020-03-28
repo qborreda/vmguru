@@ -35,10 +35,10 @@
         <img src="imgs/bkgr_skew_placeholder.jpg" data-src="imgs/bkgr_event2.jpg" class="lazy">
         <div class="article-stripe">
             <div class="article-dates">
-                <span class="month"> </span>
-                <span class="date">... апреля</span>
+                <span class="month">онлайн</span>
+                <span class="date">10 апреля</span>
             </div>
-            <p class="description">Коммерческий визуальный мерчандайзинг; прикладные техники «от А до Я»</p>
+            <p class="description">Коммерческий визуальный мерчандайзинг; прикладные техники увеличения продаж для магазинов одежды</p>
         </div>
       <div class="cta-button">Узнать больше ›</div>
     </a>
