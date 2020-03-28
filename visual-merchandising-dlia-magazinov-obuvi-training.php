@@ -326,6 +326,77 @@
             </div>
           </div>
         </div>
+        <!-- 05 -->
+        <div class="testimonial">
+          <div class="testimonial-intro-text">
+            <p>Обучение очень комфортное. Была небольшая группа, в любой момент разбирались все вопросы. Когда мне предложили пройти тренинг в онлайн формате, я боялась, как без личного присутствия удастся усвоить материал, но оказывается, всё очень доступно, удобно, легко. При этом сокращается время на дорогу, парковку, дополнительные расходы.</p>
+          </div>
+          <div class="testimonial-full-text js-toggle-content js-toggle-05">
+            <p>А качество обучения при этом на высоте, поэтому вообще супер! Большое спасибо.</p>
+          </div>
+          <div class="testimonial-footer">
+            <div class="testimonial-author">
+              Ирина Чуприна,
+              <div class="testimonial-title">владелица моно бутика Baldinini,
+                  <br />Ереван и мультибренда Style by Hermitage</div>
+            </div>
+            <div class="trigger js-trigger-toggle" data-target=".js-toggle-05">
+              <span>читать подробнее
+                <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30px" viewBox="0 0 111 32" enable-background="new 0 0 111 32" xml:space="preserve">
+                   <polyline fill="none" stroke-width="3" stroke-miterlimit="10" points="0.729,1.342 52.597,30.157 110.229,1.342"/>
+                </svg>
+              </span>
+            </div>
+          </div>
+        </div>
+        <!-- 06 -->
+        <div class="testimonial">
+          <div class="testimonial-intro-text">
+            <p>Мне очень все понравилось! Я всё для себя разъяснила, пояснила, потому что информации профессиональной по обувному мерчандайзингу очень мало даже в одежде больше. Мне понравилось всё, очень полезно и самый большой плюс, что не нужно приезжать. Давно хотела посетить этот тренинг, но сложно было подстроиться под даты группы, а тут и информацию ценную получила и много времени на это не затратила. Можно сразу пойти внедрять.</p>
+          </div>
+          <div class="testimonial-full-text js-toggle-content js-toggle-06">
+            <p>У меня три магазина, и я сама частично выкладкой занимаюсь. Так что мне был материал понятен и достаточен и без практики в магазине.</p>
+            <p>ОНЛАЙН ТРЕНИНГ. Пройден 23.03.2020</p>
+          </div>
+          <div class="testimonial-footer">
+            <div class="testimonial-author">
+              Ирина Землякова,
+              <div class="testimonial-title">владелица бренда Arti Shoes,
+                  <br />Минск, Белоруссия</div>
+            </div>
+            <div class="trigger js-trigger-toggle" data-target=".js-toggle-06">
+              <span>читать подробнее
+                <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30px" viewBox="0 0 111 32" enable-background="new 0 0 111 32" xml:space="preserve">
+                   <polyline fill="none" stroke-width="3" stroke-miterlimit="10" points="0.729,1.342 52.597,30.157 110.229,1.342"/>
+                </svg>
+              </span>
+            </div>
+          </div>
+        </div>
+        <!-- 07 -->
+        <div class="testimonial">
+          <div class="testimonial-intro-text">
+            <p>Большое спасибо!</p>
+          </div>
+          <div class="testimonial-full-text js-toggle-content js-toggle-07">
+            <p>На тренинге мы получили много полезной информации, которую не знали, хотя сами занимаемся визуальным мерчандайзингом в бренде. Формат комфортный интерактивный, много примеров, разбор планограмм, время пролетает быстро и опять же экономия времени на дорогу. Здорово!</p>
+            <p>ОНЛАЙН ТРЕНИНГ. Пройден 23.03.2020</p>
+          </div>
+          <div class="testimonial-footer">
+            <div class="testimonial-author">
+              Маргарита Ползикова,
+              <div class="testimonial-title">руководитель ВМ,
+                  <br />сеть магазинов детской обуви «Медвежонок»</div>
+            </div>
+            <div class="trigger js-trigger-toggle" data-target=".js-toggle-07">
+              <span>читать подробнее
+                <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30px" viewBox="0 0 111 32" enable-background="new 0 0 111 32" xml:space="preserve">
+                   <polyline fill="none" stroke-width="3" stroke-miterlimit="10" points="0.729,1.342 52.597,30.157 110.229,1.342"/>
+                </svg>
+              </span>
+            </div>
+          </div>
+        </div>
 
       </section>
 
