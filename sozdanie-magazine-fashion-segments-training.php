@@ -335,7 +335,7 @@
                 <span class="title">стоимость</span>
                 <span class="item">
                   <strike>19 500 рублей</strike><br/>
-                  <span class="is-highlighted">14 500 рублей / скидка действительна до 01.05.2020</span>
+                  <span class="is-highlighted">12 500 рублей / скидка действительна до 01.05.2020</span>
                 </span>
               </li>
               <li><span class="title">место проведения</span><span class="item">ОНЛАЙН  до 01.05.2020</span>
