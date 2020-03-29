@@ -21,7 +21,7 @@
         <div class="article-stripe">
             <div class="article-dates">
                 <span class="month">онлайн</span>
-                <span class="date">07 апреля</span>
+                <span class="date">10 апреля</span>
             </div>
             <p class="description">ЭФФЕКТИВНЫЙ FASHION-МАГАЗИН.<br />
                 Создайте торговое пространство, которое продает само</p>
@@ -36,7 +36,7 @@
         <div class="article-stripe">
             <div class="article-dates">
                 <span class="month">онлайн</span>
-                <span class="date">10 апреля</span>
+                <span class="date">07 апреля</span>
             </div>
             <p class="description">Коммерческий визуальный мерчандайзинг; прикладные техники увеличения продаж для магазинов одежды</p>
         </div>

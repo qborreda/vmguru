@@ -30,7 +30,7 @@
           <div class="hero_image vm">
             <div class="hero_contents">
               <div class="hero_dates">ОНЛАЙН</div>
-              <div class="hero_dates">10 апреля</div>
+              <div class="hero_dates">07 апреля</div>
               <div class="hero_title">Коммерческий визуальный мерчандайзинг; прикладные техники увеличения продаж для магазинов одежды</div>
               <p class="hero_description">
                 Правила презентации коллекций от «А до Я»
