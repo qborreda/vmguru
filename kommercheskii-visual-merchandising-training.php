@@ -298,23 +298,23 @@
 
         <!-- PRICES & DETAILS -->
         <section class="new-section">
-          <div class="section-title">Стоимость</div>
-
-            <ul class="event-data">
-                <li><span class="title">продолжительность</span><span class="item">2 дня (16 академических часов)</span>
-                </li>
-                <li><span class="title">стоимость</span>
-                  <span class="item">
-                    26 500 рубрей<br/>
-                  </span>
-                </li>
-                <li><span class="title">место проведения день 1</span><span class="item">Москва, Трубная ул., д 12, бизнес-центр «Миллениум Хаус»</span>
-                </li>
-                <li><span class="title">место проведения день 2</span><span class="item">Мультибрендовый магазин одежды</span>
-                </li>
-                <li><span class="title">контакты</span><span class="item">+7 925 827 1215 / hello@vmguru.ru</span>
-                </li>
-            </ul>
+        <div class="section-title">Стоимость</div>
+          <ul class="event-data">
+              <li><span class="title">Продолжительность</span><span class="item">1 день (8 академических часов)</span>
+              </li>
+              <li><span class="title">Стоимость обучения</span>
+                <span class="item">
+                  <strike>17 500 рублей</strike><br/>
+                  <span class="is-highlighted">12 500 рублей / скидка действительна до 01.05.2020</span>
+                </span>
+              </li>
+              <li><span class="title">Стоимость обучения без Блиц Консалтинга</span><span class="item is-highlighted">8 500 рублей / действительна до 01.05.2020</span>
+              </li>
+              <li><span class="title">место проведения</span><span class="item">ОНЛАЙН  до 01.05.2020</span>
+              <!-- <li><span class="title">место проведения</span><span class="item">Москва, Трубная ул., д 12, бизнес-центр «Миллениум Хаус»</span> -->
+              </li>
+              <li><span class="title">контакты</span><span class="item">+7 925 827 1215 / hello@vmguru.ru</span></li>
+          </ul>
         </section>
 
         <!-- FORM SECTION -->
