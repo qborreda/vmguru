@@ -12,8 +12,10 @@
   <link rel="manifest" href="/manifest.json">
   <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
   <meta name="theme-color" content="#ffffff">
-  <meta name="description" content="VM Guru — консалтинговое агентство визуальных коммуникаций в фэшн ритейле, специализирующееся на коммерческом визуальном мерчандайзинге, оформлении витрин, дизайне магазинов, а также обучении в данных сегментах.">
-  <meta name="keywords" content="vmguru, visual merchandising, визуальный мерчандайзинг обучение, образование, витринистика, визуальный мерчендайзинг, курсы визуального мерчандайзинга москва, курсы визуального мерчендайзинга">
+  <meta name="description"
+    content="VM Guru — консалтинговое агентство визуальных коммуникаций в фэшн ритейле, специализирующееся на коммерческом визуальном мерчандайзинге, оформлении витрин, дизайне магазинов, а также обучении в данных сегментах.">
+  <meta name="keywords"
+    content="vmguru, visual merchandising, визуальный мерчандайзинг обучение, образование, витринистика, визуальный мерчендайзинг, курсы визуального мерчандайзинга москва, курсы визуального мерчендайзинга">
   <title>Визуальный мерчандайзинг обучение, Витринистика - консалтинг и тренинги в VM Guru</title>
 
   <link rel="stylesheet" href="css/styles.css">
@@ -29,7 +31,8 @@
     <section class="new-section">
       <div class="section-title">Наши услуги</div>
       <div class="section-intro-text">
-        <p>Мы готовы помочь на любом этапе создания вашего бренда: от разработки стандартов визуального мерчандайзинга  до обучения персонала. Нам вы можете доверить всё!</p>
+        <p>Мы готовы помочь на любом этапе создания вашего бренда: от разработки стандартов визуального мерчандайзинга
+          до обучения персонала. Нам вы можете доверить всё!</p>
         <p>Мы создаем «магазины под ключ» и гарантируем максимальную коммерческую привлекательность своим проектам.</p>
       </div>
       <?php include "_consulting-elements.php"; ?>
@@ -47,7 +50,8 @@
 
   </div>
 </body>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js" type="text/javascript" charset="utf-8"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js" type="text/javascript" charset="utf-8">
+</script>
 <script type="text/javascript" src="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.min.js"></script>
 <script src="/js/main.js" type="text/javascript" charset="utf-8"></script>
 
