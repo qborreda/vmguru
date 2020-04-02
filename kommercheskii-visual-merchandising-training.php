@@ -346,7 +346,7 @@
         <li><span class="title">место проведения</span><span class="item">ОНЛАЙН до 01.05.2020</span>
           <!-- <li><span class="title">место проведения</span><span class="item">Москва, Трубная ул., д 12, бизнес-центр «Миллениум Хаус»</span> -->
         </li>
-        <li><span class="title">контакты</span><span class="item">+7 925 827 1215 / hello@vmguru.ru</span></li>
+        <li><span class="title">контакты</span><span class="item">+7 916 380 46 16 / hello@vmguru.ru</span></li>
       </ul>
     </section>
 
