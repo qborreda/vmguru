@@ -2,7 +2,7 @@
 <div class="skewed-items">
   <!-- VM -->
   <article class="container">
-    <a class="no-border" href="/kommercheskii-visual-merchandising-training.php">
+    <a class="no-border" href="https://vmguru-online.ru" target="_blank">
       <img src="imgs/bkgr_skew_placeholder.jpg" data-src="imgs/bkgr_event2.jpg" class="lazy">
       <div class="article-stripe">
         <div class="article-dates">
