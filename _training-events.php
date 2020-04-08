@@ -7,7 +7,7 @@
       <div class="article-stripe">
         <div class="article-dates">
           <span class="month">онлайн</span>
-          <span class="date">10 апреля</span>
+          <span class="date">17 апреля</span>
         </div>
         <p class="description">Антикризисный визуальный мерчандайзинг;<br />
           прикладные техники увеличения продаж</p>
@@ -22,7 +22,7 @@
       <div class="article-stripe">
         <div class="article-dates">
           <span class="month">онлайн</span>
-          <span class="date">14 апреля</span>
+          <span class="date">21 апреля</span>
         </div>
         <p class="description">Антикризисный визуальный мерчандайзинг для магазинов обуви и аксессуаров</p>
       </div>

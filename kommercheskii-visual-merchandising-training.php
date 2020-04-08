@@ -32,7 +32,7 @@
       <div class="hero_image vm">
         <div class="hero_contents">
           <div class="hero_dates">ОНЛАЙН</div>
-          <div class="hero_dates">10 апреля</div>
+          <div class="hero_dates">17 апреля</div>
           <div class="hero_title">Антикризисный визуальный мерчандайзинг;
             <br />прикладные техники увеличения продаж</div>
           <p class="hero_description">
