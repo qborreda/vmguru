@@ -17,7 +17,7 @@
   </article>
   <!-- SHOES -->
   <article class="container">
-    <a class="no-border" href="/visual-merchandising-dlia-magazinov-obuvi-training.php">
+    <a class="no-border" href="https://vmguru-online.ru/shoes" target="_blank">
       <img src="imgs/bkgr_skew_placeholder.jpg" data-src="imgs/bkgr_event3.jpg" class="lazy">
       <div class="article-stripe">
         <div class="article-dates">
