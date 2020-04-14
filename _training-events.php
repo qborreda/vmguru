@@ -22,7 +22,7 @@
       <div class="article-stripe">
         <div class="article-dates">
           <span class="month">онлайн</span>
-          <span class="date">21 апреля</span>
+          <span class="date">24 апреля</span>
         </div>
         <p class="description">Антикризисный визуальный мерчандайзинг для магазинов обуви и аксессуаров</p>
       </div>
