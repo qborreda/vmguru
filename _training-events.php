@@ -23,7 +23,7 @@
       <div class="article-stripe">
         <div class="article-dates">
           <span class="month">онлайн</span>
-          <span class="date">07 мая</span>
+          <span class="date">14 мая</span>
         </div>
         <p class="description">Антикризисный визуальный мерчандайзинг;<br />
           прикладные техники увеличения продаж</p>
@@ -38,7 +38,7 @@
       <div class="article-stripe">
         <div class="article-dates">
           <span class="month">онлайн</span>
-          <span class="date">14 мая</span>
+          <span class="date">16 мая</span>
         </div>
         <p class="description"><strong class="is-cyan">NEW!</strong> Витринистика: создание эффективных витрин. Большой
           эффект без больших расходов</p>

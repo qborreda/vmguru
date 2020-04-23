@@ -32,7 +32,7 @@
       <div class="hero_image windows">
         <div class="hero_contents">
           <div class="hero_dates">ОНЛАЙН</div>
-          <div class="hero_dates">14 мая</div>
+          <div class="hero_dates">16 мая</div>
           <div class="hero_title"><strong class="is-cyan">NEW!</strong> Витринистика: создание эффективных витрин.
             Большой эффект без больших расходов</div>
           <p class="hero_description">
