@@ -26,7 +26,7 @@
   <div class="short_wrapper">
 
     <section class="new-section">
-      <div class="section-title">Наши публикации 2016 - 2019</div>
+      <div class="section-title">Наши публикации 2017 - 2020</div>
     </section>
     <section class="publications-section1">
 
