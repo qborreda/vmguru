@@ -325,6 +325,138 @@
           </div>
         </div>
       </div>
+      <!-- 04 -->
+      <div class="testimonial">
+        <div class="testimonial-intro-text">
+          <p>После обучения я четко вижу, как мы можем изменить наши магазины к лучшему.</p>
+        </div>
+        <div class="testimonial-full-text js-toggle-content js-toggle-04">
+          <p>Анна, я Вам искренне благодарна!</p>
+          <p>Действительно, очень полезный, хорошо структурированный и профессионально поданный тренинг. Я сейчас буду планировать рабочую группу для того, чтобы поделиться этими знаниями со своей командой.</p>
+          <p>Блиц-консалтинг, конечно, был очень полезен! Это очень важный момент. Одно дело, ты знания получаешь, другое — ты получаешь консультацию по своим магазинам, понимаешь, что конкретно нужно менять.</p>
+          <p>Для нас это очень важно и ценно! Спасибо!</p>
+        </div>
+        <div class="testimonial-footer">
+          <div class="testimonial-author">
+            Булатова Надежда,
+            <div class="testimonial-title">Управляющая сети «Ювента»</div>
+          </div>
+          <div class="trigger js-trigger-toggle" data-target=".js-toggle-04">
+            <span>читать подробнее
+              <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+                width="30px" viewBox="0 0 111 32" enable-background="new 0 0 111 32" xml:space="preserve">
+                <polyline fill="none" stroke-width="3" stroke-miterlimit="10"
+                  points="0.729,1.342 52.597,30.157 110.229,1.342" />
+              </svg>
+            </span>
+          </div>
+        </div>
+      </div>
+      <!-- 05 -->
+      <div class="testimonial">
+        <div class="testimonial-intro-text">
+          <p>Очень полезный тренинг! Даже для давно практикующего специалиста.</p>
+          <p>Очень много было информации, которую в книгах не прочтешь. Ее может дать только эксперт-практик.</p>
+        </div>
+        <div class="testimonial-full-text js-toggle-content js-toggle-05">
+          <p>Когда слушаешь таких практиков-гуру, ловишь каждое слово. То есть полезно каждое слово. У меня был вопрос с антикризисным мерчандайзингом, был вопрос насчёт вместимости зала (оказывается я делала правильно, но по наитию), А теперь я достоверно знаю, как считать и какие приемы работают.</p>
+          <p>Коллеги, было очень много уникальной практической информации в тренинге. Обращайте на это внимание, выбирая обучение!</p>
+          <p>Огромное Вам спасибо, Анна!</p>
+        </div>
+        <div class="testimonial-footer">
+          <div class="testimonial-author">
+            Инна Гиндулина,
+            <div class="testimonial-title">Специалист по мерчандайзингу</div>
+          </div>
+          <div class="trigger js-trigger-toggle" data-target=".js-toggle-05">
+            <span>читать подробнее
+              <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+                width="30px" viewBox="0 0 111 32" enable-background="new 0 0 111 32" xml:space="preserve">
+                <polyline fill="none" stroke-width="3" stroke-miterlimit="10"
+                  points="0.729,1.342 52.597,30.157 110.229,1.342" />
+              </svg>
+            </span>
+          </div>
+        </div>
+      </div>
+      <!-- 06 -->
+      <div class="testimonial">
+        <div class="testimonial-intro-text">
+          <p>Мне важно было разобраться в ВМ, чтобы оказывать грамотные консультации нашим клиентам.</p>
+        </div>
+        <div class="testimonial-full-text js-toggle-content js-toggle-06">
+          <p>Я получила все ответы на свои вопросы и даже больше, чем хотела. Теперь я могу не только грамотно консультировать по расстановке и количеству манекенов в зале, но еще и разобралась в развеске и эффективности торгового оборудования, а мы этим тоже занимаемся.</p>
+          <p>На самом деле онлайн-формат — это очень классно, так как большинство предпринимателей из регионов, и для них это отличная возможность. У меня региональные клиенты постоянно спрашивают про онлайн формат ВМ обучения, буду вас рекомендовать, вы профи!</p>
+        </div>
+        <div class="testimonial-footer">
+          <div class="testimonial-author">
+            Светлана Соловей,
+            <div class="testimonial-title">Партнер Рус Манекен</div>
+          </div>
+          <div class="trigger js-trigger-toggle" data-target=".js-toggle-06">
+            <span>читать подробнее
+              <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+                width="30px" viewBox="0 0 111 32" enable-background="new 0 0 111 32" xml:space="preserve">
+                <polyline fill="none" stroke-width="3" stroke-miterlimit="10"
+                  points="0.729,1.342 52.597,30.157 110.229,1.342" />
+              </svg>
+            </span>
+          </div>
+        </div>
+      </div>
+      <!-- 07 -->
+      <div class="testimonial">
+        <div class="testimonial-intro-text">
+          <p>С Анной я познакомилась, на Сentral Asia Fashion. Анна прилетала в Казахстан с мастер-классом. И с тех пор подписана на все соц. сети VM Guru, изучаю.</p>
+        </div>
+        <div class="testimonial-full-text js-toggle-content js-toggle-07">
+          <p>Очень рада, что появился онлайн формат, он реален в мерчандайзинге. Я уже обучалась онлайн в Лондоне стилистике.</p>
+          <p>Тренинг полезный, интересный и прикладной. Об этом в книжках не прочтешь. Рекомендации все применимы на практике!</p>
+          <p>Я буду очень рада также попасть на практическую часть и буду рада, если Вы приедете к нам!</p>
+        </div>
+        <div class="testimonial-footer">
+          <div class="testimonial-author">
+            Нургуль Калдубаева,
+            <div class="testimonial-title">Специалист по мерчандайзингу, Казахстан</div>
+          </div>
+          <div class="trigger js-trigger-toggle" data-target=".js-toggle-07">
+            <span>читать подробнее
+              <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+                width="30px" viewBox="0 0 111 32" enable-background="new 0 0 111 32" xml:space="preserve">
+                <polyline fill="none" stroke-width="3" stroke-miterlimit="10"
+                  points="0.729,1.342 52.597,30.157 110.229,1.342" />
+              </svg>
+            </span>
+          </div>
+        </div>
+      </div>
+      <!-- 08 -->
+      <div class="testimonial">
+        <div class="testimonial-intro-text">
+          <p>Вся информация на тренинге подана профессионально и четко, а по-другому и быть не может, потому как Анна большой специалист, знаю точно, так как работала в ее команде в начале своей карьеры в BNS Group.</p>
+        </div>
+        <div class="testimonial-full-text js-toggle-content js-toggle-08">
+          <p>Тренинг в формате Zoom проходила впервые и, честно говоря, был некоторый скептицизм о том, как можно что-то понять в VM удалённо. Оказывается можно. Подача информации чёткая и понятная. Раздаточный материал помогает не упустить детали и прорабатывать наглядные примеры.</p>
+          <p>Теперь новыми антикризисными знаниями буду делиться со своими коллегами.</p>
+          <p>Огромная благодарность за такой классный и полезный тренинг!</p>
+        </div>
+        <div class="testimonial-footer">
+          <div class="testimonial-author">
+            Анастасия Юмашева,
+            <div class="testimonial-title">Соучредитель, байер и рук. ВМ
+            <br/>Trendy Italy со., Финляндия.</div>
+          </div>
+          <div class="trigger js-trigger-toggle" data-target=".js-toggle-08">
+            <span>читать подробнее
+              <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+                width="30px" viewBox="0 0 111 32" enable-background="new 0 0 111 32" xml:space="preserve">
+                <polyline fill="none" stroke-width="3" stroke-miterlimit="10"
+                  points="0.729,1.342 52.597,30.157 110.229,1.342" />
+              </svg>
+            </span>
+          </div>
+        </div>
+      </div>
 
     </section>
 
