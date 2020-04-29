@@ -460,13 +460,13 @@
         <li><span class="title">Стоимость обучения</span>
           <span class="item">
             <strike>17 500 рублей</strike><br />
-            <span class="is-highlighted">12 500 рублей / скидка действительна до 01.05.2020</span>
+            <span class="is-highlighted">12 500 рублей / скидка действительна до 01.06.2020</span>
           </span>
         </li>
         <li><span class="title">Стоимость обучения без Блиц Консалтинга</span><span class="item is-highlighted">8 000
-            рублей / действительна до 01.05.2020</span>
+            рублей / действительна до 01.06.2020</span>
         </li>
-        <li><span class="title">место проведения</span><span class="item">ОНЛАЙН до 01.05.2020</span>
+        <li><span class="title">место проведения</span><span class="item">ОНЛАЙН до 01.06.2020</span>
           <!-- <li><span class="title">место проведения</span><span class="item">Москва, Трубная ул., д 12, бизнес-центр «Миллениум Хаус»</span> -->
         </li>
         <li><span class="title">контакты</span><span class="item">+7 916 380 46 16 / hello@vmguru.ru</span></li>
