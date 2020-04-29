@@ -32,7 +32,7 @@
       <div class="hero_image shoes">
         <div class="hero_contents">
           <div class="hero_dates">ОНЛАЙН</div>
-          <div class="hero_dates">30 апреля</div>
+          <div class="hero_dates">25 мая</div>
           <div class="hero_title">Антикризисный визуальный мерчандайзинг для магазинов обуви и аксессуаров</div>
           <p class="hero_description">
             Узнаете правила ВМ для магазинов обуви и аксессуаров
@@ -459,12 +459,15 @@
         </li>
         <li><span class="title">Стоимость обучения</span>
           <span class="item">
-            <strike>17 500 рублей</strike><br />
-            <span class="is-highlighted">12 500 рублей / скидка действительна до 01.06.2020</span>
+            <strike>27 000 рублей</strike><br />
+            <span class="is-highlighted">13 500 рублей / скидка действительна до 01.06.2020</span>
           </span>
         </li>
-        <li><span class="title">Стоимость обучения без Блиц Консалтинга</span><span class="item is-highlighted">8 000
-            рублей / действительна до 01.06.2020</span>
+        <li><span class="title">Стоимость обучения без Блиц Консалтинга</span>
+          <span class="item">
+            <strike>19 000 рублей</strike><br />
+            <span class="item is-highlighted">9 500 рублей / действительна до 01.06.2020</span>
+          </span>
         </li>
         <li><span class="title">место проведения</span><span class="item">ОНЛАЙН до 01.06.2020</span>
           <!-- <li><span class="title">место проведения</span><span class="item">Москва, Трубная ул., д 12, бизнес-центр «Миллениум Хаус»</span> -->
