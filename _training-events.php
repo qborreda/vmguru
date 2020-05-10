@@ -24,7 +24,7 @@
       <div class="article-stripe">
         <div class="article-dates">
           <span class="month">онлайн</span>
-          <span class="date">16 мая</span>
+          <span class="date">18 мая</span>
         </div>
         <p class="description">Витринистика: создание эффективных витрин. Большой
           эффект без больших расходов</p>
