@@ -31,7 +31,8 @@
     <section class="hero_section">
       <div class="hero_image shops">
         <div class="hero_contents">
-          <div class="hero_dates">... апреля</div>
+          <div class="hero_dates">ОНЛАЙН</div>
+          <div class="hero_dates">3 августа</div>
           <div class="hero_title">ЭФФЕКТИВНЫЙ FASHION-МАГАЗИН.<br />
             Создайте торговое пространство, которое продает само</div>
           <p class="hero_description">
