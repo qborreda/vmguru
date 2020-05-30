@@ -1,0 +1,74 @@
+.publication-highlights {
+  display: block;
+  padding: 25px 10px;
+
+  .highlights {
+    display: block;
+    margin: 0 auto;
+    max-width: 1300px;
+    /* min-height: 500px; */
+    max-height: 500px;
+    line-height: 1.2;
+
+    .title {
+      margin-bottom: 10px;
+      font-size: $H2-SIZE;
+      font-weight: 600;
+      color: $DETAIL-CYAN;
+    }
+    .text {
+      margin-bottom: 5px;
+      color: $PRIMARY-TEXT-COLOR;
+      p {
+        margin-bottom: 5px;
+      }
+    }
+
+    .grid-container {
+      display: grid;
+      /* height: 500px; */
+      grid-template-columns: repeat(3, 1fr);
+      grid-template-rows: repeat(3, 1fr);
+      grid-template-areas: "main hor01 hor01" "main hor02 hor02" "main hor03 hor03";
+      grid-column-gap: 15px;
+      grid-row-gap: 15px;
+    }
+
+    .main {
+      display: grid;
+      grid-template-columns: 1fr;
+      /* grid-template-rows: 1fr 1fr; */
+      gap: 15px 1px;
+      grid-template-areas: "cimg" "ctext";
+      grid-area: main;
+    }
+
+    .hor {
+      display: grid;
+      /* grid-template-columns: 0.5fr 1.5fr; */
+      grid-template-rows: 1fr;
+      gap: 1px 15px;
+      grid-template-areas: "cimg ctext";
+    }
+
+    .div2 {
+      grid-area: hor01;
+    }
+
+    .div3 {
+      grid-area: hor02;
+    }
+
+    .div4 {
+      grid-area: hor03;
+    }
+
+    .c-img {
+      grid-area: cimg;
+    }
+
+    .c-text {
+      grid-area: ctext;
+    }
+  }
+}
