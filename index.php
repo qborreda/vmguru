@@ -54,7 +54,7 @@
 
       <!-- TRAININGS -->
       <section class="new-section">
-          <div class="section-title">Ближайшие онлайн тренинги</div>
+          <div class="section-title">Oнлайн тренинги</div>
           <div class="section-intro-text">
             <p>Визуальный мерчандайзинг – мощный низкобюджетный инструмент повышения продаж.
               <br/>Научим эффективно использовать этот ресурс!</p>
