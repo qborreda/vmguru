@@ -26,21 +26,25 @@
   <div class="short_wrapper">
 
     <section class="new-section">
-      <div class="section-title">Наши публикации 2017 - 2020</div>
+      <div class="section-title">Наши публикации</div>
     </section>
 
     <section class="publication-highlights">
       <div class="highlights">
         <div class="grid-container">
           <div class="main">
-            <img class="c-img" src="https://dummyimage.com/300/000/cc31e0.png&text=main" />
+            <div class="c-img">
+              <img src="imgs/publication_001.jpg" />
+            </div>
             <div class="c-text">
               <div class="title">Как не потерять контроль над бизнесом после пандемии. История VM Guru</div>
               <div class="text"><p>Для перестройки бизнеса под новую реальность важны будут: онлайн формат, оптимизация бизнеса, сохранение команды. Один в поле не воин! О том как мы трансформировали бизнес за 14 дней.</p></div>
             </div>
           </div>
           <div class="hor div2">
-            <img class="c-img" src="https://dummyimage.com/240x150/000/cc31e0.png&text=image" />
+            <div class="c-img">
+              <img src="imgs/publication_002.jpg" />
+            </div>
             <div class="c-text">
               <div class="title">Вернуться ли покупатели в офлайн? мнение Анны Баландиной</div>
               <div class="text">
@@ -50,7 +54,9 @@
             </div>
           </div>
           <div class="hor div3">
-            <img class="c-img" src="https://dummyimage.com/240x150/000/cc31e0.png&text=image" />
+            <div class="c-img">
+              <img src="imgs/publication_003.jpg" />
+            </div>
             <div class="c-text">
               <div class="title">Матрица: перезагрузка</div>
               <div class="text">
@@ -61,7 +67,9 @@
             </div>
           </div>
           <div class="hor div4">
-            <img class="c-img" src="https://dummyimage.com/240x150/000/cc31e0.png&text=image" />
+            <div class="c-img">
+              <img src="imgs/publication_004.jpg" />
+            </div>
             <div class="c-text">
               <div class="title">Серые мышки больше не работают</div>
               <div class="text">
