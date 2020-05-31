@@ -1,5 +1,9 @@
 .publication-highlights {
   display: block;
+  padding: 0 5px;
+  @include mq($from: tablet) {
+    padding: 0 20px;
+  }
 
   .highlights {
     display: block;
@@ -25,21 +29,51 @@
 
     .grid-container {
       display: grid;
-      grid-template-columns: 350px minmax(0, 1fr);
-      grid-template-rows: repeat(3, 1fr);
-      grid-template-areas: "main hor01" "main hor02" "main hor03";
-      grid-column-gap: 25px;
+      grid-template-columns: minmax(0, 1fr);
+      grid-template-rows: repeat(4, auto);
+      grid-template-areas: "main" "hor01" "hor02" "hor03";
       grid-row-gap: 15px;
+
+      @include mq($from: tablet) {
+        grid-template-columns: minmax(0, 1fr);
+        grid-template-rows: repeat(4, auto);
+        grid-template-areas: "main" "hor01" "hor02" "hor03";
+        grid-row-gap: 15px;
+      }
+      @include mq($from: desktop) {
+        grid-template-columns: 350px minmax(0, 1fr);
+        grid-template-rows: repeat(3, 1fr);
+        grid-template-areas: "main hor01" "main hor02" "main hor03";
+        grid-column-gap: 25px;
+        grid-row-gap: 15px;
+      }
     }
 
     .main {
       display: grid;
       grid-template-columns: minmax(0, 1fr);
-      gap: 15px 1px;
       grid-template-areas: "cimg" "ctext";
+      /* grid-column-gap: 15px; */
+      grid-row-gap: 10px;
       grid-area: main;
       min-height: 0;
       min-width: 0;
+
+      @include mq($from: tablet) {
+        grid-template-rows: minmax(0 1fr);
+        grid-template-columns: 0.7fr 1.3fr;
+        grid-template-areas: "cimg ctext";
+        grid-column-gap: 15px;
+        /* grid-row-gap: 10px; */
+        grid-area: main;
+      }
+      @include mq($from: desktop) {
+        grid-template-columns: minmax(0, 1fr);
+        grid-template-areas: "cimg" "ctext";
+        /* grid-column-gap: 15px; */
+        grid-row-gap: 10px;
+        grid-area: main;
+      }
 
       img {
         width: 100%;
@@ -50,12 +84,28 @@
 
     .hor {
       display: grid;
-      grid-template-columns: 0.7fr 1.3fr;
-      grid-template-rows: 1fr;
-      gap: 1px 15px;
-      grid-template-areas: "cimg ctext";
+      grid-template-columns: 1fr;
+      grid-template-rows: 150px minmax(0, 1fr);
+      /* grid-column-gap: 15px; */
+      grid-row-gap: 35px;
+      grid-template-areas: "cimg" "ctext";
       min-height: 0;
       min-width: 0;
+
+      @include mq($from: tablet) {
+        grid-template-columns: 0.7fr 1.3fr;
+        grid-template-rows: 1fr;
+        grid-column-gap: 15px;
+        /* grid-row-gap: 10px; */
+        grid-template-areas: "cimg ctext";
+      }
+      @include mq($from: desktop) {
+        grid-template-columns: 0.7fr 1.3fr;
+        grid-template-rows: 1fr;
+        grid-column-gap: 15px;
+        /* grid-row-gap: 10px; */
+        grid-template-areas: "cimg ctext";
+      }
 
       img {
         width: 100%;
