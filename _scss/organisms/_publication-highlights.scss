@@ -1,0 +1,150 @@
+.publication-highlights {
+  display: block;
+  padding: 0 5px;
+  @include mq($from: tablet) {
+    padding: 0 20px;
+  }
+
+  .highlights {
+    display: block;
+    margin: 0 auto;
+    max-width: 1300px;
+    line-height: 1.2;
+
+    .title {
+      margin-bottom: 10px;
+      font-size: $H2-SIZE;
+      font-weight: 600;
+      color: $DETAIL-CYAN;
+
+      a {
+        padding-bottom: 3px;
+        text-decoration: none;
+        color: $PRIMARY-TEXT-COLOR;
+
+        &:hover {
+          color: $DETAIL-CYAN;
+        }
+      }
+    }
+
+    .text {
+      margin-bottom: 5px;
+      color: $PRIMARY-TEXT-COLOR;
+
+      p {
+        margin-bottom: 5px;
+      }
+    }
+
+    .grid-container {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr);
+      grid-template-rows: repeat(4, auto);
+      grid-template-areas: "main" "hor01" "hor02" "hor03";
+      grid-row-gap: 15px;
+
+      @include mq($from: tablet) {
+        grid-template-columns: minmax(0, 1fr);
+        grid-template-rows: repeat(4, auto);
+        grid-template-areas: "main" "hor01" "hor02" "hor03";
+        grid-row-gap: 15px;
+      }
+      @include mq($from: desktop) {
+        grid-template-columns: 350px minmax(0, 1fr);
+        grid-template-rows: repeat(3, auto);
+        grid-template-areas: "main hor01" "main hor02" "main hor03";
+        grid-column-gap: 25px;
+        grid-row-gap: 15px;
+      }
+      @include mq($from: wide) {
+        grid-template-columns: 350px minmax(0, 1fr);
+        grid-template-rows: repeat(3, 1fr);
+        grid-template-areas: "main hor01" "main hor02" "main hor03";
+        grid-column-gap: 25px;
+        grid-row-gap: 15px;
+      }
+    }
+
+    .main {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr);
+      grid-template-areas: "cimg" "ctext";
+      /* grid-column-gap: 15px; */
+      grid-row-gap: 10px;
+      grid-area: main;
+      min-height: 0;
+      min-width: 0;
+
+      @include mq($from: tablet) {
+        grid-template-rows: minmax(0 1fr);
+        grid-template-columns: 0.7fr 1.3fr;
+        grid-template-areas: "cimg ctext";
+        grid-column-gap: 15px;
+        /* grid-row-gap: 10px; */
+        grid-area: main;
+      }
+      @include mq($from: desktop) {
+        grid-template-columns: minmax(0, 1fr);
+        grid-template-areas: "cimg" "ctext";
+        /* grid-column-gap: 15px; */
+        grid-row-gap: 10px;
+        grid-area: main;
+      }
+
+      img {
+        width: 100%;
+        object-fit: cover;
+        object-position: 50% 50%;
+      }
+    }
+
+    .hor {
+      display: grid;
+      grid-template-columns: 1fr;
+      grid-template-rows: 150px minmax(0, 1fr);
+      /* grid-column-gap: 15px; */
+      grid-row-gap: 70px;
+      grid-template-areas: "cimg" "ctext";
+      min-height: 0;
+      min-width: 0;
+
+      @include mq($from: tablet) {
+        grid-template-columns: 0.7fr 1.3fr;
+        grid-template-rows: 1fr;
+        grid-column-gap: 15px;
+        /* grid-row-gap: 10px; */
+        grid-template-areas: "cimg ctext";
+      }
+      @include mq($from: desktop) {
+        grid-template-columns: 0.7fr 1.3fr;
+        grid-template-rows: 1fr;
+        grid-column-gap: 15px;
+        /* grid-row-gap: 10px; */
+        grid-template-areas: "cimg ctext";
+      }
+
+      img {
+        width: 100%;
+        object-fit: cover;
+        object-position: 50% 50%;
+      }
+    }
+
+    .div2 {
+      grid-area: hor01;
+    }
+    .div3 {
+      grid-area: hor02;
+    }
+    .div4 {
+      grid-area: hor03;
+    }
+    .c-img {
+      grid-area: cimg;
+    }
+    .c-text {
+      grid-area: ctext;
+    }
+  }
+}
