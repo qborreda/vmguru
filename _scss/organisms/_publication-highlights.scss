@@ -16,6 +16,16 @@
       font-size: $H2-SIZE;
       font-weight: 600;
       color: $DETAIL-CYAN;
+
+      a {
+        padding-bottom: 3px;
+        text-decoration: none;
+        color: $PRIMARY-TEXT-COLOR;
+
+        &:hover {
+          color: $DETAIL-CYAN;
+        }
+      }
     }
 
     .text {
