@@ -13,13 +13,19 @@
   .publication {
     position: relative;
     @include flex_flex(1 0 auto);
-    margin: 10px 20px 0;
     min-width: 300px;
+    margin: 5px 10px 0;
+    @include mq($from: tablet) {
+      margin: 10px 15px 0;
+    }
+    @include mq($from: desktop) {
+      margin: 10px 20px 0;
+    }
 
     &-text-layout {
       position: absolute;
       top: 5px;
-      left: 0;
+      left: -10px;
       @include mq($from: tablet) {
         top: 15px;
         left: 180px;

@@ -42,6 +42,13 @@
       }
       @include mq($from: desktop) {
         grid-template-columns: 350px minmax(0, 1fr);
+        grid-template-rows: repeat(3, auto);
+        grid-template-areas: "main hor01" "main hor02" "main hor03";
+        grid-column-gap: 25px;
+        grid-row-gap: 15px;
+      }
+      @include mq($from: wide) {
+        grid-template-columns: 350px minmax(0, 1fr);
         grid-template-rows: repeat(3, 1fr);
         grid-template-areas: "main hor01" "main hor02" "main hor03";
         grid-column-gap: 25px;
