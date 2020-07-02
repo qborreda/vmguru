@@ -8,26 +8,10 @@
       <div class="article-stripe">
         <div class="article-dates">
           <span class="month">онлайн</span>
-          <span class="date">15 июня</span>
+          <span class="date">17 июля</span>
         </div>
         <p class="description">Антикризисный визуальный мерчандайзинг;<br />
           прикладные техники увеличения продаж</p>
-      </div>
-      <div class="cta-button">Узнать больше ›</div>
-    </a>
-  </article>
-  <!-- WINDOWS -->
-  <article class="container">
-    <!-- <a class="no-border" href="/vitrinistika-texniki-sozdania-kommercheskix-vitrin.php"> -->
-    <a class="no-border" href="https://vmguru-online.ru/vitrinistika" target="_blank">
-      <img src="imgs/bkgr_skew_placeholder.jpg" data-src="imgs/bkgr_event4.jpg" class="lazy">
-      <div class="article-stripe">
-        <div class="article-dates">
-          <span class="month">онлайн</span>
-          <span class="date">17 июня</span>
-        </div>
-        <p class="description">Витринистика: создание эффективных витрин. Большой
-          эффект без больших расходов</p>
       </div>
       <div class="cta-button">Узнать больше ›</div>
     </a>
@@ -40,9 +24,25 @@
       <div class="article-stripe">
         <div class="article-dates">
           <span class="month">онлайн</span>
-          <span class="date">15 июля</span>
+          <span class="date">20 июля</span>
         </div>
         <p class="description">Антикризисный визуальный мерчандайзинг для магазинов обуви и аксессуаров</p>
+      </div>
+      <div class="cta-button">Узнать больше ›</div>
+    </a>
+  </article>
+  <!-- WINDOWS -->
+  <article class="container">
+    <!-- <a class="no-border" href="/vitrinistika-texniki-sozdania-kommercheskix-vitrin.php"> -->
+    <a class="no-border" href="https://vmguru-online.ru/vitrinistika" target="_blank">
+      <img src="imgs/bkgr_skew_placeholder.jpg" data-src="imgs/bkgr_event4.jpg" class="lazy">
+      <div class="article-stripe">
+        <div class="article-dates">
+          <span class="month">онлайн</span>
+          <span class="date">22 июля</span>
+        </div>
+        <p class="description">Витринистика: создание эффективных витрин. Большой
+          эффект без больших расходов</p>
       </div>
       <div class="cta-button">Узнать больше ›</div>
     </a>
