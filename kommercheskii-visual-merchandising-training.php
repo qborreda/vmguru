@@ -33,8 +33,8 @@
         <div class="hero_contents">
           <div class="hero_dates">ОНЛАЙН</div>
           <div class="hero_dates">17 июня</div>
-          <div class="hero_title">Антикризисный визуальный мерчандайзинг;
-            <br />прикладные техники увеличения продаж</div>
+          <div class="hero_title">Визуальный мерчандайзинг.
+            <br />Техники увеличения продаж офлайн и онлайн</div>
           <p class="hero_description">
             Правила презентации коллекций от «А до Я»
             <br />Расчет вместимости и зонирование магазина для max продаж

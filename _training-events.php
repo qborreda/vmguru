@@ -10,8 +10,8 @@
           <span class="month">онлайн</span>
           <span class="date">17 июля</span>
         </div>
-        <p class="description">Антикризисный визуальный мерчандайзинг;<br />
-          прикладные техники увеличения продаж</p>
+        <p class="description">Визуальный мерчандайзинг.
+          <br />Техники увеличения продаж офлайн и онлайн</p>
       </div>
       <div class="cta-button">Узнать больше ›</div>
     </a>
@@ -26,7 +26,7 @@
           <span class="month">онлайн</span>
           <span class="date">20 июля</span>
         </div>
-        <p class="description">Антикризисный визуальный мерчандайзинг для магазинов обуви и аксессуаров</p>
+        <p class="description">Визуальный мерчандайзинг для магазинов обуви и аксессуаров</p>
       </div>
       <div class="cta-button">Узнать больше ›</div>
     </a>

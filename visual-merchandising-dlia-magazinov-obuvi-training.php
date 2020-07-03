@@ -33,7 +33,7 @@
         <div class="hero_contents">
           <div class="hero_dates">ОНЛАЙН</div>
           <div class="hero_dates">20 июля</div>
-          <div class="hero_title">Антикризисный визуальный мерчандайзинг для магазинов обуви и аксессуаров</div>
+          <div class="hero_title">Визуальный мерчандайзинг для магазинов обуви и аксессуаров</div>
           <p class="hero_description">
             Узнаете правила ВМ для магазинов обуви и аксессуаров
             <br />Как грамотно зонировать коллекции для max продаж
