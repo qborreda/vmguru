@@ -32,8 +32,6 @@
             <article class="hex-content clearfix">
                 <div class="hex-content-left">
                     <p class="hex-content-name">КОРПОРАТИВНОЕ ОБУЧЕНИЕ
-                        <br/>«ВИЗУАЛЬНЫЙ МЕРЧАНДАЙЗИНГ;
-                        <br/>ПРИКЛАДНЫЕ ТЕХНИКИ УВЕЛИЧЕНИЯ ПРОДАЖ»
                         <br/>ДЛЯ МАГАЗИНОВ СЕГМЕНТОВ СРЕДНИЙ+ И ПРЕМИУМ</p>
                     <div class="hex-content-image">
                         <img src="/imgs/bkgr_hex_project_dariobeltran.jpg" alt="" />
@@ -41,10 +39,9 @@
                 </div>
                 <div class="hex-content-right">
                     <p class="hex-content-name">КОРПОРАТИВНОЕ ОБУЧЕНИЕ
-                        <br/>«ВИЗУАЛЬНЫЙ МЕРЧАНДАЙЗИНГ;
-                        <br/>ПРИКЛАДНЫЕ ТЕХНИКИ УВЕЛИЧЕНИЯ ПРОДАЖ»
                         <br/>ДЛЯ МАГАЗИНОВ СЕГМЕНТОВ СРЕДНИЙ+ И ПРЕМИУМ</p>
 
+                    <p class="hex-content-description">Тренинг онлайн «ВИЗУАЛЬНЫЙ МЕРЧАНДАЙЗИНГ; ПРИКЛАДНЫЕ ТЕХНИКИ УВЕЛИЧЕНИЯ ПРОДАЖ»</p>
                     <p class="hex-content-description">ФОРМАТ: онлайн тренинг в Zoom</p>
                     <p class="hex-content-description">СТРУКТУРА ОБУЧЕНИЯ:<br /></p>
                     <p class="hex-content-description">Визуальный мерчандайзинг как зона роста офлайн магазина</p>
