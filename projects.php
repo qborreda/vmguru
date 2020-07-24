@@ -34,24 +34,34 @@
             <br/>под руководством и при участии А. Баландиной</div>
 
             <ul class="hex-grid clr">
-                <li class="hex-item" data-link="/projects/project-dariobeltran.php">
+                <li class="hex-item" data-link="/projects/project-ekopolis.php">
                     <div>
-                        <img class="hex-content" src="/imgs/bkgr_hex_project34.jpg" alt="" />
+                        <img class="hex-content" src="/imgs/bkgr_hex_project19.jpg" alt="" />
+                        <!-- <div class="hex-title">Ekopolis</div> -->
                         <p class="hex-description is-little-text">
-                          <br/>КОРПОРАТИВНОЕ ОБУЧЕНИЕ
-                          <br/>ПАРТНЕРСКОЙ СЕТИ МАГАЗИНОВ
+                            КОРПОРАТИВНОЕ ОБУЧЕНИЕ
+                            <br/>И ВМ КОНСАЛТИНГ ДЛЯ АРЕНДАТОРОВ ТЦ
                         </p>
                     </div>
                 </li>
-                    <li class="hex-item" data-link="/projects/project-atakent.php">
-                        <div>
-                            <img class="hex-content" src="/imgs/bkgr_hex_project33.jpg" alt="" />
-                            <p class="hex-description is-little-text">
-                              <br/>КОРПОРАТИВНОЕ ОБУЧЕНИЕ
-                              <br/>И ВМ КОНСАЛТИНГ ДЛЯ АРЕНДАТОРОВ ТPЦ
-                            </p>
-                        </div>
-                    </li>
+              <li class="hex-item" data-link="/projects/project-dariobeltran.php">
+                  <div>
+                      <img class="hex-content" src="/imgs/bkgr_hex_project34.jpg" alt="" />
+                      <p class="hex-description is-little-text">
+                        <br/>КОРПОРАТИВНОЕ ОБУЧЕНИЕ
+                        <br/>ПАРТНЕРСКОЙ СЕТИ МАГАЗИНОВ
+                      </p>
+                  </div>
+              </li>
+              <li class="hex-item" data-link="/projects/project-atakent.php">
+                  <div>
+                      <img class="hex-content" src="/imgs/bkgr_hex_project33.jpg" alt="" />
+                      <p class="hex-description is-little-text">
+                        <br/>КОРПОРАТИВНОЕ ОБУЧЕНИЕ
+                        <br/>И ВМ КОНСАЛТИНГ ДЛЯ АРЕНДАТОРОВ ТPЦ
+                      </p>
+                  </div>
+              </li>
               <li class="hex-item" data-link="/projects/project-nomination.php">
                   <div>
                       <img class="hex-content" src="/imgs/bkgr_hex_project32.jpg" alt="" />
@@ -343,16 +353,6 @@
                         <p class="hex-description">
                             СТАНДАРТЫ ПРЕЗЕНТАЦИИ ПРЕМИУМ КОЛЛЕКЦИЙ -
                             <br/>КОРПОРАТИВНОЕ ОБУЧЕНИЕ / ФРАНЧАЙЗИНГ. КОНФ.
-                        </p>
-                    </div>
-                </li>
-                <li class="hex-item">
-                    <div>
-                        <img class="hex-content" src="/imgs/bkgr_hex_project19.jpg" alt="" />
-                        <!-- <div class="hex-title">Ikopolis</div> -->
-                        <p class="hex-description is-little-text">
-                            КОРПОРАТИВНОЕ ОБУЧЕНИЕ
-                            <br/>И ВМ КОНСАЛТИНГ ДЛЯ АРЕНДАТОРОВ ТЦ
                         </p>
                     </div>
                 </li>
