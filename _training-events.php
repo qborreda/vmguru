@@ -41,7 +41,7 @@
       <div class="article-stripe">
         <div class="article-dates">
           <span class="month">онлайн</span>
-          <span class="date">16 сентября</span>
+          <span class="date">17 сентября</span>
         </div>
         <p class="description">Визуальный мерчандайзинг для магазинов обуви и аксессуаров</p>
       </div>
