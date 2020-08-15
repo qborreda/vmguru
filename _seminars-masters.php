@@ -2,11 +2,19 @@
 <div class="seminar-list">
 
   <article class="seminar-item">
+    <img class="logo lazy" src="/imgs/img-seminar-placeholder.jpg" data-src="/imgs/img-seminar-mosshoes.jpg">
+    <p class="title">Mos Shoes</p>
+    <p class="subtitle">9 сентября 13:00</p>
+    <p class="speaker">Семинар<br />Анны Баландиной</p>
+    <p class="description">ВМ онлайн и офлайн: как увеличить продажи и лояльность покупателей в новых условиях рынка</p>
+  </article>
+
+  <article class="seminar-item">
     <img class="logo lazy" src="/imgs/img-seminar-placeholder.jpg" data-src="/imgs/img-seminar-lingerie.jpg">
     <p class="title">Lingerie Show-Forum</p>
-    <p class="subtitle">22 февраля 16:00 – 16:45</p>
+    <p class="subtitle">28 августа 11:00</p>
     <p class="speaker">Семинар<br />Анны Баландиной</p>
-    <p class="description">Визуальный мерчандайзинг против онлайн.Как повысить продажи и привлечь в магазин покупателей новых поколений</p>
+    <p class="description">Магазины нижнего белья после пандемии. Техники повышения продаж и новые стандарты нормы</p>
   </article>
 
   <article class="seminar-item">
@@ -25,14 +33,6 @@
     <p class="description">Новая реальность офлайн розницы. Как привлечь и продать</p>
   </article>
 
-  <article class="seminar-item">
-    <img class="logo lazy" src="/imgs/img-seminar-placeholder.jpg" data-src="/imgs/img-seminar-mosshoes.jpg">
-    <p class="title">MOSSHOES</p>
-    <p class="subtitle">12 марта 13:00</p>
-    <p class="speaker">Семинар<br />Анны Баландиной</p>
-    <p class="description">Магазин как центр притяжения покупателей. Как повысить продажи офлайн</p>
-  </article>
-
 </div>
 
 <div class="expand-trigger js-trigger-toggle"  data-target=".expanded-seminars">
@@ -45,6 +45,22 @@
 
 <!-- EXPANDED -->
 <div class="expanded-seminars js-toggle-content">
+
+  <article class="seminar-item">
+    <img class="logo lazy" src="/imgs/img-seminar-placeholder.jpg" data-src="/imgs/img-seminar-mosshoes.jpg">
+    <p class="title">MOSSHOES</p>
+    <p class="subtitle">12 марта 2020</p>
+    <p class="speaker">Семинар<br />Анны Баландиной</p>
+    <p class="description">Магазин как центр притяжения покупателей. Как повысить продажи офлайн</p>
+  </article>
+
+  <article class="seminar-item">
+    <img class="logo lazy" src="/imgs/img-seminar-placeholder.jpg" data-src="/imgs/img-seminar-lingerie.jpg">
+    <p class="title">Lingerie Show-Forum</p>
+    <p class="subtitle">22 февраля 2020</p>
+    <p class="speaker">Семинар<br />Анны Баландиной</p>
+    <p class="description">Визуальный мерчандайзинг против онлайн.Как повысить продажи и привлечь в магазин покупателей новых поколений</p>
+  </article>
 
   <article class="seminar-item">
     <img class="logo lazy" src="/imgs/img-seminar-placeholder.jpg" data-src="/imgs/img-seminar-rush.jpg">
