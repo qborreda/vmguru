@@ -25,7 +25,7 @@
       <div class="article-stripe">
         <div class="article-dates">
           <span class="month">онлайн</span>
-          <span class="date">10 сентября</span>
+          <span class="date">11 сентября</span>
         </div>
         <p class="description">Визуальный мерчандайзинг.
           <br />Техники увеличения продаж офлайн и онлайн</p>
