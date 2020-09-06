@@ -25,7 +25,7 @@
       <div class="article-stripe">
         <div class="article-dates">
           <span class="month">онлайн</span>
-          <span class="date">20 сентября</span>
+          <span class="date">21 сентября</span>
         </div>
         <p class="description">Визуальный мерчандайзинг для магазинов обуви и аксессуаров</p>
       </div>
@@ -40,7 +40,7 @@
       <div class="article-stripe">
         <div class="article-dates">
           <span class="month">онлайн</span>
-          <span class="date">24 сентября</span>
+          <span class="date">29 сентября</span>
         </div>
         <p class="description">Визуальный мерчандайзинг.
           <br />Техники увеличения продаж офлайн и онлайн</p>
@@ -56,7 +56,7 @@
       <div class="article-stripe">
         <div class="article-dates">
           <span class="month">онлайн</span>
-          <span class="date">26 сентября</span>
+          <span class="date">1 октября</span>
         </div>
         <p class="description">Витринистика: создание эффективных витрин. Большой
           эффект без больших расходов</p>
