@@ -3,13 +3,12 @@
 
   <!-- LINGERIE -->
   <article class="container">
-    <!-- <a class="no-border" href="/sozdanie-magazine-fashion-segments-training.php"> -->
     <a class="no-border" href="https://vmguru-online.ru/lingerie" target="_blank">
       <img src="imgs/bkgr_skew_placeholder.jpg" data-src="imgs/bkgr_event5.jpg" class="lazy">
       <div class="article-stripe">
         <div class="article-dates">
           <span class="month">онлайн</span>
-          <span class="date">8 сентября</span>
+          <span class="date">Под запрос</span>
         </div>
         <p class="description">Оформление магазина нижнего белья.<br />
           ВМ техники увеличения продаж</p>
@@ -25,7 +24,7 @@
       <div class="article-stripe">
         <div class="article-dates">
           <span class="month">онлайн</span>
-          <span class="date">21 сентября</span>
+          <span class="date">25 сентября</span>
         </div>
         <p class="description">Визуальный мерчандайзинг для магазинов обуви и аксессуаров</p>
       </div>
