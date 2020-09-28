@@ -16,22 +16,6 @@
       <div class="cta-button">Узнать больше ›</div>
     </a>
   </article>
-  <!-- VM -->
-  <article class="container">
-    <!-- <a class="no-border" href="/kommercheskii-visual-merchandising-training.php"> -->
-    <a class="no-border" href="https://vmguru-online.ru" target="_blank">
-      <img src="imgs/bkgr_skew_placeholder.jpg" data-src="imgs/bkgr_event2.jpg" class="lazy">
-      <div class="article-stripe">
-        <div class="article-dates">
-          <span class="month">онлайн</span>
-          <span class="date">29 сентября</span>
-        </div>
-        <p class="description">Визуальный мерчандайзинг.
-          <br />Техники увеличения продаж офлайн и онлайн</p>
-      </div>
-      <div class="cta-button">Узнать больше ›</div>
-    </a>
-  </article>
   <!-- SHOES -->
   <article class="container">
     <!-- <a class="no-border" href="/visual-merchandising-dlia-magazinov-obuvi-training.php"> -->
@@ -55,10 +39,26 @@
       <div class="article-stripe">
         <div class="article-dates">
           <span class="month">онлайн</span>
-          <span class="date">1 октября</span>
+          <span class="date">01 октября</span>
         </div>
         <p class="description">Витринистика: создание эффективных витрин. Большой
           эффект без больших расходов</p>
+      </div>
+      <div class="cta-button">Узнать больше ›</div>
+    </a>
+  </article>
+  <!-- VM -->
+  <article class="container">
+    <!-- <a class="no-border" href="/kommercheskii-visual-merchandising-training.php"> -->
+    <a class="no-border" href="https://vmguru-online.ru" target="_blank">
+      <img src="imgs/bkgr_skew_placeholder.jpg" data-src="imgs/bkgr_event2.jpg" class="lazy">
+      <div class="article-stripe">
+        <div class="article-dates">
+          <span class="month">онлайн</span>
+          <span class="date">06 октября</span>
+        </div>
+        <p class="description">Визуальный мерчандайзинг.
+          <br />Техники увеличения продаж офлайн и онлайн</p>
       </div>
       <div class="cta-button">Узнать больше ›</div>
     </a>
