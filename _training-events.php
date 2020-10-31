@@ -1,5 +1,21 @@
 <!-- TRAINING EVENTS -->
 <div class="skewed-items">
+  <!-- WINDOWS -->
+  <article class="container">
+    <!-- <a class="no-border" href="/vitrinistika-texniki-sozdania-kommercheskix-vitrin.php"> -->
+    <a class="no-border" href="https://vmguru-online.ru/vitrinistika" target="_blank">
+      <img src="imgs/bkgr_skew_placeholder.jpg" data-src="imgs/bkgr_event4.jpg" class="lazy">
+      <div class="article-stripe">
+        <div class="article-dates">
+          <span class="month">онлайн</span>
+          <span class="date">23 ноября</span>
+        </div>
+        <p class="description">Витринистика: создание эффективных витрин. Большой
+          эффект без больших расходов</p>
+      </div>
+      <div class="cta-button">Узнать больше ›</div>
+    </a>
+  </article>
   <!-- SHOES -->
   <article class="container">
     <!-- <a class="no-border" href="/visual-merchandising-dlia-magazinov-obuvi-training.php"> -->
@@ -11,22 +27,6 @@
           <span class="date">02 декабря</span>
         </div>
         <p class="description">Визуальный мерчандайзинг для магазинов обуви и аксессуаров</p>
-      </div>
-      <div class="cta-button">Узнать больше ›</div>
-    </a>
-  </article>
-  <!-- WINDOWS -->
-  <article class="container">
-    <!-- <a class="no-border" href="/vitrinistika-texniki-sozdania-kommercheskix-vitrin.php"> -->
-    <a class="no-border" href="https://vmguru-online.ru/vitrinistika" target="_blank">
-      <img src="imgs/bkgr_skew_placeholder.jpg" data-src="imgs/bkgr_event4.jpg" class="lazy">
-      <div class="article-stripe">
-        <div class="article-dates">
-          <span class="month">онлайн</span>
-          <span class="date">23 декабря</span>
-        </div>
-        <p class="description">Витринистика: создание эффективных витрин. Большой
-          эффект без больших расходов</p>
       </div>
       <div class="cta-button">Узнать больше ›</div>
     </a>
