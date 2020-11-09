@@ -26,8 +26,112 @@
   <div class="short_wrapper">
 
     <section class="new-section">
-      <div class="section-title">Наши публикации 2016 - 2019</div>
+      <div class="section-title">Наши публикации</div>
     </section>
+
+    <!-- Second set -->
+    <section class="publication-highlights">
+      <div class="highlights">
+        <div class="grid-container-reversed">
+          <div class="hor div2">
+            <div class="c-img">
+              <img src="imgs/publication_007.jpg" />
+            </div>
+            <div class="c-text">
+              <div class="title"><a class="no-border" href="pdfs/1_VM_Profashion07.20_Balandina.pdf" target="_blank">Инструменты настроения</a></div>
+              <div class="text">
+                <p>Как увеличить продажи в магазинах детской моды – офлайн и онлайн. Ключевые правила развески коллекций, зонирования и оформления магазина детских товаров</p>
+              </div>
+            </div>
+          </div>
+          <div class="hor div3">
+            <div class="c-img">
+              <img src="imgs/publication_008.jpg" />
+            </div>
+            <div class="c-text">
+              <div class="title"><a class="no-border" href="pdfs/2_visual_merchandasing_after_pandemic_Balandina.pdf" target="_blank">Розница после пандемии. Поддержка и взаимодействие</a></div>
+              <div class="text">
+                <p>Что ждет фэшн-ретейл после пандемии? И как брендам поддержать партнерскую розницу.
+                  Осторожные прогнозы и наброски будущих изменений - мнение Анны Баландиной.</p>
+              </div>
+            </div>
+          </div>
+          <div class="hor div4">
+            <div class="c-img">
+              <img src="imgs/publication_006.jpg" />
+            </div>
+            <div class="c-text">
+              <div class="title"><a class="no-border" href="https://fashionunited.ru/novostee/beeznyes/magaziny-odezhdy-i-covid-19-adaptirujsya-ili-umri/2020092829927" target="_blank">Адаптируйся или умри!</a></div>
+              <div class="text">
+                <p>Для развития офлайн-ритейла важно адаптироваться, немного изменить и подкрутить свои технологии, - рассказала Анна Баландина. - Стратегия выживания фэшн ритейла сегодня - "Адаптируйся или умри!", как это сформулировали McKinsey & Co и BoF. Жёстко, но честно".</p>
+              </div>
+            </div>
+          </div>
+          <div class="main">
+            <div class="c-img">
+              <img src="imgs/publication_005.jpg" />
+            </div>
+            <div class="c-text">
+              <div class="title"><a class="no-border" href="pdfs/trend_vitrini_Balandina.pdf" target="_blank">Витринистика после пандемии. Что действительно ценно</a></div>
+              <div class="text"><p>Пандемия глобально ускорила все процессы в fashion-индустрии, но тренды в витринистике созревают не так быстро. Витрины, которые мы увидели в сезоне весна – лето 2020, разрабатывались еще осенью прошлого года. Лишь немногие бренды, в основном такие тренд- сеттеры как Louis Vuitton, универмаг Selfridges и другие, имели возможность и средства отреагировать на «весенний апокалипсис».</p></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- First set -->
+    <section class="publication-highlights">
+      <div class="highlights">
+        <div class="grid-container">
+          <div class="main">
+            <div class="c-img">
+              <img src="imgs/publication_001.jpg" />
+            </div>
+            <div class="c-text">
+              <div class="title"><a class="no-border" href="https://fashionunited.ru/novostee/beeznyes/kak-ne-poteryat-kontrol-nad-biznesom-posle-pandemii/2020051228837" target="_blank">Как не потерять контроль над бизнесом после пандемии. История VM Guru</a></div>
+              <div class="text"><p>Для перестройки бизнеса под новую реальность важны будут: онлайн формат, оптимизация бизнеса, сохранение команды. Один в поле не воин! О том как мы трансформировали бизнес за 14 дней.</p></div>
+            </div>
+          </div>
+          <div class="hor div2">
+            <div class="c-img">
+              <img src="imgs/publication_002.jpg" />
+            </div>
+            <div class="c-text">
+              <div class="title"><a class="no-border" href="pdfs/shoes-magazines-macro-trends.pdf" target="_blank">Матрица: перезагрузка</a></div>
+              <div class="text">
+                <p>О главных трендах fashion рынка в 2020:
+                  Взрывной рост e-commerce. Расцвет маркетплейсов.
+                  Этичность бизнеса. Рост популярности форматов низких цен.</p>
+              </div>
+            </div>
+          </div>
+          <div class="hor div3">
+            <div class="c-img">
+              <img src="imgs/publication_003.jpg" />
+            </div>
+            <div class="c-text">
+              <div class="title"><a class="no-border" href="https://new-retail.ru/persony/serye_myshki_ne_rabotayut_anna_balandina_ob_imidzhe_trts_i_o_printsipakh_vizualnogo_merchendayzinga9158/" target="_blank">Серые мышки больше не работают</a></div>
+              <div class="text">
+                <p>Анна Баландина, эксперт практик по визуальному мерчандайзингу и дизайну магазинов о том, почему  важно внедрять в розничную торговлю новые технологии визуального мерчандайзина и нейромаркетинга, и как лучше обучать магазины-арендаторов ТРЦ.</p>
+              </div>
+            </div>
+          </div>
+          <div class="hor div4">
+            <div class="c-img">
+              <img src="imgs/publication_004.jpg" />
+            </div>
+            <div class="c-text">
+              <div class="title"><a class="no-border" href="pdfs/Millenials-shopping-trends_Anna-Balandina_ShoesReport.pdf " target="_blank">Покупатели миллениалы. Как перестраиваться брендам</a></div>
+              <div class="text">
+                <p>Магазинам придется меняться, и лидировать будут те проекты, которые смогут предоставить покупателям больше, чем просто товары. Людям нужны ощущения, эмоции, вовлеченность и забота. Именно визуальный мерчандайзинг и эмоциональный торговый концепт – мостики брендов к сердцам покупателей.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
     <section class="publications-section1">
 
       <!-- Vitrina block -->

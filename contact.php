@@ -37,7 +37,7 @@
                 <a href="https://yandex.ru/maps/213/moscow/?ll=37.624921%2C55.768329&z=15&mode=search&text=107045%2C%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%2C%20%D1%83%D0%BB.%20%D0%A2%D1%80%D1%83%D0%B1%D0%BD%D0%B0%D1%8F%2C%2012%2C%20%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81-%D1%86%D0%B5%D0%BD%D1%82%D1%80%20%C2%AB%D0%9C%D0%B8%D0%BB%D0%BB%D0%B5%D0%BD%D0%B8%D1%83%D0%BC%20%D0%A5%D0%B0%D1%83%D1%81%C2%BB&sll=2.105786%2C41.554230&sspn=0.176125%2C0.079945&ol=biz&oid=1216952015" target="_blank">открыть на яндекс.картах</a><br/>
                 <a href="https://www.google.com/maps/place/Millenium+House/@55.7684094,37.6227414,17z/data=!3m1!4b1!4m5!3m4!1s0x46b54a69aaeec2c7:0x36a06136f810f71d!8m2!3d55.7684094!4d37.6249301?hl=ru" target="_blank">открыть на google maps</a><br/>
                 <br/>
-                +7 495 741-17-84<br/>
+                +7 925 827 1215<br/>
                 <a href="mailto:hello@vmguru.ru">hello@vmguru.ru</a>
                 </p>
             </div>

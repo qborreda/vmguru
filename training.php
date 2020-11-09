@@ -24,7 +24,7 @@
 
     <div class="short_wrapper">
 
-        <section class="new-section">
+        <!-- <section class="new-section">
           <div class="section-title">Обучение</div>
           <div class="section-intro-text">
               <p>Мы обучаем специалистов компаний
@@ -32,8 +32,8 @@
           </div>
         </section>
         <section class="trainings-section1">
-            <!-- <div class="trainings-section1-title">Мы обучаем специалистов компаний
-            <br/>по следующим направлениям:</div> -->
+            <div class="trainings-section1-title">Мы обучаем специалистов компаний
+            <br/>по следующим направлениям:</div>
             <div class="trainings-section1-lists">
                 <ul class="left">
                     <li><img src="imgs/ico-hex-nav.png" alt=""> ВМ для магазинов одежды</li>
@@ -44,20 +44,22 @@
                     <li><img src="imgs/ico-hex-nav.png" alt=""> Коммерческая витринистика</li>
                 </ul>
             </div>
-            <!-- <div style="text-align:center;">
+            <div style="text-align:center;">
               <img src="imgs/ico-detail-eye.png" width="auto" height="80" alt="The eye"/>
               <p>ВМ обучение проходит в двух форматах</p>
-            </div> -->
+            </div>
 
             <div class="crossed-box">
                 ВМ обучение проходит в двух форматах
             </div>
-        </section>
+        </section> -->
 
         <section class="new-section">
-          <div class="section-title">Групповые тренинги</div>
+          <div class="section-title">Групповые онлайн тренинги</div>
           <div class="section-intro-text">
-              <p>Oбучение в формате интерактивного тренинга-практикума в группе до 14 человек по утвержденной программе в нашем офисе и на нашей торговой площадке.</p>
+            <p>Визуальный мерчандайзинг – мощный низкобюджетный инструмент повышения продаж.
+              <br/>Научим эффективно использовать этот ресурс!</p>
+            <p>Обучайтесь онлайн в формате «живого» тренинга с экспертом</p>
           </div>
         </section>
         <section class="trainings-section2">

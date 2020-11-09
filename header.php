@@ -15,7 +15,7 @@
       </a>
     </div>
     <div class="secondary">
-        <div class="phone-number">+7 495 741-17-84</div>
+        <div class="phone-number">+7 925 827 1215</div>
         <div class="social-links">
             <a class="no-border" href="https://www.instagram.com/vm_guru/" target="_blank">
                 <img src="/imgs/ico-instagram.svg" width="30"/>
