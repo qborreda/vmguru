@@ -35,6 +35,18 @@
         <div class="grid-container-reversed">
           <div class="hor div2">
             <div class="c-img">
+              <img src="imgs/publication_009.jpg" />
+            </div>
+            <div class="c-text">
+              <div class="title"><a class="no-border" href="pdfs/brands&trends_balandina_profashion.pdf" target="_blank">Что нужно бренду для рывка?</a></div>
+              <div class="text">
+                <p>Очевидно, что за это год офлайн рынок почистился, ушли и еще уйдут часть слабых игроков и это отличное время для рывка.  Как действовать?</p>
+                <p>Шаг один - проанализировать свои продажи и ассортиментную структуру на предмет соответствия запросам ваших целевых потребителей и предложениям ваших конкурентов…</p>
+              </div>
+            </div>
+          </div>
+          <!-- <div class="hor div2">
+            <div class="c-img">
               <img src="imgs/publication_007.jpg" />
             </div>
             <div class="c-text">
@@ -43,7 +55,7 @@
                 <p>Как увеличить продажи в магазинах детской моды – офлайн и онлайн. Ключевые правила развески коллекций, зонирования и оформления магазина детских товаров</p>
               </div>
             </div>
-          </div>
+          </div> -->
           <div class="hor div3">
             <div class="c-img">
               <img src="imgs/publication_008.jpg" />
