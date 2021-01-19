@@ -79,35 +79,11 @@
   </article>
 
   <article class="seminar-item">
-    <img class="logo lazy" src="/imgs/img-seminar-placeholder.jpg" data-src="/imgs/img-seminar-mosshoes.jpg">
-    <p class="title">Mos Shoes</p>
-    <p class="subtitle">12 марта 2020</p>
-    <p class="speaker">Семинар<br />Анны Баландиной</p>
-    <p class="description">Магазин как центр притяжения покупателей. Как повысить продажи офлайн</p>
-  </article>
-
-  <article class="seminar-item">
-    <img class="logo lazy" src="/imgs/img-seminar-placeholder.jpg" data-src="/imgs/img-seminar-lingerie.jpg">
-    <p class="title">Lingerie Show-Forum</p>
-    <p class="subtitle">22 февраля 2020</p>
-    <p class="speaker">Семинар<br />Анны Баландиной</p>
-    <p class="description">Визуальный мерчандайзинг против онлайн.Как повысить продажи и привлечь в магазин покупателей новых поколений</p>
-  </article>
-
-  <article class="seminar-item">
     <img class="logo lazy" src="/imgs/img-seminar-placeholder.jpg" data-src="/imgs/img-seminar-rush.jpg">
     <p class="title">RUSH. Форум Инновационных Технологий В Моде</p>
     <p class="subtitle">28 ноября 2019</p>
     <p class="speaker">Мастер-класс<br />Анны Баландиной</p>
     <p class="description">Визуальный мерчандайзинг – зона роста офлайн ритейла</p>
-  </article>
-
-  <article class="seminar-item">
-    <img class="logo lazy" src="/imgs/img-seminar-placeholder.jpg" data-src="/imgs/img-seminar-mosshoes.jpg">
-    <p class="title">MOSSHOES</p>
-    <p class="subtitle">14 марта 2019</p>
-    <p class="speaker">Семинар<br />Анны Баландиной</p>
-    <p class="description">Сегодня и завтра визуального мерчандайзинга. Как создать магазин-магнит для покупателей</p>
   </article>
 
   <article class="seminar-item">
@@ -164,30 +140,5 @@
     <p class="subtitle">2 марта 2018</p>
     <p class="speaker">Семинар<br />Анны Баландиной</p>
     <p class="description">Современные ВМ технологии для магазинов обуви и аксессуаров; как поднять продажи в магазине средствами ВМ</p>
-  </article>
-
-  <article class="seminar-item">
-    <img class="logo lazy" src="/imgs/img-seminar-placeholder.jpg" data-src="/imgs/img-seminar-lingerie.jpg">
-    <p class="title">Lingerie Show-Forum</p>
-    <p class="subtitle">22 февраля 2018</p>
-    <p class="speaker">Семинар<br />Анны Баландиной</p>
-    <p class="description">Визуальный мерчандайзинг в сегменте нижнего белья - работа с эмоциями; как продавать товар на уровне подсознания</p>
-  </article>
-
-  <article class="seminar-item">
-    <img class="logo lazy" src="/imgs/img-seminar-placeholder.jpg" data-src="/imgs/img-seminar-omk.jpg">
-    <p class="title">Обувь. Мир кожи-2018. Весна</p>
-    <p class="subtitle">22 февраля 2018</p>
-    <p class="speaker">Семинар<br />Анны Баландиной</p>
-    <p class="description">Современные технологии визуального мерчандайзинга (ВМ) для магазинов обуви и аксессуаров. Как поднять продажи в магазине средствами ВМ?</p>
-  </article>
-
-
-  <article class="seminar-item">
-    <img class="logo lazy" src="/imgs/img-seminar-placeholder.jpg" data-src="/imgs/img-seminar-cpm.jpg">
-    <p class="title">Collection Premiere Moscow</p>
-    <p class="subtitle">6 февраля 2018</p>
-    <p class="speaker">Семинар<br />Анны Баландиной</p>
-    <p class="description">Семь способов увеличения продаж с помощью инструментов визуального мерандайзинга</p>
   </article>
 </div>
