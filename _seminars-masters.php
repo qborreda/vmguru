@@ -10,7 +10,7 @@
   </article>
 
   <article class="seminar-item">
-    <img class="logo lazy" src="/imgs/img-seminar-placeholder.jpg" data-src="/imgs/img-seminar-mosshoes.jpg">
+    <img class="logo lazy" src="/imgs/img-seminar-placeholder.jpg" data-src="/imgs/img-seminar-textilesalon.jpg">
     <p class="title">Textile Salon</p>
     <p class="subtitle">25 февраля 16:30</p>
     <p class="speaker">Семинар<br />Анны Баландиной</p>
