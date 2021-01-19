@@ -4,6 +4,51 @@
   <article class="seminar-item">
     <img class="logo lazy" src="/imgs/img-seminar-placeholder.jpg" data-src="/imgs/img-seminar-mosshoes.jpg">
     <p class="title">Mos Shoes</p>
+    <p class="subtitle">18 марта 15:30</p>
+    <p class="speaker">Семинар<br />Анны Баландиной</p>
+    <p class="description">Как превратить магазин обуви и аксессуаров в бренд и увеличить продажи</p>
+  </article>
+
+  <article class="seminar-item">
+    <img class="logo lazy" src="/imgs/img-seminar-placeholder.jpg" data-src="/imgs/img-seminar-mosshoes.jpg">
+    <p class="title">Textile Salon</p>
+    <p class="subtitle">25 февраля 16:30</p>
+    <p class="speaker">Семинар<br />Анны Баландиной</p>
+    <p class="description">Правила представления fashion–коллекций для лучших продаж</p>
+  </article>
+
+  <article class="seminar-item">
+    <img class="logo lazy" src="/imgs/img-seminar-placeholder.jpg" data-src="/imgs/img-seminar-cjf.jpg">
+    <p class="title">CJF – Детская Мода</p>
+    <p class="subtitle">23 февраля 14.30</p>
+    <p class="speaker">Семинар<br />Анны Баландиной</p>
+    <p class="description">Как увеличить офлайн продажи и лояльность покупателей детских товаров в новых условиях рынка</p>
+  </article>
+
+  <article class="seminar-item">
+    <img class="logo lazy" src="/imgs/img-seminar-placeholder.jpg" data-src="/imgs/img-seminar-lingerie.jpg">
+    <p class="title">Lingerie Show-Forum</p>
+    <p class="subtitle">22 февраля 14:00</p>
+    <p class="speaker">Семинар<br />Анны Баландиной</p>
+    <p class="description">Как превратить магазин белья в бренд и увеличить продажи на 20%+</p>
+  </article>
+
+</div>
+
+<div class="expand-trigger js-trigger-toggle"  data-target=".expanded-seminars">
+  <span>Больше событий
+    <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30px" viewBox="0 0 111 32" enable-background="new 0 0 111 32" xml:space="preserve">
+       <polyline fill="none" stroke-width="3" stroke-miterlimit="10" points="0.729,1.342 52.597,30.157 110.229,1.342"/>
+    </svg>
+  </span>
+</div>
+
+<!-- EXPANDED -->
+<div class="expanded-seminars js-toggle-content">
+
+  <article class="seminar-item">
+    <img class="logo lazy" src="/imgs/img-seminar-placeholder.jpg" data-src="/imgs/img-seminar-mosshoes.jpg">
+    <p class="title">Mos Shoes</p>
     <p class="subtitle">9 сентября 13:00</p>
     <p class="speaker">Семинар<br />Анны Баландиной</p>
     <p class="description">ВМ онлайн и офлайн: как увеличить продажи и лояльность покупателей в новых условиях рынка</p>
@@ -33,22 +78,9 @@
     <p class="description">Новая реальность офлайн розницы. Как привлечь и продать</p>
   </article>
 
-</div>
-
-<div class="expand-trigger js-trigger-toggle"  data-target=".expanded-seminars">
-  <span>Больше событий
-    <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30px" viewBox="0 0 111 32" enable-background="new 0 0 111 32" xml:space="preserve">
-       <polyline fill="none" stroke-width="3" stroke-miterlimit="10" points="0.729,1.342 52.597,30.157 110.229,1.342"/>
-    </svg>
-  </span>
-</div>
-
-<!-- EXPANDED -->
-<div class="expanded-seminars js-toggle-content">
-
   <article class="seminar-item">
     <img class="logo lazy" src="/imgs/img-seminar-placeholder.jpg" data-src="/imgs/img-seminar-mosshoes.jpg">
-    <p class="title">MOSSHOES</p>
+    <p class="title">Mos Shoes</p>
     <p class="subtitle">12 марта 2020</p>
     <p class="speaker">Семинар<br />Анны Баландиной</p>
     <p class="description">Магазин как центр притяжения покупателей. Как повысить продажи офлайн</p>
