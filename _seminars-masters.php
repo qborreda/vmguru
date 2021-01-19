@@ -49,7 +49,7 @@
   <article class="seminar-item">
     <img class="logo lazy" src="/imgs/img-seminar-placeholder.jpg" data-src="/imgs/img-seminar-mosshoes.jpg">
     <p class="title">Mos Shoes</p>
-    <p class="subtitle">9 сентября 13:00</p>
+    <p class="subtitle">9 сентября 2020</p>
     <p class="speaker">Семинар<br />Анны Баландиной</p>
     <p class="description">ВМ онлайн и офлайн: как увеличить продажи и лояльность покупателей в новых условиях рынка</p>
   </article>
@@ -57,7 +57,7 @@
   <article class="seminar-item">
     <img class="logo lazy" src="/imgs/img-seminar-placeholder.jpg" data-src="/imgs/img-seminar-lingerie.jpg">
     <p class="title">Lingerie Show-Forum</p>
-    <p class="subtitle">28 августа 11:00</p>
+    <p class="subtitle">28 августа 2020</p>
     <p class="speaker">Семинар<br />Анны Баландиной</p>
     <p class="description">Магазины нижнего белья после пандемии. Техники повышения продаж и новые стандарты нормы</p>
   </article>
@@ -65,7 +65,7 @@
   <article class="seminar-item">
     <img class="logo lazy" src="/imgs/img-seminar-placeholder.jpg" data-src="/imgs/img-seminar-cjf.jpg">
     <p class="title">CJF – Детская Мода</p>
-    <p class="subtitle">25 февраля 13:00</p>
+    <p class="subtitle">25 февраля 2020</p>
     <p class="speaker">Семинар<br />Анны Баландиной</p>
     <p class="description">Новые вызовы офлайн розницы. Технологии ВМ для увеличения продаж в детском магазине</p>
   </article>
@@ -73,7 +73,7 @@
   <article class="seminar-item">
     <img class="logo lazy" src="/imgs/img-seminar-placeholder.jpg" data-src="/imgs/img-seminar-euroshoes.jpg">
     <p class="title">Euro Shoes Collection Premier</p>
-    <p class="subtitle">27 февраля 13:00</p>
+    <p class="subtitle">27 февраля 2020</p>
     <p class="speaker">Семинар<br />Анны Баландиной</p>
     <p class="description">Новая реальность офлайн розницы. Как привлечь и продать</p>
   </article>
