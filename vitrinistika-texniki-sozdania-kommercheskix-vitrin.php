@@ -32,7 +32,7 @@
       <div class="hero_image windows">
         <div class="hero_contents">
           <div class="hero_dates">ОНЛАЙН</div>
-          <div class="hero_dates">февраль 2021</div>
+          <div class="hero_dates">24 - 25 марта</div>
           <div class="hero_title"><strong class="is-cyan">NEW!</strong> Витринистика: создание эффективных витрин.
             Большой эффект без больших расходов</div>
           <p class="hero_description">
