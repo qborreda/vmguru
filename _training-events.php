@@ -7,26 +7,10 @@
       <div class="article-stripe">
         <div class="article-dates">
           <span class="month">онлайн</span>
-          <span class="date">3 марта</span>
+          <span class="date">17 мая</span>
         </div>
         <p class="description">Оформление магазина нижнего белья.<br />
           ВМ техники увеличения продаж</p>
-      </div>
-      <div class="cta-button">Узнать больше ›</div>
-    </a>
-  </article>
-  <!-- VM -->
-  <article class="container">
-    <!-- <a class="no-border" href="/kommercheskii-visual-merchandising-training.php"> -->
-    <a class="no-border" href="https://vmguru-online.ru" target="_blank">
-      <img src="imgs/bkgr_skew_placeholder.jpg" data-src="imgs/bkgr_event2.jpg" class="lazy">
-      <div class="article-stripe">
-        <div class="article-dates">
-          <span class="month">онлайн</span>
-          <span class="date">22 и 26 марта</span>
-        </div>
-        <p class="description">Визуальный мерчандайзинг.
-          <br />Техники увеличения продаж офлайн и онлайн</p>
       </div>
       <div class="cta-button">Узнать больше ›</div>
     </a>
@@ -39,10 +23,26 @@
       <div class="article-stripe">
         <div class="article-dates">
           <span class="month">онлайн</span>
-          <span class="date">24 - 25 марта</span>
+          <span class="date">18 - 19 мая</span>
         </div>
         <p class="description">Витринистика: создание эффективных витрин. Большой
           эффект без больших расходов</p>
+      </div>
+      <div class="cta-button">Узнать больше ›</div>
+    </a>
+  </article>
+  <!-- VM -->
+  <article class="container">
+    <!-- <a class="no-border" href="/kommercheskii-visual-merchandising-training.php"> -->
+    <a class="no-border" href="https://vmguru-online.ru" target="_blank">
+      <img src="imgs/bkgr_skew_placeholder.jpg" data-src="imgs/bkgr_event2.jpg" class="lazy">
+      <div class="article-stripe">
+        <div class="article-dates">
+          <span class="month">онлайн</span>
+          <span class="date">20 - 21 мая</span>
+        </div>
+        <p class="description">Визуальный мерчандайзинг.
+          <br />Техники увеличения продаж офлайн и онлайн</p>
       </div>
       <div class="cta-button">Узнать больше ›</div>
     </a>
@@ -55,7 +55,7 @@
       <div class="article-stripe">
         <div class="article-dates">
           <span class="month">онлайн</span>
-          <span class="date">29 - 30 марта</span>
+          <span class="date">24 - 25 мая</span>
         </div>
         <p class="description">Визуальный мерчандайзинг для магазинов обуви и аксессуаров</p>
       </div>
