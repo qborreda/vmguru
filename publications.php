@@ -26,7 +26,9 @@
   <div class="short_wrapper">
 
     <section class="new-section">
-      <div class="section-title">Наши публикации</div>
+      <div class="section-title">Публикации
+        <div style="font-size: 26px; font-weight: 400;">Анны Баландиной</div>
+      </div>
     </section>
 
     <!-- Third set -->
