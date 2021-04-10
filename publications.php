@@ -29,6 +29,57 @@
       <div class="section-title">Наши публикации</div>
     </section>
 
+    <!-- Third set -->
+    <section class="publication-highlights">
+      <div class="highlights">
+        <div class="grid-container">
+          <div class="main">
+            <div class="c-img">
+              <img src="imgs/publications/publications_009.jpg" />
+            </div>
+            <div class="c-text">
+              <div class="title"><a class="no-border" href="pdfs/PopUp-CDG-Баландина-ShoesReport.pdf" target="_blank">Презентация в стиле POP UP.  Чем привлекателен формат временного яркого магазина</a></div>
+              <div class="text"><p>Pop up store – успешный формат в фешн-ритейле, которому и в среднесрочной перспективе пророчат усиление, расцвет и новые формы.</p></div>
+            </div>
+          </div>
+          <div class="hor div2">
+            <div class="c-img">
+              <img src="imgs/publications/publications_010.jpg" />
+            </div>
+            <div class="c-text">
+              <div class="title"><a class="no-border" href="pdfs/VMKIDS_Profashion07.20Баландина.pdf" target="_blank">Инструменты настроения</a></div>
+              <div class="text">
+                <p>О том как увеличить продажи в магазинах детской моды с помощью визуального мерчандайзинга офлайн и онлайн. Семь главных правил.
+                  <br/>Максимальная комплектность – ключевое правило детской презентации. Показывайте товар комплектами. Делайте пристенные презентации с фронтальной развеской, где все полукомплекты, представленные на фронтах, сочетаются между собой. Почему это правило всегда работает? </p>
+              </div>
+            </div>
+          </div>
+          <div class="hor div3">
+            <div class="c-img">
+              <img src="imgs/publications/publications_011.jpg" />
+            </div>
+            <div class="c-text">
+              <div class="title"><a class="no-border" href="https://new-retail.ru/business/novogodnie_vitriny_mira_globalnye_brendy_krasivo_provozhayut_2020_god_i_napolnyayut_dizayn_novymi_sm4947/" target="_blank">Новогодние витрины мира. Новые смыслы в витринистике 2021 года</a></div>
+              <div class="text">
+                <p>Новогодняя витринистика – особый жанр, нужно не просто привлечь покупателя, но и передать ощущение сказки и чуда. Мировые бренды и ритейлеры с особым чувством провожают 2020 год, и кроме идей фантастических приключений и роскоши, вкладывают в свои великолепные дизайны особый смысл…</p>
+              </div>
+            </div>
+          </div>
+          <div class="hor div4">
+            <div class="c-img">
+              <img src="imgs/publications/publications_012.jpg" />
+            </div>
+            <div class="c-text">
+              <div class="title"><a class="no-border" href="pdfs/visual_merchandising_accessories_stores_Balandina.pdf" target="_blank">Cемейные связи. Как презентовать аксессуарные коллекции</a></div>
+              <div class="text">
+                <p>В российских магазинах сумок и кожгалантереи часто можно встретить совсем не впечатляющую презентацию, когда аксессуары стоят сплошными длинными рядами, а в специализированных магазинах обуви сумки могут быть расположены на верхних, либо нижних полках – опять же плотными рядами, когда невозможно рассмотреть ни модель, ни детали (справедливости ради надо сказать, что такие примеры встречаются даже в Париже и Милане).</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
     <!-- Second set -->
     <section class="publication-highlights">
       <div class="highlights">
