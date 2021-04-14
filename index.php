@@ -74,11 +74,11 @@
         <?php include "_consulting-elements.php"; ?>
       </section>
 
-      <!-- SEMINARS -->
+      <!-- SEMINARS -/->
       <section class="new-section">
         <div class="section-title">Семинары и мастер-классы</div>
-        <?php include "_seminars-masters.php"; ?>
-      </section>
+        <?php /** include "_seminars-masters.php"; */ ?>
+      </section> -->
 
       <!-- MARKETING -->
       <section class="new-section">
