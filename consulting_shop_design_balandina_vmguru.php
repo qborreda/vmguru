@@ -28,10 +28,12 @@
   <div class="short_wrapper">
 
     <section class="new-section">
-      <div class="section-title">Дизайн магазинов. бренд под ключ</div>
-      <div class="section-intro-text">Разработка дизайн-проект магазина.
-        <br />Техническое сопровождение</div>
+      <div class="section-title">Дизайн-проектирование;
+        <br />Бренд «под ключ»</div>
+      <div class="section-intro-text">Брендинг-проекты; навигация и комплект POS материалов.
+        <br />Разработка торговой концепций; Дизайн-проекты</div>
     </section>
+
     <section class="new-section">
       <div class="consulting-bullet">
         <div class="consulting-bullet-picture">
@@ -71,8 +73,43 @@
           </div>
         </div>
       </div>
-      <div class="section-intro-text" style="margin:20px auto;">Брендинг-проект.
-        <br />Создание бренд бука Комплект POS материалов Sale – Новая Коллекция</div>
+    </section>
+
+    <section class="new-section">
+      <div class="section-intro-text" style="margin:20px auto;">Брендинг-проекты.
+        <br />Создание Бренд бука. Комплект POS материалов Sale.</div>
+    </section>
+
+    <section class="new-section">
+      <div class="consulting-bullet" style="margin-top: 0;">
+        <div class="consulting-bullet-info" style="margin-top: 0;">
+          <div class="text">
+            <p>Наполнение проекта зависит от Технического Задания. Обычно включает:</p>
+            <p class="highlighted">Бренд гайд-бук</p>
+            <ul>
+              <li>Логотип / основная и доп. версии8 стилеобразующий элемент /</li>
+              <li>Набор фирменных цветов по CMYK c параметрами использования</li>
+              <li>Визитка магазина; скидочная карта</li>
+              <li>Упаковочные пакеты / два вида</li>
+              <li>Товарные бирки / два вида</li>
+              <li>Рекомендации по форме продавцов</li>
+              <li>Пакет POS материалов Sale / баннер на витрину; афишетки в зал -30%; -50%; -70%; афишетка «Новая коллекция» /</li>
+            </ul>
+          </div>
+          <div class="text" style="margin-top: 30px;">
+            <a class="hex-project-link no-border" href="/projects/project-promenade.php">
+              <div class="project-link">
+                показать проект ›
+              </div>
+            </a>
+            <a class="hex-project-link no-border" href="/projects/project-oscar.php">
+              <div class="project-link alternative">
+                показать проект ›
+              </div>
+            </a>
+          </div>
+        </div>
+      </div>
     </section>
 
     <!-- FORM SECTION -->
