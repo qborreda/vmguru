@@ -83,6 +83,16 @@
           <div class="section-title">Главные роли</div>
         </section>
         <section class="about-section3">
+
+            <div class="person">
+                <img src="imgs/about-picture-inna.jpg" alt="Светлана Васильева">
+                <div class="person-text-layout">
+                    <h4 class="person-name">ИННА ХИЛТУНЕН</h4>
+                    <span class="person-position bkgr-hi">Руководитель Тренинг-центра</span><br/>
+                    <a class="person-email" href="mailto:Inna.hiltunen@vmguru.ru">Inna.hiltunen@vmguru.ru</a>
+                </div>
+            </div>
+
             <div class="person">
                 <img src="imgs/about-picture-irinaa.jpg" alt="Ирина акимова">
                 <div class="person-text-layout">
@@ -91,24 +101,7 @@
                     <a class="person-email" href="mailto:irina.akimova@vmguru.ru">irina.akimova@vmguru.ru</a>
                 </div>
             </div>
-            <div class="person">
-                <img src="imgs/about-picture-paulinak.jpg" alt="Полина Кулюхина">
-                <div class="person-text-layout">
-                    <h4 class="person-name">ПОЛИНА КУЛЮХИНА</h4>
-                    <span class="person-position bkgr-hi">Глава представительств
-                    <br/>Испания, Барселона,
-                    <br/>Турция, Стамбул</span><br/>
-                    <a class="person-email" href="mailto:paulina.kulyukhina@vmguru.ru">paulina.kulyukhina@vmguru.ru</a>
-                </div>
-            </div>
-            <div class="person">
-                <img src="imgs/about-picture-nataliak.jpg" alt="Наталья Кириллова">
-                <div class="person-text-layout">
-                    <h4 class="person-name">НАТАЛЬЯ КИРИЛЛОВА</h4>
-                    <span class="person-position bkgr-hi">Руководитель ВМ команды</span><br/>
-                    <a class="person-email" href="mailto:natalia.kirillova@vmguru.ru">natalia.kirillova@vmguru.ru</a>
-                </div>
-            </div>
+
             <div class="person">
                 <img src="imgs/about-picture-svetlanav.jpg" alt="Светлана Васильева">
                 <div class="person-text-layout">
@@ -117,6 +110,43 @@
                     <a class="person-email" href="mailto:svetlana.vasilieva@vmguru.ru">svetlana.vasilieva@vmguru.ru</a>
                 </div>
             </div>
+
+            <div class="person">
+                <img src="imgs/about-picture-aleksander.jpg" alt="Ирина акимова">
+                <div class="person-text-layout">
+                    <h4 class="person-name">АЛЕКСАНДР ГОЛОВЕНКО</h4>
+                    <span class="person-position bkgr-hi">Партнер по брендинг-проектам</span><br/>
+                    <a class="person-email" href="mailto:hello@vmguru.ru">hello@vmguru.ru</a>
+                </div>
+            </div>
+
+            <div class="person">
+                <img src="imgs/about-picture-nataliak.jpg" alt="Наталья Кириллова">
+                <div class="person-text-layout">
+                    <h4 class="person-name">НАТАЛЬЯ КИРИЛЛОВА</h4>
+                    <span class="person-position bkgr-hi">Руководитель ВМ команды</span><br/>
+                    <a class="person-email" href="mailto:natalia.kirillova@vmguru.ru">natalia.kirillova@vmguru.ru</a>
+                </div>
+            </div>
+
+            <div class="person">
+                <img src="imgs/about-picture-elizaveta.jpg" alt="Светлана Васильева">
+                <div class="person-text-layout">
+                    <h4 class="person-name">ЕЛИЗАВЕТА ТИХОНОВА</h4>
+                    <span class="person-position bkgr-hi">Менеджер проектов</span><br/>
+                    <a class="person-email" href="mailto:hello@vmguru.ru">hello@vmguru.ru</a>
+                </div>
+            </div>
+            <!-- <div class="person">
+                <img src="imgs/about-picture-paulinak.jpg" alt="Полина Кулюхина">
+                <div class="person-text-layout">
+                    <h4 class="person-name">ПОЛИНА КУЛЮХИНА</h4>
+                    <span class="person-position bkgr-hi">Глава представительств
+                    <br/>Испания, Барселона,
+                    <br/>Турция, Стамбул</span><br/>
+                    <a class="person-email" href="mailto:paulina.kulyukhina@vmguru.ru">paulina.kulyukhina@vmguru.ru</a>
+                </div>
+            </div> -->
         </section>
 
         <!-- CLIENTS -->
