@@ -30,3 +30,20 @@
     }
   }
 }
+
+.cta-button {
+  display: inline-block;
+  padding: 3px 10px;
+  border: 1px solid $DETAIL-ORANGE;
+  border-radius: 20px;
+  background-color: $WHITE;
+  font-size: 14px;
+  font-weight: 300;
+  text-decoration: none;
+  cursor: pointer;
+
+  &:hover {
+    background-color: $DETAIL-ORANGE;
+    color: $WHITE;
+  }
+}

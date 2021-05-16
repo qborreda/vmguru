@@ -57,18 +57,5 @@
   }
 
   .cta-button {
-    display: inline-block;
     padding: 8px 10px;
-    border: 1px solid $DETAIL-ORANGE;
-    border-radius: 20px;
-    font-size: 14px;
-    font-weight: 300;
-    text-decoration: none;
-    cursor: pointer;
-
-    &:hover {
-      background-color: $DETAIL-ORANGE;
-      color: $WHITE;
-    }
-  }
 }
