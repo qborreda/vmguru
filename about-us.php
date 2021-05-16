@@ -50,17 +50,13 @@
                   <p class="footer-title">Основатель, VM Guru</p>
                 </div>
 
+                <div class="project-link js-trigger-toggle" data-target=".expanded-info" style="margin-top: 20px;">
+                  Узнать от Анне ›
+                </div>
+
               </div>
           </div>
         </section>
-
-        <div class="expand-trigger js-trigger-toggle"  data-target=".expanded-info" style="margin-bottom: 50px;">
-          <span>Больше событий
-            <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30px" viewBox="0 0 111 32" enable-background="new 0 0 111 32" xml:space="preserve">
-               <polyline fill="none" stroke-width="3" stroke-miterlimit="10" points="0.729,1.342 52.597,30.157 110.229,1.342"/>
-            </svg>
-          </span>
-        </div>
 
         <section class="new-section about-section expanded-info js-toggle-content">
             <div class="half">
