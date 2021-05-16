@@ -54,7 +54,15 @@
           </div>
         </section>
 
-        <section class="new-section about-section">
+        <div class="expand-trigger js-trigger-toggle"  data-target=".expanded-info" style="margin-bottom: 50px;">
+          <span>Больше событий
+            <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30px" viewBox="0 0 111 32" enable-background="new 0 0 111 32" xml:space="preserve">
+               <polyline fill="none" stroke-width="3" stroke-miterlimit="10" points="0.729,1.342 52.597,30.157 110.229,1.342"/>
+            </svg>
+          </span>
+        </div>
+
+        <section class="new-section about-section expanded-info js-toggle-content">
             <div class="half">
               <ul class="cv-items">
                 <li><strong class="orange">Ведущий эксперт-практик</strong> российского фэшн рынка по визуальному мерчандайзингу и дизайну магазинов фэшн сегмента</li>
@@ -63,7 +71,8 @@
                 <li><strong class="orange">12</strong> оригинальных  ВМ тренинг-программ</li>
                 <li><strong class="orange">100+</strong> индивидуальных ВМ тренинг-программ под запрос клиента комплексной тренинг-программы для арендаторов торговых центров </li>
                 <li><strong class="orange">Соавтор и куратор</strong> курса /по декабрь2016/«Визуальный мерчандайзинг в индустрии моды», НИУ ВШЭ</li>
-                <li><strong class="orange">Постоянный спикер</strong> крупных отраслевых мероприятий, конференций и форумов. Автор статей и публикаций в деловой и отраслевой прессе</li>
+                <li><strong class="orange">Постоянный спикер</strong> конференций и саммитов, посвященных развитию производства и ритейла в индустрии моды: Russian Fashion Retail Forum (CPM); Fashion Forum Russia (Adam Smith), Fashion Retail (B2BCG); Международный Форум Моды в Санкт-Петербурге (Минпромторг); Форум информационных технологий в моде (RUSH); Конференция. Маркетинг Торговых Центров; Lingerie Show Forum; международные выставки Central Asia Fashion (CAF); СJF Детская- Мода; Mosshoes, ЕuroShoes Сollection Premier; HeimTextil; Тeхtile Salon</li>
+                <li><strong class="orange">Автор статей и публикаций</strong> в деловой и отраслевой прессе</li>
               </ul>
             </div>
             <div class="half">
@@ -76,6 +85,19 @@
               <br />
               <p class="description"><strong>2006 – 2011 гг.</strong> - Имидж-директор российского представительства брендов Мехх, Calvin Klein Jeans, CK, CK Underwear, Pinko; руководитель Деп. ВМ МЕХХ, Россия (BNS Group)</p>
               <p class="description"><strong>2012 – 2016 гг.</strong> - Совладелец и директор ВМ агентства FCG Creative Lab, совместно с компанией Fаshion Сonsulting Group</p>
+              <br />
+              <p class="description"><strong>Компетенции</strong>
+                  <ul class="cv-items" style="margin-left: 20px;">
+                      <li>Аудит и оптимизация стандартов визуального вмерчандайзинга (ВМ) бренда</li>
+                      <li>Создание ВМ стандартов; Разработка Мерч-бук</li>
+                      <li>Внедрение ВМ стандартов в сетевые бренды (опыт работы с сетями + 100; + 200; +500 магазинов)</li>
+                      <li>Ремерчандайзинг магазинов с обучением сотрудников</li>
+                      <li>Ведение комплексных проектов по ВМ, брендингу и дизайн-проектированию</li>
+                      <li>Разработка брендов «под ключ»</li>
+                      <li>Аудит и курирование разработки торговых концепций и дизайн-проектов</li>
+                      <li>Ведение проектов по витринистике: разработка концепций; курирование производства; оформление пилотных витрин</li>
+                  </ul>
+              </p>
             </div>
         </section>
 
