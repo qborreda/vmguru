@@ -7,7 +7,7 @@
       <div class="article-stripe">
         <div class="article-dates">
           <span class="month">онлайн</span>
-          <span class="date">17 мая</span>
+          <span class="date">Август 2021</span>
         </div>
         <p class="description">Оформление магазина нижнего белья.<br />
           ВМ техники увеличения продаж</p>
@@ -23,7 +23,7 @@
       <div class="article-stripe">
         <div class="article-dates">
           <span class="month">онлайн</span>
-          <span class="date">18 - 19 мая</span>
+          <span class="date">Август 2021</span>
         </div>
         <p class="description">Витринистика: создание эффективных витрин. Большой
           эффект без больших расходов</p>
@@ -39,7 +39,7 @@
       <div class="article-stripe">
         <div class="article-dates">
           <span class="month">онлайн</span>
-          <span class="date">20 - 21 мая</span>
+          <span class="date">Август 2021</span>
         </div>
         <p class="description">Визуальный мерчандайзинг.
           <br />Техники увеличения продаж офлайн и онлайн</p>
@@ -55,7 +55,7 @@
       <div class="article-stripe">
         <div class="article-dates">
           <span class="month">онлайн</span>
-          <span class="date">24 - 25 мая</span>
+          <span class="date">Август 2021</span>
         </div>
         <p class="description">Визуальный мерчандайзинг для магазинов обуви и аксессуаров</p>
       </div>

@@ -32,7 +32,7 @@
       <div class="hero_image shoes">
         <div class="hero_contents">
           <div class="hero_dates">ОНЛАЙН</div>
-          <div class="hero_dates">24 - 25 мая</div>
+          <div class="hero_dates">Август 2021</div>
           <div class="hero_title">Визуальный мерчандайзинг для магазинов обуви и аксессуаров</div>
           <p class="hero_description">
             Узнаете правила ВМ для магазинов обуви и аксессуаров
