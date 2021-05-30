@@ -52,7 +52,7 @@
           </div>
       </section>
 
-      <!-- TRAININGS -/->
+      <!-- TRAININGS -->
       <section class="new-section">
           <div class="section-title">Oнлайн тренинги</div>
           <div class="section-intro-text">
@@ -60,8 +60,8 @@
               <br/>Научим эффективно использовать этот ресурс!</p>
             <p>Обучайтесь онлайн в формате «живого» тренинга с экспертом</p>
           </div>
-          <?php /** include "_training-events.php"; */ ?>
-      </section> -->
+          <?php include "_training-events.php"; ?>
+      </section>
 
       <!-- CONSULTING -->
       <section class="new-section">
