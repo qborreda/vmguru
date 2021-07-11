@@ -6,8 +6,8 @@
       <img src="imgs/bkgr_skew_placeholder.jpg" data-src="imgs/bkgr_event5.jpg" class="lazy">
       <div class="article-stripe">
         <div class="article-dates">
-          <span class="month">онлайн</span>
-          <span class="date">07 сентября</span>
+          <span class="month">сентября</span>
+          <span class="date">07</span>
         </div>
         <p class="description">Оформление магазина нижнего белья.<br />
           ВМ техники увеличения продаж</p>
@@ -22,8 +22,8 @@
       <img src="imgs/bkgr_skew_placeholder.jpg" data-src="imgs/bkgr_event3.jpg" class="lazy">
       <div class="article-stripe">
         <div class="article-dates">
-          <span class="month">онлайн</span>
-          <span class="date">09 - 10 сентября</span>
+          <span class="month">сентября</span>
+          <span class="date">09 - 10</span>
         </div>
         <p class="description">Визуальный мерчандайзинг для магазинов обуви и аксессуаров</p>
       </div>
@@ -37,8 +37,8 @@
       <img src="imgs/bkgr_skew_placeholder.jpg" data-src="imgs/bkgr_event2.jpg" class="lazy">
       <div class="article-stripe">
         <div class="article-dates">
-          <span class="month">онлайн</span>
-          <span class="date">28 сент. и 04 октября</span>
+          <span class="month">сентября - октября</span>
+          <span class="date">28 - 04</span>
         </div>
         <p class="description">Визуальный мерчандайзинг.
           <br />Техники увеличения продаж офлайн и онлайн</p>
@@ -53,8 +53,8 @@
       <img src="imgs/bkgr_skew_placeholder.jpg" data-src="imgs/bkgr_event4.jpg" class="lazy">
       <div class="article-stripe">
         <div class="article-dates">
-          <span class="month">онлайн</span>
-          <span class="date">01 и 05 октября</span>
+          <span class="month">октября</span>
+          <span class="date">01 и 05</span>
         </div>
         <p class="description">Витринистика: создание эффективных витрин. Большой
           эффект без больших расходов</p>
