@@ -37,11 +37,12 @@
       <img src="imgs/bkgr_skew_placeholder.jpg" data-src="imgs/bkgr_event2.jpg" class="lazy">
       <div class="article-stripe">
         <div class="article-dates">
-          <span class="month">сентября - октября</span>
-          <span class="date">28 - 04</span>
+          <span class="month">28 - сентября</span>
+          <span class="date">04 - октября</span>
+          <!-- <span class="date">28 - 04</span> -->
         </div>
         <p class="description">Визуальный мерчандайзинг.
-          <br />Техники увеличения продаж офлайн и онлайн</p>
+          <br />Прикладные техники от А до Я</p>
       </div>
       <div class="cta-button">Узнать больше ›</div>
     </a>
