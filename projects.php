@@ -34,6 +34,16 @@
             <br/>под руководством и при участии А. Баландиной</div>
 
             <ul class="hex-grid clr">
+                <li class="hex-item" data-link="/projects/project-home-collection.php">
+                  <div>
+                      <img class="hex-content" src="/imgs/bkgr_hex_project_homecollection.jpg" alt="Домашняя коллекция" />
+                      <!-- <div class="hex-title">Dario Beltran</div> -->
+                      <p class="hex-description white-text is-little-text">
+                        <br/>ДИЗАЙН-ПРОЕКТ
+                        <br/>РЕБРЕНДИНГ
+                      </p>
+                  </div>
+                </li>
                 <li class="hex-item" data-link="/projects/project-dariobeltran.php">
                   <div>
                       <img class="hex-content" src="/imgs/bkgr_hex_project34.jpg" alt="Dario Beltran" />
