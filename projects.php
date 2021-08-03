@@ -40,7 +40,7 @@
                       <!-- <div class="hex-title">Home Collection</div> -->
                       <p class="hex-description white-text is-little-text">
                         ДИЗАЙН-ПРОЕКТ
-                        <br/>РЕБРЕНДИНГ
+                        <br/>РЕБРЕНДИНГ СЕТИ
                       </p>
                   </div>
                 </li>
@@ -59,7 +59,7 @@
                       <!-- <div class="hex-title">Dario Beltran</div> -->
                       <p class="hex-description is-little-text">
                         <br/>КОРПОРАТИВНОЕ ОБУЧЕНИЕ
-                        <br/>ПАРТНЕРСКОЙ СЕТИ МАГАЗИНОВ
+                        <br/>ПАРТНЕРСКОЙ СЕТИ
                       </p>
                   </div>
                 </li>
@@ -68,8 +68,8 @@
                         <img class="hex-content" src="/imgs/bkgr_hex_project27.jpg" alt="Oscar" />
                         <!-- <div class="hex-title">Oscar 1</div> -->
                         <p class="hex-description white-text is-little-text">
-                            ДИЗАЙН-ПРОЕКТ МАГАЗИНА;
-                            <br />РАЗРАБОТКА ОБОРУДОВАНИЯ
+                            ТОРГОВАЯ КОНЦЕПЦИЯ
+                            <br />ДИЗАЙН-ПРОЕКТ
                         </p>
                     </div>
                 </li>
@@ -78,7 +78,8 @@
                         <img class="hex-content" src="/imgs/bkgr_hex_project28.jpg" alt="Oscar" />
                         <!-- <div class="hex-title">Oscar 2</div> -->
                         <p class="hex-description white-text is-little-text">
-                            СЕЗОННЫЙ РЕМЕРЧАНДАЙЗИНГ И ОБУЧЕНИЕ
+                            МЕРЧАНДАЙЗИНГ НА ОТКРЫТИЕ
+                            <br />ВМ ОБУЧЕНИЕ
                         </p>
                     </div>
                 </li>
@@ -86,14 +87,14 @@
                     <div>
                         <img class="hex-content" src="/imgs/bkgr_hex_project1.jpg" alt="Incanto" />
                         <!-- <div class="hex-title">Incanto 1</div> -->
-                        <p class="hex-description is-little-text">мерчандайзинг бук для концепта vanilla sky</p>
+                        <p class="hex-description is-little-text">РАЗРАБОТКА ВМ СТАНДАРТОВ МЕРЧ БУК</p>
                     </div>
                 </li>
                 <li class="hex-item" data-link="/projects/project-incanto.php">
                     <div>
                         <img class="hex-content" src="/imgs/bkgr_hex_project2.jpg" alt="Incanto" />
                         <!-- <div class="hex-title">Incanto 2</div> -->
-                        <p class="hex-description is-little-text">аудит торговых концептов бренда</p>
+                        <p class="hex-description is-little-text">АУДИТ ТОРГОВЫХ КОНЦЕПТОВ</p>
                     </div>
                 </li>
                 <li class="hex-item" data-link="/projects/project-atakent.php">
@@ -131,7 +132,7 @@
                         <img class="hex-content" src="/imgs/bkgr_hex_project29.jpg" alt="Air: Comme des Garsons" />
                         <!-- <div class="hex-title">Air: Comme des Garsons</div> -->
                         <p class="hex-description is-little-text">
-                            КОНЦЕПЦИЯ ВМ ПРЕЗЕНТАЦИИ;
+                            ВМ КОНЦЕПЦИЯ
                             <br />МЕРЧАНДАЙЗИНГ НА ОТКРЫТИЕ
                         </p>
                     </div>
@@ -151,8 +152,8 @@
                         <img class="hex-content" src="/imgs/bkgr_hex_project3.jpg" alt="Yunichel" />
                         <!-- <div class="hex-title white-text">Yunichel</div> -->
                         <p class="hex-description is-little-text">
-                            разработка стандартов.
-                            <br />мерч бук. вм сопровождение
+                            РАЗРАБОТКА ВМ СТАНДАРТОВ
+                            <br />МЕРЧ БУК И ВМ СОПРОВОЖДЕНИЕ
                         </p>
                     </div>
                 </li>
@@ -170,7 +171,7 @@
                         <img class="hex-content" src="/imgs/bkgr_hex_project8.jpg" alt="XNT Zona" />
                         <!-- <div class="hex-title">XNT Zona</div> -->
                         <p class="hex-description is-little-text">
-                            РАЗРАБОТКА ВИТРИННЫХ КОНЦЕПЦИЙ;
+                            РАЗРАБОТКА ВИТРИННЫХ КОНЦЕПЦИЙ
                             <br/>ОФОРМЛЕНИЕ ВИТРИН
                         </p>
                     </div>
@@ -180,8 +181,8 @@
                         <img class="hex-content" src="/imgs/bkgr_hex_project_promenade2.jpg" alt="Promenade" />
                         <!-- <div class="hex-title white-text">Promenade</div> -->
                         <p class="hex-description is-little-text">
-                            полный брендинг-проект;
-                            <br/>разработка комплекта роs sale
+                            РЕБРЕНДИНГ
+                            <br/>ФИРМЕННЫЙ СТИЛЬ
                         </p>
                     </div>
                 </li>
@@ -190,8 +191,8 @@
                         <img class="hex-content" src="/imgs/bkgr_hex_project_promenade1.jpg" alt="Promenade" />
                         <!-- <div class="hex-title white-text">Promenade</div> -->
                         <p class="hex-description white-text is-little-text">
-                            дизайн-проект магазина;
-                            <br/>тех. сопровождение
+                            ТОРГОВАЯ КОНЦЕПЦИЯ
+                            <br/>ДИЗАЙН-ПРОЕКТ
                         </p>
                     </div>
                 </li>
