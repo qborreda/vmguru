@@ -128,6 +128,17 @@ $(document).ready(function() {
       responsive: carruselResponsiveOptions
     });
 
+  $(".js-carrusel-variable").length > 0 &&
+    $(".js-carrusel-variable").slick({
+      infinite: false,
+      slidesToShow: 3,
+      slidesToScroll: 3,
+      variableWidth: true,
+      prevArrow: $(".js-carrusel-variable ~ .btn-arrows-left"),
+      nextArrow: $(".js-carrusel-variable ~ .btn-arrows-right"),
+      responsive: carruselResponsiveOptions
+    });
+
   // Project Carrousel
   $(".js-main-carrusel").length > 0 &&
     $(".js-main-carrusel").slick({

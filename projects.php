@@ -39,8 +39,27 @@
                       <img class="hex-content" src="/imgs/bkgr_hex_project_homecollection.jpg" alt="Домашняя коллекция" />
                       <!-- <div class="hex-title">Home Collection</div> -->
                       <p class="hex-description white-text is-little-text">
-                        <br/>ДИЗАЙН-ПРОЕКТ
+                        ДИЗАЙН-ПРОЕКТ
                         <br/>РЕБРЕНДИНГ
+                      </p>
+                  </div>
+                </li>
+                <li class="hex-item" data-link="/projects/project-home-collection-02.php">
+                  <div>
+                      <img class="hex-content" src="/imgs/bkgr_hex_project_homecollection-02.jpg" alt="Домашняя коллекция" />
+                      <!-- <div class="hex-title">Home Collection 2</div> -->
+                      <p class="hex-description white-text is-little-text">
+                        ВМ ПРОЕКТ
+                      </p>
+                  </div>
+                </li>
+                <li class="hex-item" data-link="/projects/project-dariobeltran.php">
+                  <div>
+                      <img class="hex-content" src="/imgs/bkgr_hex_project34.jpg" alt="Dario Beltran" />
+                      <!-- <div class="hex-title">Dario Beltran</div> -->
+                      <p class="hex-description is-little-text">
+                        <br/>КОРПОРАТИВНОЕ ОБУЧЕНИЕ
+                        <br/>ПАРТНЕРСКОЙ СЕТИ МАГАЗИНОВ
                       </p>
                   </div>
                 </li>
@@ -76,16 +95,6 @@
                         <!-- <div class="hex-title">Incanto 2</div> -->
                         <p class="hex-description is-little-text">аудит торговых концептов бренда</p>
                     </div>
-                </li>
-                <li class="hex-item" data-link="/projects/project-dariobeltran.php">
-                  <div>
-                      <img class="hex-content" src="/imgs/bkgr_hex_project34.jpg" alt="Dario Beltran" />
-                      <!-- <div class="hex-title">Dario Beltran</div> -->
-                      <p class="hex-description is-little-text">
-                        <br/>КОРПОРАТИВНОЕ ОБУЧЕНИЕ
-                        <br/>ПАРТНЕРСКОЙ СЕТИ МАГАЗИНОВ
-                      </p>
-                  </div>
                 </li>
                 <li class="hex-item" data-link="/projects/project-atakent.php">
                   <div>
