@@ -34,6 +34,16 @@
             <br/>под руководством и при участии А. Баландиной</div>
 
             <ul class="hex-grid clr">
+              <li class="hex-item" data-link="/projects/project-bottega-dei-tessuti.php">
+                <div>
+                    <img class="hex-content" src="/imgs/bkgr_hex_project_bottega.jpg" alt="Bottega dei Tessuti" />
+                    <!-- <div class="hex-title">Bottega dei Tessuti</div> -->
+                    <p class="hex-description is-little-text">
+                        ВИТРИННАЯ КОНЦЕПЦИЯ
+                      <br/>ОФОРМЛЕНИЕ ВИТРИН
+                    </p>
+                </div>
+              </li>
                 <li class="hex-item" data-link="/projects/project-home-collection.php">
                   <div>
                       <img class="hex-content" src="/imgs/bkgr_hex_project_homecollection.jpg" alt="Домашняя коллекция" />
@@ -50,16 +60,6 @@
                       <!-- <div class="hex-title">Home Collection 2</div> -->
                       <p class="hex-description white-text is-little-text">
                         ВМ ПРОЕКТ
-                      </p>
-                  </div>
-                </li>
-                <li class="hex-item" data-link="/projects/project-dariobeltran.php">
-                  <div>
-                      <img class="hex-content" src="/imgs/bkgr_hex_project34.jpg" alt="Dario Beltran" />
-                      <!-- <div class="hex-title">Dario Beltran</div> -->
-                      <p class="hex-description is-little-text">
-                        <br/>КОРПОРАТИВНОЕ ОБУЧЕНИЕ
-                        <br/>ПАРТНЕРСКОЙ СЕТИ
                       </p>
                   </div>
                 </li>
@@ -82,6 +82,16 @@
                             <br />ВМ ОБУЧЕНИЕ
                         </p>
                     </div>
+                </li>
+                <li class="hex-item" data-link="/projects/project-dariobeltran.php">
+                  <div>
+                      <img class="hex-content" src="/imgs/bkgr_hex_project34.jpg" alt="Dario Beltran" />
+                      <!-- <div class="hex-title">Dario Beltran</div> -->
+                      <p class="hex-description is-little-text">
+                        <br/>КОРПОРАТИВНОЕ ОБУЧЕНИЕ
+                        <br/>ПАРТНЕРСКОЙ СЕТИ
+                      </p>
+                  </div>
                 </li>
                 <li class="hex-item" data-link="/projects/project-incanto.php">
                     <div>
