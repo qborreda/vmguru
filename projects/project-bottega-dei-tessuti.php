@@ -101,7 +101,7 @@
                 <img class="btn-arrows btn-arrows-right" src="/imgs/btn_arrow_right.png" />
             </div>
 
-            <div class="carrusel-main-legend">/ проект реализован: декабрь 2017 – сентябрь 2018 /</div>
+            <!-- <div class="carrusel-main-legend">/ проект реализован: декабрь 2017 – сентябрь 2018 /</div> -->
         </section>
 
         <section class="new-section">
