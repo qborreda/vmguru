@@ -6,8 +6,8 @@
       <img src="imgs/bkgr_skew_placeholder.jpg" data-src="imgs/bkgr_event5.jpg" class="lazy">
       <div class="article-stripe">
         <div class="article-dates">
-          <span class="month">сентября</span>
-          <span class="date">07</span>
+          <span class="month">&nbsp;</span>
+          <span class="date">под запрос</span>
         </div>
         <p class="description">Оформление магазина нижнего белья.<br />
           ВМ техники увеличения продаж</p>
@@ -22,8 +22,8 @@
       <img src="imgs/bkgr_skew_placeholder.jpg" data-src="imgs/bkgr_event3.jpg" class="lazy">
       <div class="article-stripe">
         <div class="article-dates">
-          <span class="month">сентября</span>
-          <span class="date">09 - 10</span>
+          <span class="month">&nbsp;</span>
+          <span class="date">под запрос</span>
         </div>
         <p class="description">Визуальный мерчандайзинг для магазинов обуви и аксессуаров</p>
       </div>
