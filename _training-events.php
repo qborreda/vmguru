@@ -7,9 +7,8 @@
       <img src="imgs/bkgr_skew_placeholder.jpg" data-src="imgs/bkgr_event2.jpg" class="lazy">
       <div class="article-stripe">
         <div class="article-dates">
-          <span class="month">28 - сентября</span>
-          <span class="date">04 - октября</span>
-          <!-- <span class="date">28 - 04</span> -->
+          <span class="month">&nbsp;</span>
+          <span class="date">под запрос</span>
         </div>
         <p class="description">Визуальный мерчандайзинг.
           <br />Прикладные техники от А до Я</p>
@@ -24,8 +23,8 @@
       <img src="imgs/bkgr_skew_placeholder.jpg" data-src="imgs/bkgr_event4.jpg" class="lazy">
       <div class="article-stripe">
         <div class="article-dates">
-          <span class="month">октября</span>
-          <span class="date">01 и 05</span>
+          <span class="month">&nbsp;</span>
+          <span class="date">под запрос</span>
         </div>
         <p class="description">Витринистика: создание эффективных витрин. Большой
           эффект без больших расходов</p>
