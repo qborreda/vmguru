@@ -51,7 +51,7 @@
                 </div>
 
                 <div class="project-link js-trigger-toggle js-dont-hide" data-target=".expanded-info" style="margin-top: 20px;">
-                  Узнать от Анне ›
+                  Узнать об Анне ›
                 </div>
 
               </div>
