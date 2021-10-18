@@ -53,15 +53,15 @@
       </section>
 
       <!-- TRAININGS -->
-      <section class="new-section">
+      <!-- <section class="new-section">
           <div class="section-title">Oнлайн тренинги</div>
           <div class="section-intro-text">
             <p>Визуальный мерчандайзинг – мощный низкобюджетный инструмент повышения продаж.
               <br/>Научим эффективно использовать этот ресурс!</p>
             <p>Обучайтесь онлайн в формате «живого» тренинга с экспертом</p>
           </div>
-          <?php include "_training-events.php"; ?>
-      </section>
+          <?php /** include "_training-events.php"; */ ?>
+      </section> -->
 
       <!-- CONSULTING -->
       <section class="new-section">
